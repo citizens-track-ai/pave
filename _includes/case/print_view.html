@@ -177,7 +177,7 @@
     {% if page.photos-and-images and page.photos-and-images.size > 0 %}
     <div class="print-photos-row">
       {% for photo in page.photos-and-images limit: 3 %}
-      {% assign img_url = photo.url | relative_url %}
+      {% assign img_url = photo.thumbnails.large.url | default: photo.url | relative_url %}
       <div class="print-photo-wrapper">
         <img src="{{ img_url }}" alt="Photo {{ forloop.index }} from {{ page.title | escape }}" class="print-photo" />
       </div>

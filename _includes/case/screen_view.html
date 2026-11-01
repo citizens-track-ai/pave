@@ -66,9 +66,10 @@
 
               {% if page.method-image and page.method-image.size > 0 %}
               {% assign method_img = page.method-image | first %}
+              {% assign method_img_url = method_img.thumbnails.large.url | default: method_img.url | relative_url %}
               <div class="method-image-container">
                 <figure class="method-image-figure">
-                  <img src="{{ method_img.url | relative_url }}"
+                  <img src="{{ method_img_url }}"
                     alt="{% if page.method-image-caption %}{{ page.method-image-caption | escape }}{% else %}Method image{% endif %}"
                     class="method-image-img" loading="lazy">
                   {% if page.method-image-caption %}
@@ -189,10 +190,11 @@
             <div class="case-gallery">
               <div class="gallery-scroll-track" id="gallery-track">
                 {% for photo in page.photos-and-images %}
-                {% assign img_url = photo.url | relative_url %}
-                <button class="gallery-thumb-btn" data-full="{{ img_url }}" data-caption="Photo {{ forloop.index }} from {{ page.title | escape }}"
+                {% assign full_url = photo.url | relative_url %}
+                {% assign thumb_url = photo.thumbnails.large.url | default: photo.url | relative_url %}
+                <button class="gallery-thumb-btn" data-full="{{ full_url }}" data-caption="Photo {{ forloop.index }} from {{ page.title | escape }}"
                   aria-label="View photo {{ forloop.index }} from {{ page.title | escape }}">
-                  <img src="{{ img_url }}" alt="Photo {{ forloop.index }} from {{ page.title | escape }}" class="gallery-thumb" loading="lazy">
+                  <img src="{{ thumb_url }}" alt="Photo {{ forloop.index }} from {{ page.title | escape }}" class="gallery-thumb" loading="lazy">
                 </button>
                 {% endfor %}
               </div>

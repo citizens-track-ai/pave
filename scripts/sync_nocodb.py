@@ -69,9 +69,28 @@ FILTER_OPERATOR = "AND"
 
 GLOBAL_STATS = {"downloaded": 0, "cached": 0}
 
-def slugify(text):
+try:
+    import anyascii
+    def transliterate(text):
+        return anyascii.anyascii(str(text or ""))
+except ImportError:
+    import unicodedata
+    def transliterate(text):
+        return unicodedata.normalize('NFKD', str(text or "")).encode('ascii', 'ignore').decode('utf-8')
+
+def raw_slugify(text):
+    """Generate slug without transliteration to preserve original characters for redirects."""
     text = str(text or "").lower()
     text = re.sub(r'[^\w\s-]', '', text)
+    text = re.sub(r'[\s_-]+', '-', text)
+    text = text.strip('-')
+    return text[:100].rstrip('-')
+
+def slugify(text):
+    """Generate universal transliterated ASCII slug."""
+    text = transliterate(str(text or ""))
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
     text = re.sub(r'[\s_-]+', '-', text)
     text = text.strip('-')
     return text[:100].rstrip('-')
@@ -707,6 +726,25 @@ def main():
 
             layout = config["layout"]
             redirects = [f"/c/{perm_id}/"] if table_name == "Cases" else None
+            if table_name == "Cases":
+                raw_slug = raw_slugify(title)
+                if raw_slug and raw_slug != slug:
+                    quoted = urllib.parse.quote(raw_slug)
+                    candidate_redirects = [
+                        f"/cases/{raw_slug}.html",
+                        f"/cases/{raw_slug}/",
+                        f"/cases/{raw_slug}",
+                    ]
+                    if quoted != raw_slug:
+                        candidate_redirects.extend([
+                            f"/cases/{quoted}.html",
+                            f"/cases/{quoted}/",
+                            f"/cases/{quoted}",
+                        ])
+                    for r_path in candidate_redirects:
+                        if r_path not in redirects:
+                            redirects.append(r_path)
+
             case_desc = derive_case_description(final_data) if table_name == "Cases" else None
 
             front_matter = {

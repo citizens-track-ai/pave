@@ -13,3 +13,4 @@ scripts/deploy.sh
 __pycache__
 scratch/
 assets/attachments/
+*.bak

@@ -1,0 +1,219 @@
+{
+  "slug": "favel-ia",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Favel IA ",
+    "airtable_id": "063bf401351e1e8a",
+    "slug": "favel-ia",
+    "redirect_from": [
+      "/c/063bf401351e1e8a/"
+    ],
+    "provide-a-brief-description-of-the-project": "The name Favel IA is a reference to the favelas (slums or shantytowns) themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies.\n\nFavel IA employs participatory action research (PAR) as its main methodological approach, inspired by Latin American scholars such as Orlando Fals Borda (1987) and Paulo Freire (2002). The project involves three main groups: postgraduate students, favela media activists, and community leaders. The research team engaged participants in five consecutive days of workshops. The project asked them to document their daily encounters with AI, to carry out empathy exercises and to reflect on critical questions about AI and data from a favela standpoint. Collectively, the project analysed existing and emerging AI regulation in Brazil and elsewhere and co-devised a conceptual note for policymakers (see the report attached), articulating the types of AI favela residents desire and the alternative futures that they envision. \n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "favel-ia-workshop"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "inclusion-efforts": "\n",
+    "project-title": "Favel IA ",
+    "submitted-by": "Andrea Medrado",
+    "why-is-this-project-important-to-include-in-the": "Favel IA is one of the first projects in the world to: 1) focus on AI uses in the daily lives of shantytown communities in the majority world; 2) embrace a South-North epistemological and methodological flow rather than simply applying Global North and Eurocentric perspectives to a “test” case study in a majority world context; 3) propose a nuanced understanding of the favela itself as a form of intelligence, with the prevalence of technologies of care and solidarity; 4) go beyond simplistic understandings of tech use in marginalised  communities that revolve solely around the digital divide, considering people’s everyday agency and creativity. Additionally, the project challenges Euro centric approaches to participation which are offen techno-solutionist and instrumentalist in nature. ",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "favel-ia-conceptual-notes-for-policy-makers-and-regulators"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://cdf.exeter.ac.uk/v8media/facultysites/hass/communicationsdramaandfilm/communications/Report_Favel_IA.pdf",
+    "locations": [
+      "niterói-brazil",
+      "rio-de-janeiro-brazil"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "favel-ia",
+    "data": {
+      "layout": "case",
+      "title": "Favel IA ",
+      "airtable_id": "063bf401351e1e8a",
+      "slug": "favel-ia",
+      "redirect_from": [
+        "/c/063bf401351e1e8a/"
+      ],
+      "provide-a-brief-description-of-the-project": "The name Favel IA is a reference to the favelas (slums or shantytowns) themselves as forms of intelligence and to inteligência artificial, artificial intelligence in Portuguese. IÁ is also a common ending to many samba refrains (la iá la iá), evoking the idea that favela residents must “dance to the music” of AI systems designed by powerful private companies.\n\nFavel IA employs participatory action research (PAR) as its main methodological approach, inspired by Latin American scholars such as Orlando Fals Borda (1987) and Paulo Freire (2002). The project involves three main groups: postgraduate students, favela media activists, and community leaders. The research team engaged participants in five consecutive days of workshops. The project asked them to document their daily encounters with AI, to carry out empathy exercises and to reflect on critical questions about AI and data from a favela standpoint. Collectively, the project analysed existing and emerging AI regulation in Brazil and elsewhere and co-devised a conceptual note for policymakers (see the report attached), articulating the types of AI favela residents desire and the alternative futures that they envision. \n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "favel-ia-workshop"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "inclusion-efforts": "\n",
+      "project-title": "Favel IA ",
+      "submitted-by": "Andrea Medrado",
+      "why-is-this-project-important-to-include-in-the": "Favel IA is one of the first projects in the world to: 1) focus on AI uses in the daily lives of shantytown communities in the majority world; 2) embrace a South-North epistemological and methodological flow rather than simply applying Global North and Eurocentric perspectives to a “test” case study in a majority world context; 3) propose a nuanced understanding of the favela itself as a form of intelligence, with the prevalence of technologies of care and solidarity; 4) go beyond simplistic understandings of tech use in marginalised  communities that revolve solely around the digital divide, considering people’s everyday agency and creativity. Additionally, the project challenges Euro centric approaches to participation which are offen techno-solutionist and instrumentalist in nature. ",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "favel-ia-conceptual-notes-for-policy-makers-and-regulators"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://cdf.exeter.ac.uk/v8media/facultysites/hass/communicationsdramaandfilm/communications/Report_Favel_IA.pdf",
+      "locations": [
+        "niterói-brazil",
+        "rio-de-janeiro-brazil"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "favel-ia-workshop",
+        "data": {
+          "layout": "generic",
+          "title": "Favel IA -Workshop",
+          "airtable_id": "6a6151aa29011f1e",
+          "slug": "favel-ia-workshop",
+          "locations": [
+            "rio-de-janeiro-brazil",
+            "niterói-brazil"
+          ],
+          "recruitment-method": "Other",
+          "which-of-the-following-methods-were-used-to": [
+            "Action Research"
+          ],
+          "on-average-how-many-hours-did-each-participant": 25,
+          "name": "Favel IA -Workshop",
+          "group-description": "Workshop",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 21,
+          "cases": [
+            "favel-ia"
+          ],
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "favel-ia"
+          ],
+          "layout": "generic",
+          "slug": "favel-ia-process",
+          "title": "Favel IA  - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Favel IA -Workshop",
+        "airtable_id": "6a6151aa29011f1e",
+        "slug": "favel-ia-workshop",
+        "locations": [
+          "rio-de-janeiro-brazil",
+          "niterói-brazil"
+        ],
+        "recruitment-method": "Other",
+        "which-of-the-following-methods-were-used-to": [
+          "Action Research"
+        ],
+        "on-average-how-many-hours-did-each-participant": 25,
+        "name": "Favel IA -Workshop",
+        "group-description": "Workshop",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 21,
+        "cases": [
+          "favel-ia"
+        ],
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "favel-ia"
+        ],
+        "layout": "generic",
+        "slug": "favel-ia-process",
+        "title": "Favel IA  - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

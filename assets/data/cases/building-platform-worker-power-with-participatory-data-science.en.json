@@ -1,0 +1,951 @@
+{
+  "slug": "building-platform-worker-power-with-participatory-data-science",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Building Platform Worker Power with Participatory Data Science",
+    "airtable_id": "24ec91ec7f77b1ae",
+    "slug": "building-platform-worker-power-with-participatory-data-science",
+    "redirect_from": [
+      "/c/24ec91ec7f77b1ae/"
+    ],
+    "lead-organisations": [
+      "the-workers-observatory"
+    ],
+    "provide-a-brief-description-of-the-project": "Since 2024, the Workers’ Observatory (WO) has involved food delivery riders in participatory research that explored marginalised workers’ experiences of AI-driven management, and turned it into data and evidence that has informed decision-making in and beyond the city. \n\nIt has forged a Scottish agenda, leading Edinburgh City Council to put improving gig work conditions at the heart of its Fair Work action plan. It has also expanded the frontiers of participatory worker research internationally, including workshops in Chennai and Kolkata. It has led to the featuring of workers  in Human Rights Watch’s ‘Algorithms of Exploitation’ thereby elevating the international visibility of AI-driven algorithmic mismanagement in the platform economy, ahead of the ILO’s adoption of the Decent Work in the Platform Economy Convention. \n\nIn doing so it has pioneered Participatory Worker Data Science, a method that empowers workers to generate robust data-driven evidence about locally identified harms, providing them with powerful leverage for shaping local policy debates for themselves. The method was developed through experiments involving platform workers in data-mapping, data parsing, and forming data-driven rates demands. Outputs increased workers’ influence in policy debates about harms associated with AI-driven work; our findings persuaded Edinburgh City Council to address unfair gig work and elevate the issue to Scottish Government level.\n\n**Benefits of a worker-led methodology**\n\nOur processes relied used a participatory methodology we call ‘worker data science’ (WDS). This method centres local context and concerns, building on radical citizen science, workers’ inquiry, and participatory action research. WDS involves platform or other on-demand workers surfacing research questions about the organisation or process of work (e.g. do deactivation rates increase for undocumented migrants; what risks deter women from working?) and, supported by social scientists, in generating evidence and answers to these questions. \n\nWorkers are often well-placed and motivated to answer their own questions with data they can collect, such as pay slips or platform data and then are often amenable to generating new forms of data collectively (such as through worker-led surveys or field notes) or using new research tools (such a worker-led projects like RooParse, which enabled riders to track their wages over time). Workers can then share methods and data-validated knowledge across locations, empowering them to advocate and articulate the rights they seek. ‘Popular’ knowledge enters dialogue with ‘academic’ knowledge, and communities are empowered to mitigate risks of technological change.\n\nWe can illustrate how this looked in a workshop in Edinburgh. More than 20 workers engaged in over two days during which WO facilitated collective inquiry by workers of the way that AI-driven systems like dynamic pricing were affecting them. Through exercises with other organisations including Worker Info Exchange and the Independent Workers of Great Britain, participants undertook exercises to explore how AI-driven technologies affect them. Workers mapped the power imbalance between platform companies and couriers and the ability of the former to gather and process huge amounts of data to drive dynamic pricing, tailor fees, and pay sub-minimum wages and unequal rates for equal work. Based on these exercises, workers formed precise demands and a strategy for non-cooperation with a process – ‘add-on’ orders – felt to be most exploitative and inequitable. This demand became the basis for a video and flyer created by participants to build awareness among other riders and the public. Participants investigated companies’ concealment of information and algorithms from riders, including data to which workers are legally entitled. They connected this to frequent blocking of accounts and de-activation, higher rate of blocking and longer sign-on time for South Asian people, and app-blocking for those who share data with third-party apps (preventing workers from pooling and sharing their own data). They learnt ways (e.g. Subject Access Requests) to reclaim and use data to challenge cases where people are paid unequally for the same order. Workers discussed tools used elsewhere in the world and debated whether to develop their own data-driven tools, e.g. to share real-time data allowing them to see fees platforms are paying and inform decisions when accepting orders or deciding when to work.\n",
+    "what-limitations-to-the-project-should-be-noted": "**Inclusion and representation**\n\nDespite these efforts, there were challenges in recruiting a representative group that we did not properly anticipate. Efforts were made to engage with the Pakistani community, but although some individual Pakistani workers participated, efforts to involve larger numbers were unsuccessful. This was partly because of the high number of Indian workers involved, as well as the tight organisation of this community’s media channels by individual workers who did not wish to engage with the wider project.\n",
+    "project-status": "In Progress",
+    "headline-findings": "1\n\nFollowing a participatory workshop, courier David said the following about how riders should respond to the introduction of orders paying less than £3 by Deliveroo’s AI-driven algorithms.\n\n“I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.”\n\n2\n\nFollowing a workshop, Xabier reflected on the impact of the introduction of dynamic pricing by Uber and Deliveroo (see: https://dl.acm.org/doi/10.1145/3715275.3732099)\n\n“Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?”\n\n1. \n\nDuring an outreach session speaking to workers in Princes Street, Tejas said: “I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip”\n\n1. \n\nA final quote from a rider who wanted to remain anonymous: “The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.” \n\nSource for 1-4: https://www.youtube.com/watch?v=JwX11VuEdj4&t=3s\n\n5\n\nTalking about automatic deactivation, following involvement in the project, one rider explained: \"They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.”\n\nRiders seldom get a proper explanation for the account blocking from the company, which provides the same automated response every time. There is no proper channel for communicating, and reversing the decision is often impossible.\n\nThe rider continued: “JustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.”\n\nSource for 5: \nhttps://www.thenational.scot/news/24790745.delivery-rider-survey-reveals-exploitative-system-edinburgh/\n\n6\n\nEdinburgh’s Depute Lord Provost met with riders for discussions following two meetings. She said: “If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.”\n\nSource for 6: https://www.scotsman.com/news/opinion/columnists/time-to-stop-the-rough-ride-for-food-delivery-workers-5289255\n",
+    "participants": [
+      "building-platform-worker-power-with-participatory-data-science-worker-research-participants"
+    ],
+    "participation-locations": "Edinburgh, UK",
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "messages": [
+      "ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith",
+      "uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat",
+      "i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa",
+      "the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou",
+      "they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t",
+      "if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor"
+    ],
+    "theme": [
+      "Work",
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "esrc-digital-good",
+      "university-of-st-andrews",
+      "university-of-edinburgh"
+    ],
+    "inclusion-efforts": "Recruitment and engagement were carried out by the Workers' Observatory, a charity and research collaboration that involved food delivery riders and other marginalised AI-driven platform workers in research projects to support advocacy efforts for fairer, safer conditions. Its' methods include using Participatory Worker Data Science (PWDS) to empower workers to generate robust, data-driven evidence about locally identified harms, to provide them with powerful leverage for shaping local, national and international rights debates.\n\nThe research takes place through in-person workshops, before which the WO project officer in Edinburgh - and organisers of the partner organisation SAFAR in Kolkata - spent time engaging one-to-one on the streets with workers, particularly those from marginalised migrant communities. Trusted relationships were built by a paid organiser through meeting in cafés and talking during shifts, and developed through building social bonds in pubs, accepting invitations to meals at riders’ homes, and providing personal support during crises. This led workers to commit to attending sessions, and some trusted workers served as translators and interpreters, ensuring peer-level support so other workers felt comfortable.\n",
+    "project-title": "Building Platform Worker Power with Participatory Data Science",
+    "method-image-caption": "Source: ",
+    "submitted-by": "Cailean Gallagher",
+    "why-is-this-project-important-to-include-in-the": "As AI-driven labour platforms proliferate in sectors from food delivery and ridehailing to care and nursing, workers, NGO and researchers lack the data, methods and conceptual tools to understand workers’ conditions and how they can be improved in local contexts. High level debates are mostly uninformed by granular local evidence, while workers facing myriad harms across countries have unequal access to data to evidence and rights to mitigate them. The Workers' Observatory has addressed this problem through pioneering methods for data and evidence generated with and by platform workers to be mobilised to build their public voice and political power. By exercising data rights, and collecting personal data, experiences, and knowledge, platform workers generated evidence otherwise impossible to obtain. Using this evidence to engage at city, country, and cross-continental level, the findings have been used to articulate a set of standards and advocate for a new Fair Gig Work charter at city level; and to advocate for improvements to health and safety rights internationally. \n\nThese participatory methods provided environments where marginalised workers working under digital platforms were able to come together and form communities. During one workshop, worker participants formed ROOM, a riders’ collective, that is now a city stakeholder. As the quotes below demonstrate, starting from a process of research and knowledge-sharing creates an environment of collective confidence, collaboration and initiative that has given voice to some of the workers most impacted by AI-driven exploitation. In coalition with 2 other majority-migrant organisations, WO has established Migrant Justice Edinburgh, which has received £1 million of funding over 10 years to elevate the voices and concerns of migrant workers including those in the AI-driven gig economy. \n",
+    "photos-and-images": [
+      {
+        "id": "att4Nz8UlMMmAT1yn",
+        "width": 4000,
+        "height": 3000,
+        "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn.jpg",
+        "filename": "PXL_20260129_120409678.jpg",
+        "size": 3450846,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attQlNpaDnpjaBqQR",
+        "width": 4000,
+        "height": 3000,
+        "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR.jpg",
+        "filename": "PXL_20260129_152753481.jpg",
+        "size": 2260218,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attCAJ2Xtrts49r3s",
+        "width": 4000,
+        "height": 3000,
+        "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s.jpg",
+        "filename": "PXL_20260129_101634674.jpg",
+        "size": 2652916,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "att2CRCKvjcEmzclv",
+        "width": 4000,
+        "height": 3000,
+        "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv.jpg",
+        "filename": "PXL_20260129_115256496.jpg",
+        "size": 2749907,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "organising-a-worker-led-survey",
+      "digital-worker-inquiry-and-the-critical-potential-of-participatory-worker-data-science-for-ondemand"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Monitoring and challenging exploitative AI-driven labour platforms",
+    "how-was-the-project-initiated": [
+      "Co-created"
+    ],
+    "geographic-scope": [
+      "edinburgh-scotland-united-kingdom"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project video",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://workersobservatory.org/",
+    "locations": [
+      "edinburgh-scotland-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "Edinburgh"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "building-platform-worker-power-with-participatory-data-science",
+    "data": {
+      "layout": "case",
+      "title": "Building Platform Worker Power with Participatory Data Science",
+      "airtable_id": "24ec91ec7f77b1ae",
+      "slug": "building-platform-worker-power-with-participatory-data-science",
+      "redirect_from": [
+        "/c/24ec91ec7f77b1ae/"
+      ],
+      "lead-organisations": [
+        "the-workers-observatory"
+      ],
+      "provide-a-brief-description-of-the-project": "Since 2024, the Workers’ Observatory (WO) has involved food delivery riders in participatory research that explored marginalised workers’ experiences of AI-driven management, and turned it into data and evidence that has informed decision-making in and beyond the city. \n\nIt has forged a Scottish agenda, leading Edinburgh City Council to put improving gig work conditions at the heart of its Fair Work action plan. It has also expanded the frontiers of participatory worker research internationally, including workshops in Chennai and Kolkata. It has led to the featuring of workers  in Human Rights Watch’s ‘Algorithms of Exploitation’ thereby elevating the international visibility of AI-driven algorithmic mismanagement in the platform economy, ahead of the ILO’s adoption of the Decent Work in the Platform Economy Convention. \n\nIn doing so it has pioneered Participatory Worker Data Science, a method that empowers workers to generate robust data-driven evidence about locally identified harms, providing them with powerful leverage for shaping local policy debates for themselves. The method was developed through experiments involving platform workers in data-mapping, data parsing, and forming data-driven rates demands. Outputs increased workers’ influence in policy debates about harms associated with AI-driven work; our findings persuaded Edinburgh City Council to address unfair gig work and elevate the issue to Scottish Government level.\n\n**Benefits of a worker-led methodology**\n\nOur processes relied used a participatory methodology we call ‘worker data science’ (WDS). This method centres local context and concerns, building on radical citizen science, workers’ inquiry, and participatory action research. WDS involves platform or other on-demand workers surfacing research questions about the organisation or process of work (e.g. do deactivation rates increase for undocumented migrants; what risks deter women from working?) and, supported by social scientists, in generating evidence and answers to these questions. \n\nWorkers are often well-placed and motivated to answer their own questions with data they can collect, such as pay slips or platform data and then are often amenable to generating new forms of data collectively (such as through worker-led surveys or field notes) or using new research tools (such a worker-led projects like RooParse, which enabled riders to track their wages over time). Workers can then share methods and data-validated knowledge across locations, empowering them to advocate and articulate the rights they seek. ‘Popular’ knowledge enters dialogue with ‘academic’ knowledge, and communities are empowered to mitigate risks of technological change.\n\nWe can illustrate how this looked in a workshop in Edinburgh. More than 20 workers engaged in over two days during which WO facilitated collective inquiry by workers of the way that AI-driven systems like dynamic pricing were affecting them. Through exercises with other organisations including Worker Info Exchange and the Independent Workers of Great Britain, participants undertook exercises to explore how AI-driven technologies affect them. Workers mapped the power imbalance between platform companies and couriers and the ability of the former to gather and process huge amounts of data to drive dynamic pricing, tailor fees, and pay sub-minimum wages and unequal rates for equal work. Based on these exercises, workers formed precise demands and a strategy for non-cooperation with a process – ‘add-on’ orders – felt to be most exploitative and inequitable. This demand became the basis for a video and flyer created by participants to build awareness among other riders and the public. Participants investigated companies’ concealment of information and algorithms from riders, including data to which workers are legally entitled. They connected this to frequent blocking of accounts and de-activation, higher rate of blocking and longer sign-on time for South Asian people, and app-blocking for those who share data with third-party apps (preventing workers from pooling and sharing their own data). They learnt ways (e.g. Subject Access Requests) to reclaim and use data to challenge cases where people are paid unequally for the same order. Workers discussed tools used elsewhere in the world and debated whether to develop their own data-driven tools, e.g. to share real-time data allowing them to see fees platforms are paying and inform decisions when accepting orders or deciding when to work.\n",
+      "what-limitations-to-the-project-should-be-noted": "**Inclusion and representation**\n\nDespite these efforts, there were challenges in recruiting a representative group that we did not properly anticipate. Efforts were made to engage with the Pakistani community, but although some individual Pakistani workers participated, efforts to involve larger numbers were unsuccessful. This was partly because of the high number of Indian workers involved, as well as the tight organisation of this community’s media channels by individual workers who did not wish to engage with the wider project.\n",
+      "project-status": "In Progress",
+      "headline-findings": "1\n\nFollowing a participatory workshop, courier David said the following about how riders should respond to the introduction of orders paying less than £3 by Deliveroo’s AI-driven algorithms.\n\n“I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.”\n\n2\n\nFollowing a workshop, Xabier reflected on the impact of the introduction of dynamic pricing by Uber and Deliveroo (see: https://dl.acm.org/doi/10.1145/3715275.3732099)\n\n“Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?”\n\n1. \n\nDuring an outreach session speaking to workers in Princes Street, Tejas said: “I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip”\n\n1. \n\nA final quote from a rider who wanted to remain anonymous: “The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.” \n\nSource for 1-4: https://www.youtube.com/watch?v=JwX11VuEdj4&t=3s\n\n5\n\nTalking about automatic deactivation, following involvement in the project, one rider explained: \"They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.”\n\nRiders seldom get a proper explanation for the account blocking from the company, which provides the same automated response every time. There is no proper channel for communicating, and reversing the decision is often impossible.\n\nThe rider continued: “JustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.”\n\nSource for 5: \nhttps://www.thenational.scot/news/24790745.delivery-rider-survey-reveals-exploitative-system-edinburgh/\n\n6\n\nEdinburgh’s Depute Lord Provost met with riders for discussions following two meetings. She said: “If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.”\n\nSource for 6: https://www.scotsman.com/news/opinion/columnists/time-to-stop-the-rough-ride-for-food-delivery-workers-5289255\n",
+      "participants": [
+        "building-platform-worker-power-with-participatory-data-science-worker-research-participants"
+      ],
+      "participation-locations": "Edinburgh, UK",
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "messages": [
+        "ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith",
+        "uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat",
+        "i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa",
+        "the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou",
+        "they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t",
+        "if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor"
+      ],
+      "theme": [
+        "Work",
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "esrc-digital-good",
+        "university-of-st-andrews",
+        "university-of-edinburgh"
+      ],
+      "inclusion-efforts": "Recruitment and engagement were carried out by the Workers' Observatory, a charity and research collaboration that involved food delivery riders and other marginalised AI-driven platform workers in research projects to support advocacy efforts for fairer, safer conditions. Its' methods include using Participatory Worker Data Science (PWDS) to empower workers to generate robust, data-driven evidence about locally identified harms, to provide them with powerful leverage for shaping local, national and international rights debates.\n\nThe research takes place through in-person workshops, before which the WO project officer in Edinburgh - and organisers of the partner organisation SAFAR in Kolkata - spent time engaging one-to-one on the streets with workers, particularly those from marginalised migrant communities. Trusted relationships were built by a paid organiser through meeting in cafés and talking during shifts, and developed through building social bonds in pubs, accepting invitations to meals at riders’ homes, and providing personal support during crises. This led workers to commit to attending sessions, and some trusted workers served as translators and interpreters, ensuring peer-level support so other workers felt comfortable.\n",
+      "project-title": "Building Platform Worker Power with Participatory Data Science",
+      "method-image-caption": "Source: ",
+      "submitted-by": "Cailean Gallagher",
+      "why-is-this-project-important-to-include-in-the": "As AI-driven labour platforms proliferate in sectors from food delivery and ridehailing to care and nursing, workers, NGO and researchers lack the data, methods and conceptual tools to understand workers’ conditions and how they can be improved in local contexts. High level debates are mostly uninformed by granular local evidence, while workers facing myriad harms across countries have unequal access to data to evidence and rights to mitigate them. The Workers' Observatory has addressed this problem through pioneering methods for data and evidence generated with and by platform workers to be mobilised to build their public voice and political power. By exercising data rights, and collecting personal data, experiences, and knowledge, platform workers generated evidence otherwise impossible to obtain. Using this evidence to engage at city, country, and cross-continental level, the findings have been used to articulate a set of standards and advocate for a new Fair Gig Work charter at city level; and to advocate for improvements to health and safety rights internationally. \n\nThese participatory methods provided environments where marginalised workers working under digital platforms were able to come together and form communities. During one workshop, worker participants formed ROOM, a riders’ collective, that is now a city stakeholder. As the quotes below demonstrate, starting from a process of research and knowledge-sharing creates an environment of collective confidence, collaboration and initiative that has given voice to some of the workers most impacted by AI-driven exploitation. In coalition with 2 other majority-migrant organisations, WO has established Migrant Justice Edinburgh, which has received £1 million of funding over 10 years to elevate the voices and concerns of migrant workers including those in the AI-driven gig economy. \n",
+      "photos-and-images": [
+        {
+          "id": "att4Nz8UlMMmAT1yn",
+          "width": 4000,
+          "height": 3000,
+          "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn.jpg",
+          "filename": "PXL_20260129_120409678.jpg",
+          "size": 3450846,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att4Nz8UlMMmAT1yn_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attQlNpaDnpjaBqQR",
+          "width": 4000,
+          "height": 3000,
+          "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR.jpg",
+          "filename": "PXL_20260129_152753481.jpg",
+          "size": 2260218,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attQlNpaDnpjaBqQR_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attCAJ2Xtrts49r3s",
+          "width": 4000,
+          "height": 3000,
+          "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s.jpg",
+          "filename": "PXL_20260129_101634674.jpg",
+          "size": 2652916,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_attCAJ2Xtrts49r3s_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "att2CRCKvjcEmzclv",
+          "width": 4000,
+          "height": 3000,
+          "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv.jpg",
+          "filename": "PXL_20260129_115256496.jpg",
+          "size": 2749907,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/24ec91ec7f77b1ae_fldd4B6cpBOP3n3is_att2CRCKvjcEmzclv_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "organising-a-worker-led-survey",
+        "digital-worker-inquiry-and-the-critical-potential-of-participatory-worker-data-science-for-ondemand"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Monitoring and challenging exploitative AI-driven labour platforms",
+      "how-was-the-project-initiated": [
+        "Co-created"
+      ],
+      "geographic-scope": [
+        "edinburgh-scotland-united-kingdom"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project video",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://workersobservatory.org/",
+      "locations": [
+        "edinburgh-scotland-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "Edinburgh"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "building-platform-worker-power-with-participatory-data-science-worker-research-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Building Platform Worker Power with Participatory Data Science-Worker research participants",
+          "airtable_id": "a6d2022ae5c05409",
+          "slug": "building-platform-worker-power-with-participatory-data-science-worker-research-participants",
+          "locations": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Edinburgh",
+          "which-of-the-following-methods-were-used-to": [
+            "Action Research",
+            "Capacity Building Workshop",
+            "Co-creation workshops",
+            "Community-Based Participatory Research",
+            "Public Dialogue",
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 9,
+          "name": "Building Platform Worker Power with Participatory Data Science-Worker research participants",
+          "group-description": "Worker research participants",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "additional-notes": "Food delivery workers were recruited to two six-hour workshops on consecutive days, and compensated for time away from working. The workshops involved learning, designing collaborative research, and creating media to document the process. In the process, workers formed a new autonomous organisation called ROOM that continues to meet monthly.\n\nThe participatory process and some outputs are documented in the following video and guidebook:\nhttps://www.youtube.com/watch?v=JwX11VuEdj4&t=3s\nhttps://workersobservatory.org/resources/guidebook-worker-led-survey/",
+          "how-many-people-took-part": 40,
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "recruitment-description": "Flyering outside restaurants; information cards passed between riders; one-to-one conversations by organiser.",
+          "was-there-a-specific-target-population": "Food delivery workers in Edinburgh",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-edinburgh",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Edinburgh",
+          "airtable_id": "1eb6bbee5ea64d43",
+          "slug": "university-of-edinburgh",
+          "role": [
+            "Funder"
+          ],
+          "name": "University of Edinburgh",
+          "funding-organisation-for": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-st-andrews",
+        "data": {
+          "layout": "organisation",
+          "title": "University of St Andrews",
+          "airtable_id": "6813d9af55b40211",
+          "slug": "university-of-st-andrews",
+          "role": [
+            "Funder"
+          ],
+          "name": "University of St Andrews",
+          "funding-organisation-for": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "the-workers-observatory",
+        "data": {
+          "layout": "organisation",
+          "title": "The Workers' Observatory",
+          "airtable_id": "4a7933e333bdeac7",
+          "slug": "the-workers-observatory",
+          "role": [
+            "Lead"
+          ],
+          "name": "The Workers' Observatory",
+          "lead-organisation-for": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "esrc-digital-good",
+        "data": {
+          "layout": "organisation",
+          "title": "ESRC Digital Good",
+          "airtable_id": "32ddd4c9c367e177",
+          "slug": "esrc-digital-good",
+          "role": [
+            "Funder"
+          ],
+          "name": "ESRC Digital Good",
+          "funding-organisation-for": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t",
+        "data": {
+          "layout": "generic",
+          "title": "They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.\n\nJustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.",
+          "airtable_id": "e631c5b4bb1740e8",
+          "slug": "they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Rider quote on automatic deactivation.",
+          "name": "They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.\n\nJustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat",
+        "data": {
+          "layout": "generic",
+          "title": "Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?",
+          "airtable_id": "52fc294afd067cb2",
+          "slug": "uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Xabier reflecting on the impact of dynamic pricing",
+          "name": "Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou",
+        "data": {
+          "layout": "generic",
+          "title": "The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.",
+          "airtable_id": "4565f77b445efdc9",
+          "slug": "the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Anonymous rider",
+          "name": "The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith",
+        "data": {
+          "layout": "generic",
+          "title": "I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.",
+          "airtable_id": "3738e9138920d105",
+          "slug": "ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Courier David",
+          "name": "I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor",
+        "data": {
+          "layout": "generic",
+          "title": "If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.",
+          "airtable_id": "c018eaf6156a9e81",
+          "slug": "if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Edinburgh’s Depute Lord Provost",
+          "name": "If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa",
+        "data": {
+          "layout": "generic",
+          "title": "I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip.",
+          "airtable_id": "be0a821a3024af93",
+          "slug": "i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa",
+          "type": "Quote",
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "additional-credit-line": "Tejas reflects during an outreach session speaking to workers in Princes Street",
+          "name": "I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip.",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "building-platform-worker-power-with-participatory-data-science"
+          ],
+          "layout": "generic",
+          "slug": "building-platform-worker-power-with-participatory-data-science-process",
+          "title": "Building Platform Worker Power with Participatory Data Science - Process",
+          "theme": [
+            "Work",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Building Platform Worker Power with Participatory Data Science-Worker research participants",
+        "airtable_id": "a6d2022ae5c05409",
+        "slug": "building-platform-worker-power-with-participatory-data-science-worker-research-participants",
+        "locations": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Edinburgh",
+        "which-of-the-following-methods-were-used-to": [
+          "Action Research",
+          "Capacity Building Workshop",
+          "Co-creation workshops",
+          "Community-Based Participatory Research",
+          "Public Dialogue",
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 9,
+        "name": "Building Platform Worker Power with Participatory Data Science-Worker research participants",
+        "group-description": "Worker research participants",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "additional-notes": "Food delivery workers were recruited to two six-hour workshops on consecutive days, and compensated for time away from working. The workshops involved learning, designing collaborative research, and creating media to document the process. In the process, workers formed a new autonomous organisation called ROOM that continues to meet monthly.\n\nThe participatory process and some outputs are documented in the following video and guidebook:\nhttps://www.youtube.com/watch?v=JwX11VuEdj4&t=3s\nhttps://workersobservatory.org/resources/guidebook-worker-led-survey/",
+        "how-many-people-took-part": 40,
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "recruitment-description": "Flyering outside restaurants; information cards passed between riders; one-to-one conversations by organiser.",
+        "was-there-a-specific-target-population": "Food delivery workers in Edinburgh",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "layout": "generic",
+        "slug": "building-platform-worker-power-with-participatory-data-science-process",
+        "title": "Building Platform Worker Power with Participatory Data Science - Process",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "University of Edinburgh",
+        "airtable_id": "1eb6bbee5ea64d43",
+        "slug": "university-of-edinburgh",
+        "role": [
+          "Funder"
+        ],
+        "name": "University of Edinburgh",
+        "funding-organisation-for": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of St Andrews",
+        "airtable_id": "6813d9af55b40211",
+        "slug": "university-of-st-andrews",
+        "role": [
+          "Funder"
+        ],
+        "name": "University of St Andrews",
+        "funding-organisation-for": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "The Workers' Observatory",
+        "airtable_id": "4a7933e333bdeac7",
+        "slug": "the-workers-observatory",
+        "role": [
+          "Lead"
+        ],
+        "name": "The Workers' Observatory",
+        "lead-organisation-for": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "ESRC Digital Good",
+        "airtable_id": "32ddd4c9c367e177",
+        "slug": "esrc-digital-good",
+        "role": [
+          "Funder"
+        ],
+        "name": "ESRC Digital Good",
+        "funding-organisation-for": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.\n\nJustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.",
+        "airtable_id": "e631c5b4bb1740e8",
+        "slug": "they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Rider quote on automatic deactivation.",
+        "name": "They time you for every second you are working, and if the time you take doesn’t match with the time they think it should take, you are at risk of deactivation.\n\nJustEat tells us it has a system to appeal within six weeks. When my account was cancelled, I sent an email, got an automated reply, and then heard nothing more. I sent 33 emails and they never got back to me.",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?",
+        "airtable_id": "52fc294afd067cb2",
+        "slug": "uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Xabier reflecting on the impact of dynamic pricing",
+        "name": "Uber and Deliveroo are for the first time, you know, reporting profit, and they’re paying the lowest rates that we have ever seen in this city, in six years. What the fuck? You know, how is this possible?",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.",
+        "airtable_id": "4565f77b445efdc9",
+        "slug": "the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Anonymous rider",
+        "name": "The collective is very useful to organise us to have a voice. I think that we alls hare the same thoughts, but it’s very difficult to get to those big companies.",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.",
+        "airtable_id": "3738e9138920d105",
+        "slug": "ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Courier David",
+        "name": "I’ve been a cycle courier for the past six years, and I’ve seen the whole development of these algorithms, how they lower the fees. … We need to crack the algorithm somehow. And the thing we can do is we can reject second orders or batch orders that are paying less than £3.00.",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.",
+        "airtable_id": "c018eaf6156a9e81",
+        "slug": "if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Edinburgh’s Depute Lord Provost",
+        "name": "If we are serious in our commitment to making Edinburgh a safer and fairer city to work in - where workers receive a fair wage for a fair day’s work – I believe it’s imperative to engage not only with workers who are riders, but with all parts of the gig economy, including digital platform companies. Precarious work can have an impact on pay, rights and working conditions. That’s why we’re calling for this type of work to placed at the centre of the Scottish Government’s Fair Work agenda. This is alongside exploring upskilling courses and advice sessions for gig workers, and a charter to improve the working conditions for the growing number of gig economy workers in our city.",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip.",
+        "airtable_id": "be0a821a3024af93",
+        "slug": "i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa",
+        "type": "Quote",
+        "cases": [
+          "building-platform-worker-power-with-participatory-data-science"
+        ],
+        "additional-credit-line": "Tejas reflects during an outreach session speaking to workers in Princes Street",
+        "name": "I really think through this movement we can bring a revolution in the industry and we can get the fair pay rates. We can avoid tip stealing and we can get transparency in the breakdown of payments we are getting per trip.",
+        "theme": [
+          "Work",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ]
+  }
+}

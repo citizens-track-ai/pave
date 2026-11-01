@@ -1,0 +1,372 @@
+{
+  "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems",
+    "airtable_id": "62a8b1b1686bf822",
+    "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems",
+    "redirect_from": [
+      "/c/62a8b1b1686bf822/"
+    ],
+    "lead-organisations": [
+      "nigeria-ai-research-lab-formerly-eduai-hub"
+    ],
+    "provide-a-brief-description-of-the-project": "This public engagement project explored how persons with disabilities in Nigeria currently experience AI systems, the barriers they face, and their recommendations for more inclusive AI design and governance. Hosted by the Nigerian AI Research Lab in collaboration with the Centre for Disability Inclusion Africa, the engagement took the form of a multi-stakeholder focus group discussion held on 4 March 2026 at Arthur Mbanefo Hall, University of Lagos. Thirty-three participants representing seven disability clusters, including visual impairment, hearing and speech impairment, mobility impairment, intellectual disabilities, dwarfism, and albinism, engaged alongside caregivers, AI researchers, technology developers, and disability advocates. The discussion was structured around 13 guided questions and produced findings and practical recommendations directed at developers, researchers, and policymakers.\n",
+    "what-limitations-to-the-project-should-be-noted": "The engagement was a single eight-hour session, which limits the depth of deliberation possible compared to multi-session formats. The geographic scope was confined to Lagos, meaning that the experiences of persons with disabilities from other parts of Nigeria, including rural areas where infrastructure and assistive technology access differ significantly, were not captured. The document does not confirm the total number of participants, which may affect comparability with other cases in the case book. Additionally, while caregivers and technology developers were included as allied participants, the balance between persons with disabilities and non-disabled participants is not specified, which is worth noting for transparency about whose voices are centred in the findings\n",
+    "project-status": "In Progress",
+    "headline-findings": "1. Persons with disabilities in Nigeria are already actively using AI tools: visual impairment communities reported using Be My Eyes and AI-powered vision applications to access printed materials and educational content.\n2. Persons with hearing impairments reported using transcription technologies to participate in conversations, and generative AI tools such as ChatGPT for academic research and information access.\n3. Participants identified the high cost of assistive technologies as a major barrier, calling for subsidised access to AI-enabled tools for persons with disabilities and reduced administrative and financial burden on caregivers.\n4. Participants flagged that some navigation and mapping AI systems fail to account for disability-specific environmental risks, particularly given Nigeria's road infrastructure.\n5. Participants noted that some AI applications create significant barriers for visually impaired users undertaking everyday tasks such as recognising local currency (Naira).\n6. Educators and parents raised concerns that educational technologies remain poorly adapted for children with intellectual and developmental disabilities in Nigeria.\n7. Participants called for the inclusion of persons with disabilities from design through to deployment and evaluation of all AI-enabled technologies, not as an afterthought but as co-designers.\n8. Participants identified the absence of current policies protecting persons with disabilities in AI-enabled environments as a critical gap, and called on government to build infrastructure for AI inclusion and develop disability-responsive AI policy.\n",
+    "participants": [
+      "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "AI in general",
+      "Specific AI system(s)"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "funding-organisations": [
+      "international-development-research-centre-idrc-canada",
+      "uk-fcdo-china-networks-open-societies-oda-fund"
+    ],
+    "inclusion-efforts": "The most significant inclusion effort was the deliberate recruitment across all seven disability clusters, ensuring that groups often marginalised even within disability advocacy spaces, such as persons with intellectual disabilities, dwarfism, and albinism, had a seat at the table alongside more commonly represented groups such as visual and hearing impairment communities. Participants were drawn from diverse professional and social backgrounds including students, educators, business owners, and caregivers, preventing the discussion from being dominated by any single experience of disability. The co-creative and interactive format of the focus group was chosen specifically to give participants agency in shaping the conversation rather than simply responding to a fixed script. The venue at Arthur Mbanefo Hall, University of Lagos was selected to be physically accessible to participants with mobility impairments.You may want to add here whether any of the following were also in place: sign language interpretation, materials in accessible formats, transport support, or any other accessibility provisions you can confirm from your records.\n",
+    "project-title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems",
+    "submitted-by": "Maxwell Igweogu",
+    "why-is-this-project-important-to-include-in-the": "This project merits inclusion for several reasons. First, it centres a community that is almost entirely absent from AI governance conversations: persons with disabilities in Nigeria and across Africa more broadly. The seven disability clusters represented in the discussion reflect a breadth of lived experience rarely captured in AI public engagement, spanning visual, hearing, speech, mobility, intellectual, and other impairments, as well as conditions such as albinism and dwarfism.\nSecond, the project demonstrates meaningful inclusion in practice. By purposively recruiting across disability type, age, education, and occupation, the engagement avoided the tendency to treat disability as a monolithic category. The co-creation and interactive format gave participants genuine space to define problems and propose solutions on their own terms, rather than simply responding to a predetermined agenda.\nThird, the findings speak directly to governance gaps that are often overlooked in dominant AI policy discourse: the absence of disability-responsive data collection, the high cost of assistive technologies in low-income contexts, the failure of AI systems to account for infrastructure conditions in Nigeria, and the lack of legal protections for persons with disabilities in AI-enabled environments. These are concerns that neither Western-led AI ethics frameworks nor most African AI policy processes have adequately addressed.",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How AI systems include or exclude persons with disabilities in Nigeria, and what changes developers, researchers, and policymakers need to make.",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "what-year-did-the-project-conclude": 2026,
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://cdinclusionafrica.org/2026/03/05/ai-must-hear-every-voice-key-lessons-from-disability-ai-dialogue-in-lagos/",
+    "where-were-participants-from": [
+      "Lagos, Nigeria"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems",
+    "data": {
+      "layout": "case",
+      "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems",
+      "airtable_id": "62a8b1b1686bf822",
+      "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems",
+      "redirect_from": [
+        "/c/62a8b1b1686bf822/"
+      ],
+      "lead-organisations": [
+        "nigeria-ai-research-lab-formerly-eduai-hub"
+      ],
+      "provide-a-brief-description-of-the-project": "This public engagement project explored how persons with disabilities in Nigeria currently experience AI systems, the barriers they face, and their recommendations for more inclusive AI design and governance. Hosted by the Nigerian AI Research Lab in collaboration with the Centre for Disability Inclusion Africa, the engagement took the form of a multi-stakeholder focus group discussion held on 4 March 2026 at Arthur Mbanefo Hall, University of Lagos. Thirty-three participants representing seven disability clusters, including visual impairment, hearing and speech impairment, mobility impairment, intellectual disabilities, dwarfism, and albinism, engaged alongside caregivers, AI researchers, technology developers, and disability advocates. The discussion was structured around 13 guided questions and produced findings and practical recommendations directed at developers, researchers, and policymakers.\n",
+      "what-limitations-to-the-project-should-be-noted": "The engagement was a single eight-hour session, which limits the depth of deliberation possible compared to multi-session formats. The geographic scope was confined to Lagos, meaning that the experiences of persons with disabilities from other parts of Nigeria, including rural areas where infrastructure and assistive technology access differ significantly, were not captured. The document does not confirm the total number of participants, which may affect comparability with other cases in the case book. Additionally, while caregivers and technology developers were included as allied participants, the balance between persons with disabilities and non-disabled participants is not specified, which is worth noting for transparency about whose voices are centred in the findings\n",
+      "project-status": "In Progress",
+      "headline-findings": "1. Persons with disabilities in Nigeria are already actively using AI tools: visual impairment communities reported using Be My Eyes and AI-powered vision applications to access printed materials and educational content.\n2. Persons with hearing impairments reported using transcription technologies to participate in conversations, and generative AI tools such as ChatGPT for academic research and information access.\n3. Participants identified the high cost of assistive technologies as a major barrier, calling for subsidised access to AI-enabled tools for persons with disabilities and reduced administrative and financial burden on caregivers.\n4. Participants flagged that some navigation and mapping AI systems fail to account for disability-specific environmental risks, particularly given Nigeria's road infrastructure.\n5. Participants noted that some AI applications create significant barriers for visually impaired users undertaking everyday tasks such as recognising local currency (Naira).\n6. Educators and parents raised concerns that educational technologies remain poorly adapted for children with intellectual and developmental disabilities in Nigeria.\n7. Participants called for the inclusion of persons with disabilities from design through to deployment and evaluation of all AI-enabled technologies, not as an afterthought but as co-designers.\n8. Participants identified the absence of current policies protecting persons with disabilities in AI-enabled environments as a critical gap, and called on government to build infrastructure for AI inclusion and develop disability-responsive AI policy.\n",
+      "participants": [
+        "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "AI in general",
+        "Specific AI system(s)"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "funding-organisations": [
+        "international-development-research-centre-idrc-canada",
+        "uk-fcdo-china-networks-open-societies-oda-fund"
+      ],
+      "inclusion-efforts": "The most significant inclusion effort was the deliberate recruitment across all seven disability clusters, ensuring that groups often marginalised even within disability advocacy spaces, such as persons with intellectual disabilities, dwarfism, and albinism, had a seat at the table alongside more commonly represented groups such as visual and hearing impairment communities. Participants were drawn from diverse professional and social backgrounds including students, educators, business owners, and caregivers, preventing the discussion from being dominated by any single experience of disability. The co-creative and interactive format of the focus group was chosen specifically to give participants agency in shaping the conversation rather than simply responding to a fixed script. The venue at Arthur Mbanefo Hall, University of Lagos was selected to be physically accessible to participants with mobility impairments.You may want to add here whether any of the following were also in place: sign language interpretation, materials in accessible formats, transport support, or any other accessibility provisions you can confirm from your records.\n",
+      "project-title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems",
+      "submitted-by": "Maxwell Igweogu",
+      "why-is-this-project-important-to-include-in-the": "This project merits inclusion for several reasons. First, it centres a community that is almost entirely absent from AI governance conversations: persons with disabilities in Nigeria and across Africa more broadly. The seven disability clusters represented in the discussion reflect a breadth of lived experience rarely captured in AI public engagement, spanning visual, hearing, speech, mobility, intellectual, and other impairments, as well as conditions such as albinism and dwarfism.\nSecond, the project demonstrates meaningful inclusion in practice. By purposively recruiting across disability type, age, education, and occupation, the engagement avoided the tendency to treat disability as a monolithic category. The co-creation and interactive format gave participants genuine space to define problems and propose solutions on their own terms, rather than simply responding to a predetermined agenda.\nThird, the findings speak directly to governance gaps that are often overlooked in dominant AI policy discourse: the absence of disability-responsive data collection, the high cost of assistive technologies in low-income contexts, the failure of AI systems to account for infrastructure conditions in Nigeria, and the lack of legal protections for persons with disabilities in AI-enabled environments. These are concerns that neither Western-led AI ethics frameworks nor most African AI policy processes have adequately addressed.",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How AI systems include or exclude persons with disabilities in Nigeria, and what changes developers, researchers, and policymakers need to make.",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "what-year-did-the-project-conclude": 2026,
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://cdinclusionafrica.org/2026/03/05/ai-must-hear-every-voice-key-lessons-from-disability-ai-dialogue-in-lagos/",
+      "where-were-participants-from": [
+        "Lagos, Nigeria"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group",
+        "data": {
+          "layout": "generic",
+          "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems-Multi-stakeholder focus group discussion",
+          "airtable_id": "098ce424cf69b6c9",
+          "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Lagos, Nigeria",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group",
+            "Participatory futures workshop"
+          ],
+          "on-average-how-many-hours-did-each-participant": 8,
+          "name": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems-Multi-stakeholder focus group discussion",
+          "group-description": "Multi-stakeholder focus group discussion",
+          "how-many-people-took-part": 20,
+          "cases": [
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "recruitment-description": "Participants were purposively selected by the Nigerian AI Research Lab and Centre for Disability Inclusion Africa to ensure representation across seven disability clusters: visual impairment, hearing and speech impairment, mobility impairment, intellectual disabilities, dwarfism, and albinism. Selection also reflected diversity across age, educational background, and occupation. Specific inclusion efforts included recruiting across all seven disability clusters rather than focusing on the most visible or commonly represented groups, and including allied participants such as caregivers, parents, and technology developers to ensure that the discussion captured multiple perspectives on AI accessibility. The engagement was hosted at a university venue in Lagos accessible to participants with mobility needs.",
+          "was-there-a-specific-target-population": "Persons with disabilities across seven disability clusters in Nigeria, alongside caregivers, parents, AI researchers, technology developers, disability advocates, students, educators, and business owners",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "nigeria-ai-research-lab-formerly-eduai-hub",
+        "data": {
+          "layout": "organisation",
+          "title": "Nigeria AI Research Lab (Formerly EduAI Hub)",
+          "airtable_id": "776b7e45cfa489c9",
+          "slug": "nigeria-ai-research-lab-formerly-eduai-hub",
+          "role": [
+            "Lead"
+          ],
+          "name": "Nigeria AI Research Lab (Formerly EduAI Hub)",
+          "lead-organisation-for": [
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "international-development-research-centre-idrc-canada",
+        "data": {
+          "layout": "organisation",
+          "title": "International Development Research Centre (IDRC, Canada)",
+          "airtable_id": "56206d9e0be9fc4e",
+          "slug": "international-development-research-centre-idrc-canada",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Public sector"
+          ],
+          "website-address": "https://idrc-crdi.ca/",
+          "name": "International Development Research Centre (IDRC, Canada)",
+          "main-location": [
+            "canada"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide",
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "uk-fcdo-china-networks-open-societies-oda-fund",
+        "data": {
+          "layout": "organisation",
+          "title": "UK FCDO - China Network’s Open Societies ODA Fund",
+          "airtable_id": "02f170def12e4a23",
+          "slug": "uk-fcdo-china-networks-open-societies-oda-fund",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Public sector"
+          ],
+          "website-address": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+          "name": "UK FCDO - China Network’s Open Societies ODA Fund",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "layout": "generic",
+          "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-process",
+          "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general",
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems-Multi-stakeholder focus group discussion",
+        "airtable_id": "098ce424cf69b6c9",
+        "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Lagos, Nigeria",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group",
+          "Participatory futures workshop"
+        ],
+        "on-average-how-many-hours-did-each-participant": 8,
+        "name": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems-Multi-stakeholder focus group discussion",
+        "group-description": "Multi-stakeholder focus group discussion",
+        "how-many-people-took-part": 20,
+        "cases": [
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "recruitment-description": "Participants were purposively selected by the Nigerian AI Research Lab and Centre for Disability Inclusion Africa to ensure representation across seven disability clusters: visual impairment, hearing and speech impairment, mobility impairment, intellectual disabilities, dwarfism, and albinism. Selection also reflected diversity across age, educational background, and occupation. Specific inclusion efforts included recruiting across all seven disability clusters rather than focusing on the most visible or commonly represented groups, and including allied participants such as caregivers, parents, and technology developers to ensure that the discussion captured multiple perspectives on AI accessibility. The engagement was hosted at a university venue in Lagos accessible to participants with mobility needs.",
+        "was-there-a-specific-target-population": "Persons with disabilities across seven disability clusters in Nigeria, alongside caregivers, parents, AI researchers, technology developers, disability advocates, students, educators, and business owners",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "layout": "generic",
+        "slug": "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-process",
+        "title": "AI and Disability: Embedding Inclusion and Accessibility in AI Systems - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Nigeria AI Research Lab (Formerly EduAI Hub)",
+        "airtable_id": "776b7e45cfa489c9",
+        "slug": "nigeria-ai-research-lab-formerly-eduai-hub",
+        "role": [
+          "Lead"
+        ],
+        "name": "Nigeria AI Research Lab (Formerly EduAI Hub)",
+        "lead-organisation-for": [
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general",
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "International Development Research Centre (IDRC, Canada)",
+        "airtable_id": "56206d9e0be9fc4e",
+        "slug": "international-development-research-centre-idrc-canada",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Public sector"
+        ],
+        "website-address": "https://idrc-crdi.ca/",
+        "name": "International Development Research Centre (IDRC, Canada)",
+        "main-location": [
+          "canada"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide",
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general",
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UK FCDO - China Network’s Open Societies ODA Fund",
+        "airtable_id": "02f170def12e4a23",
+        "slug": "uk-fcdo-china-networks-open-societies-oda-fund",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Public sector"
+        ],
+        "website-address": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "name": "UK FCDO - China Network’s Open Societies ODA Fund",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

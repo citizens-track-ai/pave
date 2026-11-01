@@ -1,0 +1,2973 @@
+{
+  "slug": "collective-intelligence-project-global-dialogues",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Collective Intelligence Project Global Dialogues",
+    "airtable_id": "cdbbe2331ba07ffd",
+    "slug": "collective-intelligence-project-global-dialogues",
+    "redirect_from": [
+      "/c/cdbbe2331ba07ffd/"
+    ],
+    "lead-organisations": [
+      "collective-intelligence-project",
+      "remesh",
+      "prolific"
+    ],
+    "provide-a-brief-description-of-the-project": "Collective Intelligence Project's Global Dialogues on AI were launched at the 2024 AI Action Summit, and have taken place regularly since, working with a range of sponsors and partners.\n\nIn the dialogues, participants take part in an \"online collective-dialogue session\" of 15 - 60 minutes, hosted on the remesh.ai platform where they respond to structured prompts, submit free text responses, and evaluate statements put forward by other participants. This asynchronous process creates quantitative and qualitative measures of agreement and difference.\n\nThe questions include longitudinal indicators, repeated regularly in rounds of the dialogue to track change over time, and research questions to test hypotheses posed by partners for each research round. These may use scenario vignettes or open ended prompts to gather feedback.\n\nSessions might include framing materials shared by a process moderator, and the remesh platform carries out live analysis to surface statements that appear to have high consensus across different demographics, so these get wider discussion. The analysis draws on bridging algorithms. \n\nBy publishing an open dataset of Global Dialogue outcomes, the project aims to inform a wide range of research and policy projects, and my including partner-specific questions in specific dialogue rounds, it works to inform work in particular policy areas, such as [a 2026 partnership with the Windfall Trust \"exploring what the world truly needs, expects, hopes for, and fears from the AI economy.\"](https://windfalltrust.org/global-dialogues-survey)\n \n",
+    "project-status": "In Progress",
+    "participants": [
+      "collective-intelligence-project-global-dialogues-november-2024",
+      "collective-intelligence-project-global-dialogues-january-2025",
+      "collective-intelligence-project-global-dialogues-march-2025",
+      "collective-intelligence-project-global-dialogues-june-2025",
+      "collective-intelligence-project-global-dialogues-september-2025",
+      "collective-intelligence-project-global-dialogues-march-2026"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "messages": [
+      "over-70-of-respondents-globally-prefer-a-decentralized-ai-future-this-preference-holds-steady-across",
+      "a-clear-pattern-emerges-concerns-about-ais-cultural-impact-run-deepest-outside-the-western-world-the",
+      "52-of-people-welcome-ai-assistance-with-routine-but-important-choices-like-financial-and-educational",
+      "when-it-comes-to-life-changing-decisions-requiring-moral-or-ethical-judgment-51-want-to-maintain-hum",
+      "over-74-of-participants-worldwide-believe-ai-should-defer-to-human-wisdom-in-complex-ethical-cultura",
+      "86-of-participants-agree-ai-should-apologize-for-cultural-errors-explain-them-and-commit-to-learning",
+      "preferences-for-formal-versus-casual-ai-interaction-styles-show-significant-regional-variation-repre",
+      "76-of-participants-favor-ai-tailored-to-their-local-contexts-highlighting-concerns-about-western-cen",
+      "respondents-say-that-trustworthy-ai-relies-on-honesty-reliability-experience-empathy-clear-communica",
+      "ai-is-highly-noticeable-in-daily-life-677-notice-it-daily-and-actively-used-both-at-work-492-use-it",
+      "a-majority-notice-automation-replacing-human-interactions-frequently-439-weekly-307-daily",
+      "58-somewhat-or-strongly-trust-their-ai-chatbots-while-only-30-have-the-same-trust-in-their-elected-r",
+      "a-strong-majority-714-feel-ai-has-already-made-their-daily-lives-noticeably-or-profoundly-better",
+      "consciousness-attribution-30-of-people-globally-have-at-some-point-thought-their-ai-chatbot-might-be",
+      "romantic-relationships-54-find-ai-companions-acceptable-for-lonely-people-17-consider-ai-romantic-pa",
+      "daily-emotional-dependency-149-use-ai-for-emotional-support-daily-with-an-additional-279-weekly-indi",
+      "authenticity-705-use-ai-for-emotional-support-yet-most-dont-believe-ai-genuinely-cares-about-them-cr",
+      "loneliness-correlation-respondents-who-reported-higher-baseline-loneliness-are-more-likely-to-be-ope",
+      "a-majority-of-people-around-the-world-believe-that-animals-have-rich-inner-lives-with-94-saying-that",
+      "public-opinion-on-using-ai-to-understand-animals-is-largely-hopeful-477-and-curious-605-but-is-tempe",
+      "there-is-significant-public-support-629-for-granting-animals-a-voice-in-human-decision-making-though",
+      "an-overwhelming-global-consensus-exists-on-the-need-for-strict-regulation-with-849-of-respondents-ag",
+      "the-question-of-who-owns-animal-generated-data-is-complex-there-is-no-agreement-on-whether-the-data",
+      "forty-percent-of-respondents-believe-their-own-job-is-likely-to-be-automated-within-ten-years-but-on",
+      "ai-is-already-deeply-embedded-in-peoples-daily-lives-nearly-all-respondents-98-encounter-ai-systems",
+      "nearly-half-of-respondents-47-say-the-primary-reason-to-share-ai-generated-wealth-globally-is-that-a"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "project-title": "Collective Intelligence Project Global Dialogues",
+    "method-image-caption": "Source: ",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Quantitative: Generate statistical evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "project-methodology",
+      "windfall-trust-report",
+      "project-website"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Independent, global research into diverse public perspectives on AI's development and societal impact using interactive online dialogues",
+    "how-was-the-project-initiated": [
+      "Other"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2026,
+    "involved-organisations": [
+      "collective-intelligence-project",
+      "windfall-trust",
+      "aspen-digital",
+      "bhutan-ai-society",
+      "chatham-house",
+      "human-capital-africa",
+      "jigsaw",
+      "mistral-ai",
+      "mozilla",
+      "omidyar-network",
+      "public-ai"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://globaldialogues.ai/cadence/october-2025",
+    "locations": [
+      "albania",
+      "algeria",
+      "andorra",
+      "angola",
+      "antigua-deps",
+      "argentina",
+      "armenia",
+      "australia",
+      "austria",
+      "bangladesh",
+      "belgium",
+      "brazil",
+      "canada",
+      "chile",
+      "china",
+      "colombia",
+      "costa-rica",
+      "croatia",
+      "cuba",
+      "czech-republic",
+      "denmark",
+      "dominican-republic",
+      "egypt",
+      "eritrea",
+      "estonia",
+      "fiji",
+      "finland",
+      "france",
+      "georgia",
+      "germany",
+      "ghana",
+      "greece",
+      "hungary",
+      "iceland",
+      "india",
+      "indonesia",
+      "ireland-republic",
+      "ireland-republic-1",
+      "israel",
+      "italy",
+      "japan",
+      "jordan",
+      "kazakhstan",
+      "kenya",
+      "kiribati",
+      "korea-south",
+      "latvia",
+      "libya",
+      "luxembourg",
+      "malawi",
+      "malaysia",
+      "mexico",
+      "mongolia",
+      "morocco",
+      "nepal",
+      "netherlands",
+      "new-zealand",
+      "nigeria",
+      "norway",
+      "pakistan",
+      "palestine",
+      "panama",
+      "peru",
+      "philippines",
+      "poland",
+      "portugal",
+      "romania",
+      "russian-federation",
+      "saint-vincent-the-grenadines",
+      "saudi-arabia",
+      "singapore",
+      "slovakia",
+      "slovenia",
+      "somalia",
+      "south-africa",
+      "south-korea",
+      "spain",
+      "sri-lanka",
+      "sudan",
+      "sweden",
+      "switzerland",
+      "syria",
+      "taiwan",
+      "tanzania",
+      "trinidad-tobago",
+      "tunisia",
+      "turkey",
+      "türkiye",
+      "ukraine",
+      "united-arab-emirates",
+      "united-kingdom",
+      "united-states",
+      "uruguay",
+      "uzbekistan",
+      "venezuela",
+      "vietnam",
+      "zimbabwe"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "collective-intelligence-project-global-dialogues",
+    "data": {
+      "layout": "case",
+      "title": "Collective Intelligence Project Global Dialogues",
+      "airtable_id": "cdbbe2331ba07ffd",
+      "slug": "collective-intelligence-project-global-dialogues",
+      "redirect_from": [
+        "/c/cdbbe2331ba07ffd/"
+      ],
+      "lead-organisations": [
+        "collective-intelligence-project",
+        "remesh",
+        "prolific"
+      ],
+      "provide-a-brief-description-of-the-project": "Collective Intelligence Project's Global Dialogues on AI were launched at the 2024 AI Action Summit, and have taken place regularly since, working with a range of sponsors and partners.\n\nIn the dialogues, participants take part in an \"online collective-dialogue session\" of 15 - 60 minutes, hosted on the remesh.ai platform where they respond to structured prompts, submit free text responses, and evaluate statements put forward by other participants. This asynchronous process creates quantitative and qualitative measures of agreement and difference.\n\nThe questions include longitudinal indicators, repeated regularly in rounds of the dialogue to track change over time, and research questions to test hypotheses posed by partners for each research round. These may use scenario vignettes or open ended prompts to gather feedback.\n\nSessions might include framing materials shared by a process moderator, and the remesh platform carries out live analysis to surface statements that appear to have high consensus across different demographics, so these get wider discussion. The analysis draws on bridging algorithms. \n\nBy publishing an open dataset of Global Dialogue outcomes, the project aims to inform a wide range of research and policy projects, and my including partner-specific questions in specific dialogue rounds, it works to inform work in particular policy areas, such as [a 2026 partnership with the Windfall Trust \"exploring what the world truly needs, expects, hopes for, and fears from the AI economy.\"](https://windfalltrust.org/global-dialogues-survey)\n \n",
+      "project-status": "In Progress",
+      "participants": [
+        "collective-intelligence-project-global-dialogues-november-2024",
+        "collective-intelligence-project-global-dialogues-january-2025",
+        "collective-intelligence-project-global-dialogues-march-2025",
+        "collective-intelligence-project-global-dialogues-june-2025",
+        "collective-intelligence-project-global-dialogues-september-2025",
+        "collective-intelligence-project-global-dialogues-march-2026"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "messages": [
+        "over-70-of-respondents-globally-prefer-a-decentralized-ai-future-this-preference-holds-steady-across",
+        "a-clear-pattern-emerges-concerns-about-ais-cultural-impact-run-deepest-outside-the-western-world-the",
+        "52-of-people-welcome-ai-assistance-with-routine-but-important-choices-like-financial-and-educational",
+        "when-it-comes-to-life-changing-decisions-requiring-moral-or-ethical-judgment-51-want-to-maintain-hum",
+        "over-74-of-participants-worldwide-believe-ai-should-defer-to-human-wisdom-in-complex-ethical-cultura",
+        "86-of-participants-agree-ai-should-apologize-for-cultural-errors-explain-them-and-commit-to-learning",
+        "preferences-for-formal-versus-casual-ai-interaction-styles-show-significant-regional-variation-repre",
+        "76-of-participants-favor-ai-tailored-to-their-local-contexts-highlighting-concerns-about-western-cen",
+        "respondents-say-that-trustworthy-ai-relies-on-honesty-reliability-experience-empathy-clear-communica",
+        "ai-is-highly-noticeable-in-daily-life-677-notice-it-daily-and-actively-used-both-at-work-492-use-it",
+        "a-majority-notice-automation-replacing-human-interactions-frequently-439-weekly-307-daily",
+        "58-somewhat-or-strongly-trust-their-ai-chatbots-while-only-30-have-the-same-trust-in-their-elected-r",
+        "a-strong-majority-714-feel-ai-has-already-made-their-daily-lives-noticeably-or-profoundly-better",
+        "consciousness-attribution-30-of-people-globally-have-at-some-point-thought-their-ai-chatbot-might-be",
+        "romantic-relationships-54-find-ai-companions-acceptable-for-lonely-people-17-consider-ai-romantic-pa",
+        "daily-emotional-dependency-149-use-ai-for-emotional-support-daily-with-an-additional-279-weekly-indi",
+        "authenticity-705-use-ai-for-emotional-support-yet-most-dont-believe-ai-genuinely-cares-about-them-cr",
+        "loneliness-correlation-respondents-who-reported-higher-baseline-loneliness-are-more-likely-to-be-ope",
+        "a-majority-of-people-around-the-world-believe-that-animals-have-rich-inner-lives-with-94-saying-that",
+        "public-opinion-on-using-ai-to-understand-animals-is-largely-hopeful-477-and-curious-605-but-is-tempe",
+        "there-is-significant-public-support-629-for-granting-animals-a-voice-in-human-decision-making-though",
+        "an-overwhelming-global-consensus-exists-on-the-need-for-strict-regulation-with-849-of-respondents-ag",
+        "the-question-of-who-owns-animal-generated-data-is-complex-there-is-no-agreement-on-whether-the-data",
+        "forty-percent-of-respondents-believe-their-own-job-is-likely-to-be-automated-within-ten-years-but-on",
+        "ai-is-already-deeply-embedded-in-peoples-daily-lives-nearly-all-respondents-98-encounter-ai-systems",
+        "nearly-half-of-respondents-47-say-the-primary-reason-to-share-ai-generated-wealth-globally-is-that-a"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "project-title": "Collective Intelligence Project Global Dialogues",
+      "method-image-caption": "Source: ",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Quantitative: Generate statistical evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "project-methodology",
+        "windfall-trust-report",
+        "project-website"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Independent, global research into diverse public perspectives on AI's development and societal impact using interactive online dialogues",
+      "how-was-the-project-initiated": [
+        "Other"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2026,
+      "involved-organisations": [
+        "collective-intelligence-project",
+        "windfall-trust",
+        "aspen-digital",
+        "bhutan-ai-society",
+        "chatham-house",
+        "human-capital-africa",
+        "jigsaw",
+        "mistral-ai",
+        "mozilla",
+        "omidyar-network",
+        "public-ai"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://globaldialogues.ai/cadence/october-2025",
+      "locations": [
+        "albania",
+        "algeria",
+        "andorra",
+        "angola",
+        "antigua-deps",
+        "argentina",
+        "armenia",
+        "australia",
+        "austria",
+        "bangladesh",
+        "belgium",
+        "brazil",
+        "canada",
+        "chile",
+        "china",
+        "colombia",
+        "costa-rica",
+        "croatia",
+        "cuba",
+        "czech-republic",
+        "denmark",
+        "dominican-republic",
+        "egypt",
+        "eritrea",
+        "estonia",
+        "fiji",
+        "finland",
+        "france",
+        "georgia",
+        "germany",
+        "ghana",
+        "greece",
+        "hungary",
+        "iceland",
+        "india",
+        "indonesia",
+        "ireland-republic",
+        "ireland-republic-1",
+        "israel",
+        "italy",
+        "japan",
+        "jordan",
+        "kazakhstan",
+        "kenya",
+        "kiribati",
+        "korea-south",
+        "latvia",
+        "libya",
+        "luxembourg",
+        "malawi",
+        "malaysia",
+        "mexico",
+        "mongolia",
+        "morocco",
+        "nepal",
+        "netherlands",
+        "new-zealand",
+        "nigeria",
+        "norway",
+        "pakistan",
+        "palestine",
+        "panama",
+        "peru",
+        "philippines",
+        "poland",
+        "portugal",
+        "romania",
+        "russian-federation",
+        "saint-vincent-the-grenadines",
+        "saudi-arabia",
+        "singapore",
+        "slovakia",
+        "slovenia",
+        "somalia",
+        "south-africa",
+        "south-korea",
+        "spain",
+        "sri-lanka",
+        "sudan",
+        "sweden",
+        "switzerland",
+        "syria",
+        "taiwan",
+        "tanzania",
+        "trinidad-tobago",
+        "tunisia",
+        "turkey",
+        "türkiye",
+        "ukraine",
+        "united-arab-emirates",
+        "united-kingdom",
+        "united-states",
+        "uruguay",
+        "uzbekistan",
+        "venezuela",
+        "vietnam",
+        "zimbabwe"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-march-2026",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-March 2026",
+          "airtable_id": "11c248e11ace40e5",
+          "slug": "collective-intelligence-project-global-dialogues-march-2026",
+          "locations": [
+            "algeria",
+            "andorra",
+            "angola",
+            "argentina",
+            "armenia",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "croatia",
+            "cuba",
+            "czech-republic",
+            "denmark",
+            "egypt",
+            "finland",
+            "france",
+            "germany",
+            "ghana",
+            "greece",
+            "hungary",
+            "india",
+            "indonesia",
+            "ireland-republic-1",
+            "israel",
+            "italy",
+            "japan",
+            "kazakhstan",
+            "kenya",
+            "luxembourg",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "morocco",
+            "netherlands",
+            "new-zealand",
+            "norway",
+            "pakistan",
+            "philippines",
+            "poland",
+            "portugal",
+            "romania",
+            "russian-federation",
+            "saint-vincent-the-grenadines",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "south-africa",
+            "south-korea",
+            "spain",
+            "sweden",
+            "switzerland",
+            "syria",
+            "türkiye",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "vietnam"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-March 2026",
+          "group-description": "March 2026",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1041,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-september-2025",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-September 2025",
+          "airtable_id": "490f0a702b169d3e",
+          "slug": "collective-intelligence-project-global-dialogues-september-2025",
+          "locations": [
+            "algeria",
+            "angola",
+            "argentina",
+            "armenia",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "colombia",
+            "croatia",
+            "czech-republic",
+            "denmark",
+            "egypt",
+            "estonia",
+            "finland",
+            "france",
+            "germany",
+            "ghana",
+            "greece",
+            "hungary",
+            "india",
+            "indonesia",
+            "ireland-republic",
+            "israel",
+            "italy",
+            "japan",
+            "kazakhstan",
+            "kenya",
+            "kiribati",
+            "korea-south",
+            "latvia",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "morocco",
+            "netherlands",
+            "new-zealand",
+            "norway",
+            "pakistan",
+            "palestine",
+            "philippines",
+            "poland",
+            "portugal",
+            "russian-federation",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "slovenia",
+            "south-africa",
+            "spain",
+            "sri-lanka",
+            "sudan",
+            "sweden",
+            "switzerland",
+            "tunisia",
+            "türkiye",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "uruguay",
+            "vietnam"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-September 2025",
+          "group-description": "September 2025",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1028,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-january-2025",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-January 2025",
+          "airtable_id": "e63af73c964c58bb",
+          "slug": "collective-intelligence-project-global-dialogues-january-2025",
+          "locations": [
+            "algeria",
+            "angola",
+            "argentina",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "croatia",
+            "denmark",
+            "dominican-republic",
+            "egypt",
+            "eritrea",
+            "fiji",
+            "finland",
+            "france",
+            "germany",
+            "greece",
+            "hungary",
+            "india",
+            "indonesia",
+            "ireland-republic",
+            "israel",
+            "italy",
+            "japan",
+            "kazakhstan",
+            "kenya",
+            "korea-south",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "morocco",
+            "netherlands",
+            "new-zealand",
+            "norway",
+            "pakistan",
+            "palestine",
+            "philippines",
+            "poland",
+            "portugal",
+            "romania",
+            "russian-federation",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "south-africa",
+            "spain",
+            "sri-lanka",
+            "sudan",
+            "sweden",
+            "switzerland",
+            "tunisia",
+            "turkey",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "uzbekistan",
+            "venezuela",
+            "vietnam",
+            "zimbabwe"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-January 2025",
+          "group-description": "January 2025",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1071,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-march-2025",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-March 2025",
+          "airtable_id": "2bd3ae47f84510e8",
+          "slug": "collective-intelligence-project-global-dialogues-march-2025",
+          "locations": [
+            "algeria",
+            "argentina",
+            "armenia",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "croatia",
+            "cuba",
+            "denmark",
+            "egypt",
+            "finland",
+            "france",
+            "germany",
+            "greece",
+            "hungary",
+            "iceland",
+            "india",
+            "indonesia",
+            "ireland-republic",
+            "israel",
+            "italy",
+            "japan",
+            "kazakhstan",
+            "kenya",
+            "korea-south",
+            "libya",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "morocco",
+            "netherlands",
+            "new-zealand",
+            "norway",
+            "pakistan",
+            "palestine",
+            "panama",
+            "philippines",
+            "poland",
+            "portugal",
+            "romania",
+            "russian-federation",
+            "saint-vincent-the-grenadines",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "south-africa",
+            "spain",
+            "sudan",
+            "sweden",
+            "switzerland",
+            "tunisia",
+            "türkiye",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "vietnam",
+            "zimbabwe"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-March 2025",
+          "group-description": "March 2025",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 967,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-november-2024",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-November 2024",
+          "airtable_id": "c62580ee30e3432c",
+          "slug": "collective-intelligence-project-global-dialogues-november-2024",
+          "locations": [
+            "algeria",
+            "angola",
+            "antigua-deps",
+            "argentina",
+            "armenia",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "colombia",
+            "costa-rica",
+            "croatia",
+            "czech-republic",
+            "denmark",
+            "egypt",
+            "eritrea",
+            "fiji",
+            "finland",
+            "france",
+            "georgia",
+            "germany",
+            "ghana",
+            "greece",
+            "hungary",
+            "iceland",
+            "india",
+            "indonesia",
+            "ireland-republic",
+            "israel",
+            "italy",
+            "japan",
+            "kazakhstan",
+            "kenya",
+            "korea-south",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "mongolia",
+            "morocco",
+            "nepal",
+            "netherlands",
+            "new-zealand",
+            "nigeria",
+            "norway",
+            "pakistan",
+            "palestine",
+            "panama",
+            "peru",
+            "philippines",
+            "poland",
+            "portugal",
+            "romania",
+            "russian-federation",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "south-africa",
+            "spain",
+            "sweden",
+            "switzerland",
+            "tanzania",
+            "trinidad-tobago",
+            "tunisia",
+            "turkey",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "uzbekistan",
+            "venezuela",
+            "vietnam"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-November 2024",
+          "group-description": "November 2024",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1253,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "collective-intelligence-project-global-dialogues-june-2025",
+        "data": {
+          "layout": "generic",
+          "title": "Collective Intelligence Project Global Dialogues-June 2025",
+          "airtable_id": "366889d44347be0d",
+          "slug": "collective-intelligence-project-global-dialogues-june-2025",
+          "locations": [
+            "albania",
+            "algeria",
+            "angola",
+            "argentina",
+            "armenia",
+            "australia",
+            "austria",
+            "bangladesh",
+            "belgium",
+            "brazil",
+            "canada",
+            "chile",
+            "china",
+            "croatia",
+            "czech-republic",
+            "denmark",
+            "egypt",
+            "finland",
+            "france",
+            "germany",
+            "ghana",
+            "greece",
+            "hungary",
+            "iceland",
+            "india",
+            "indonesia",
+            "ireland-republic",
+            "israel",
+            "italy",
+            "japan",
+            "jordan",
+            "kazakhstan",
+            "kenya",
+            "korea-south",
+            "latvia",
+            "malawi",
+            "malaysia",
+            "mexico",
+            "morocco",
+            "netherlands",
+            "new-zealand",
+            "norway",
+            "pakistan",
+            "palestine",
+            "philippines",
+            "poland",
+            "portugal",
+            "romania",
+            "russian-federation",
+            "saudi-arabia",
+            "singapore",
+            "slovakia",
+            "somalia",
+            "south-africa",
+            "spain",
+            "sri-lanka",
+            "sudan",
+            "sweden",
+            "switzerland",
+            "taiwan",
+            "tunisia",
+            "türkiye",
+            "ukraine",
+            "united-arab-emirates",
+            "united-kingdom",
+            "united-states",
+            "vietnam",
+            "zimbabwe"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Collective Intelligence Project Global Dialogues-June 2025",
+          "group-description": "June 2025",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1025,
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+          "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "public-ai",
+        "data": {
+          "layout": "organisation",
+          "title": "Public AI",
+          "airtable_id": "d8ed99307cf35a32",
+          "slug": "public-ai",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Public AI",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "collective-intelligence-project",
+        "data": {
+          "layout": "organisation",
+          "title": "Collective Intelligence Project",
+          "airtable_id": "b1ca0fe8e773cba8",
+          "slug": "collective-intelligence-project",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Collective Intelligence Project",
+          "lead-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "human-capital-africa",
+        "data": {
+          "layout": "organisation",
+          "title": "Human Capital Africa",
+          "airtable_id": "060e5d3520407409",
+          "slug": "human-capital-africa",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Human Capital Africa",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "jigsaw",
+        "data": {
+          "layout": "organisation",
+          "title": "Jigsaw",
+          "airtable_id": "2e4f5d411fb50d6b",
+          "slug": "jigsaw",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Jigsaw",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "omidyar-network",
+        "data": {
+          "layout": "organisation",
+          "title": "Omidyar Network",
+          "airtable_id": "0c00a115e1c75fad",
+          "slug": "omidyar-network",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Omidyar Network",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "chatham-house",
+        "data": {
+          "layout": "organisation",
+          "title": "Chatham House",
+          "airtable_id": "fd0e78d99ecf2bb0",
+          "slug": "chatham-house",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Chatham House",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mistral-ai",
+        "data": {
+          "layout": "organisation",
+          "title": "Mistral AI",
+          "airtable_id": "d5a545b6fccc43f4",
+          "slug": "mistral-ai",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Mistral AI",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "windfall-trust",
+        "data": {
+          "layout": "organisation",
+          "title": "Windfall Trust",
+          "airtable_id": "60bdad9ebac74f9e",
+          "slug": "windfall-trust",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Windfall Trust",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "bhutan-ai-society",
+        "data": {
+          "layout": "organisation",
+          "title": "Bhutan AI Society",
+          "airtable_id": "38ee8e6cf0246d10",
+          "slug": "bhutan-ai-society",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Bhutan AI Society",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "remesh",
+        "data": {
+          "layout": "organisation",
+          "title": "Remesh",
+          "airtable_id": "4f9bd03c51467357",
+          "slug": "remesh",
+          "role": [
+            "Lead"
+          ],
+          "website-address": "https://remesh.ai",
+          "name": "Remesh",
+          "lead-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mozilla",
+        "data": {
+          "layout": "organisation",
+          "title": "Mozilla",
+          "airtable_id": "06e19a6c7b95da94",
+          "slug": "mozilla",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Mozilla",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "prolific",
+        "data": {
+          "layout": "organisation",
+          "title": "Prolific",
+          "airtable_id": "3fe2112cdff6583c",
+          "slug": "prolific",
+          "role": [
+            "Lead"
+          ],
+          "website-address": "https://prolific.com",
+          "name": "Prolific",
+          "lead-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "aspen-digital",
+        "data": {
+          "layout": "organisation",
+          "title": "Aspen Digital",
+          "airtable_id": "2763aa8307f26d6e",
+          "slug": "aspen-digital",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Aspen Digital",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "authenticity-705-use-ai-for-emotional-support-yet-most-dont-believe-ai-genuinely-cares-about-them-cr",
+        "data": {
+          "layout": "generic",
+          "title": "Authenticity : 70.5% use AI for emotional support, yet most don't believe AI genuinely cares about them, creating a fundamental tension in human-AI relationships.",
+          "airtable_id": "171bbd4097c6447d",
+          "slug": "authenticity-705-use-ai-for-emotional-support-yet-most-dont-believe-ai-genuinely-cares-about-them-cr",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: June 2025",
+          "name": "Authenticity : 70.5% use AI for emotional support, yet most don't believe AI genuinely cares about them, creating a fundamental tension in human-AI relationships.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "public-opinion-on-using-ai-to-understand-animals-is-largely-hopeful-477-and-curious-605-but-is-tempe",
+        "data": {
+          "layout": "generic",
+          "title": "Public opinion on using AI to understand animals is largely hopeful (47.7%) and curious (60.5%), but is tempered by pre-existing views on AI. Among AI optimists, 63.4% would trust AI's interpretations, compared to only 29.6% of AI skeptics.",
+          "airtable_id": "b497081590103823",
+          "slug": "public-opinion-on-using-ai-to-understand-animals-is-largely-hopeful-477-and-curious-605-but-is-tempe",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+          "name": "Public opinion on using AI to understand animals is largely hopeful (47.7%) and curious (60.5%), but is tempered by pre-existing views on AI. Among AI optimists, 63.4% would trust AI's interpretations, compared to only 29.6% of AI skeptics.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "52-of-people-welcome-ai-assistance-with-routine-but-important-choices-like-financial-and-educational",
+        "data": {
+          "layout": "generic",
+          "title": "52% of people welcome AI assistance with routine but important choices like financial and educational planning, with highest acceptance in South America (62%) and Africa (58%).",
+          "airtable_id": "9630be359ec20ca6",
+          "slug": "52-of-people-welcome-ai-assistance-with-routine-but-important-choices-like-financial-and-educational",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: November 2024",
+          "name": "52% of people welcome AI assistance with routine but important choices like financial and educational planning, with highest acceptance in South America (62%) and Africa (58%).",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "consciousness-attribution-30-of-people-globally-have-at-some-point-thought-their-ai-chatbot-might-be",
+        "data": {
+          "layout": "generic",
+          "title": "Consciousness Attribution: 30% of people globally have at some point thought their AI chatbot might be self-aware, driven by AI exhibiting empathy, curiosity, and creativity—qualities already present in leading frontier LLMs.",
+          "airtable_id": "dedebf127564cc67",
+          "slug": "consciousness-attribution-30-of-people-globally-have-at-some-point-thought-their-ai-chatbot-might-be",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: June 2025",
+          "name": "Consciousness Attribution: 30% of people globally have at some point thought their AI chatbot might be self-aware, driven by AI exhibiting empathy, curiosity, and creativity—qualities already present in leading frontier LLMs.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-question-of-who-owns-animal-generated-data-is-complex-there-is-no-agreement-on-whether-the-data",
+        "data": {
+          "layout": "generic",
+          "title": "The question of who owns animal-generated data is complex. There is no agreement on whether the data belongs to the community protecting the animals (39.7%), the human who records it (32.8%), or the animal itself (17.3%), signaling more legal and ethical work ahead.",
+          "airtable_id": "2efcdd4ca30f6340",
+          "slug": "the-question-of-who-owns-animal-generated-data-is-complex-there-is-no-agreement-on-whether-the-data",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+          "name": "The question of who owns animal-generated data is complex. There is no agreement on whether the data belongs to the community protecting the animals (39.7%), the human who records it (32.8%), or the animal itself (17.3%), signaling more legal and ethical work ahead.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "loneliness-correlation-respondents-who-reported-higher-baseline-loneliness-are-more-likely-to-be-ope",
+        "data": {
+          "layout": "generic",
+          "title": "Loneliness Correlation: Respondents who reported higher baseline loneliness are more likely to be open to AI companionship and more intimate AI relationships.",
+          "airtable_id": "84bd475289df2b3a",
+          "slug": "loneliness-correlation-respondents-who-reported-higher-baseline-loneliness-are-more-likely-to-be-ope",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: June 2025",
+          "name": "Loneliness Correlation: Respondents who reported higher baseline loneliness are more likely to be open to AI companionship and more intimate AI relationships.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-majority-notice-automation-replacing-human-interactions-frequently-439-weekly-307-daily",
+        "data": {
+          "layout": "generic",
+          "title": "A majority notice automation replacing human interactions frequently (43.9% weekly, 30.7% daily).",
+          "airtable_id": "8847948a6bc60c38",
+          "slug": "a-majority-notice-automation-replacing-human-interactions-frequently-439-weekly-307-daily",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: March 2025",
+          "name": "A majority notice automation replacing human interactions frequently (43.9% weekly, 30.7% daily).",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "daily-emotional-dependency-149-use-ai-for-emotional-support-daily-with-an-additional-279-weekly-indi",
+        "data": {
+          "layout": "generic",
+          "title": "Daily Emotional Dependency: 14.9% use AI for emotional support daily, with an additional 27.9% weekly, indicating rapid adoption of AI as an emotional resource.",
+          "airtable_id": "59cd2cc81ff04795",
+          "slug": "daily-emotional-dependency-149-use-ai-for-emotional-support-daily-with-an-additional-279-weekly-indi",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: June 2025",
+          "name": "Daily Emotional Dependency: 14.9% use AI for emotional support daily, with an additional 27.9% weekly, indicating rapid adoption of AI as an emotional resource.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "romantic-relationships-54-find-ai-companions-acceptable-for-lonely-people-17-consider-ai-romantic-pa",
+        "data": {
+          "layout": "generic",
+          "title": "Romantic Relationships: 54% find AI companions acceptable for lonely people, 17% consider AI romantic partners acceptable, and 11% would personally consider a romantic relationship with an AI.",
+          "airtable_id": "ba2e25f4bca368a3",
+          "slug": "romantic-relationships-54-find-ai-companions-acceptable-for-lonely-people-17-consider-ai-romantic-pa",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: June 2025",
+          "name": "Romantic Relationships: 54% find AI companions acceptable for lonely people, 17% consider AI romantic partners acceptable, and 11% would personally consider a romantic relationship with an AI.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "76-of-participants-favor-ai-tailored-to-their-local-contexts-highlighting-concerns-about-western-cen",
+        "data": {
+          "layout": "generic",
+          "title": "76% of participants favor AI tailored to their local contexts, highlighting concerns about Western-centric systems misinterpreting cultural nuances.",
+          "airtable_id": "f984d6a60a190a2d",
+          "slug": "76-of-participants-favor-ai-tailored-to-their-local-contexts-highlighting-concerns-about-western-cen",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+          "name": "76% of participants favor AI tailored to their local contexts, highlighting concerns about Western-centric systems misinterpreting cultural nuances.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-clear-pattern-emerges-concerns-about-ais-cultural-impact-run-deepest-outside-the-western-world-the",
+        "data": {
+          "layout": "generic",
+          "title": "A clear pattern emerges: concerns about AI's cultural impact run deepest outside the Western world. The data reveals a geographic divide in how people view AI's threat to cultural identity.",
+          "airtable_id": "8d508331b1235722",
+          "slug": "a-clear-pattern-emerges-concerns-about-ais-cultural-impact-run-deepest-outside-the-western-world-the",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: November 2024",
+          "name": "A clear pattern emerges: concerns about AI's cultural impact run deepest outside the Western world. The data reveals a geographic divide in how people view AI's threat to cultural identity.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-strong-majority-714-feel-ai-has-already-made-their-daily-lives-noticeably-or-profoundly-better",
+        "data": {
+          "layout": "generic",
+          "title": "A strong majority (71.4%) feel AI has already made their daily lives noticeably or profoundly better.",
+          "airtable_id": "632d636383d5e110",
+          "slug": "a-strong-majority-714-feel-ai-has-already-made-their-daily-lives-noticeably-or-profoundly-better",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: March 2025",
+          "name": "A strong majority (71.4%) feel AI has already made their daily lives noticeably or profoundly better.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "86-of-participants-agree-ai-should-apologize-for-cultural-errors-explain-them-and-commit-to-learning",
+        "data": {
+          "layout": "generic",
+          "title": "86% of participants agree AI should apologize for cultural errors, explain them, and commit to learning.",
+          "airtable_id": "f9d50871fabe3aca",
+          "slug": "86-of-participants-agree-ai-should-apologize-for-cultural-errors-explain-them-and-commit-to-learning",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+          "name": "86% of participants agree AI should apologize for cultural errors, explain them, and commit to learning.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-is-highly-noticeable-in-daily-life-677-notice-it-daily-and-actively-used-both-at-work-492-use-it",
+        "data": {
+          "layout": "generic",
+          "title": "AI is highly noticeable in daily life (67.7% notice it daily), and actively used both at work (49.2% use it daily by choice) and in personal life (47.0% use it daily by choice).",
+          "airtable_id": "b70a7964e249cc29",
+          "slug": "ai-is-highly-noticeable-in-daily-life-677-notice-it-daily-and-actively-used-both-at-work-492-use-it",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: March 2025",
+          "name": "AI is highly noticeable in daily life (67.7% notice it daily), and actively used both at work (49.2% use it daily by choice) and in personal life (47.0% use it daily by choice).",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "nearly-half-of-respondents-47-say-the-primary-reason-to-share-ai-generated-wealth-globally-is-that-a",
+        "data": {
+          "layout": "generic",
+          "title": "Nearly half of respondents (47%) say the primary reason to share AI-generated wealth globally is that AI is built on shared human knowledge, and its benefits should therefore be shared. A further 33% frame it as compensation for job displacement . ",
+          "airtable_id": "ad3586cd9085d473",
+          "slug": "nearly-half-of-respondents-47-say-the-primary-reason-to-share-ai-generated-wealth-globally-is-that-a",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+          "name": "Nearly half of respondents (47%) say the primary reason to share AI-generated wealth globally is that AI is built on shared human knowledge, and its benefits should therefore be shared. A further 33% frame it as compensation for job displacement . ",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-is-already-deeply-embedded-in-peoples-daily-lives-nearly-all-respondents-98-encounter-ai-systems",
+        "data": {
+          "layout": "generic",
+          "title": "AI is already deeply embedded in people's daily lives. Nearly all respondents (98%) encounter AI systems at least weekly, and over half use AI daily in both their personal lives (56%) and at work (54%), with personal adoption slightly outpacing professional use. Yet there is a clear boundary: 57% have never let AI act unsupervised on their behalf, suggesting people are enthusiastic users but cautious delegators.",
+          "airtable_id": "723ea7a593178b77",
+          "slug": "ai-is-already-deeply-embedded-in-peoples-daily-lives-nearly-all-respondents-98-encounter-ai-systems",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+          "name": "AI is already deeply embedded in people's daily lives. Nearly all respondents (98%) encounter AI systems at least weekly, and over half use AI daily in both their personal lives (56%) and at work (54%), with personal adoption slightly outpacing professional use. Yet there is a clear boundary: 57% have never let AI act unsupervised on their behalf, suggesting people are enthusiastic users but cautious delegators.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "respondents-say-that-trustworthy-ai-relies-on-honesty-reliability-experience-empathy-clear-communica",
+        "data": {
+          "layout": "generic",
+          "title": "Respondents say that trustworthy AI relies on honesty, reliability, experience, empathy, clear communication, and respect for privacy.",
+          "airtable_id": "f44ccc5ac6633818",
+          "slug": "respondents-say-that-trustworthy-ai-relies-on-honesty-reliability-experience-empathy-clear-communica",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+          "name": "Respondents say that trustworthy AI relies on honesty, reliability, experience, empathy, clear communication, and respect for privacy.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "over-70-of-respondents-globally-prefer-a-decentralized-ai-future-this-preference-holds-steady-across",
+        "data": {
+          "layout": "generic",
+          "title": "Over 70% of respondents globally prefer a decentralized AI future. This preference holds steady across all demographics—age groups, genders, and geographic regions.",
+          "airtable_id": "88edd517e16b9798",
+          "slug": "over-70-of-respondents-globally-prefer-a-decentralized-ai-future-this-preference-holds-steady-across",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: November 2024",
+          "name": "Over 70% of respondents globally prefer a decentralized AI future. This preference holds steady across all demographics—age groups, genders, and geographic regions.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "an-overwhelming-global-consensus-exists-on-the-need-for-strict-regulation-with-849-of-respondents-ag",
+        "data": {
+          "layout": "generic",
+          "title": "An overwhelming global consensus exists on the need for strict regulation, with 84.9% of respondents agreeing that companies profiting from animals should be strictly regulated. Majorities also support banning specific uses like deception for commercial gain (68.3%) and overriding an animal’s natural instincts (62.5%).",
+          "airtable_id": "c7bc7ff2fc3f8c30",
+          "slug": "an-overwhelming-global-consensus-exists-on-the-need-for-strict-regulation-with-849-of-respondents-ag",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+          "name": "An overwhelming global consensus exists on the need for strict regulation, with 84.9% of respondents agreeing that companies profiting from animals should be strictly regulated. Majorities also support banning specific uses like deception for commercial gain (68.3%) and overriding an animal’s natural instincts (62.5%).",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "there-is-significant-public-support-629-for-granting-animals-a-voice-in-human-decision-making-though",
+        "data": {
+          "layout": "generic",
+          "title": "There is significant public support (62.9%) for granting animals a voice in human decision-making, though there is no consensus on how to do so. While many support a role for animals in areas like environmental protection and agriculture, 37.1% believe animals should not participate in democratic processes at all.",
+          "airtable_id": "30fa1cfe2f9fdef3",
+          "slug": "there-is-significant-public-support-629-for-granting-animals-a-voice-in-human-decision-making-though",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+          "name": "There is significant public support (62.9%) for granting animals a voice in human decision-making, though there is no consensus on how to do so. While many support a role for animals in areas like environmental protection and agriculture, 37.1% believe animals should not participate in democratic processes at all.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "58-somewhat-or-strongly-trust-their-ai-chatbots-while-only-30-have-the-same-trust-in-their-elected-r",
+        "data": {
+          "layout": "generic",
+          "title": "58% somewhat or strongly trust their AI chatbots while only 30% have the same trust in their elected representatives.",
+          "airtable_id": "63fa9c9ba34da82e",
+          "slug": "58-somewhat-or-strongly-trust-their-ai-chatbots-while-only-30-have-the-same-trust-in-their-elected-r",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: March 2025",
+          "name": "58% somewhat or strongly trust their AI chatbots while only 30% have the same trust in their elected representatives.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "preferences-for-formal-versus-casual-ai-interaction-styles-show-significant-regional-variation-repre",
+        "data": {
+          "layout": "generic",
+          "title": "Preferences for formal versus casual AI interaction styles show significant regional variation, representing a clear area of cultural divergence.",
+          "airtable_id": "19dbbe0c8ac4b2db",
+          "slug": "preferences-for-formal-versus-casual-ai-interaction-styles-show-significant-regional-variation-repre",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+          "name": "Preferences for formal versus casual AI interaction styles show significant regional variation, representing a clear area of cultural divergence.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-majority-of-people-around-the-world-believe-that-animals-have-rich-inner-lives-with-94-saying-that",
+        "data": {
+          "layout": "generic",
+          "title": "A majority of people around the world believe that animals have rich inner lives, with 94% saying that they strongly or somewhat believe they have emotions, 91% strongly or somewhat believing they have languages, and 62% strongly or somewhat believing they have cultures.",
+          "airtable_id": "290a7a9f53d8b3a7",
+          "slug": "a-majority-of-people-around-the-world-believe-that-animals-have-rich-inner-lives-with-94-saying-that",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+          "name": "A majority of people around the world believe that animals have rich inner lives, with 94% saying that they strongly or somewhat believe they have emotions, 91% strongly or somewhat believing they have languages, and 62% strongly or somewhat believing they have cultures.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "over-74-of-participants-worldwide-believe-ai-should-defer-to-human-wisdom-in-complex-ethical-cultura",
+        "data": {
+          "layout": "generic",
+          "title": "Over 74% of participants worldwide believe AI should defer to human wisdom in complex ethical, cultural, and personal situations.",
+          "airtable_id": "4b17ed6d16d00b7d",
+          "slug": "over-74-of-participants-worldwide-believe-ai-should-defer-to-human-wisdom-in-complex-ethical-cultura",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+          "name": "Over 74% of participants worldwide believe AI should defer to human wisdom in complex ethical, cultural, and personal situations.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "forty-percent-of-respondents-believe-their-own-job-is-likely-to-be-automated-within-ten-years-but-on",
+        "data": {
+          "layout": "generic",
+          "title": "Forty percent of respondents believe their own job is likely to be automated within ten years, but only 21% think it should be. Opinion on whether automation is coming is genuinely split. But on whether it should happen, there is no such  ambiguity: 65% say no. People are uncertain about AI's trajectory but are confident that they would prefer for it not to take their job. ",
+          "airtable_id": "282a5ed167434003",
+          "slug": "forty-percent-of-respondents-believe-their-own-job-is-likely-to-be-automated-within-ten-years-but-on",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+          "name": "Forty percent of respondents believe their own job is likely to be automated within ten years, but only 21% think it should be. Opinion on whether automation is coming is genuinely split. But on whether it should happen, there is no such  ambiguity: 65% say no. People are uncertain about AI's trajectory but are confident that they would prefer for it not to take their job. ",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "when-it-comes-to-life-changing-decisions-requiring-moral-or-ethical-judgment-51-want-to-maintain-hum",
+        "data": {
+          "layout": "generic",
+          "title": "When it comes to life-changing decisions requiring moral or ethical judgment, 51% want to maintain human control.",
+          "airtable_id": "244852458ac9f1a8",
+          "slug": "when-it-comes-to-life-changing-decisions-requiring-moral-or-ethical-judgment-51-want-to-maintain-hum",
+          "type": "Issue",
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "additional-credit-line": "Key findings: November 2024",
+          "name": "When it comes to life-changing decisions requiring moral or ethical judgment, 51% want to maintain human control.",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "layout": "generic",
+          "slug": "collective-intelligence-project-global-dialogues-process",
+          "title": "Collective Intelligence Project Global Dialogues - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-March 2026",
+        "airtable_id": "11c248e11ace40e5",
+        "slug": "collective-intelligence-project-global-dialogues-march-2026",
+        "locations": [
+          "algeria",
+          "andorra",
+          "angola",
+          "argentina",
+          "armenia",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "croatia",
+          "cuba",
+          "czech-republic",
+          "denmark",
+          "egypt",
+          "finland",
+          "france",
+          "germany",
+          "ghana",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland-republic-1",
+          "israel",
+          "italy",
+          "japan",
+          "kazakhstan",
+          "kenya",
+          "luxembourg",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "morocco",
+          "netherlands",
+          "new-zealand",
+          "norway",
+          "pakistan",
+          "philippines",
+          "poland",
+          "portugal",
+          "romania",
+          "russian-federation",
+          "saint-vincent-the-grenadines",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "south-africa",
+          "south-korea",
+          "spain",
+          "sweden",
+          "switzerland",
+          "syria",
+          "türkiye",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "vietnam"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-March 2026",
+        "group-description": "March 2026",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1041,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-September 2025",
+        "airtable_id": "490f0a702b169d3e",
+        "slug": "collective-intelligence-project-global-dialogues-september-2025",
+        "locations": [
+          "algeria",
+          "angola",
+          "argentina",
+          "armenia",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "colombia",
+          "croatia",
+          "czech-republic",
+          "denmark",
+          "egypt",
+          "estonia",
+          "finland",
+          "france",
+          "germany",
+          "ghana",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland-republic",
+          "israel",
+          "italy",
+          "japan",
+          "kazakhstan",
+          "kenya",
+          "kiribati",
+          "korea-south",
+          "latvia",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "morocco",
+          "netherlands",
+          "new-zealand",
+          "norway",
+          "pakistan",
+          "palestine",
+          "philippines",
+          "poland",
+          "portugal",
+          "russian-federation",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-africa",
+          "spain",
+          "sri-lanka",
+          "sudan",
+          "sweden",
+          "switzerland",
+          "tunisia",
+          "türkiye",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "uruguay",
+          "vietnam"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-September 2025",
+        "group-description": "September 2025",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1028,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-January 2025",
+        "airtable_id": "e63af73c964c58bb",
+        "slug": "collective-intelligence-project-global-dialogues-january-2025",
+        "locations": [
+          "algeria",
+          "angola",
+          "argentina",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "croatia",
+          "denmark",
+          "dominican-republic",
+          "egypt",
+          "eritrea",
+          "fiji",
+          "finland",
+          "france",
+          "germany",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland-republic",
+          "israel",
+          "italy",
+          "japan",
+          "kazakhstan",
+          "kenya",
+          "korea-south",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "morocco",
+          "netherlands",
+          "new-zealand",
+          "norway",
+          "pakistan",
+          "palestine",
+          "philippines",
+          "poland",
+          "portugal",
+          "romania",
+          "russian-federation",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "south-africa",
+          "spain",
+          "sri-lanka",
+          "sudan",
+          "sweden",
+          "switzerland",
+          "tunisia",
+          "turkey",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "uzbekistan",
+          "venezuela",
+          "vietnam",
+          "zimbabwe"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-January 2025",
+        "group-description": "January 2025",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1071,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-March 2025",
+        "airtable_id": "2bd3ae47f84510e8",
+        "slug": "collective-intelligence-project-global-dialogues-march-2025",
+        "locations": [
+          "algeria",
+          "argentina",
+          "armenia",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "croatia",
+          "cuba",
+          "denmark",
+          "egypt",
+          "finland",
+          "france",
+          "germany",
+          "greece",
+          "hungary",
+          "iceland",
+          "india",
+          "indonesia",
+          "ireland-republic",
+          "israel",
+          "italy",
+          "japan",
+          "kazakhstan",
+          "kenya",
+          "korea-south",
+          "libya",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "morocco",
+          "netherlands",
+          "new-zealand",
+          "norway",
+          "pakistan",
+          "palestine",
+          "panama",
+          "philippines",
+          "poland",
+          "portugal",
+          "romania",
+          "russian-federation",
+          "saint-vincent-the-grenadines",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "south-africa",
+          "spain",
+          "sudan",
+          "sweden",
+          "switzerland",
+          "tunisia",
+          "türkiye",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "vietnam",
+          "zimbabwe"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-March 2025",
+        "group-description": "March 2025",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 967,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-November 2024",
+        "airtable_id": "c62580ee30e3432c",
+        "slug": "collective-intelligence-project-global-dialogues-november-2024",
+        "locations": [
+          "algeria",
+          "angola",
+          "antigua-deps",
+          "argentina",
+          "armenia",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "colombia",
+          "costa-rica",
+          "croatia",
+          "czech-republic",
+          "denmark",
+          "egypt",
+          "eritrea",
+          "fiji",
+          "finland",
+          "france",
+          "georgia",
+          "germany",
+          "ghana",
+          "greece",
+          "hungary",
+          "iceland",
+          "india",
+          "indonesia",
+          "ireland-republic",
+          "israel",
+          "italy",
+          "japan",
+          "kazakhstan",
+          "kenya",
+          "korea-south",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "mongolia",
+          "morocco",
+          "nepal",
+          "netherlands",
+          "new-zealand",
+          "nigeria",
+          "norway",
+          "pakistan",
+          "palestine",
+          "panama",
+          "peru",
+          "philippines",
+          "poland",
+          "portugal",
+          "romania",
+          "russian-federation",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "south-africa",
+          "spain",
+          "sweden",
+          "switzerland",
+          "tanzania",
+          "trinidad-tobago",
+          "tunisia",
+          "turkey",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "uzbekistan",
+          "venezuela",
+          "vietnam"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-November 2024",
+        "group-description": "November 2024",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1253,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Collective Intelligence Project Global Dialogues-June 2025",
+        "airtable_id": "366889d44347be0d",
+        "slug": "collective-intelligence-project-global-dialogues-june-2025",
+        "locations": [
+          "albania",
+          "algeria",
+          "angola",
+          "argentina",
+          "armenia",
+          "australia",
+          "austria",
+          "bangladesh",
+          "belgium",
+          "brazil",
+          "canada",
+          "chile",
+          "china",
+          "croatia",
+          "czech-republic",
+          "denmark",
+          "egypt",
+          "finland",
+          "france",
+          "germany",
+          "ghana",
+          "greece",
+          "hungary",
+          "iceland",
+          "india",
+          "indonesia",
+          "ireland-republic",
+          "israel",
+          "italy",
+          "japan",
+          "jordan",
+          "kazakhstan",
+          "kenya",
+          "korea-south",
+          "latvia",
+          "malawi",
+          "malaysia",
+          "mexico",
+          "morocco",
+          "netherlands",
+          "new-zealand",
+          "norway",
+          "pakistan",
+          "palestine",
+          "philippines",
+          "poland",
+          "portugal",
+          "romania",
+          "russian-federation",
+          "saudi-arabia",
+          "singapore",
+          "slovakia",
+          "somalia",
+          "south-africa",
+          "spain",
+          "sri-lanka",
+          "sudan",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "tunisia",
+          "türkiye",
+          "ukraine",
+          "united-arab-emirates",
+          "united-kingdom",
+          "united-states",
+          "vietnam",
+          "zimbabwe"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Collective Intelligence Project Global Dialogues-June 2025",
+        "group-description": "June 2025",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1025,
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "recruitment-description": "Participants were recruited through a global research and AI-contributor recruitment agency.",
+        "was-there-a-specific-target-population": "Adults (18 +) with internet access across multiple world regions",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "layout": "generic",
+        "slug": "collective-intelligence-project-global-dialogues-process",
+        "title": "Collective Intelligence Project Global Dialogues - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Public AI",
+        "airtable_id": "d8ed99307cf35a32",
+        "slug": "public-ai",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Public AI",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Collective Intelligence Project",
+        "airtable_id": "b1ca0fe8e773cba8",
+        "slug": "collective-intelligence-project",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Collective Intelligence Project",
+        "lead-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Human Capital Africa",
+        "airtable_id": "060e5d3520407409",
+        "slug": "human-capital-africa",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Human Capital Africa",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Jigsaw",
+        "airtable_id": "2e4f5d411fb50d6b",
+        "slug": "jigsaw",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Jigsaw",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Omidyar Network",
+        "airtable_id": "0c00a115e1c75fad",
+        "slug": "omidyar-network",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Omidyar Network",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Chatham House",
+        "airtable_id": "fd0e78d99ecf2bb0",
+        "slug": "chatham-house",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Chatham House",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mistral AI",
+        "airtable_id": "d5a545b6fccc43f4",
+        "slug": "mistral-ai",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Mistral AI",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Windfall Trust",
+        "airtable_id": "60bdad9ebac74f9e",
+        "slug": "windfall-trust",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Windfall Trust",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Bhutan AI Society",
+        "airtable_id": "38ee8e6cf0246d10",
+        "slug": "bhutan-ai-society",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Bhutan AI Society",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Remesh",
+        "airtable_id": "4f9bd03c51467357",
+        "slug": "remesh",
+        "role": [
+          "Lead"
+        ],
+        "website-address": "https://remesh.ai",
+        "name": "Remesh",
+        "lead-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mozilla",
+        "airtable_id": "06e19a6c7b95da94",
+        "slug": "mozilla",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Mozilla",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Prolific",
+        "airtable_id": "3fe2112cdff6583c",
+        "slug": "prolific",
+        "role": [
+          "Lead"
+        ],
+        "website-address": "https://prolific.com",
+        "name": "Prolific",
+        "lead-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Aspen Digital",
+        "airtable_id": "2763aa8307f26d6e",
+        "slug": "aspen-digital",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Aspen Digital",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Authenticity : 70.5% use AI for emotional support, yet most don't believe AI genuinely cares about them, creating a fundamental tension in human-AI relationships.",
+        "airtable_id": "171bbd4097c6447d",
+        "slug": "authenticity-705-use-ai-for-emotional-support-yet-most-dont-believe-ai-genuinely-cares-about-them-cr",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: June 2025",
+        "name": "Authenticity : 70.5% use AI for emotional support, yet most don't believe AI genuinely cares about them, creating a fundamental tension in human-AI relationships.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Public opinion on using AI to understand animals is largely hopeful (47.7%) and curious (60.5%), but is tempered by pre-existing views on AI. Among AI optimists, 63.4% would trust AI's interpretations, compared to only 29.6% of AI skeptics.",
+        "airtable_id": "b497081590103823",
+        "slug": "public-opinion-on-using-ai-to-understand-animals-is-largely-hopeful-477-and-curious-605-but-is-tempe",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+        "name": "Public opinion on using AI to understand animals is largely hopeful (47.7%) and curious (60.5%), but is tempered by pre-existing views on AI. Among AI optimists, 63.4% would trust AI's interpretations, compared to only 29.6% of AI skeptics.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "52% of people welcome AI assistance with routine but important choices like financial and educational planning, with highest acceptance in South America (62%) and Africa (58%).",
+        "airtable_id": "9630be359ec20ca6",
+        "slug": "52-of-people-welcome-ai-assistance-with-routine-but-important-choices-like-financial-and-educational",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: November 2024",
+        "name": "52% of people welcome AI assistance with routine but important choices like financial and educational planning, with highest acceptance in South America (62%) and Africa (58%).",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Consciousness Attribution: 30% of people globally have at some point thought their AI chatbot might be self-aware, driven by AI exhibiting empathy, curiosity, and creativity—qualities already present in leading frontier LLMs.",
+        "airtable_id": "dedebf127564cc67",
+        "slug": "consciousness-attribution-30-of-people-globally-have-at-some-point-thought-their-ai-chatbot-might-be",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: June 2025",
+        "name": "Consciousness Attribution: 30% of people globally have at some point thought their AI chatbot might be self-aware, driven by AI exhibiting empathy, curiosity, and creativity—qualities already present in leading frontier LLMs.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The question of who owns animal-generated data is complex. There is no agreement on whether the data belongs to the community protecting the animals (39.7%), the human who records it (32.8%), or the animal itself (17.3%), signaling more legal and ethical work ahead.",
+        "airtable_id": "2efcdd4ca30f6340",
+        "slug": "the-question-of-who-owns-animal-generated-data-is-complex-there-is-no-agreement-on-whether-the-data",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+        "name": "The question of who owns animal-generated data is complex. There is no agreement on whether the data belongs to the community protecting the animals (39.7%), the human who records it (32.8%), or the animal itself (17.3%), signaling more legal and ethical work ahead.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Loneliness Correlation: Respondents who reported higher baseline loneliness are more likely to be open to AI companionship and more intimate AI relationships.",
+        "airtable_id": "84bd475289df2b3a",
+        "slug": "loneliness-correlation-respondents-who-reported-higher-baseline-loneliness-are-more-likely-to-be-ope",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: June 2025",
+        "name": "Loneliness Correlation: Respondents who reported higher baseline loneliness are more likely to be open to AI companionship and more intimate AI relationships.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A majority notice automation replacing human interactions frequently (43.9% weekly, 30.7% daily).",
+        "airtable_id": "8847948a6bc60c38",
+        "slug": "a-majority-notice-automation-replacing-human-interactions-frequently-439-weekly-307-daily",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: March 2025",
+        "name": "A majority notice automation replacing human interactions frequently (43.9% weekly, 30.7% daily).",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Daily Emotional Dependency: 14.9% use AI for emotional support daily, with an additional 27.9% weekly, indicating rapid adoption of AI as an emotional resource.",
+        "airtable_id": "59cd2cc81ff04795",
+        "slug": "daily-emotional-dependency-149-use-ai-for-emotional-support-daily-with-an-additional-279-weekly-indi",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: June 2025",
+        "name": "Daily Emotional Dependency: 14.9% use AI for emotional support daily, with an additional 27.9% weekly, indicating rapid adoption of AI as an emotional resource.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Romantic Relationships: 54% find AI companions acceptable for lonely people, 17% consider AI romantic partners acceptable, and 11% would personally consider a romantic relationship with an AI.",
+        "airtable_id": "ba2e25f4bca368a3",
+        "slug": "romantic-relationships-54-find-ai-companions-acceptable-for-lonely-people-17-consider-ai-romantic-pa",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: June 2025",
+        "name": "Romantic Relationships: 54% find AI companions acceptable for lonely people, 17% consider AI romantic partners acceptable, and 11% would personally consider a romantic relationship with an AI.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "76% of participants favor AI tailored to their local contexts, highlighting concerns about Western-centric systems misinterpreting cultural nuances.",
+        "airtable_id": "f984d6a60a190a2d",
+        "slug": "76-of-participants-favor-ai-tailored-to-their-local-contexts-highlighting-concerns-about-western-cen",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+        "name": "76% of participants favor AI tailored to their local contexts, highlighting concerns about Western-centric systems misinterpreting cultural nuances.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A clear pattern emerges: concerns about AI's cultural impact run deepest outside the Western world. The data reveals a geographic divide in how people view AI's threat to cultural identity.",
+        "airtable_id": "8d508331b1235722",
+        "slug": "a-clear-pattern-emerges-concerns-about-ais-cultural-impact-run-deepest-outside-the-western-world-the",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: November 2024",
+        "name": "A clear pattern emerges: concerns about AI's cultural impact run deepest outside the Western world. The data reveals a geographic divide in how people view AI's threat to cultural identity.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A strong majority (71.4%) feel AI has already made their daily lives noticeably or profoundly better.",
+        "airtable_id": "632d636383d5e110",
+        "slug": "a-strong-majority-714-feel-ai-has-already-made-their-daily-lives-noticeably-or-profoundly-better",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: March 2025",
+        "name": "A strong majority (71.4%) feel AI has already made their daily lives noticeably or profoundly better.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "86% of participants agree AI should apologize for cultural errors, explain them, and commit to learning.",
+        "airtable_id": "f9d50871fabe3aca",
+        "slug": "86-of-participants-agree-ai-should-apologize-for-cultural-errors-explain-them-and-commit-to-learning",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+        "name": "86% of participants agree AI should apologize for cultural errors, explain them, and commit to learning.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI is highly noticeable in daily life (67.7% notice it daily), and actively used both at work (49.2% use it daily by choice) and in personal life (47.0% use it daily by choice).",
+        "airtable_id": "b70a7964e249cc29",
+        "slug": "ai-is-highly-noticeable-in-daily-life-677-notice-it-daily-and-actively-used-both-at-work-492-use-it",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: March 2025",
+        "name": "AI is highly noticeable in daily life (67.7% notice it daily), and actively used both at work (49.2% use it daily by choice) and in personal life (47.0% use it daily by choice).",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Nearly half of respondents (47%) say the primary reason to share AI-generated wealth globally is that AI is built on shared human knowledge, and its benefits should therefore be shared. A further 33% frame it as compensation for job displacement . ",
+        "airtable_id": "ad3586cd9085d473",
+        "slug": "nearly-half-of-respondents-47-say-the-primary-reason-to-share-ai-generated-wealth-globally-is-that-a",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+        "name": "Nearly half of respondents (47%) say the primary reason to share AI-generated wealth globally is that AI is built on shared human knowledge, and its benefits should therefore be shared. A further 33% frame it as compensation for job displacement . ",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI is already deeply embedded in people's daily lives. Nearly all respondents (98%) encounter AI systems at least weekly, and over half use AI daily in both their personal lives (56%) and at work (54%), with personal adoption slightly outpacing professional use. Yet there is a clear boundary: 57% have never let AI act unsupervised on their behalf, suggesting people are enthusiastic users but cautious delegators.",
+        "airtable_id": "723ea7a593178b77",
+        "slug": "ai-is-already-deeply-embedded-in-peoples-daily-lives-nearly-all-respondents-98-encounter-ai-systems",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+        "name": "AI is already deeply embedded in people's daily lives. Nearly all respondents (98%) encounter AI systems at least weekly, and over half use AI daily in both their personal lives (56%) and at work (54%), with personal adoption slightly outpacing professional use. Yet there is a clear boundary: 57% have never let AI act unsupervised on their behalf, suggesting people are enthusiastic users but cautious delegators.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Respondents say that trustworthy AI relies on honesty, reliability, experience, empathy, clear communication, and respect for privacy.",
+        "airtable_id": "f44ccc5ac6633818",
+        "slug": "respondents-say-that-trustworthy-ai-relies-on-honesty-reliability-experience-empathy-clear-communica",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+        "name": "Respondents say that trustworthy AI relies on honesty, reliability, experience, empathy, clear communication, and respect for privacy.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Over 70% of respondents globally prefer a decentralized AI future. This preference holds steady across all demographics—age groups, genders, and geographic regions.",
+        "airtable_id": "88edd517e16b9798",
+        "slug": "over-70-of-respondents-globally-prefer-a-decentralized-ai-future-this-preference-holds-steady-across",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: November 2024",
+        "name": "Over 70% of respondents globally prefer a decentralized AI future. This preference holds steady across all demographics—age groups, genders, and geographic regions.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "An overwhelming global consensus exists on the need for strict regulation, with 84.9% of respondents agreeing that companies profiting from animals should be strictly regulated. Majorities also support banning specific uses like deception for commercial gain (68.3%) and overriding an animal’s natural instincts (62.5%).",
+        "airtable_id": "c7bc7ff2fc3f8c30",
+        "slug": "an-overwhelming-global-consensus-exists-on-the-need-for-strict-regulation-with-849-of-respondents-ag",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+        "name": "An overwhelming global consensus exists on the need for strict regulation, with 84.9% of respondents agreeing that companies profiting from animals should be strictly regulated. Majorities also support banning specific uses like deception for commercial gain (68.3%) and overriding an animal’s natural instincts (62.5%).",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "There is significant public support (62.9%) for granting animals a voice in human decision-making, though there is no consensus on how to do so. While many support a role for animals in areas like environmental protection and agriculture, 37.1% believe animals should not participate in democratic processes at all.",
+        "airtable_id": "30fa1cfe2f9fdef3",
+        "slug": "there-is-significant-public-support-629-for-granting-animals-a-voice-in-human-decision-making-though",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+        "name": "There is significant public support (62.9%) for granting animals a voice in human decision-making, though there is no consensus on how to do so. While many support a role for animals in areas like environmental protection and agriculture, 37.1% believe animals should not participate in democratic processes at all.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "58% somewhat or strongly trust their AI chatbots while only 30% have the same trust in their elected representatives.",
+        "airtable_id": "63fa9c9ba34da82e",
+        "slug": "58-somewhat-or-strongly-trust-their-ai-chatbots-while-only-30-have-the-same-trust-in-their-elected-r",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: March 2025",
+        "name": "58% somewhat or strongly trust their AI chatbots while only 30% have the same trust in their elected representatives.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Preferences for formal versus casual AI interaction styles show significant regional variation, representing a clear area of cultural divergence.",
+        "airtable_id": "19dbbe0c8ac4b2db",
+        "slug": "preferences-for-formal-versus-casual-ai-interaction-styles-show-significant-regional-variation-repre",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+        "name": "Preferences for formal versus casual AI interaction styles show significant regional variation, representing a clear area of cultural divergence.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A majority of people around the world believe that animals have rich inner lives, with 94% saying that they strongly or somewhat believe they have emotions, 91% strongly or somewhat believing they have languages, and 62% strongly or somewhat believing they have cultures.",
+        "airtable_id": "290a7a9f53d8b3a7",
+        "slug": "a-majority-of-people-around-the-world-believe-that-animals-have-rich-inner-lives-with-94-saying-that",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: September 2025 (In partnership with the Earth Species Project)",
+        "name": "A majority of people around the world believe that animals have rich inner lives, with 94% saying that they strongly or somewhat believe they have emotions, 91% strongly or somewhat believing they have languages, and 62% strongly or somewhat believing they have cultures.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Over 74% of participants worldwide believe AI should defer to human wisdom in complex ethical, cultural, and personal situations.",
+        "airtable_id": "4b17ed6d16d00b7d",
+        "slug": "over-74-of-participants-worldwide-believe-ai-should-defer-to-human-wisdom-in-complex-ethical-cultura",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: Jan 2025 (In partnership with Mistral AI)",
+        "name": "Over 74% of participants worldwide believe AI should defer to human wisdom in complex ethical, cultural, and personal situations.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Forty percent of respondents believe their own job is likely to be automated within ten years, but only 21% think it should be. Opinion on whether automation is coming is genuinely split. But on whether it should happen, there is no such  ambiguity: 65% say no. People are uncertain about AI's trajectory but are confident that they would prefer for it not to take their job. ",
+        "airtable_id": "282a5ed167434003",
+        "slug": "forty-percent-of-respondents-believe-their-own-job-is-likely-to-be-automated-within-ten-years-but-on",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Findings: March 2026 (In Partnership with Windfall Trust)",
+        "name": "Forty percent of respondents believe their own job is likely to be automated within ten years, but only 21% think it should be. Opinion on whether automation is coming is genuinely split. But on whether it should happen, there is no such  ambiguity: 65% say no. People are uncertain about AI's trajectory but are confident that they would prefer for it not to take their job. ",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "When it comes to life-changing decisions requiring moral or ethical judgment, 51% want to maintain human control.",
+        "airtable_id": "244852458ac9f1a8",
+        "slug": "when-it-comes-to-life-changing-decisions-requiring-moral-or-ethical-judgment-51-want-to-maintain-hum",
+        "type": "Issue",
+        "cases": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "additional-credit-line": "Key findings: November 2024",
+        "name": "When it comes to life-changing decisions requiring moral or ethical judgment, 51% want to maintain human control.",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

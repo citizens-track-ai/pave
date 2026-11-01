@@ -1,0 +1,699 @@
+{
+  "slug": "kalinga-iksp-and-ai-policy-ordinance",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Kalinga IKSP and AI Policy Ordinance",
+    "airtable_id": "5ed6f940d23b6925",
+    "slug": "kalinga-iksp-and-ai-policy-ordinance",
+    "redirect_from": [
+      "/c/5ed6f940d23b6925/"
+    ],
+    "lead-organisations": [
+      "nyu-peace-research-and-education-program-prep",
+      "kalinga-state-university"
+    ],
+    "provide-a-brief-description-of-the-project": "Beginning in 2026, the NYU Peace Research and Education Program (PREP) and Kalinga State University worked with community in Kalinga to run a Digital Arang to involve approximately 200 people in community-led governance discussions to build community power and inform policy-making with respect to AI.\n\nIn Kalinga, in the Cordillera highlands of the northern Philippines, an arang is the open ground where the community gathers to decide things together. The Digital Arang borrowed that gathering and asked a new question: who decides how data and AI may touch Indigenous knowledge, and on what terms? Working with Kalinga State University, the Indigenous Peoples' Mandatory Representation, the National Commission on Indigenous Peoples, and community elders, the project ran a series of governance workshops that produced an Indigenous Knowledge, Systems and Practices (IKSP) framework and a local AI Policy Ordinance. The ordinance translates the principle of free, prior and informed consent into concrete rules for how Indigenous data may be collected, stored, accessed, and refused. It treats opacity, the community's right not to be made legible, as a governance choice rather than a gap to be filled.\n\nMost participatory AI work in this collection comes from North America and Europe and asks how to consult citizens about AI systems built elsewhere. This case starts from a different place. It centres an Indigenous community setting binding terms on whether and how AI may engage their knowledge at all. The contribution is a working model for data and AI governance grounded in Indigenous self-determination and FPIC, developed in the community's own deliberative form rather than imported from a citizens-assembly template. It engages a community almost entirely absent from global AI governance and shows that the right to refuse is itself a governable principle.\n",
+    "what-limitations-to-the-project-should-be-noted": "Candidates: the engagement centred a specific set of elders and representatives and does not claim to speak for all Kalinga communities; timeframes were compressed by fieldwork logistics; the ordinance's enforcement depends on local and national mechanisms still being established.\n",
+    "project-status": "In Progress",
+    "headline-findings": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.\n\nIndigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.\n",
+    "participants": [
+      "kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Generative AI",
+      "Current issues",
+      "Future issues"
+    ],
+    "messages": [
+      "indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t",
+      "the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "funding-organisations": [
+      "future-of-life-institute"
+    ],
+    "additional-acknowledgements": "Twinkle Bautista, Katerina Siira, Marilou Alngag, and Joy Grace Doctor",
+    "inclusion-efforts": "The project used the community's own deliberative form, rather than imposing an external workshop template, so that authority and pacing stayed with the elders. \n\nRecruitment ran through Indigenous representative structures (IPMR, NCIP) rather than individual sign-up. \n\nResponsible-AI training was provided first so participants engaged the governance questions from an informed position rather than being asked to react cold.\n",
+    "project-title": "Kalinga IKSP and AI Policy Ordinance",
+    "submitted-by": "Marine Collins Ragnet",
+    "why-is-this-project-important-to-include-in-the": "Most participatory AI work in this collection comes from North America and Europe and asks how to consult citizens about AI systems built elsewhere. This case starts from a different place. It centres an Indigenous community setting binding terms on whether and how AI may engage their knowledge at all. The contribution is a working model for data and AI governance grounded in Indigenous self-determination and FPIC, developed in the community's own deliberative form rather than imported from a citizens-assembly template. It engages a community almost entirely absent from global AI governance and shows that the right to refuse is itself a governable principle.",
+    "photos-and-images": [
+      {
+        "id": "attAtHNWiwDsx2UCP",
+        "width": 1454,
+        "height": 1536,
+        "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP.jpeg",
+        "filename": "1773671845448.jpeg",
+        "size": 301942,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_small.jpeg",
+            "width": 34,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_large.jpeg",
+            "width": 512,
+            "height": 541
+          },
+          "full": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_full.jpeg",
+            "width": 1454,
+            "height": 1536
+          }
+        }
+      },
+      {
+        "id": "attJ6VL34oxM60oW7",
+        "width": 1200,
+        "height": 1600,
+        "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7.jpeg",
+        "filename": "1773671845144.jpeg",
+        "size": 364316,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_small.jpeg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_large.jpeg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_full.jpeg",
+            "width": 1200,
+            "height": 1600
+          }
+        }
+      },
+      {
+        "id": "att0pCGa2926zljZu",
+        "width": 5712,
+        "height": 4284,
+        "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu.jpeg",
+        "filename": "IMG_5165.jpeg",
+        "size": 3311161,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_large.jpeg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_full.jpeg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "linkedin-post-1"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Whether and how AI and data systems may engage Indigenous knowledge, and the community's right to set or refuse those terms.",
+    "how-was-the-project-initiated": [
+      "Co-created"
+    ],
+    "level-of-engagement": "Community",
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A research poster"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://www.nyupeace.education/peaceai",
+    "locations": [
+      "kalinga-philippines"
+    ],
+    "where-were-participants-from": [
+      "Kalinga, Philippines"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "kalinga-iksp-and-ai-policy-ordinance",
+    "data": {
+      "layout": "case",
+      "title": "Kalinga IKSP and AI Policy Ordinance",
+      "airtable_id": "5ed6f940d23b6925",
+      "slug": "kalinga-iksp-and-ai-policy-ordinance",
+      "redirect_from": [
+        "/c/5ed6f940d23b6925/"
+      ],
+      "lead-organisations": [
+        "nyu-peace-research-and-education-program-prep",
+        "kalinga-state-university"
+      ],
+      "provide-a-brief-description-of-the-project": "Beginning in 2026, the NYU Peace Research and Education Program (PREP) and Kalinga State University worked with community in Kalinga to run a Digital Arang to involve approximately 200 people in community-led governance discussions to build community power and inform policy-making with respect to AI.\n\nIn Kalinga, in the Cordillera highlands of the northern Philippines, an arang is the open ground where the community gathers to decide things together. The Digital Arang borrowed that gathering and asked a new question: who decides how data and AI may touch Indigenous knowledge, and on what terms? Working with Kalinga State University, the Indigenous Peoples' Mandatory Representation, the National Commission on Indigenous Peoples, and community elders, the project ran a series of governance workshops that produced an Indigenous Knowledge, Systems and Practices (IKSP) framework and a local AI Policy Ordinance. The ordinance translates the principle of free, prior and informed consent into concrete rules for how Indigenous data may be collected, stored, accessed, and refused. It treats opacity, the community's right not to be made legible, as a governance choice rather than a gap to be filled.\n\nMost participatory AI work in this collection comes from North America and Europe and asks how to consult citizens about AI systems built elsewhere. This case starts from a different place. It centres an Indigenous community setting binding terms on whether and how AI may engage their knowledge at all. The contribution is a working model for data and AI governance grounded in Indigenous self-determination and FPIC, developed in the community's own deliberative form rather than imported from a citizens-assembly template. It engages a community almost entirely absent from global AI governance and shows that the right to refuse is itself a governable principle.\n",
+      "what-limitations-to-the-project-should-be-noted": "Candidates: the engagement centred a specific set of elders and representatives and does not claim to speak for all Kalinga communities; timeframes were compressed by fieldwork logistics; the ordinance's enforcement depends on local and national mechanisms still being established.\n",
+      "project-status": "In Progress",
+      "headline-findings": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.\n\nIndigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.\n",
+      "participants": [
+        "kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Generative AI",
+        "Current issues",
+        "Future issues"
+      ],
+      "messages": [
+        "indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t",
+        "the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "funding-organisations": [
+        "future-of-life-institute"
+      ],
+      "additional-acknowledgements": "Twinkle Bautista, Katerina Siira, Marilou Alngag, and Joy Grace Doctor",
+      "inclusion-efforts": "The project used the community's own deliberative form, rather than imposing an external workshop template, so that authority and pacing stayed with the elders. \n\nRecruitment ran through Indigenous representative structures (IPMR, NCIP) rather than individual sign-up. \n\nResponsible-AI training was provided first so participants engaged the governance questions from an informed position rather than being asked to react cold.\n",
+      "project-title": "Kalinga IKSP and AI Policy Ordinance",
+      "submitted-by": "Marine Collins Ragnet",
+      "why-is-this-project-important-to-include-in-the": "Most participatory AI work in this collection comes from North America and Europe and asks how to consult citizens about AI systems built elsewhere. This case starts from a different place. It centres an Indigenous community setting binding terms on whether and how AI may engage their knowledge at all. The contribution is a working model for data and AI governance grounded in Indigenous self-determination and FPIC, developed in the community's own deliberative form rather than imported from a citizens-assembly template. It engages a community almost entirely absent from global AI governance and shows that the right to refuse is itself a governable principle.",
+      "photos-and-images": [
+        {
+          "id": "attAtHNWiwDsx2UCP",
+          "width": 1454,
+          "height": 1536,
+          "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP.jpeg",
+          "filename": "1773671845448.jpeg",
+          "size": 301942,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_small.jpeg",
+              "width": 34,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_large.jpeg",
+              "width": 512,
+              "height": 541
+            },
+            "full": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attAtHNWiwDsx2UCP_full.jpeg",
+              "width": 1454,
+              "height": 1536
+            }
+          }
+        },
+        {
+          "id": "attJ6VL34oxM60oW7",
+          "width": 1200,
+          "height": 1600,
+          "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7.jpeg",
+          "filename": "1773671845144.jpeg",
+          "size": 364316,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_small.jpeg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_large.jpeg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_attJ6VL34oxM60oW7_full.jpeg",
+              "width": 1200,
+              "height": 1600
+            }
+          }
+        },
+        {
+          "id": "att0pCGa2926zljZu",
+          "width": 5712,
+          "height": 4284,
+          "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu.jpeg",
+          "filename": "IMG_5165.jpeg",
+          "size": 3311161,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_large.jpeg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/5ed6f940d23b6925_fldd4B6cpBOP3n3is_att0pCGa2926zljZu_full.jpeg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "linkedin-post-1"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Whether and how AI and data systems may engage Indigenous knowledge, and the community's right to set or refuse those terms.",
+      "how-was-the-project-initiated": [
+        "Co-created"
+      ],
+      "level-of-engagement": "Community",
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A research poster"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://www.nyupeace.education/peaceai",
+      "locations": [
+        "kalinga-philippines"
+      ],
+      "where-were-participants-from": [
+        "Kalinga, Philippines"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along",
+        "data": {
+          "layout": "generic",
+          "title": "Kalinga IKSP and AI Policy Ordinance-Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+          "airtable_id": "3a6bca27a5cf6049",
+          "slug": "kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along",
+          "locations": [
+            "kalinga-philippines"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "Kalinga, Philippines",
+          "name": "Kalinga IKSP and AI Policy Ordinance-Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+          "group-description": "Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 200,
+          "cases": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "recruitment-description": "Recruitment ran through Indigenous representative structures (IPMR, NCIP) rather than individual sign-up. Responsible-AI training was provided first so participants engaged the governance questions from an informed position rather than being asked to react cold.",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "kalinga-state-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Kalinga State University",
+          "airtable_id": "f4dd718fb9bfb2b8",
+          "slug": "kalinga-state-university",
+          "role": [
+            "Lead"
+          ],
+          "website-address": "https://ksu.edu.ph/",
+          "name": "Kalinga State University",
+          "lead-organisation-for": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "main-location": [
+            "kalinga-philippines"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "future-of-life-institute",
+        "data": {
+          "layout": "organisation",
+          "title": "Future of Life Institute ",
+          "airtable_id": "0bb47d0d09e20f68",
+          "slug": "future-of-life-institute",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://futureoflife.org/",
+          "name": "Future of Life Institute ",
+          "main-location": [
+            "united-states"
+          ],
+          "funding-organisation-for": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "nyu-peace-research-and-education-program-prep",
+        "data": {
+          "layout": "organisation",
+          "title": "NYU Peace Research and Education Program (PREP)",
+          "airtable_id": "3d737d2157da805d",
+          "slug": "nyu-peace-research-and-education-program-prep",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://prep.nyu.edu/",
+          "name": "NYU Peace Research and Education Program (PREP)",
+          "lead-organisation-for": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi",
+        "data": {
+          "layout": "generic",
+          "title": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.",
+          "airtable_id": "27fbd9e6b668b47f",
+          "slug": "the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi",
+          "type": "Quote",
+          "cases": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "name": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t",
+        "data": {
+          "layout": "generic",
+          "title": "Indigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.",
+          "airtable_id": "d0a4b0676b0f472d",
+          "slug": "indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t",
+          "type": "Recommendation",
+          "cases": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "name": "Indigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "kalinga-iksp-and-ai-policy-ordinance"
+          ],
+          "layout": "generic",
+          "slug": "kalinga-iksp-and-ai-policy-ordinance-process",
+          "title": "Kalinga IKSP and AI Policy Ordinance - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Kalinga IKSP and AI Policy Ordinance-Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+        "airtable_id": "3a6bca27a5cf6049",
+        "slug": "kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along",
+        "locations": [
+          "kalinga-philippines"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "Kalinga, Philippines",
+        "name": "Kalinga IKSP and AI Policy Ordinance-Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+        "group-description": "Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 200,
+        "cases": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "recruitment-description": "Recruitment ran through Indigenous representative structures (IPMR, NCIP) rather than individual sign-up. Responsible-AI training was provided first so participants engaged the governance questions from an informed position rather than being asked to react cold.",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "layout": "generic",
+        "slug": "kalinga-iksp-and-ai-policy-ordinance-process",
+        "title": "Kalinga IKSP and AI Policy Ordinance - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Kalinga State University",
+        "airtable_id": "f4dd718fb9bfb2b8",
+        "slug": "kalinga-state-university",
+        "role": [
+          "Lead"
+        ],
+        "website-address": "https://ksu.edu.ph/",
+        "name": "Kalinga State University",
+        "lead-organisation-for": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "main-location": [
+          "kalinga-philippines"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Future of Life Institute ",
+        "airtable_id": "0bb47d0d09e20f68",
+        "slug": "future-of-life-institute",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://futureoflife.org/",
+        "name": "Future of Life Institute ",
+        "main-location": [
+          "united-states"
+        ],
+        "funding-organisation-for": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "NYU Peace Research and Education Program (PREP)",
+        "airtable_id": "3d737d2157da805d",
+        "slug": "nyu-peace-research-and-education-program-prep",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://prep.nyu.edu/",
+        "name": "NYU Peace Research and Education Program (PREP)",
+        "lead-organisation-for": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.",
+        "airtable_id": "27fbd9e6b668b47f",
+        "slug": "the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi",
+        "type": "Quote",
+        "cases": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "name": "The Indigenous Peoples' Mandatory Representation described the ordinance as essential and game-changing for asserting community control over Indigenous data and AI.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Indigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.",
+        "airtable_id": "d0a4b0676b0f472d",
+        "slug": "indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t",
+        "type": "Recommendation",
+        "cases": [
+          "kalinga-iksp-and-ai-policy-ordinance"
+        ],
+        "name": "Indigenous communities in neighbouring areas of the Cordillera have expressed interest in adapting the Digital Arang process and ordinance model for their own contexts.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ]
+  }
+}

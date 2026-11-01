@@ -1,0 +1,398 @@
+{
+  "slug": "paris-student-assembly-on-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Paris Student Assembly on AI",
+    "airtable_id": "f5a9d725e5d941ce",
+    "slug": "paris-student-assembly-on-ai",
+    "redirect_from": [
+      "/c/f5a9d725e5d941ce/"
+    ],
+    "lead-organisations": [
+      "école-normale-supérieure",
+      "mission-publiques",
+      "yale-university"
+    ],
+    "provide-a-brief-description-of-the-project": "The Student Assembly on AI hosted by École Normale Supérieure (ENS) as part of an AI in the City project alongside the 2025 AI Action Summit, brought together researchers, policymakers, students, and civil society to explore how artificial intelligence can be governed ethically and inclusively. \nThe Student Assembly over two days developed recommendations for democratic AI governance, responsible innovation, and ensuring AI serves the common good.\n",
+    "what-limitations-to-the-project-should-be-noted": "The initiative was centred on a two-day event, limiting opportunities for sustained public participation and follow-up. While recommendations were produced and a coalition launched, the article does not provide evidence of how these outputs have influenced AI policy or practice.\n",
+    "project-status": "Complete",
+    "headline-findings": "The project concluded that effective AI governance requires inclusive public participation, ethical and democratic oversight, international collaboration, and policies that ensure AI serves the common good while supporting responsible innovation.\n",
+    "participants": [
+      "paris-student-assembly-on-ai-students"
+    ],
+    "participation-locations": "Ecole normale superieure (ENS) in Paris",
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues",
+      "Future issues"
+    ],
+    "theme": [
+      "Education",
+      "Artificial Intelligence"
+    ],
+    "inclusion-efforts": "The project promoted inclusion by engaging students, researchers, policymakers, industry, and civil society in deliberative discussions on AI governance. A Student Assembly comprised of 70 students enabled participants to co-develop policy recommendations, while the launch of the Global Coalition for Inclusive AI Governance reinforced the project's commitment to broad, participatory decision-making. \n",
+    "project-title": "Paris Student Assembly on AI",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "This was the launch event of the Coalition for an Inclusive AI, and tool place alongside the Paris AI Action Summit with involvement of the government chairs. It would be important to show how events in Switzerland in 2027 build on this. ",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "case-study-using-harmonica"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Exploring how artificial intelligence can be governed ethically, democratically, and inclusively to support the public good across society.",
+    "level-of-engagement": "National",
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://fondation.ens.psl.eu/en/ai-in-the-city-ens-at-the-heart-of-debates-on-ai-for-the-common-good/",
+    "locations": [
+      "paris-france"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "paris-student-assembly-on-ai",
+    "data": {
+      "layout": "case",
+      "title": "Paris Student Assembly on AI",
+      "airtable_id": "f5a9d725e5d941ce",
+      "slug": "paris-student-assembly-on-ai",
+      "redirect_from": [
+        "/c/f5a9d725e5d941ce/"
+      ],
+      "lead-organisations": [
+        "école-normale-supérieure",
+        "mission-publiques",
+        "yale-university"
+      ],
+      "provide-a-brief-description-of-the-project": "The Student Assembly on AI hosted by École Normale Supérieure (ENS) as part of an AI in the City project alongside the 2025 AI Action Summit, brought together researchers, policymakers, students, and civil society to explore how artificial intelligence can be governed ethically and inclusively. \nThe Student Assembly over two days developed recommendations for democratic AI governance, responsible innovation, and ensuring AI serves the common good.\n",
+      "what-limitations-to-the-project-should-be-noted": "The initiative was centred on a two-day event, limiting opportunities for sustained public participation and follow-up. While recommendations were produced and a coalition launched, the article does not provide evidence of how these outputs have influenced AI policy or practice.\n",
+      "project-status": "Complete",
+      "headline-findings": "The project concluded that effective AI governance requires inclusive public participation, ethical and democratic oversight, international collaboration, and policies that ensure AI serves the common good while supporting responsible innovation.\n",
+      "participants": [
+        "paris-student-assembly-on-ai-students"
+      ],
+      "participation-locations": "Ecole normale superieure (ENS) in Paris",
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues",
+        "Future issues"
+      ],
+      "theme": [
+        "Education",
+        "Artificial Intelligence"
+      ],
+      "inclusion-efforts": "The project promoted inclusion by engaging students, researchers, policymakers, industry, and civil society in deliberative discussions on AI governance. A Student Assembly comprised of 70 students enabled participants to co-develop policy recommendations, while the launch of the Global Coalition for Inclusive AI Governance reinforced the project's commitment to broad, participatory decision-making. \n",
+      "project-title": "Paris Student Assembly on AI",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "This was the launch event of the Coalition for an Inclusive AI, and tool place alongside the Paris AI Action Summit with involvement of the government chairs. It would be important to show how events in Switzerland in 2027 build on this. ",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "case-study-using-harmonica"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Exploring how artificial intelligence can be governed ethically, democratically, and inclusively to support the public good across society.",
+      "level-of-engagement": "National",
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://fondation.ens.psl.eu/en/ai-in-the-city-ens-at-the-heart-of-debates-on-ai-for-the-common-good/",
+      "locations": [
+        "paris-france"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "paris-student-assembly-on-ai-students",
+        "data": {
+          "layout": "generic",
+          "title": "Paris Student Assembly on AI-Students",
+          "airtable_id": "11666b5a7c7a0103",
+          "slug": "paris-student-assembly-on-ai-students",
+          "locations": [
+            "paris-france"
+          ],
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens’ Assembly"
+          ],
+          "on-average-how-many-hours-did-each-participant": 12,
+          "name": "Paris Student Assembly on AI-Students",
+          "group-description": "Students",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 70,
+          "cases": [
+            "paris-student-assembly-on-ai"
+          ],
+          "recruitment-description": "Students from the ENS-PSL",
+          "was-there-a-specific-target-population": "Students",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Education",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mission-publiques",
+        "data": {
+          "layout": "organisation",
+          "title": "Mission Publiques",
+          "airtable_id": "e0e404f3cc2ebc5d",
+          "slug": "mission-publiques",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://missionspubliques.org/",
+          "name": "Mission Publiques",
+          "lead-organisation-for": [
+            "belgian-citizens-panel-on-ai",
+            "paris-student-assembly-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "yale-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Yale University",
+          "airtable_id": "bb98a4cf87549885",
+          "slug": "yale-university",
+          "role": [
+            "Lead"
+          ],
+          "name": "Yale University",
+          "lead-organisation-for": [
+            "paris-student-assembly-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "école-normale-supérieure",
+        "data": {
+          "layout": "organisation",
+          "title": "École normale supérieure",
+          "airtable_id": "dfba9387f7f03f01",
+          "slug": "école-normale-supérieure",
+          "role": [
+            "Lead"
+          ],
+          "name": "École normale supérieure",
+          "lead-organisation-for": [
+            "paris-student-assembly-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "paris-student-assembly-on-ai"
+          ],
+          "layout": "generic",
+          "slug": "paris-student-assembly-on-ai-process",
+          "title": "Paris Student Assembly on AI - Process",
+          "theme": [
+            "Education",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Paris Student Assembly on AI-Students",
+        "airtable_id": "11666b5a7c7a0103",
+        "slug": "paris-student-assembly-on-ai-students",
+        "locations": [
+          "paris-france"
+        ],
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens’ Assembly"
+        ],
+        "on-average-how-many-hours-did-each-participant": 12,
+        "name": "Paris Student Assembly on AI-Students",
+        "group-description": "Students",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 70,
+        "cases": [
+          "paris-student-assembly-on-ai"
+        ],
+        "recruitment-description": "Students from the ENS-PSL",
+        "was-there-a-specific-target-population": "Students",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "paris-student-assembly-on-ai"
+        ],
+        "layout": "generic",
+        "slug": "paris-student-assembly-on-ai-process",
+        "title": "Paris Student Assembly on AI - Process",
+        "theme": [
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Mission Publiques",
+        "airtable_id": "e0e404f3cc2ebc5d",
+        "slug": "mission-publiques",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://missionspubliques.org/",
+        "name": "Mission Publiques",
+        "lead-organisation-for": [
+          "belgian-citizens-panel-on-ai",
+          "paris-student-assembly-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Yale University",
+        "airtable_id": "bb98a4cf87549885",
+        "slug": "yale-university",
+        "role": [
+          "Lead"
+        ],
+        "name": "Yale University",
+        "lead-organisation-for": [
+          "paris-student-assembly-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "École normale supérieure",
+        "airtable_id": "dfba9387f7f03f01",
+        "slug": "école-normale-supérieure",
+        "role": [
+          "Lead"
+        ],
+        "name": "École normale supérieure",
+        "lead-organisation-for": [
+          "paris-student-assembly-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

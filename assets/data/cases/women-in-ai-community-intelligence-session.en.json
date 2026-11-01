@@ -1,0 +1,843 @@
+{
+  "slug": "women-in-ai-community-intelligence-session",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Women in AI - Community Intelligence Session",
+    "airtable_id": "df54847e7ebf8f77",
+    "slug": "women-in-ai-community-intelligence-session",
+    "redirect_from": [
+      "/c/df54847e7ebf8f77/"
+    ],
+    "lead-organisations": [
+      "black-ai-futures"
+    ],
+    "provide-a-brief-description-of-the-project": "A community intelligence session bringing together women from Black and Global Majority communities to document lived experiences of AI harm and generate policy recommendations for Parliament. Held on 25 March 2026 in East London, in partnership with Blacq Space. Five structured discussion groups produced potential policy recommendations and eight personal testimonies documented real experiences of AI harm including deepfakes, coordinated harassment, algorithmic suppression of cultural speech, and identity impersonation. Findings directly informed BAIF's written evidence submission on the Online Safety Act.\n\nThis project engaged a community almost entirely absent from AI governance conversations, women from Black and Global Majority backgrounds, and created a direct pipeline from lived experience to parliamentary evidence. The testimony gathered is not anecdotal: it maps onto specific legislative gaps in the Online Safety Act and is being submitted to DSIT and the AI APPG as formal written evidence. The project demonstrates that community-rooted intelligence, gathered through deliberate and inclusive methods, can produce policy-grade evidence. It also represents a model for how marginalised communities can enter AI governance processes on their own terms rather than as consultees.\n",
+    "what-limitations-to-the-project-should-be-noted": "Single event, single London location. Participants were primarily London-based, which limits geographic range. No pre-event AI literacy baseline was captured. Sample size was constrained by the event format. No longitudinal follow-up with participants has yet been conducted.\n",
+    "headline-findings": "\"The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.\" — Groups 3 and 5\n\"Foreseeable harms need platforms to be more proactive, not reactive.\" — Group 2\n\"The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.\" — Group 5\n\"Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.\" — Group 2 participant\n\"Marginalised communities must be involved from the beginning of AI design and development.\" — Group 2\n\"That's where the frustration and the disempowerment comes in.\" — Personal testimony, content creator describing over a year of cross-platform stalking with no effective legal remedy\nThe same AI moderation systems that fail to catch targeted harassment actively suppress legitimate cultural speech from Black communities. — Personal testimony, Black African content creator\n\"AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.\" — Group 4\n",
+    "participants": [
+      "women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Current issues"
+    ],
+    "messages": [
+      "the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com",
+      "the-online-safety-act-should-explicitly-cover-ai-harm-impacting-vulnerable-people-particularly-women",
+      "foreseeable-harms-need-platforms-to-be-more-proactive-not-reactive",
+      "black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat",
+      "marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development",
+      "ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el"
+    ],
+    "theme": [
+      "Safety",
+      "Public Services",
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "additional-acknowledgements": "Viv Ahmun, Co-Founder- Black AI Futures, Giulia Remondino, Alicia Richardson, Blacq Space",
+    "inclusion-efforts": "Partnership with Blacq Space, a Black-led community organisation also ensured authentic community reach rather than institutional recruitment. The event was held in East London to serve the communities being engaged. A deliberate safe space was created for participants to share personal experiences of harm, with facilitators from within those communities.\n",
+    "project-title": "Women in AI - Community Intelligence Session",
+    "submitted-by": "Hameed Adigun",
+    "why-is-this-project-important-to-include-in-the": "This project engaged a community almost entirely absent from AI governance conversations, women from Black and Global Majority backgrounds, and created a direct pipeline from lived experience to parliamentary evidence. The testimony gathered is not anecdotal: it maps onto specific legislative gaps in the Online Safety Act and is being submitted to DSIT and the AI APPG as formal written evidence. The project demonstrates that community-rooted intelligence, gathered through deliberate and inclusive methods, can produce policy-grade evidence. It also represents a model for how marginalised communities can enter AI governance processes on their own terms rather than as consultees.",
+    "photos-and-images": [
+      {
+        "id": "attjau4XibBliI7Ik",
+        "width": 2700,
+        "height": 3600,
+        "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik.jpg",
+        "filename": "IMG_5924.jpg",
+        "size": 2359845,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_small.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_large.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_full.jpg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attgJgvwho0371sGT",
+        "width": 2700,
+        "height": 3600,
+        "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT.jpg",
+        "filename": "IMG_5834.jpg",
+        "size": 1670577,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_small.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_large.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_full.jpg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attFSSbHxeEAknvFA",
+        "width": 1504,
+        "height": 2256,
+        "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA.jpg",
+        "filename": "IMG_0046.jpg",
+        "size": 585704,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_small.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_large.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_full.jpg",
+            "width": 1504,
+            "height": 2256
+          }
+        }
+      },
+      {
+        "id": "attaNNjMbjOsk5Udu",
+        "width": 1504,
+        "height": 2256,
+        "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu.jpg",
+        "filename": "IMG_0081.jpg",
+        "size": 441813,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_small.jpg",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_large.jpg",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_full.jpg",
+            "width": 1504,
+            "height": 2256
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How AI harms disproportionately affect women from Black and Global Majority communities, and the gaps this exposes in the Online Safety Act.",
+    "how-was-the-project-initiated": [
+      "Co-created"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video"
+    ],
+    "involved-organisations": [
+      "black-men-4-change"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://blackaifutures.org/",
+    "where-were-participants-from": [
+      "mostly from london and united kingdom"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "women-in-ai-community-intelligence-session",
+    "data": {
+      "layout": "case",
+      "title": "Women in AI - Community Intelligence Session",
+      "airtable_id": "df54847e7ebf8f77",
+      "slug": "women-in-ai-community-intelligence-session",
+      "redirect_from": [
+        "/c/df54847e7ebf8f77/"
+      ],
+      "lead-organisations": [
+        "black-ai-futures"
+      ],
+      "provide-a-brief-description-of-the-project": "A community intelligence session bringing together women from Black and Global Majority communities to document lived experiences of AI harm and generate policy recommendations for Parliament. Held on 25 March 2026 in East London, in partnership with Blacq Space. Five structured discussion groups produced potential policy recommendations and eight personal testimonies documented real experiences of AI harm including deepfakes, coordinated harassment, algorithmic suppression of cultural speech, and identity impersonation. Findings directly informed BAIF's written evidence submission on the Online Safety Act.\n\nThis project engaged a community almost entirely absent from AI governance conversations, women from Black and Global Majority backgrounds, and created a direct pipeline from lived experience to parliamentary evidence. The testimony gathered is not anecdotal: it maps onto specific legislative gaps in the Online Safety Act and is being submitted to DSIT and the AI APPG as formal written evidence. The project demonstrates that community-rooted intelligence, gathered through deliberate and inclusive methods, can produce policy-grade evidence. It also represents a model for how marginalised communities can enter AI governance processes on their own terms rather than as consultees.\n",
+      "what-limitations-to-the-project-should-be-noted": "Single event, single London location. Participants were primarily London-based, which limits geographic range. No pre-event AI literacy baseline was captured. Sample size was constrained by the event format. No longitudinal follow-up with participants has yet been conducted.\n",
+      "headline-findings": "\"The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.\" — Groups 3 and 5\n\"Foreseeable harms need platforms to be more proactive, not reactive.\" — Group 2\n\"The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.\" — Group 5\n\"Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.\" — Group 2 participant\n\"Marginalised communities must be involved from the beginning of AI design and development.\" — Group 2\n\"That's where the frustration and the disempowerment comes in.\" — Personal testimony, content creator describing over a year of cross-platform stalking with no effective legal remedy\nThe same AI moderation systems that fail to catch targeted harassment actively suppress legitimate cultural speech from Black communities. — Personal testimony, Black African content creator\n\"AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.\" — Group 4\n",
+      "participants": [
+        "women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Current issues"
+      ],
+      "messages": [
+        "the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com",
+        "the-online-safety-act-should-explicitly-cover-ai-harm-impacting-vulnerable-people-particularly-women",
+        "foreseeable-harms-need-platforms-to-be-more-proactive-not-reactive",
+        "black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat",
+        "marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development",
+        "ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el"
+      ],
+      "theme": [
+        "Safety",
+        "Public Services",
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "additional-acknowledgements": "Viv Ahmun, Co-Founder- Black AI Futures, Giulia Remondino, Alicia Richardson, Blacq Space",
+      "inclusion-efforts": "Partnership with Blacq Space, a Black-led community organisation also ensured authentic community reach rather than institutional recruitment. The event was held in East London to serve the communities being engaged. A deliberate safe space was created for participants to share personal experiences of harm, with facilitators from within those communities.\n",
+      "project-title": "Women in AI - Community Intelligence Session",
+      "submitted-by": "Hameed Adigun",
+      "why-is-this-project-important-to-include-in-the": "This project engaged a community almost entirely absent from AI governance conversations, women from Black and Global Majority backgrounds, and created a direct pipeline from lived experience to parliamentary evidence. The testimony gathered is not anecdotal: it maps onto specific legislative gaps in the Online Safety Act and is being submitted to DSIT and the AI APPG as formal written evidence. The project demonstrates that community-rooted intelligence, gathered through deliberate and inclusive methods, can produce policy-grade evidence. It also represents a model for how marginalised communities can enter AI governance processes on their own terms rather than as consultees.",
+      "photos-and-images": [
+        {
+          "id": "attjau4XibBliI7Ik",
+          "width": 2700,
+          "height": 3600,
+          "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik.jpg",
+          "filename": "IMG_5924.jpg",
+          "size": 2359845,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_small.jpg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_large.jpg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attjau4XibBliI7Ik_full.jpg",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attgJgvwho0371sGT",
+          "width": 2700,
+          "height": 3600,
+          "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT.jpg",
+          "filename": "IMG_5834.jpg",
+          "size": 1670577,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_small.jpg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_large.jpg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attgJgvwho0371sGT_full.jpg",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attFSSbHxeEAknvFA",
+          "width": 1504,
+          "height": 2256,
+          "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA.jpg",
+          "filename": "IMG_0046.jpg",
+          "size": 585704,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_small.jpg",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_large.jpg",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attFSSbHxeEAknvFA_full.jpg",
+              "width": 1504,
+              "height": 2256
+            }
+          }
+        },
+        {
+          "id": "attaNNjMbjOsk5Udu",
+          "width": 1504,
+          "height": 2256,
+          "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu.jpg",
+          "filename": "IMG_0081.jpg",
+          "size": 441813,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_small.jpg",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_large.jpg",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "/assets/attachments/df54847e7ebf8f77_fldd4B6cpBOP3n3is_attaNNjMbjOsk5Udu_full.jpg",
+              "width": 1504,
+              "height": 2256
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How AI harms disproportionately affect women from Black and Global Majority communities, and the gaps this exposes in the Online Safety Act.",
+      "how-was-the-project-initiated": [
+        "Co-created"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video"
+      ],
+      "involved-organisations": [
+        "black-men-4-change"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://blackaifutures.org/",
+      "where-were-participants-from": [
+        "mostly from london and united kingdom"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities",
+        "data": {
+          "layout": "generic",
+          "title": "Women in AI - Community Intelligence Session-Women from Black and Global Majority communities",
+          "airtable_id": "01776f9602fc9c78",
+          "slug": "women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "mostly from london and united kingdom",
+          "which-of-the-following-methods-were-used-to": [
+            "Collective Intelligence Process",
+            "Co-creation workshops",
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "Women in AI - Community Intelligence Session-Women from Black and Global Majority communities",
+          "group-description": "Women from Black and Global Majority communities",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 78,
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "recruitment-description": "An invite to the event was sent out on our newsletter to our mailing list.",
+          "was-there-a-specific-target-population": "Professionals and entrepeneurs",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "black-men-4-change",
+        "data": {
+          "layout": "organisation",
+          "title": "Black Men 4 Change",
+          "airtable_id": "51bd68e0bb561723",
+          "slug": "black-men-4-change",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "Black Men 4 Change",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "black-ai-futures",
+        "data": {
+          "layout": "organisation",
+          "title": "Black AI Futures",
+          "airtable_id": "737c5ed54dba6476",
+          "slug": "black-ai-futures",
+          "role": [
+            "Lead"
+          ],
+          "name": "Black AI Futures",
+          "lead-organisation-for": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el",
+        "data": {
+          "layout": "generic",
+          "title": "AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.",
+          "airtable_id": "fb1888f7fa585db3",
+          "slug": "ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-online-safety-act-should-explicitly-cover-ai-harm-impacting-vulnerable-people-particularly-women",
+        "data": {
+          "layout": "generic",
+          "title": "The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.",
+          "airtable_id": "e5985477f27704be",
+          "slug": "the-online-safety-act-should-explicitly-cover-ai-harm-impacting-vulnerable-people-particularly-women",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat",
+        "data": {
+          "layout": "generic",
+          "title": "Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.",
+          "airtable_id": "b84db942881dac48",
+          "slug": "black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development",
+        "data": {
+          "layout": "generic",
+          "title": "Marginalised communities must be involved from the beginning of AI design and development.",
+          "airtable_id": "b9402cd866dc05b3",
+          "slug": "marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "Marginalised communities must be involved from the beginning of AI design and development.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com",
+        "data": {
+          "layout": "generic",
+          "title": "The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.",
+          "airtable_id": "cfb048e824d9c5fd",
+          "slug": "the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "foreseeable-harms-need-platforms-to-be-more-proactive-not-reactive",
+        "data": {
+          "layout": "generic",
+          "title": "Foreseeable harms need platforms to be more proactive, not reactive.",
+          "airtable_id": "4b0a6a33c6e13de6",
+          "slug": "foreseeable-harms-need-platforms-to-be-more-proactive-not-reactive",
+          "type": "Quote",
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "name": "Foreseeable harms need platforms to be more proactive, not reactive.",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "women-in-ai-community-intelligence-session"
+          ],
+          "layout": "generic",
+          "slug": "women-in-ai-community-intelligence-session-process",
+          "title": "Women in AI - Community Intelligence Session - Process",
+          "theme": [
+            "Safety",
+            "Public Services",
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Women in AI - Community Intelligence Session-Women from Black and Global Majority communities",
+        "airtable_id": "01776f9602fc9c78",
+        "slug": "women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "mostly from london and united kingdom",
+        "which-of-the-following-methods-were-used-to": [
+          "Collective Intelligence Process",
+          "Co-creation workshops",
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "Women in AI - Community Intelligence Session-Women from Black and Global Majority communities",
+        "group-description": "Women from Black and Global Majority communities",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 78,
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "recruitment-description": "An invite to the event was sent out on our newsletter to our mailing list.",
+        "was-there-a-specific-target-population": "Professionals and entrepeneurs",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "layout": "generic",
+        "slug": "women-in-ai-community-intelligence-session-process",
+        "title": "Women in AI - Community Intelligence Session - Process",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Black Men 4 Change",
+        "airtable_id": "51bd68e0bb561723",
+        "slug": "black-men-4-change",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "Black Men 4 Change",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Black AI Futures",
+        "airtable_id": "737c5ed54dba6476",
+        "slug": "black-ai-futures",
+        "role": [
+          "Lead"
+        ],
+        "name": "Black AI Futures",
+        "lead-organisation-for": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.",
+        "airtable_id": "fb1888f7fa585db3",
+        "slug": "ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "AI is heavily regulated in the health sector but not in others — a reactive approach is being taken elsewhere.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.",
+        "airtable_id": "e5985477f27704be",
+        "slug": "the-online-safety-act-should-explicitly-cover-ai-harm-impacting-vulnerable-people-particularly-women",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "The Online Safety Act should explicitly cover AI harm impacting vulnerable people, particularly women and children in the UK.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.",
+        "airtable_id": "b84db942881dac48",
+        "slug": "black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "Black communities do not contribute proportionately to AI training data — this creates disproportionate outcomes.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Marginalised communities must be involved from the beginning of AI design and development.",
+        "airtable_id": "b9402cd866dc05b3",
+        "slug": "marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "Marginalised communities must be involved from the beginning of AI design and development.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.",
+        "airtable_id": "cfb048e824d9c5fd",
+        "slug": "the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "The impact of AI misuse falls disproportionately on women from underrepresented and marginalised communities.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Foreseeable harms need platforms to be more proactive, not reactive.",
+        "airtable_id": "4b0a6a33c6e13de6",
+        "slug": "foreseeable-harms-need-platforms-to-be-more-proactive-not-reactive",
+        "type": "Quote",
+        "cases": [
+          "women-in-ai-community-intelligence-session"
+        ],
+        "name": "Foreseeable harms need platforms to be more proactive, not reactive.",
+        "theme": [
+          "Safety",
+          "Public Services",
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project",
+    "airtable_id": "c0718c8e28407c2e",
+    "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+    "redirect_from": [
+      "/c/c0718c8e28407c2e/"
+    ],
+    "lead-organisations": [
+      "ai-multiply"
+    ],
+    "provide-a-brief-description-of-the-project": "**Between 2021 and 2025, AI MULTIPLY initiated a process that used co-creation workshops, community-based participatory research, and focus groups to involve approximately 40 people in twice-monthly collaborative sessions between early career researchers and patient contributors to shape the development of AI tools for patients with multiple long-term conditions with the intended outcomes of building participant capacity to engage with AI and creating re-usable participation tools.**\n\nAI MULTIPLY is an NIHR-funded, interdisciplinary project that aims to use the collective expertise of patients, clinicians, researchers and artificial intelligence to improve care for people living with multiple long-term conditions and taking multiple medicines. The project brings together data scientists, clinicians, social scientists, pharmacists, epidemiologists, AI modellers and patient/public contributors across five work packages, with Patient and Public Involvement and Engagement (PPIE) and health inequalities embedded as cross-cutting themes.\n\nPPIE was built into AI MULTIPLY from the start, including early engagement with people with experience of long-term conditions, social inequalities and ethnic minority communities. The project also established dedicated PPIE groups and a PPIE Management Team, including public contributor leads, to coordinate involvement across the programme. Within this wider structure, the project developed twice-monthly “ECRs meet PPIE” sessions, where early career researchers shared work in progress with PPIE contributors and received input on research direction, data choices, model development, interpretation and patient-centred outcomes.\n",
+    "what-limitations-to-the-project-should-be-noted": "The main limitation is that the “ECRs meet PPIE” sessions began nearly halfway through the AI MULTIPLY funding period. By this point, some important decisions, including choices around AI model prediction outcomes, had already been made. Some of these decisions had either not involved PPIE contributors or had involved only limited engagement, meaning the sessions could not influence all foundational aspects of the research.\n\nThere were also practical constraints on embedding public voices into ongoing technical work. Earlier attempts to involve PPIE contributors in weekly data engineering meetings were difficult because the meetings did not always have agendas, involved several parallel projects, and contributors could only attend intermittently because of time and budget constraints. This made the patient voice less consistent in highly technical decision-making spaces.\n\nThe sessions also revealed a tension between open public dialogue and producing actionable research input. Some contributors valued the opportunity to ask broad questions and discuss their experiences, while others felt frustrated when discussion did not focus closely enough on the researcher’s planned analysis. In response, the team capped attendance at 10 contributors per session, but this created a further trade-off: it risked excluding contributors who wanted to attend or required researchers to repeat sessions, increasing workload.\n",
+    "project-status": "Complete",
+    "headline-findings": "1 - PPIE needs to reach “everyday decision makers”, not only senior researchers.\nThe paper argues that in AI and big data projects, many consequential decisions, such as data inclusion, model selection and result interpretation, are made by ECRs. The ECR meet PPIE sessions were designed because existing PPIE routes were not reliably reaching these people.\n\n2 - Early-stage technical decisions are not merely technical.\nThe sessions showed that choices about data, variables, model outputs and interpretation can shape whether AI research reflects patient priorities. The paper gives the example of PPIE contributors raising “quality of life” and “periods of wellness” as meaningful outcomes, but these priorities had limited traction because they were not visible in the available datasets.\n\n3 - Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.\nThe sessions were set up as standalone, twice-monthly, one-hour online meetings where ECRs brought work in progress and specific questions to PPIE contributors. This was intended to prevent sessions becoming one-way presentations and instead support discussion around live research problems.\n\n4 - The sessions led to concrete changes in AI research practice.\nEvidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.\n\n5 - The model was useful, but not frictionless.\nThe paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.\n",
+    "participants": [
+      "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Predictive AI"
+    ],
+    "messages": [
+      "ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers",
+      "early-stage-technical-decisions-are-not-merely-technical",
+      "dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research",
+      "the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle",
+      "the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea"
+    ],
+    "theme": [
+      "Healthcare"
+    ],
+    "what-year-did-the-project-start": 2021,
+    "funding-organisations": [
+      "nihr"
+    ],
+    "additional-acknowledgements": "Victoria Bartle, Sue Mountain, Elizabeth Remfry, Alexandra Thompson, Michael R Barnes, Nick J Reynolds",
+    "inclusion-efforts": "Specific efforts were made to make recruitment and engagement accessible and inclusive, although these were pragmatic rather than based on a formal inclusion framework. During the development phase of AI MULTIPLY, the project engaged 42 people with experience of long-term conditions, social inequalities and ethnic minority backgrounds. The later PPIE group was recruited through established Newcastle University PPIE networks, VOICE UK, Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust, and professional networks. The group included people living with multiple long-term conditions, people taking multiple medicines, and carers. It also included both experienced PPIE contributors and people for whom AI MULTIPLY was their first experience of research.\n\nEngagement was supported through online, one-hour sessions, which enabled contributors from across the UK to participate. The sessions were chaired and organised through the PPIE Management Team, which included PPIE contributor leads and other public contributors, helping ensure that the format was shaped by contributors rather than imposed solely by researchers. ECRs were asked to bring work in progress and specific questions, so that contributors could influence live research decisions rather than simply comment on finished outputs.\n\nThe format was also adapted in response to accessibility and inclusion concerns. For example, sessions originally planned for Fridays were moved after feedback that this would exclude Muslim members who would be attending prayers. The team also recognised that fixed times could exclude people with other commitments, such as school runs, and planned to alternate session times and days.\n\nThe project also tried to make technical AI discussions more accessible by encouraging ECRs to explain complex work in plain language, use analogies, and respond to questions throughout the sessions. However, the paper is honest that this remained challenging, especially when explaining AI concepts to lay audiences.\n",
+    "project-title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project",
+    "submitted-by": "Duncan J Reynolds",
+    "why-is-this-project-important-to-include-in-the": "This case is important because it shows a practical way of moving public involvement in AI research beyond late-stage consultation and into everyday research decision-making. The “ECRs meet PPIE” sessions were created after the PPIE Management Team identified that public contributors were not always influencing the routine technical decisions being made within the project. In AI and health data research, many of these decisions are made not only by senior investigators, but by early career researchers working daily on data selection, model choices, analysis and interpretation.\n\nThe sessions were distinctive because they were PPIE-led in origin and design. They responded directly to public contributors’ repeated challenge that, whenever researchers were making a choice, decision or assumption, they could ask whether this matched people’s experiences, needs and priorities. The PPIE Management Team created a dedicated space where ECRs could bring unfinished work and specific questions to contributors, rather than only presenting polished outputs after key decisions had already been made.\n\nThe case also matters because it engaged a community often absent from AI governance: people living with multiple long-term conditions, people taking multiple medicines, and carers. For many contributors, this was their first experience of working with a health data research project, yet they shaped discussions about issues such as patient-centred outcomes, lifestyle factors, risk scores, chronic kidney disease, and the limits of what routine health data can capture.\n\nThe benefits were two-way. PPIE contributors reported that their input was valued, while ECRs reported that the sessions influenced their work, including concrete changes to analyses, data features and outcome framing. The sessions also helped ECRs develop skills in explaining AI concepts, communicating uncertainty and incorporating patient perspectives into technical research. This makes the case especially useful for the PAVE Case Book because it offers a transferable model for embedding public voice into the routine, often hidden, decisions through which AI research is shaped.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools"
+    ],
+    "supporting-resources": [
+      "targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-public-involv",
+      "poster-for-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-pu"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Using and creating various AI tools to benefit patients with multiple long term conditions and experiencing polypharmacy.",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created",
+      "Academic research"
+    ],
+    "geographic-scope": [
+      "london-united-kingdom"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A research poster"
+    ],
+    "involved-organisations": [
+      "nihr"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://link.springer.com/article/10.1186/s40900-025-00753-9 and https://ai-multiply.co.uk/",
+    "locations": [
+      "united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "UK wide"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+    "data": {
+      "layout": "case",
+      "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project",
+      "airtable_id": "c0718c8e28407c2e",
+      "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+      "redirect_from": [
+        "/c/c0718c8e28407c2e/"
+      ],
+      "lead-organisations": [
+        "ai-multiply"
+      ],
+      "provide-a-brief-description-of-the-project": "**Between 2021 and 2025, AI MULTIPLY initiated a process that used co-creation workshops, community-based participatory research, and focus groups to involve approximately 40 people in twice-monthly collaborative sessions between early career researchers and patient contributors to shape the development of AI tools for patients with multiple long-term conditions with the intended outcomes of building participant capacity to engage with AI and creating re-usable participation tools.**\n\nAI MULTIPLY is an NIHR-funded, interdisciplinary project that aims to use the collective expertise of patients, clinicians, researchers and artificial intelligence to improve care for people living with multiple long-term conditions and taking multiple medicines. The project brings together data scientists, clinicians, social scientists, pharmacists, epidemiologists, AI modellers and patient/public contributors across five work packages, with Patient and Public Involvement and Engagement (PPIE) and health inequalities embedded as cross-cutting themes.\n\nPPIE was built into AI MULTIPLY from the start, including early engagement with people with experience of long-term conditions, social inequalities and ethnic minority communities. The project also established dedicated PPIE groups and a PPIE Management Team, including public contributor leads, to coordinate involvement across the programme. Within this wider structure, the project developed twice-monthly “ECRs meet PPIE” sessions, where early career researchers shared work in progress with PPIE contributors and received input on research direction, data choices, model development, interpretation and patient-centred outcomes.\n",
+      "what-limitations-to-the-project-should-be-noted": "The main limitation is that the “ECRs meet PPIE” sessions began nearly halfway through the AI MULTIPLY funding period. By this point, some important decisions, including choices around AI model prediction outcomes, had already been made. Some of these decisions had either not involved PPIE contributors or had involved only limited engagement, meaning the sessions could not influence all foundational aspects of the research.\n\nThere were also practical constraints on embedding public voices into ongoing technical work. Earlier attempts to involve PPIE contributors in weekly data engineering meetings were difficult because the meetings did not always have agendas, involved several parallel projects, and contributors could only attend intermittently because of time and budget constraints. This made the patient voice less consistent in highly technical decision-making spaces.\n\nThe sessions also revealed a tension between open public dialogue and producing actionable research input. Some contributors valued the opportunity to ask broad questions and discuss their experiences, while others felt frustrated when discussion did not focus closely enough on the researcher’s planned analysis. In response, the team capped attendance at 10 contributors per session, but this created a further trade-off: it risked excluding contributors who wanted to attend or required researchers to repeat sessions, increasing workload.\n",
+      "project-status": "Complete",
+      "headline-findings": "1 - PPIE needs to reach “everyday decision makers”, not only senior researchers.\nThe paper argues that in AI and big data projects, many consequential decisions, such as data inclusion, model selection and result interpretation, are made by ECRs. The ECR meet PPIE sessions were designed because existing PPIE routes were not reliably reaching these people.\n\n2 - Early-stage technical decisions are not merely technical.\nThe sessions showed that choices about data, variables, model outputs and interpretation can shape whether AI research reflects patient priorities. The paper gives the example of PPIE contributors raising “quality of life” and “periods of wellness” as meaningful outcomes, but these priorities had limited traction because they were not visible in the available datasets.\n\n3 - Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.\nThe sessions were set up as standalone, twice-monthly, one-hour online meetings where ECRs brought work in progress and specific questions to PPIE contributors. This was intended to prevent sessions becoming one-way presentations and instead support discussion around live research problems.\n\n4 - The sessions led to concrete changes in AI research practice.\nEvidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.\n\n5 - The model was useful, but not frictionless.\nThe paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.\n",
+      "participants": [
+        "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Predictive AI"
+      ],
+      "messages": [
+        "ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers",
+        "early-stage-technical-decisions-are-not-merely-technical",
+        "dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research",
+        "the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle",
+        "the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea"
+      ],
+      "theme": [
+        "Healthcare"
+      ],
+      "what-year-did-the-project-start": 2021,
+      "funding-organisations": [
+        "nihr"
+      ],
+      "additional-acknowledgements": "Victoria Bartle, Sue Mountain, Elizabeth Remfry, Alexandra Thompson, Michael R Barnes, Nick J Reynolds",
+      "inclusion-efforts": "Specific efforts were made to make recruitment and engagement accessible and inclusive, although these were pragmatic rather than based on a formal inclusion framework. During the development phase of AI MULTIPLY, the project engaged 42 people with experience of long-term conditions, social inequalities and ethnic minority backgrounds. The later PPIE group was recruited through established Newcastle University PPIE networks, VOICE UK, Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust, and professional networks. The group included people living with multiple long-term conditions, people taking multiple medicines, and carers. It also included both experienced PPIE contributors and people for whom AI MULTIPLY was their first experience of research.\n\nEngagement was supported through online, one-hour sessions, which enabled contributors from across the UK to participate. The sessions were chaired and organised through the PPIE Management Team, which included PPIE contributor leads and other public contributors, helping ensure that the format was shaped by contributors rather than imposed solely by researchers. ECRs were asked to bring work in progress and specific questions, so that contributors could influence live research decisions rather than simply comment on finished outputs.\n\nThe format was also adapted in response to accessibility and inclusion concerns. For example, sessions originally planned for Fridays were moved after feedback that this would exclude Muslim members who would be attending prayers. The team also recognised that fixed times could exclude people with other commitments, such as school runs, and planned to alternate session times and days.\n\nThe project also tried to make technical AI discussions more accessible by encouraging ECRs to explain complex work in plain language, use analogies, and respond to questions throughout the sessions. However, the paper is honest that this remained challenging, especially when explaining AI concepts to lay audiences.\n",
+      "project-title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project",
+      "submitted-by": "Duncan J Reynolds",
+      "why-is-this-project-important-to-include-in-the": "This case is important because it shows a practical way of moving public involvement in AI research beyond late-stage consultation and into everyday research decision-making. The “ECRs meet PPIE” sessions were created after the PPIE Management Team identified that public contributors were not always influencing the routine technical decisions being made within the project. In AI and health data research, many of these decisions are made not only by senior investigators, but by early career researchers working daily on data selection, model choices, analysis and interpretation.\n\nThe sessions were distinctive because they were PPIE-led in origin and design. They responded directly to public contributors’ repeated challenge that, whenever researchers were making a choice, decision or assumption, they could ask whether this matched people’s experiences, needs and priorities. The PPIE Management Team created a dedicated space where ECRs could bring unfinished work and specific questions to contributors, rather than only presenting polished outputs after key decisions had already been made.\n\nThe case also matters because it engaged a community often absent from AI governance: people living with multiple long-term conditions, people taking multiple medicines, and carers. For many contributors, this was their first experience of working with a health data research project, yet they shaped discussions about issues such as patient-centred outcomes, lifestyle factors, risk scores, chronic kidney disease, and the limits of what routine health data can capture.\n\nThe benefits were two-way. PPIE contributors reported that their input was valued, while ECRs reported that the sessions influenced their work, including concrete changes to analyses, data features and outcome framing. The sessions also helped ECRs develop skills in explaining AI concepts, communicating uncertainty and incorporating patient perspectives into technical research. This makes the case especially useful for the PAVE Case Book because it offers a transferable model for embedding public voice into the routine, often hidden, decisions through which AI research is shaped.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools"
+      ],
+      "supporting-resources": [
+        "targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-public-involv",
+        "poster-for-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-pu"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Using and creating various AI tools to benefit patients with multiple long term conditions and experiencing polypharmacy.",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created",
+        "Academic research"
+      ],
+      "geographic-scope": [
+        "london-united-kingdom"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A research poster"
+      ],
+      "involved-organisations": [
+        "nihr"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://link.springer.com/article/10.1186/s40900-025-00753-9 and https://ai-multiply.co.uk/",
+      "locations": [
+        "united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "UK wide"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+        "data": {
+          "layout": "generic",
+          "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project-PPIE group of 41 patients with multiple long term conditions",
+          "airtable_id": "d2386b30ce024cad",
+          "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+          "locations": [
+            "united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "UK wide",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops",
+            "Community-Based Participatory Research",
+            "Deliberation",
+            "Focus Group",
+            "Forum Theatre",
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 20,
+          "name": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project-PPIE group of 41 patients with multiple long term conditions",
+          "group-description": "PPIE group of 41 patients with multiple long term conditions",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 40,
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "recruitment-description": "Exiting PPIE networks used. Purportive selecting used for diverse group. ",
+          "was-there-a-specific-target-population": "UK wide patients with multiple long term conditions",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ai-multiply",
+        "data": {
+          "layout": "organisation",
+          "title": "AI MULTIPLY",
+          "airtable_id": "596f407bdc5f3ea8",
+          "slug": "ai-multiply",
+          "role": [
+            "Lead"
+          ],
+          "name": "AI MULTIPLY",
+          "lead-organisation-for": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "nihr",
+        "data": {
+          "layout": "organisation",
+          "title": "NIHR",
+          "airtable_id": "dc7d2676f7afd862",
+          "slug": "nihr",
+          "role": [
+            "Funder",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Research"
+          ],
+          "website-address": "https://www.nihr.ac.uk/",
+          "name": "NIHR",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea",
+        "data": {
+          "layout": "generic",
+          "title": "The model was useful, but not frictionless. The paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.",
+          "airtable_id": "c5a68f028c3ecea7",
+          "slug": "the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea",
+          "type": "Issue",
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "name": "The model was useful, but not frictionless. The paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "early-stage-technical-decisions-are-not-merely-technical",
+        "data": {
+          "layout": "generic",
+          "title": "Early-stage technical decisions are not merely technical.",
+          "airtable_id": "58a9a7a5a23f455c",
+          "slug": "early-stage-technical-decisions-are-not-merely-technical",
+          "type": "Recommendation",
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "name": "Early-stage technical decisions are not merely technical.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle",
+        "data": {
+          "layout": "generic",
+          "title": "The sessions led to concrete changes in AI research practice. Evidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.",
+          "airtable_id": "1732cd45606983b7",
+          "slug": "the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle",
+          "type": "Issue",
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "name": "The sessions led to concrete changes in AI research practice. Evidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research",
+        "data": {
+          "layout": "generic",
+          "title": "Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.",
+          "airtable_id": "ef3dc3b2ee549ea6",
+          "slug": "dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research",
+          "type": "Recommendation",
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "name": "Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers",
+        "data": {
+          "layout": "generic",
+          "title": "PPIE needs to reach “everyday decision makers”, not only senior researchers.",
+          "airtable_id": "239fa03f512561e1",
+          "slug": "ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers",
+          "type": "Recommendation",
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "name": "PPIE needs to reach “everyday decision makers”, not only senior researchers.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+          ],
+          "layout": "generic",
+          "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p-process",
+          "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project - Process",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Predictive AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project-PPIE group of 41 patients with multiple long term conditions",
+        "airtable_id": "d2386b30ce024cad",
+        "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p",
+        "locations": [
+          "united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "UK wide",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops",
+          "Community-Based Participatory Research",
+          "Deliberation",
+          "Focus Group",
+          "Forum Theatre",
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 20,
+        "name": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project-PPIE group of 41 patients with multiple long term conditions",
+        "group-description": "PPIE group of 41 patients with multiple long term conditions",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 40,
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "recruitment-description": "Exiting PPIE networks used. Purportive selecting used for diverse group. ",
+        "was-there-a-specific-target-population": "UK wide patients with multiple long term conditions",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "layout": "generic",
+        "slug": "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p-process",
+        "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project - Process",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "AI MULTIPLY",
+        "airtable_id": "596f407bdc5f3ea8",
+        "slug": "ai-multiply",
+        "role": [
+          "Lead"
+        ],
+        "name": "AI MULTIPLY",
+        "lead-organisation-for": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "NIHR",
+        "airtable_id": "dc7d2676f7afd862",
+        "slug": "nihr",
+        "role": [
+          "Funder",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Research"
+        ],
+        "website-address": "https://www.nihr.ac.uk/",
+        "name": "NIHR",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "The model was useful, but not frictionless. The paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.",
+        "airtable_id": "c5a68f028c3ecea7",
+        "slug": "the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea",
+        "type": "Issue",
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "name": "The model was useful, but not frictionless. The paper notes several limitations: the sessions began nearly halfway through the project, after some key decisions had already been made; some discussions became too broad to produce actionable input; some contributors felt sidelined when others dominated; and explaining AI concepts to lay audiences remained difficult. The team responded by adapting the format, including capping attendance at 10 contributors per session.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Early-stage technical decisions are not merely technical.",
+        "airtable_id": "58a9a7a5a23f455c",
+        "slug": "early-stage-technical-decisions-are-not-merely-technical",
+        "type": "Recommendation",
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "name": "Early-stage technical decisions are not merely technical.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The sessions led to concrete changes in AI research practice. Evidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.",
+        "airtable_id": "1732cd45606983b7",
+        "slug": "the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle",
+        "type": "Issue",
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "name": "The sessions led to concrete changes in AI research practice. Evidence includes ECRs adding lifestyle factors after PPIE feedback, benchmarking an LLM approach against existing risk scores, changing analysis around chronic kidney disease, and planning further work on patient-centred outcomes. Across surveys, 8 of 11 ECRs said the sessions would “definitely” influence their work, and the other 3 said it was “possible”.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.",
+        "airtable_id": "ef3dc3b2ee549ea6",
+        "slug": "dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research",
+        "type": "Recommendation",
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "name": "Dedicated ECR meet PPIE sessions created a more direct route for public input into AI research.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "PPIE needs to reach “everyday decision makers”, not only senior researchers.",
+        "airtable_id": "239fa03f512561e1",
+        "slug": "ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers",
+        "type": "Recommendation",
+        "cases": [
+          "ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p"
+        ],
+        "name": "PPIE needs to reach “everyday decision makers”, not only senior researchers.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Predictive AI"
+        ]
+      }
+    ]
+  }
+}

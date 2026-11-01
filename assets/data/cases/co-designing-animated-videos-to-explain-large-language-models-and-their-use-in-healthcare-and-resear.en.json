@@ -1,0 +1,1099 @@
+{
+  "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Co-designing animated videos to explain large language models and their use in healthcare and research",
+    "airtable_id": "580589d1121b607f",
+    "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+    "redirect_from": [
+      "/c/580589d1121b607f/"
+    ],
+    "lead-organisations": [
+      "queen-mary-university-of-london-1"
+    ],
+    "provide-a-brief-description-of-the-project": "Between 2025 and 2026, Queen Mary University of London used co-creation workshops to involve approximately 10 people in collaborative video design and translation sessions to explain large language models and their use in healthcare and research with the intended outcomes of building community capacity to engage with AI and shaping the development of AI tools.\n",
+    "what-limitations-to-the-project-should-be-noted": "**From the authors' academic article:**\n\nOur work followed good practice for co-producing educational materials, such as early engagement with public contributors, a diverse PPIE contributor team, and ensuring PPIE contributors made the final decision about the design and content of the easy to understand materials. All of the PPIE contributors in this study were local to Tower Hamlets, and represented ethnic, age and socio-demographic status diversity. For the majority of PPIE contributors this was their first involvement in PPIE work. This is in contrast to the majority of PPIE researchers in healthcare, who are typically experienced in PPIE, white, retired and middle class. Additionally as animations are also available in Bengali, we hope that this will support other PPIE contributors to get involved in AI research, particularly in ethnic minority groups who are often those under-represented in PPIE research. We hope to be able extended the number of languages available in the future.\n\nThere are also limitations to this work. The AI field moves particularly quickly with the technical capabilities and use cases of LLMs constantly changing, which means that these animations may become dated. This is something that was apparent even during the co-design workshops, where different LLM products were becoming available, for example, AI Overview was a new feature Google launched during this period. We attempted to make these animations as future-proof as possible by focusing on the core aspects of how LLMs work, such as word prediction, and the training on a large dataset. Increasingly as AI literacy improves, there may also be interest in elements that we were unable to include in the limited time available in these animations such as the environmental impact of LLMs. Additionally some public contributors may find the animations simplistic and lacking technical detail depending on their prior knowledge and background.\n\n",
+    "project-status": "Complete",
+    "headline-findings": "The co-design process allowed us to prioritise diverse PPIE voices throughout development, ensuring that animations are appropriate for a wide audience. Co-design was successful in supporting people build new skills: “I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects”. We hope these animations will support PPIE contributors to have a say in how LLMs are used in healthcare and research.\n",
+    "participants": [
+      "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+      "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-1"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "messages": [
+      "i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone",
+      "the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o",
+      "working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul"
+    ],
+    "theme": [
+      "Healthcare"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "wellcome-trust",
+      "kings-college-london",
+      "national-institute-of-health-and-care-research",
+      "queen-mary-university-of-london",
+      "maudsley-charity"
+    ],
+    "inclusion-efforts": "**From the authors' academic article:**\n\n**Recruitment**\n\nSix PPIE contributors from Tower Hamlets were invited to participate in this project. All PPIE contributors were recruited by Social Action for Health (SAfH), our community partner (24) using purposive sampling. SAfH is a community-based charity in East London that provides services and support to people most affected by health inequalities and recruited PPIE contributors through their existing community projects.\n\nThe group of PPIE contributors reflected the demographics of Tower Hamlets: half the group were female, ages ranged from 40 to 70 years, 50% self-identified as British Bangladeshi and contributors came from diverse socio-economic backgrounds. All the contributors had heard of AI, however many contributors had no previous experience of using or interacting with LLMs or had never heard of LLMs or commercial names such as ChatGPT. The experiences that the contributors had previously had with ChatGPT or other LLM-based tools came from personal use, hearing about it through their children, or through the media. All PPIE contributors were reimbursed for their time.\n\nAlongside the PPIE contributors were a team of five academic researchers and an experienced PPIE representative. The academics included a PhD student, two post-doctoral research associates and an associate professor. Researchers were from three different UK institutions, Queen Mary University of London, Kings College London and Brighton and Sussex Medical School, and represented different academic disciplines spanning health data science, computer science and social sciences.\n\n**Translation**\n\nIn order to make the animations accessible other communities, these were translated into Bengali. Bangali was chosen as an appropriate language given that it is the second most common language spoken in Tower Hamlets (26), where the PPIE contributors and Queen Mary University of London are located. SAfH helped to recruit two additional Bengali-English bilingual contributors to the project, who along with two of the original contributors, who were Bengali-English speakers, helped adjust the Bengali translation. Firstly, the finalised script and on screen text was translated into Bengali by a professional translation company. Secondly, over two 1-hour workshops the translation group adapted and refined the translated script to ensure that it was linguistically accessible and culturally appropriate. All translators were reimbursed for their time.\n\n**Additional feedback**\n\nAs a form of external validation, prior to the final animation being developed, the material was shared with two other PPIE groups (_n_ = 18) and a group of academic experts and non-experts (_n_ = 25) to collect feedback from contributors who were not involved in co-designing the material. Once an initial version of the animation had been made by the professional animation company, we also conducted a final workshop with PPIE contributors, translators and an additional 6 contributors, reflecting a wider age and educational range. Feedback from this final workshop contributed to final edits and attendees helped to select the voice over artist based on short sample audios.\n",
+    "project-title": "Co-designing animated videos to explain large language models and their use in healthcare and research",
+    "submitted-by": "Elizabeth Remfry",
+    "why-is-this-project-important-to-include-in-the": "The PPIE contributor group were diverse, with a wide range of ethnic groups and socio-demographic backgrounds, particularly from communities seldom heard in AI research. ",
+    "photos-and-images": [
+      {
+        "id": "att3vcaz7wDirMERM",
+        "width": 4032,
+        "height": 3024,
+        "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM.jpg",
+        "filename": "IMG_9824.jpg",
+        "size": 3349054,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attLhuV72VRZPPyE0",
+        "width": 4032,
+        "height": 3024,
+        "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0.jpg",
+        "filename": "IMG_0291.jpg",
+        "size": 3374241,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attayvVc7MsV58yB9",
+        "width": 2000,
+        "height": 1500,
+        "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9.jpg",
+        "filename": "Photo_postersession.jpg",
+        "size": 433237,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_full.jpg",
+            "width": 2000,
+            "height": 1500
+          }
+        }
+      },
+      {
+        "id": "attZ2zYxgQb00ZN8G",
+        "width": 1600,
+        "height": 1200,
+        "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G.jpg",
+        "filename": "Film workshop .jpg",
+        "size": 219144,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_full.jpg",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "project-output-what-are-llms-video",
+      "project-output-how-are-large-language-models-llms-used-in-healthcare-and-research",
+      "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Co-designed animations to explain LLMs",
+    "how-was-the-project-initiated": [
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "A research poster"
+    ],
+    "involved-organisations": [
+      "social-action-for-health"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1758463/full",
+    "locations": [
+      "london-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "East London"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+    "data": {
+      "layout": "case",
+      "title": "Co-designing animated videos to explain large language models and their use in healthcare and research",
+      "airtable_id": "580589d1121b607f",
+      "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+      "redirect_from": [
+        "/c/580589d1121b607f/"
+      ],
+      "lead-organisations": [
+        "queen-mary-university-of-london-1"
+      ],
+      "provide-a-brief-description-of-the-project": "Between 2025 and 2026, Queen Mary University of London used co-creation workshops to involve approximately 10 people in collaborative video design and translation sessions to explain large language models and their use in healthcare and research with the intended outcomes of building community capacity to engage with AI and shaping the development of AI tools.\n",
+      "what-limitations-to-the-project-should-be-noted": "**From the authors' academic article:**\n\nOur work followed good practice for co-producing educational materials, such as early engagement with public contributors, a diverse PPIE contributor team, and ensuring PPIE contributors made the final decision about the design and content of the easy to understand materials. All of the PPIE contributors in this study were local to Tower Hamlets, and represented ethnic, age and socio-demographic status diversity. For the majority of PPIE contributors this was their first involvement in PPIE work. This is in contrast to the majority of PPIE researchers in healthcare, who are typically experienced in PPIE, white, retired and middle class. Additionally as animations are also available in Bengali, we hope that this will support other PPIE contributors to get involved in AI research, particularly in ethnic minority groups who are often those under-represented in PPIE research. We hope to be able extended the number of languages available in the future.\n\nThere are also limitations to this work. The AI field moves particularly quickly with the technical capabilities and use cases of LLMs constantly changing, which means that these animations may become dated. This is something that was apparent even during the co-design workshops, where different LLM products were becoming available, for example, AI Overview was a new feature Google launched during this period. We attempted to make these animations as future-proof as possible by focusing on the core aspects of how LLMs work, such as word prediction, and the training on a large dataset. Increasingly as AI literacy improves, there may also be interest in elements that we were unable to include in the limited time available in these animations such as the environmental impact of LLMs. Additionally some public contributors may find the animations simplistic and lacking technical detail depending on their prior knowledge and background.\n\n",
+      "project-status": "Complete",
+      "headline-findings": "The co-design process allowed us to prioritise diverse PPIE voices throughout development, ensuring that animations are appropriate for a wide audience. Co-design was successful in supporting people build new skills: “I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects”. We hope these animations will support PPIE contributors to have a say in how LLMs are used in healthcare and research.\n",
+      "participants": [
+        "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+        "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-1"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "messages": [
+        "i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone",
+        "the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o",
+        "working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul"
+      ],
+      "theme": [
+        "Healthcare"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "wellcome-trust",
+        "kings-college-london",
+        "national-institute-of-health-and-care-research",
+        "queen-mary-university-of-london",
+        "maudsley-charity"
+      ],
+      "inclusion-efforts": "**From the authors' academic article:**\n\n**Recruitment**\n\nSix PPIE contributors from Tower Hamlets were invited to participate in this project. All PPIE contributors were recruited by Social Action for Health (SAfH), our community partner (24) using purposive sampling. SAfH is a community-based charity in East London that provides services and support to people most affected by health inequalities and recruited PPIE contributors through their existing community projects.\n\nThe group of PPIE contributors reflected the demographics of Tower Hamlets: half the group were female, ages ranged from 40 to 70 years, 50% self-identified as British Bangladeshi and contributors came from diverse socio-economic backgrounds. All the contributors had heard of AI, however many contributors had no previous experience of using or interacting with LLMs or had never heard of LLMs or commercial names such as ChatGPT. The experiences that the contributors had previously had with ChatGPT or other LLM-based tools came from personal use, hearing about it through their children, or through the media. All PPIE contributors were reimbursed for their time.\n\nAlongside the PPIE contributors were a team of five academic researchers and an experienced PPIE representative. The academics included a PhD student, two post-doctoral research associates and an associate professor. Researchers were from three different UK institutions, Queen Mary University of London, Kings College London and Brighton and Sussex Medical School, and represented different academic disciplines spanning health data science, computer science and social sciences.\n\n**Translation**\n\nIn order to make the animations accessible other communities, these were translated into Bengali. Bangali was chosen as an appropriate language given that it is the second most common language spoken in Tower Hamlets (26), where the PPIE contributors and Queen Mary University of London are located. SAfH helped to recruit two additional Bengali-English bilingual contributors to the project, who along with two of the original contributors, who were Bengali-English speakers, helped adjust the Bengali translation. Firstly, the finalised script and on screen text was translated into Bengali by a professional translation company. Secondly, over two 1-hour workshops the translation group adapted and refined the translated script to ensure that it was linguistically accessible and culturally appropriate. All translators were reimbursed for their time.\n\n**Additional feedback**\n\nAs a form of external validation, prior to the final animation being developed, the material was shared with two other PPIE groups (_n_ = 18) and a group of academic experts and non-experts (_n_ = 25) to collect feedback from contributors who were not involved in co-designing the material. Once an initial version of the animation had been made by the professional animation company, we also conducted a final workshop with PPIE contributors, translators and an additional 6 contributors, reflecting a wider age and educational range. Feedback from this final workshop contributed to final edits and attendees helped to select the voice over artist based on short sample audios.\n",
+      "project-title": "Co-designing animated videos to explain large language models and their use in healthcare and research",
+      "submitted-by": "Elizabeth Remfry",
+      "why-is-this-project-important-to-include-in-the": "The PPIE contributor group were diverse, with a wide range of ethnic groups and socio-demographic backgrounds, particularly from communities seldom heard in AI research. ",
+      "photos-and-images": [
+        {
+          "id": "att3vcaz7wDirMERM",
+          "width": 4032,
+          "height": 3024,
+          "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM.jpg",
+          "filename": "IMG_9824.jpg",
+          "size": 3349054,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_att3vcaz7wDirMERM_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attLhuV72VRZPPyE0",
+          "width": 4032,
+          "height": 3024,
+          "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0.jpg",
+          "filename": "IMG_0291.jpg",
+          "size": 3374241,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attLhuV72VRZPPyE0_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attayvVc7MsV58yB9",
+          "width": 2000,
+          "height": 1500,
+          "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9.jpg",
+          "filename": "Photo_postersession.jpg",
+          "size": 433237,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attayvVc7MsV58yB9_full.jpg",
+              "width": 2000,
+              "height": 1500
+            }
+          }
+        },
+        {
+          "id": "attZ2zYxgQb00ZN8G",
+          "width": 1600,
+          "height": 1200,
+          "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G.jpg",
+          "filename": "Film workshop .jpg",
+          "size": 219144,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/580589d1121b607f_fldd4B6cpBOP3n3is_attZ2zYxgQb00ZN8G_full.jpg",
+              "width": 1600,
+              "height": 1200
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "project-output-what-are-llms-video",
+        "project-output-how-are-large-language-models-llms-used-in-healthcare-and-research",
+        "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Co-designed animations to explain LLMs",
+      "how-was-the-project-initiated": [
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "A research poster"
+      ],
+      "involved-organisations": [
+        "social-action-for-health"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1758463/full",
+      "locations": [
+        "london-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "East London"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-1",
+        "data": {
+          "layout": "generic",
+          "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-Translation group",
+          "airtable_id": "ddbd47f0f8ad5f29",
+          "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-1",
+          "locations": [
+            "london-united-kingdom"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "East London",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 4,
+          "name": "Co-designing animated videos to explain large language models and their use in healthcare and research-Translation group",
+          "group-description": "Translation group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 4,
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "recruitment-description": "Recruited from community events ",
+          "was-there-a-specific-target-population": "Recruited via partner organisation",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+        "data": {
+          "layout": "generic",
+          "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-PPIE contributor group",
+          "airtable_id": "6e1f29c253130e71",
+          "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+          "locations": [
+            "london-united-kingdom"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "East London",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 15,
+          "name": "Co-designing animated videos to explain large language models and their use in healthcare and research-PPIE contributor group",
+          "group-description": "PPIE contributor group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 6,
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "recruitment-description": "Recruitment from community events",
+          "was-there-a-specific-target-population": "Through the partner organisation SAFH",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "queen-mary-university-of-london",
+        "data": {
+          "layout": "organisation",
+          "title": "Queen Mary University of London",
+          "airtable_id": "5d495aa478a015a4",
+          "slug": "queen-mary-university-of-london",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.qmul.ac.uk/",
+          "name": "Queen Mary University of London",
+          "mission-statement": "Queen Mary University of London is a leading research-intensive university. Throughout our history, we’ve fostered social justice and improved lives through academic excellence.\n\n(Source: https://www.qmul.ac.uk/about/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "queen-mary-university-of-london-1",
+        "data": {
+          "layout": "organisation",
+          "title": "Queen Mary University of London",
+          "airtable_id": "7caf6fe7c0fb8af8",
+          "slug": "queen-mary-university-of-london-1",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.qmul.ac.uk/",
+          "name": "Queen Mary University of London",
+          "lead-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "social-action-for-health",
+        "data": {
+          "layout": "organisation",
+          "title": "Social Action for Health",
+          "airtable_id": "75d586bf6d805581",
+          "slug": "social-action-for-health",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.safh.org.uk/",
+          "name": "Social Action for Health",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-institute-of-health-and-care-research",
+        "data": {
+          "layout": "organisation",
+          "title": "National Institute of Health and Care Research",
+          "airtable_id": "342b45939781082a",
+          "slug": "national-institute-of-health-and-care-research",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research",
+            "Funder"
+          ],
+          "website-address": "https://www.nihr.ac.uk/",
+          "name": "National Institute of Health and Care Research",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "maudsley-charity",
+        "data": {
+          "layout": "organisation",
+          "title": "Maudsley Charity",
+          "airtable_id": "2f188f644e677483",
+          "slug": "maudsley-charity",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://maudsleycharity.org/",
+          "name": "Maudsley Charity",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "kings-college-london",
+        "data": {
+          "layout": "organisation",
+          "title": "King’s College London",
+          "airtable_id": "e0919f4e0917df19",
+          "slug": "kings-college-london",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.kcl.ac.uk/",
+          "name": "King’s College London",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "wellcome-trust",
+        "data": {
+          "layout": "organisation",
+          "title": "Wellcome Trust",
+          "airtable_id": "25d8767049bc27b8",
+          "slug": "wellcome-trust",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://wellcome.org/",
+          "name": "Wellcome Trust",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o",
+        "data": {
+          "layout": "generic",
+          "title": "“...the journey is combined, we are all part of the process, we all develop together and learn from each other...”",
+          "airtable_id": "274d7da57395afc7",
+          "slug": "the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o",
+          "type": "Quote",
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "additional-credit-line": "Participant reflection",
+          "name": "“...the journey is combined, we are all part of the process, we all develop together and learn from each other...”",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone",
+        "data": {
+          "layout": "generic",
+          "title": "I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects",
+          "airtable_id": "c747796d43de13fd",
+          "slug": "i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone",
+          "type": "Quote",
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "additional-credit-line": "Participant reflection",
+          "name": "I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul",
+        "data": {
+          "layout": "generic",
+          "title": "Working as a group was also seen as beneficial by the PPIE contributors, who also said that they would not have worked on the project otherwise. The group dynamic also helped support people and amplified the importance of lived experience to the group.",
+          "airtable_id": "12a22a8786ad15b6",
+          "slug": "working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul",
+          "type": "Issue",
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "additional-credit-line": "Researcher analysis",
+          "name": "Working as a group was also seen as beneficial by the PPIE contributors, who also said that they would not have worked on the project otherwise. The group dynamic also helped support people and amplified the importance of lived experience to the group.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+          ],
+          "layout": "generic",
+          "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-process",
+          "title": "Co-designing animated videos to explain large language models and their use in healthcare and research - Process",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-Translation group",
+        "airtable_id": "ddbd47f0f8ad5f29",
+        "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-1",
+        "locations": [
+          "london-united-kingdom"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "East London",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 4,
+        "name": "Co-designing animated videos to explain large language models and their use in healthcare and research-Translation group",
+        "group-description": "Translation group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 4,
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "recruitment-description": "Recruited from community events ",
+        "was-there-a-specific-target-population": "Recruited via partner organisation",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-PPIE contributor group",
+        "airtable_id": "6e1f29c253130e71",
+        "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+        "locations": [
+          "london-united-kingdom"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "East London",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 15,
+        "name": "Co-designing animated videos to explain large language models and their use in healthcare and research-PPIE contributor group",
+        "group-description": "PPIE contributor group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 6,
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "recruitment-description": "Recruitment from community events",
+        "was-there-a-specific-target-population": "Through the partner organisation SAFH",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "layout": "generic",
+        "slug": "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear-process",
+        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research - Process",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Queen Mary University of London",
+        "airtable_id": "5d495aa478a015a4",
+        "slug": "queen-mary-university-of-london",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.qmul.ac.uk/",
+        "name": "Queen Mary University of London",
+        "mission-statement": "Queen Mary University of London is a leading research-intensive university. Throughout our history, we’ve fostered social justice and improved lives through academic excellence.\n\n(Source: https://www.qmul.ac.uk/about/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Queen Mary University of London",
+        "airtable_id": "7caf6fe7c0fb8af8",
+        "slug": "queen-mary-university-of-london-1",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.qmul.ac.uk/",
+        "name": "Queen Mary University of London",
+        "lead-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Social Action for Health",
+        "airtable_id": "75d586bf6d805581",
+        "slug": "social-action-for-health",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.safh.org.uk/",
+        "name": "Social Action for Health",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Institute of Health and Care Research",
+        "airtable_id": "342b45939781082a",
+        "slug": "national-institute-of-health-and-care-research",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research",
+          "Funder"
+        ],
+        "website-address": "https://www.nihr.ac.uk/",
+        "name": "National Institute of Health and Care Research",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Maudsley Charity",
+        "airtable_id": "2f188f644e677483",
+        "slug": "maudsley-charity",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://maudsleycharity.org/",
+        "name": "Maudsley Charity",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "King’s College London",
+        "airtable_id": "e0919f4e0917df19",
+        "slug": "kings-college-london",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.kcl.ac.uk/",
+        "name": "King’s College London",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Wellcome Trust",
+        "airtable_id": "25d8767049bc27b8",
+        "slug": "wellcome-trust",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://wellcome.org/",
+        "name": "Wellcome Trust",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "“...the journey is combined, we are all part of the process, we all develop together and learn from each other...”",
+        "airtable_id": "274d7da57395afc7",
+        "slug": "the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o",
+        "type": "Quote",
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "additional-credit-line": "Participant reflection",
+        "name": "“...the journey is combined, we are all part of the process, we all develop together and learn from each other...”",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects",
+        "airtable_id": "c747796d43de13fd",
+        "slug": "i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone",
+        "type": "Quote",
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "additional-credit-line": "Participant reflection",
+        "name": "I don't come from a very educated background, I was nervous at first but with the support of everyone it made it easier. I didn't feel left out. I can talk about my experiences, my everyday life, my health and bring this forward to other projects",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Working as a group was also seen as beneficial by the PPIE contributors, who also said that they would not have worked on the project otherwise. The group dynamic also helped support people and amplified the importance of lived experience to the group.",
+        "airtable_id": "12a22a8786ad15b6",
+        "slug": "working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul",
+        "type": "Issue",
+        "cases": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear"
+        ],
+        "additional-credit-line": "Researcher analysis",
+        "name": "Working as a group was also seen as beneficial by the PPIE contributors, who also said that they would not have worked on the project otherwise. The group dynamic also helped support people and amplified the importance of lived experience to the group.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ]
+  }
+}

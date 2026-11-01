@@ -1,0 +1,324 @@
+{
+  "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "IPPOSI Citizens’ Jury on AI in Healthcare",
+    "airtable_id": "1e40c3f4dcf5fe62",
+    "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+    "redirect_from": [
+      "/c/1e40c3f4dcf5fe62/"
+    ],
+    "provide-a-brief-description-of-the-project": "A citizens’ jury is a deliberative process whereby members of the public explore a complex issue (or ‘tricky’ topic) and develop recommendations to address and overcome key challenges and concerns. IPPOSI Citizens’ Juries are guided by an independent oversight panel comprising of experts in the field of healthcare delivery, health policy, health information management, as well as patient advocacy and public engagement. The 2024 IPPOSI Citizens’ Jury was designed to include three phases, offering individuals the opportunity to engage in meaningful dialogue [inquiry, deliberation, verdict], in a semistructured way and to produce an output that is representative of their concerns, preferences and expectations. The jurors were posed the question, SHOULD WE INCREASE THE USE OF ARTIFICIAL INTELLIGENCE (AI) IN HEALTHCARE IN IRELAND?\n",
+    "project-status": "Complete",
+    "headline-findings": "1. Equitable access: The use of AI-enabled care should be equitably accessible to all, and there should be no distinction between care accessed publicly or privately.\n2. Patient rights: The implementation of the EU AI Act should be enshrined in national legislation, and there should be special provision to protect health data relating to AI.\n3. National strategy: A national strategy on the use of AI in healthcare in Ireland should be published in 2026.\n4. Multi-year investment: The Government’s budget should allocate adequate, multiannual funding to begin investment in quality AI systems for healthcare in Ireland.\n5. Regulatory body: A fully-representative, multi-disciplinary statutory body should be established in 2025 to regulate and enforce standards around the use of AI in healthcare, including licensing, compliance monitoring, and imposing penalties.\n6. Digitally-enabled care: The Digital for Care Framework, in particular the solution for a national electronic health record system, should be urgently and fully implemented to provide the foundations for the deployment of quality AI solutions.\n7. Informed consent (AI training): The health data used to train AI systems should be transparent and inclusive, and the auto-enrolment of everyone’s health data into the training of AI should include an option to “opt out”.\n",
+    "participants": [
+      "ipposi-citizens-jury-on-ai-in-healthcare-jury-members",
+      "ipposi-citizens-jury-on-ai-in-healthcare"
+    ],
+    "participation-locations": "Ireland",
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Current issues"
+    ],
+    "theme": [
+      "Healthcare"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "inclusion-efforts": "509 initial expressions of interest were received from across the 26 counties with 371 applicants completing a more detailed follow-up application form. Five applicants subsequently withdrew, while 130 were removed from further consideration following a review for conflicts of interest. 236 applicants were entered into a computer-automated random selection process completed by an independent information technology team. A jury of 24 members was identified with a profile that is representative of the broader population of Ireland (in terms of gender, age, location, ethnicity, and educational attainment). The Central Statistics Office census data was used as a guide in determining the ideal composition along demographics like gender, age, location, ethnicity, and education.\n",
+    "project-title": "IPPOSI Citizens’ Jury on AI in Healthcare",
+    "submitted-by": "Canning",
+    "why-is-this-project-important-to-include-in-the": "AI's implications in healthcare are numerous and disparate; citizen deliberation can be an effective tool to develop good, reality-based policy.",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Should Ireland increase the use of AI in healthcare?",
+    "geographic-scope": [
+      "ireland"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "irish-platform-for-patient-organisations-science-and-industry"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://ipposi.ie/wp-content/uploads/2025/02/Citizens-Jury-Verdict-Report-21.02.25.pdf",
+    "locations": [
+      "ireland"
+    ],
+    "where-were-participants-from": [
+      "Ireland"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+    "data": {
+      "layout": "case",
+      "title": "IPPOSI Citizens’ Jury on AI in Healthcare",
+      "airtable_id": "1e40c3f4dcf5fe62",
+      "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+      "redirect_from": [
+        "/c/1e40c3f4dcf5fe62/"
+      ],
+      "provide-a-brief-description-of-the-project": "A citizens’ jury is a deliberative process whereby members of the public explore a complex issue (or ‘tricky’ topic) and develop recommendations to address and overcome key challenges and concerns. IPPOSI Citizens’ Juries are guided by an independent oversight panel comprising of experts in the field of healthcare delivery, health policy, health information management, as well as patient advocacy and public engagement. The 2024 IPPOSI Citizens’ Jury was designed to include three phases, offering individuals the opportunity to engage in meaningful dialogue [inquiry, deliberation, verdict], in a semistructured way and to produce an output that is representative of their concerns, preferences and expectations. The jurors were posed the question, SHOULD WE INCREASE THE USE OF ARTIFICIAL INTELLIGENCE (AI) IN HEALTHCARE IN IRELAND?\n",
+      "project-status": "Complete",
+      "headline-findings": "1. Equitable access: The use of AI-enabled care should be equitably accessible to all, and there should be no distinction between care accessed publicly or privately.\n2. Patient rights: The implementation of the EU AI Act should be enshrined in national legislation, and there should be special provision to protect health data relating to AI.\n3. National strategy: A national strategy on the use of AI in healthcare in Ireland should be published in 2026.\n4. Multi-year investment: The Government’s budget should allocate adequate, multiannual funding to begin investment in quality AI systems for healthcare in Ireland.\n5. Regulatory body: A fully-representative, multi-disciplinary statutory body should be established in 2025 to regulate and enforce standards around the use of AI in healthcare, including licensing, compliance monitoring, and imposing penalties.\n6. Digitally-enabled care: The Digital for Care Framework, in particular the solution for a national electronic health record system, should be urgently and fully implemented to provide the foundations for the deployment of quality AI solutions.\n7. Informed consent (AI training): The health data used to train AI systems should be transparent and inclusive, and the auto-enrolment of everyone’s health data into the training of AI should include an option to “opt out”.\n",
+      "participants": [
+        "ipposi-citizens-jury-on-ai-in-healthcare-jury-members",
+        "ipposi-citizens-jury-on-ai-in-healthcare"
+      ],
+      "participation-locations": "Ireland",
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Current issues"
+      ],
+      "theme": [
+        "Healthcare"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "inclusion-efforts": "509 initial expressions of interest were received from across the 26 counties with 371 applicants completing a more detailed follow-up application form. Five applicants subsequently withdrew, while 130 were removed from further consideration following a review for conflicts of interest. 236 applicants were entered into a computer-automated random selection process completed by an independent information technology team. A jury of 24 members was identified with a profile that is representative of the broader population of Ireland (in terms of gender, age, location, ethnicity, and educational attainment). The Central Statistics Office census data was used as a guide in determining the ideal composition along demographics like gender, age, location, ethnicity, and education.\n",
+      "project-title": "IPPOSI Citizens’ Jury on AI in Healthcare",
+      "submitted-by": "Canning",
+      "why-is-this-project-important-to-include-in-the": "AI's implications in healthcare are numerous and disparate; citizen deliberation can be an effective tool to develop good, reality-based policy.",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Should Ireland increase the use of AI in healthcare?",
+      "geographic-scope": [
+        "ireland"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "irish-platform-for-patient-organisations-science-and-industry"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://ipposi.ie/wp-content/uploads/2025/02/Citizens-Jury-Verdict-Report-21.02.25.pdf",
+      "locations": [
+        "ireland"
+      ],
+      "where-were-participants-from": [
+        "Ireland"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+        "data": {
+          "layout": "generic",
+          "title": "IPPOSI Citizens’ Jury on AI in Healthcare-",
+          "airtable_id": "624ee768befee176",
+          "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+          "name": "IPPOSI Citizens’ Jury on AI in Healthcare-",
+          "cases": [
+            "ipposi-citizens-jury-on-ai-in-healthcare"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "ipposi-citizens-jury-on-ai-in-healthcare-jury-members",
+        "data": {
+          "layout": "generic",
+          "title": "IPPOSI Citizens’ Jury on AI in Healthcare-Jury Members",
+          "airtable_id": "799973671ba3ee4c",
+          "slug": "ipposi-citizens-jury-on-ai-in-healthcare-jury-members",
+          "locations": [
+            "ireland"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "Ireland",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens' Jury"
+          ],
+          "on-average-how-many-hours-did-each-participant": 24,
+          "name": "IPPOSI Citizens’ Jury on AI in Healthcare-Jury Members",
+          "group-description": "Jury Members",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "cases": [
+            "ipposi-citizens-jury-on-ai-in-healthcare"
+          ],
+          "recruitment-description": "24",
+          "was-there-a-specific-target-population": "A jury of 24 members was identified with a profile that is representative of the broader population of Ireland (in terms of gender, age, location, ethnicity, and educational attainment). The Central Statistics Office census data was used as a guide in determining the ideal composition along demographics like gender, age, location, ethnicity, and education.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "irish-platform-for-patient-organisations-science-and-industry",
+        "data": {
+          "layout": "organisation",
+          "title": "Irish Platform for Patient Organisations, Science and Industry",
+          "airtable_id": "acbfd26a2f92bef5",
+          "slug": "irish-platform-for-patient-organisations-science-and-industry",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ipposi-citizens-jury-on-ai-in-healthcare"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://ipposi.ie/",
+          "name": "Irish Platform for Patient Organisations, Science and Industry",
+          "main-location": [
+            "ireland"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ipposi-citizens-jury-on-ai-in-healthcare"
+          ],
+          "layout": "generic",
+          "slug": "ipposi-citizens-jury-on-ai-in-healthcare-process",
+          "title": "IPPOSI Citizens’ Jury on AI in Healthcare - Process",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "IPPOSI Citizens’ Jury on AI in Healthcare-",
+        "airtable_id": "624ee768befee176",
+        "slug": "ipposi-citizens-jury-on-ai-in-healthcare",
+        "name": "IPPOSI Citizens’ Jury on AI in Healthcare-",
+        "cases": [
+          "ipposi-citizens-jury-on-ai-in-healthcare"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "IPPOSI Citizens’ Jury on AI in Healthcare-Jury Members",
+        "airtable_id": "799973671ba3ee4c",
+        "slug": "ipposi-citizens-jury-on-ai-in-healthcare-jury-members",
+        "locations": [
+          "ireland"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "Ireland",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens' Jury"
+        ],
+        "on-average-how-many-hours-did-each-participant": 24,
+        "name": "IPPOSI Citizens’ Jury on AI in Healthcare-Jury Members",
+        "group-description": "Jury Members",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "cases": [
+          "ipposi-citizens-jury-on-ai-in-healthcare"
+        ],
+        "recruitment-description": "24",
+        "was-there-a-specific-target-population": "A jury of 24 members was identified with a profile that is representative of the broader population of Ireland (in terms of gender, age, location, ethnicity, and educational attainment). The Central Statistics Office census data was used as a guide in determining the ideal composition along demographics like gender, age, location, ethnicity, and education.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ipposi-citizens-jury-on-ai-in-healthcare"
+        ],
+        "layout": "generic",
+        "slug": "ipposi-citizens-jury-on-ai-in-healthcare-process",
+        "title": "IPPOSI Citizens’ Jury on AI in Healthcare - Process",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Irish Platform for Patient Organisations, Science and Industry",
+        "airtable_id": "acbfd26a2f92bef5",
+        "slug": "irish-platform-for-patient-organisations-science-and-industry",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ipposi-citizens-jury-on-ai-in-healthcare"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://ipposi.ie/",
+        "name": "Irish Platform for Patient Organisations, Science and Industry",
+        "main-location": [
+          "ireland"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

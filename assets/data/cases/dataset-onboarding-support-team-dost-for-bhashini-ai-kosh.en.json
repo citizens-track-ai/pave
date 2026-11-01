@@ -1,0 +1,868 @@
+{
+  "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh",
+    "airtable_id": "33f9541ddac9e061",
+    "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+    "redirect_from": [
+      "/c/33f9541ddac9e061/"
+    ],
+    "lead-organisations": [
+      "civicdatalab"
+    ],
+    "provide-a-brief-description-of-the-project": "The Dataset Onboarding Support Team (DOST) is an initiative led by CivicDataLab, in partnership with the Gates Foundation and in collaboration with BHASHINI, to strengthen India's multilingual AI ecosystem by enabling organizations and researchers to identify, prepare, and contribute AI-ready language datasets to AIKosh, India's national AI repository. \n\nRather than collecting new datasets directly, DOST works with government departments, universities, civil society organizations, cultural institutions, researchers, and community contributors to establish long-term data streams, build capacity for AI-ready dataset preparation, and support responsible, contributor-led sharing of multilingual language resources. By strengthening the public data infrastructure that underpins AI development, DOST aims to ensure that India's linguistic diversity is better represented in future AI systems.\n",
+    "what-limitations-to-the-project-should-be-noted": "The project operates within a multilingual and institutionally diverse ecosystem where datasets vary significantly in quality, documentation, licensing, and digital readiness. Many valuable language resources remain undigitized, fragmented across organizations, or require substantial preparation before they can support AI applications. Building trust with contributors, clarifying ownership and licensing, and establishing long-term institutional partnerships requires sustained engagement beyond typical project timelines. Additionally, low-resource languages often have limited existing digital infrastructure and technical expertise, increasing the time and effort required for responsible dataset preparation and onboarding. \n",
+    "project-status": "In Progress",
+    "headline-findings": "Government departments, universities, civil society organizations, and researchers consistently reported that they possessed valuable multilingual language resources but lacked awareness of how these resources could contribute to AI, as well as a clear pathway to prepare and share them for AI use. \n\nParticipants identified technical support, including AI-readiness assessment, metadata creation, documentation, licensing, anonymization, and dataset preparation as a greater barrier to participation than the availability of language data itself. \n\nContributors emphasized that meaningful participation in the AI ecosystem requires more than funding, highlighting the importance of long-term partnerships, technical mentorship, ecosystem networking, contributor attribution, and clear governance around ownership and consent. \n\nOrganizations working with underrepresented Indian languages viewed multilingual dataset stewardship as an opportunity to improve representation in AI systems, while also expressing a strong need for sustained capacity building to transform existing resources such as archives, reports, educational materials, and public documents into AI-ready datasets. \n",
+    "participants": [
+      "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos",
+      "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-departments-public-institutions",
+      "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-ambassador-network-fellows"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Current issues",
+      "Future issues",
+      "AI in general"
+    ],
+    "theme": [
+      "Language"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "gates-foundation"
+    ],
+    "inclusion-efforts": "The project intentionally prioritized participation from organizations and communities working with low-resource and underrepresented Indian languages. Recruitment combined national outreach with state-level ecosystem mapping and field visits to identify contributors beyond established AI networks. Engagement was designed to accommodate varying levels of technical capacity by providing hands-on support through the DOST Helpdesk, including assistance with AI-readiness assessment, metadata creation, documentation, licensing, and dataset preparation. Contributors could choose whether to upload datasets themselves or receive support from CivicDataLab, while retaining ownership, attribution, and control over access permissions. This flexible, contributor centric approach lowered barriers to participation and enabled a broader range of institutions, including government departments, universities, civil society organizations, cultural archives, and independent researchers to contribute to India's multilingual AI ecosystem.\n",
+    "project-title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh",
+    "method-image-caption": "Source: ",
+    "submitted-by": "Nikil Augustine",
+    "why-is-this-project-important-to-include-in-the": "DOST demonstrates that participation in AI extends beyond consultation on AI policies or systems. It also includes enabling communities and institutions to shape the datasets on which AI is built. The project brings together government agencies, academic institutions, civil society organizations, cultural archives, independent researchers, and language communities to collaboratively identify, prepare, and steward multilingual datasets for public benefit. Through capacity building, technical assistance, contributor consent, attribution, and long-term partnerships, DOST has identified over 120 language datasets across more than 50 organizations and researchers. The project offers a replicable model for participatory data stewardship that strengthens Digital Public Infrastructure while ensuring that underrepresented languages and communities have a voice in the future development of AI. ",
+    "photos-and-images": [
+      {
+        "id": "attGLoPMMnTMUtqpE",
+        "width": 2048,
+        "height": 1332,
+        "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE.png",
+        "filename": "session with mwire.png",
+        "size": 1477122,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_small.png",
+            "width": 55,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_large.png",
+            "width": 787,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_full.png",
+            "width": 2048,
+            "height": 1332
+          }
+        }
+      },
+      {
+        "id": "att4MFnV6YKcakof2",
+        "width": 1656,
+        "height": 1184,
+        "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2.png",
+        "filename": "presenttaion at utkal university.png",
+        "size": 3261862,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_small.png",
+            "width": 50,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_large.png",
+            "width": 716,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_full.png",
+            "width": 1656,
+            "height": 1184
+          }
+        }
+      },
+      {
+        "id": "att2YBvfcUe4dAbzI",
+        "width": 6240,
+        "height": 4160,
+        "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI.jpg",
+        "filename": "IMG_4891.jpg",
+        "size": 5193852,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attMudvcx6pctVojY",
+        "width": 6240,
+        "height": 4160,
+        "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY.jpg",
+        "filename": "IMG_4826.jpg",
+        "size": 5176359,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "civicsabha-20-multilingual-ai-roundtable-report",
+      "recisw2enyzv1kvgs"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Participatory stewardship of multilingual language datasets for strengthening India's Digital Public Infrastructure and enabling inclusive AI development. ",
+    "how-was-the-project-initiated": [
+      "Commissioned",
+      "Co-created",
+      "Other"
+    ],
+    "level-of-engagement": "Professional",
+    "what-year-did-the-project-conclude": 2027,
+    "which-of-the-following-resources-are-available": [
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "digital-india-bhashini-division-dibd"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://civicdatalab.in/work/dpg/dost/",
+    "locations": [
+      "assam-india",
+      "delhi-india",
+      "himachal-pradesh-india",
+      "karnataka-india",
+      "kerala-india",
+      "odisha-india",
+      "tamil-nadu-india"
+    ],
+    "where-were-participants-from": [
+      "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi",
+      "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India",
+      "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India "
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+    "data": {
+      "layout": "case",
+      "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh",
+      "airtable_id": "33f9541ddac9e061",
+      "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+      "redirect_from": [
+        "/c/33f9541ddac9e061/"
+      ],
+      "lead-organisations": [
+        "civicdatalab"
+      ],
+      "provide-a-brief-description-of-the-project": "The Dataset Onboarding Support Team (DOST) is an initiative led by CivicDataLab, in partnership with the Gates Foundation and in collaboration with BHASHINI, to strengthen India's multilingual AI ecosystem by enabling organizations and researchers to identify, prepare, and contribute AI-ready language datasets to AIKosh, India's national AI repository. \n\nRather than collecting new datasets directly, DOST works with government departments, universities, civil society organizations, cultural institutions, researchers, and community contributors to establish long-term data streams, build capacity for AI-ready dataset preparation, and support responsible, contributor-led sharing of multilingual language resources. By strengthening the public data infrastructure that underpins AI development, DOST aims to ensure that India's linguistic diversity is better represented in future AI systems.\n",
+      "what-limitations-to-the-project-should-be-noted": "The project operates within a multilingual and institutionally diverse ecosystem where datasets vary significantly in quality, documentation, licensing, and digital readiness. Many valuable language resources remain undigitized, fragmented across organizations, or require substantial preparation before they can support AI applications. Building trust with contributors, clarifying ownership and licensing, and establishing long-term institutional partnerships requires sustained engagement beyond typical project timelines. Additionally, low-resource languages often have limited existing digital infrastructure and technical expertise, increasing the time and effort required for responsible dataset preparation and onboarding. \n",
+      "project-status": "In Progress",
+      "headline-findings": "Government departments, universities, civil society organizations, and researchers consistently reported that they possessed valuable multilingual language resources but lacked awareness of how these resources could contribute to AI, as well as a clear pathway to prepare and share them for AI use. \n\nParticipants identified technical support, including AI-readiness assessment, metadata creation, documentation, licensing, anonymization, and dataset preparation as a greater barrier to participation than the availability of language data itself. \n\nContributors emphasized that meaningful participation in the AI ecosystem requires more than funding, highlighting the importance of long-term partnerships, technical mentorship, ecosystem networking, contributor attribution, and clear governance around ownership and consent. \n\nOrganizations working with underrepresented Indian languages viewed multilingual dataset stewardship as an opportunity to improve representation in AI systems, while also expressing a strong need for sustained capacity building to transform existing resources such as archives, reports, educational materials, and public documents into AI-ready datasets. \n",
+      "participants": [
+        "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos",
+        "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-departments-public-institutions",
+        "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-ambassador-network-fellows"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Current issues",
+        "Future issues",
+        "AI in general"
+      ],
+      "theme": [
+        "Language"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "gates-foundation"
+      ],
+      "inclusion-efforts": "The project intentionally prioritized participation from organizations and communities working with low-resource and underrepresented Indian languages. Recruitment combined national outreach with state-level ecosystem mapping and field visits to identify contributors beyond established AI networks. Engagement was designed to accommodate varying levels of technical capacity by providing hands-on support through the DOST Helpdesk, including assistance with AI-readiness assessment, metadata creation, documentation, licensing, and dataset preparation. Contributors could choose whether to upload datasets themselves or receive support from CivicDataLab, while retaining ownership, attribution, and control over access permissions. This flexible, contributor centric approach lowered barriers to participation and enabled a broader range of institutions, including government departments, universities, civil society organizations, cultural archives, and independent researchers to contribute to India's multilingual AI ecosystem.\n",
+      "project-title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh",
+      "method-image-caption": "Source: ",
+      "submitted-by": "Nikil Augustine",
+      "why-is-this-project-important-to-include-in-the": "DOST demonstrates that participation in AI extends beyond consultation on AI policies or systems. It also includes enabling communities and institutions to shape the datasets on which AI is built. The project brings together government agencies, academic institutions, civil society organizations, cultural archives, independent researchers, and language communities to collaboratively identify, prepare, and steward multilingual datasets for public benefit. Through capacity building, technical assistance, contributor consent, attribution, and long-term partnerships, DOST has identified over 120 language datasets across more than 50 organizations and researchers. The project offers a replicable model for participatory data stewardship that strengthens Digital Public Infrastructure while ensuring that underrepresented languages and communities have a voice in the future development of AI. ",
+      "photos-and-images": [
+        {
+          "id": "attGLoPMMnTMUtqpE",
+          "width": 2048,
+          "height": 1332,
+          "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE.png",
+          "filename": "session with mwire.png",
+          "size": 1477122,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_small.png",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_large.png",
+              "width": 787,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attGLoPMMnTMUtqpE_full.png",
+              "width": 2048,
+              "height": 1332
+            }
+          }
+        },
+        {
+          "id": "att4MFnV6YKcakof2",
+          "width": 1656,
+          "height": 1184,
+          "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2.png",
+          "filename": "presenttaion at utkal university.png",
+          "size": 3261862,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_small.png",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_large.png",
+              "width": 716,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att4MFnV6YKcakof2_full.png",
+              "width": 1656,
+              "height": 1184
+            }
+          }
+        },
+        {
+          "id": "att2YBvfcUe4dAbzI",
+          "width": 6240,
+          "height": 4160,
+          "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI.jpg",
+          "filename": "IMG_4891.jpg",
+          "size": 5193852,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_att2YBvfcUe4dAbzI_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attMudvcx6pctVojY",
+          "width": 6240,
+          "height": 4160,
+          "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY.jpg",
+          "filename": "IMG_4826.jpg",
+          "size": 5176359,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/33f9541ddac9e061_fldd4B6cpBOP3n3is_attMudvcx6pctVojY_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "civicsabha-20-multilingual-ai-roundtable-report",
+        "recisw2enyzv1kvgs"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Participatory stewardship of multilingual language datasets for strengthening India's Digital Public Infrastructure and enabling inclusive AI development. ",
+      "how-was-the-project-initiated": [
+        "Commissioned",
+        "Co-created",
+        "Other"
+      ],
+      "level-of-engagement": "Professional",
+      "what-year-did-the-project-conclude": 2027,
+      "which-of-the-following-resources-are-available": [
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "digital-india-bhashini-division-dibd"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://civicdatalab.in/work/dpg/dost/",
+      "locations": [
+        "assam-india",
+        "delhi-india",
+        "himachal-pradesh-india",
+        "karnataka-india",
+        "kerala-india",
+        "odisha-india",
+        "tamil-nadu-india"
+      ],
+      "where-were-participants-from": [
+        "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi",
+        "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India",
+        "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India "
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos",
+        "data": {
+          "layout": "generic",
+          "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Multilingual Dataset Contributors and Ecosystem Partners",
+          "airtable_id": "b5954cb71e0d871a",
+          "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos",
+          "locations": [
+            "assam-india",
+            "odisha-india",
+            "himachal-pradesh-india",
+            "kerala-india",
+            "tamil-nadu-india",
+            "karnataka-india",
+            "delhi-india"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India ",
+          "which-of-the-following-methods-were-used-to": [
+            "Capacity Building Workshop",
+            "Co-creation workshops",
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 5,
+          "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Multilingual Dataset Contributors and Ecosystem Partners",
+          "group-description": "Multilingual Dataset Contributors and Ecosystem Partners",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "additional-notes": "DOST adopts a facilitative rather than extractive model of engagement. Instead of collecting new datasets directly, the initiative works with organizations and communities that already working to create or are sitting on  valuable multilingual language resources, supporting them in identifying, preparing, documenting, and sharing datasets for AI use. Contributors remain owners of their datasets and determine licensing and access conditions, while receiving technical support, attribution, and long-term ecosystem engagement. The project seeks to establish sustainable data streams rather than one-time dataset contributions. ",
+          "how-many-people-took-part": 50,
+          "cases": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "recruitment-description": "Participants were identified through secondary research and ecosystem mapping to locate organizations and individuals working on valuable multilingual language datasets. Outreach combined desk research with field visits, institutional meetings, workshops, webinars, conferences, and referrals from partners. Interested contributors entered the DOST onboarding process through Expressions of Interest (EOIs) or direct engagement. The project actively sought participation from organizations working with low-resource and underrepresented languages, ensuring contributors from government, academia, civil society, cultural institutions, and independent research were represented. ",
+          "was-there-a-specific-target-population": "Government departments, universities, research institutions, civil society organizations, cultural and language organizations, independent researchers, community contributors, and organizations working on multilingual language resources across India. ",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-departments-public-institutions",
+        "data": {
+          "layout": "generic",
+          "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+          "airtable_id": "ef2cd1f439652ca1",
+          "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-departments-public-institutions",
+          "locations": [
+            "assam-india",
+            "odisha-india",
+            "himachal-pradesh-india",
+            "kerala-india",
+            "tamil-nadu-india",
+            "karnataka-india",
+            "delhi-india"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi",
+          "which-of-the-following-methods-were-used-to": [
+            "Capacity Building Workshop",
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 3,
+          "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+          "group-description": "Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+          "additional-notes": "Government institutions participated as long-term ecosystem partners rather than one-time data providers, contributing to discussions on data governance, AI readiness, and sustainable multilingual public data infrastructure.",
+          "how-many-people-took-part": 6,
+          "cases": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "recruitment-description": "Institutional outreach, state consultations, field visits, government referrals, workshops, Expressions of Interest (EOIs), and collaboration with BHASHINI.",
+          "was-there-a-specific-target-population": "State government departments, public institutions, Digital Mission teams, language academies, and public sector organizations managing multilingual public data.",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-ambassador-network-fellows",
+        "data": {
+          "layout": "generic",
+          "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+          "airtable_id": "e59cecf1add951bd",
+          "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-ambassador-network-fellows",
+          "locations": [
+            "assam-india",
+            "odisha-india",
+            "himachal-pradesh-india",
+            "kerala-india",
+            "tamil-nadu-india",
+            "karnataka-india",
+            "delhi-india"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India",
+          "which-of-the-following-methods-were-used-to": [
+            "Capacity Building Workshop",
+            "Community-Based Participatory Research",
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 5,
+          "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+          "group-description": "AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "additional-notes": "Fellows served as intermediaries between contributors, public institutions, technical teams, and the broader AI ecosystem, ensuring that participation remained locally grounded while aligning datasets with national AI infrastructure.",
+          "how-many-people-took-part": 10,
+          "cases": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "recruitment-description": "AI-DAN Fellows and facilitators were recruited to build trusted relationships with local stakeholders, conduct ecosystem mapping, support field engagement, assist contributors through the AI-readiness process, and strengthen long-term multilingual data ecosystems within their respective states.",
+          "was-there-a-specific-target-population": "AI-DAN Fellows, CivicDataLab project staff, ecosystem coordinators, and partner facilitators supporting multilingual AI ecosystem development.",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "digital-india-bhashini-division-dibd",
+        "data": {
+          "layout": "organisation",
+          "title": "Digital India BHASHINI Division (DIBD)",
+          "airtable_id": "0f52023f8073df14",
+          "slug": "digital-india-bhashini-division-dibd",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "name": "Digital India BHASHINI Division (DIBD)",
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "civicdatalab",
+        "data": {
+          "layout": "organisation",
+          "title": "CivicDataLab",
+          "airtable_id": "9dedee9805f763c0",
+          "slug": "civicdatalab",
+          "role": [
+            "Lead"
+          ],
+          "name": "CivicDataLab",
+          "lead-organisation-for": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "gates-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Gates Foundation",
+          "airtable_id": "aa8cf30732fbd579",
+          "slug": "gates-foundation",
+          "role": [
+            "Funder"
+          ],
+          "name": "Gates Foundation",
+          "funding-organisation-for": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+          ],
+          "layout": "generic",
+          "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-process",
+          "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh - Process",
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "Future issues",
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Multilingual Dataset Contributors and Ecosystem Partners",
+        "airtable_id": "b5954cb71e0d871a",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos",
+        "locations": [
+          "assam-india",
+          "odisha-india",
+          "himachal-pradesh-india",
+          "kerala-india",
+          "tamil-nadu-india",
+          "karnataka-india",
+          "delhi-india"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India ",
+        "which-of-the-following-methods-were-used-to": [
+          "Capacity Building Workshop",
+          "Co-creation workshops",
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 5,
+        "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Multilingual Dataset Contributors and Ecosystem Partners",
+        "group-description": "Multilingual Dataset Contributors and Ecosystem Partners",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "additional-notes": "DOST adopts a facilitative rather than extractive model of engagement. Instead of collecting new datasets directly, the initiative works with organizations and communities that already working to create or are sitting on  valuable multilingual language resources, supporting them in identifying, preparing, documenting, and sharing datasets for AI use. Contributors remain owners of their datasets and determine licensing and access conditions, while receiving technical support, attribution, and long-term ecosystem engagement. The project seeks to establish sustainable data streams rather than one-time dataset contributions. ",
+        "how-many-people-took-part": 50,
+        "cases": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "recruitment-description": "Participants were identified through secondary research and ecosystem mapping to locate organizations and individuals working on valuable multilingual language datasets. Outreach combined desk research with field visits, institutional meetings, workshops, webinars, conferences, and referrals from partners. Interested contributors entered the DOST onboarding process through Expressions of Interest (EOIs) or direct engagement. The project actively sought participation from organizations working with low-resource and underrepresented languages, ensuring contributors from government, academia, civil society, cultural institutions, and independent research were represented. ",
+        "was-there-a-specific-target-population": "Government departments, universities, research institutions, civil society organizations, cultural and language organizations, independent researchers, community contributors, and organizations working on multilingual language resources across India. ",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+        "airtable_id": "ef2cd1f439652ca1",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-departments-public-institutions",
+        "locations": [
+          "assam-india",
+          "odisha-india",
+          "himachal-pradesh-india",
+          "kerala-india",
+          "tamil-nadu-india",
+          "karnataka-india",
+          "delhi-india"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi",
+        "which-of-the-following-methods-were-used-to": [
+          "Capacity Building Workshop",
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 3,
+        "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+        "group-description": "Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+        "additional-notes": "Government institutions participated as long-term ecosystem partners rather than one-time data providers, contributing to discussions on data governance, AI readiness, and sustainable multilingual public data infrastructure.",
+        "how-many-people-took-part": 6,
+        "cases": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "recruitment-description": "Institutional outreach, state consultations, field visits, government referrals, workshops, Expressions of Interest (EOIs), and collaboration with BHASHINI.",
+        "was-there-a-specific-target-population": "State government departments, public institutions, Digital Mission teams, language academies, and public sector organizations managing multilingual public data.",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+        "airtable_id": "e59cecf1add951bd",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-ambassador-network-fellows",
+        "locations": [
+          "assam-india",
+          "odisha-india",
+          "himachal-pradesh-india",
+          "kerala-india",
+          "tamil-nadu-india",
+          "karnataka-india",
+          "delhi-india"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu; Karnataka; Delhi; India",
+        "which-of-the-following-methods-were-used-to": [
+          "Capacity Building Workshop",
+          "Community-Based Participatory Research",
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 5,
+        "name": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh-AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+        "group-description": "AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "additional-notes": "Fellows served as intermediaries between contributors, public institutions, technical teams, and the broader AI ecosystem, ensuring that participation remained locally grounded while aligning datasets with national AI infrastructure.",
+        "how-many-people-took-part": 10,
+        "cases": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "recruitment-description": "AI-DAN Fellows and facilitators were recruited to build trusted relationships with local stakeholders, conduct ecosystem mapping, support field engagement, assist contributors through the AI-readiness process, and strengthen long-term multilingual data ecosystems within their respective states.",
+        "was-there-a-specific-target-population": "AI-DAN Fellows, CivicDataLab project staff, ecosystem coordinators, and partner facilitators supporting multilingual AI ecosystem development.",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "layout": "generic",
+        "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-process",
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh - Process",
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Digital India BHASHINI Division (DIBD)",
+        "airtable_id": "0f52023f8073df14",
+        "slug": "digital-india-bhashini-division-dibd",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "name": "Digital India BHASHINI Division (DIBD)",
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "CivicDataLab",
+        "airtable_id": "9dedee9805f763c0",
+        "slug": "civicdatalab",
+        "role": [
+          "Lead"
+        ],
+        "name": "CivicDataLab",
+        "lead-organisation-for": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Gates Foundation",
+        "airtable_id": "aa8cf30732fbd579",
+        "slug": "gates-foundation",
+        "role": [
+          "Funder"
+        ],
+        "name": "Gates Foundation",
+        "funding-organisation-for": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "Future issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

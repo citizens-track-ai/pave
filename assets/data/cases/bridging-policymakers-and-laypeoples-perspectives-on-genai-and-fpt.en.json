@@ -1,0 +1,528 @@
+{
+  "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT",
+    "airtable_id": "4f45ccdbb3428a3f",
+    "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt",
+    "redirect_from": [
+      "/c/4f45ccdbb3428a3f/"
+    ],
+    "lead-organisations": [
+      "technical-university-of-munich"
+    ],
+    "provide-a-brief-description-of-the-project": "We are witnessing a rapid global roll-out of generative AI (genAI) and facial processing technologies (FPT). How these technologies impact societies also depends on local-specific factors that are rarely investigated or considered in their development or roll-out. Various institutions and governments are actively developing new regulations. In light of these developments, this project aims to bridge perspectives between policymakers and laypeople. We conducted two questionnaire studies on the topics of generative AI (genAI) and facial processing technologies (FPT): one with policymakers and advisors (N = 61) and another with laypeople (N = 1070) of twelve nationalities, including Nigeria, South Africa, India, Japan, South Korea, Germany, the UK, the USA, Canada, Chile, Mexico, and Brazil. Using qualitative and quantitative analyses, our research explores (1) the topics related to genAI and FPT that policymakers seek laypeople’s opinions on, (2) laypeople’s perceptions of these technologies, and (3) comparisons of identified topics to highlight relevant issues for public discussion. We find that both AI technologies are adopted differently by laypeople respondents from different countries. The topics on which policymakers want to hear the opinions of laypeople overlap largely with laypeople’s concerns and topics they deem necessary to be further discussed. However, they differ in the level of technological depth. Overall, most respondents in both surveyed groups support regulation rather than an outright ban on AI technologies. This highlights the need for in-depth discursive formats to inform those regulatory efforts, but also to question prevailing narratives around both technologies’ capacities.\n",
+    "what-limitations-to-the-project-should-be-noted": "We implemented the surveys only in English. To ensure participants understood the survey well, we recruited Prolific participants who indicated on the platform that they were fluent in English.\n",
+    "project-status": "Complete",
+    "headline-findings": "We found that policymakers and their advisors generally perceived citizen participation as valuable. The main arguments included citizen participation to strengthen democratic institutions (84%), facilitate public learning (80%), contribute a diversity of views (80%), and include public opinion and judgment they can learn from (70%). They expressed interest in citizens' input on the ethical issues, risks, and benefits of genAI and FPT. They focused on specific concerns and trade-offs, such as security and privacy, and regulatory measures, such as transparency and data protection, as well as general attitudes toward FPT and the acceptability of specific use cases of both technologies.\n\nWe found the public to indicate low exposure ratings for FPT in public places and high usage and exposure ratings for (text-to-text) genAI systems. This indicates a gap between the visibility of the two technologies for laypeople in their everyday lives. While FPT systems seem to enter laypeople's lives rather undetected, genAI systems are more visible (in their outputs and the possibility of use) and offer opportunities for active engagement. Nigerian, Indian, and South African respondents reported the highest use of text-generation AI systems, while those from the UK and Canada reported the lowest. Nigerian and South African respondents reported the highest awareness of and exposure to FPT technology.\n\nOur analyses also show that the public perceived genAI to be significantly more beneficial than FPT, for which they were undecided. Overall, the majority of respondents indicated that they support regulation rather than an outright ban on AI technologies, with significantly more support for regulation from respondents in the FPT than genAI context. Nigerian respondents showed significantly more rejection of a ban on genAI and FPT, and perceived genAI and FPT to be particularly valuable to them and to society than participants from other countries. These findings align with the positive views of Nigerian respondents throughout the survey and their high reported exposure ratings. Brazilian, South Korean, and Canadian participants were among the most critical of the presented genAI use cases, and Canadian participants were the most critical of several presented FPT use cases.\n\nThe public had the most trust in independent expert-run institutions to establish safety measures, and they believed that the government (for FPT) and companies developing genAI and FPT should be held accountable in case of harmful outcomes. Here, we did not identify any significant differences between respondents from different countries.\n\nOverall, we observed that the topics suggested by both surveyed groups (the general public and policymakers and advisors in AI) largely overlap. Topics raised by laypeople are less specific and focus more on leisure-related areas, such as genAI issues in the arts and FPT in private use cases or at the airport. Policymakers and advisors partially focused on specialized approaches, such as watermarks or AI disclosure mechanisms.\n",
+    "participants": [
+      "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-policymaker",
+      "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-laypeople"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Predictive AI",
+      "Current issues",
+      "Future issues",
+      "Specific AI system(s)"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "additional-acknowledgements": "Nikhil Sharma, Simeon Emilov Ivanov, Georgi Tsipov",
+    "inclusion-efforts": "\n",
+    "project-title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT",
+    "submitted-by": "Chiara Ullstein, Michel Hohendanner, Jens Grossklags",
+    "why-is-this-project-important-to-include-in-the": "This research represents a comprehensive effort to bridge perspectives between policymakers and laypeople by surveying topics related to genAI and FPT that policymakers seek laypeople’s opinions on (N = 61, 37 nationalities) and mapping them onto citizens' opinions in 12 countries (N = 1070). In contrast to many survey studies, in our citizens’ opinion survey, we provided information on genAI and FPT before participants responded to questions about their deployment. This research built the basis for our follow-up project, the Global AI Dialogues. The Global AI Dialogues were informed by the results of this study on several accounts: i.a., to narrow down the selection of countries, to select the different application contexts of both AI technologies that were presented to the participants of the dialogues for discussion, and to address country-specifics when applicable.",
+    "photos-and-images": [
+      {
+        "id": "attDoV8bGkjvn8vRz",
+        "width": 2415,
+        "height": 1819,
+        "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz.png",
+        "filename": "citizen_overall_tradeoffs_labels.png",
+        "size": 494286,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_small.png",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_large.png",
+            "width": 680,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_full.png",
+            "width": 2415,
+            "height": 1819
+          }
+        }
+      },
+      {
+        "id": "attTqX1nkFlnlCbhj",
+        "width": 2700,
+        "height": 1200,
+        "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj.png",
+        "filename": "citizen_institutions.png",
+        "size": 246512,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_small.png",
+            "width": 81,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_large.png",
+            "width": 1152,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_full.png",
+            "width": 2700,
+            "height": 1200
+          }
+        }
+      },
+      {
+        "id": "attOOSZx58I3vrrGZ",
+        "width": 4409,
+        "height": 1251,
+        "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ.png",
+        "filename": "StudyDesign.png",
+        "size": 550624,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_small.png",
+            "width": 127,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_large.png",
+            "width": 1804,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_full.png",
+            "width": 3000,
+            "height": 851
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "academic-article",
+      "academic-article-appendix-survey-design"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "deployment of generative AI and facial processing technologies in selected contexts",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2023,
+    "which-of-the-following-resources-are-available": [
+      "A research poster"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://doi.org/10.1145/3715335.3735470",
+    "where-were-participants-from": [
+      "Andorra; Argentina; Austria; Belgium; Canada; Chile; Denmark; Estonia; Finland; France; Georgia; Germany; Greece; Hungary; Iceland; Ireland; Italy; Japan; Kenya; Latvia; Liechtenstein; Lithuania; Malta; Mauritius; Mexico; Peru; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Turkey; Ukraine; Uruguay; USA",
+      "Nigeria; South Africa; India; Japan; South Korea; Germany; UK; USA; Canada; Chile; Mexico; Brazil"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt",
+    "data": {
+      "layout": "case",
+      "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT",
+      "airtable_id": "4f45ccdbb3428a3f",
+      "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt",
+      "redirect_from": [
+        "/c/4f45ccdbb3428a3f/"
+      ],
+      "lead-organisations": [
+        "technical-university-of-munich"
+      ],
+      "provide-a-brief-description-of-the-project": "We are witnessing a rapid global roll-out of generative AI (genAI) and facial processing technologies (FPT). How these technologies impact societies also depends on local-specific factors that are rarely investigated or considered in their development or roll-out. Various institutions and governments are actively developing new regulations. In light of these developments, this project aims to bridge perspectives between policymakers and laypeople. We conducted two questionnaire studies on the topics of generative AI (genAI) and facial processing technologies (FPT): one with policymakers and advisors (N = 61) and another with laypeople (N = 1070) of twelve nationalities, including Nigeria, South Africa, India, Japan, South Korea, Germany, the UK, the USA, Canada, Chile, Mexico, and Brazil. Using qualitative and quantitative analyses, our research explores (1) the topics related to genAI and FPT that policymakers seek laypeople’s opinions on, (2) laypeople’s perceptions of these technologies, and (3) comparisons of identified topics to highlight relevant issues for public discussion. We find that both AI technologies are adopted differently by laypeople respondents from different countries. The topics on which policymakers want to hear the opinions of laypeople overlap largely with laypeople’s concerns and topics they deem necessary to be further discussed. However, they differ in the level of technological depth. Overall, most respondents in both surveyed groups support regulation rather than an outright ban on AI technologies. This highlights the need for in-depth discursive formats to inform those regulatory efforts, but also to question prevailing narratives around both technologies’ capacities.\n",
+      "what-limitations-to-the-project-should-be-noted": "We implemented the surveys only in English. To ensure participants understood the survey well, we recruited Prolific participants who indicated on the platform that they were fluent in English.\n",
+      "project-status": "Complete",
+      "headline-findings": "We found that policymakers and their advisors generally perceived citizen participation as valuable. The main arguments included citizen participation to strengthen democratic institutions (84%), facilitate public learning (80%), contribute a diversity of views (80%), and include public opinion and judgment they can learn from (70%). They expressed interest in citizens' input on the ethical issues, risks, and benefits of genAI and FPT. They focused on specific concerns and trade-offs, such as security and privacy, and regulatory measures, such as transparency and data protection, as well as general attitudes toward FPT and the acceptability of specific use cases of both technologies.\n\nWe found the public to indicate low exposure ratings for FPT in public places and high usage and exposure ratings for (text-to-text) genAI systems. This indicates a gap between the visibility of the two technologies for laypeople in their everyday lives. While FPT systems seem to enter laypeople's lives rather undetected, genAI systems are more visible (in their outputs and the possibility of use) and offer opportunities for active engagement. Nigerian, Indian, and South African respondents reported the highest use of text-generation AI systems, while those from the UK and Canada reported the lowest. Nigerian and South African respondents reported the highest awareness of and exposure to FPT technology.\n\nOur analyses also show that the public perceived genAI to be significantly more beneficial than FPT, for which they were undecided. Overall, the majority of respondents indicated that they support regulation rather than an outright ban on AI technologies, with significantly more support for regulation from respondents in the FPT than genAI context. Nigerian respondents showed significantly more rejection of a ban on genAI and FPT, and perceived genAI and FPT to be particularly valuable to them and to society than participants from other countries. These findings align with the positive views of Nigerian respondents throughout the survey and their high reported exposure ratings. Brazilian, South Korean, and Canadian participants were among the most critical of the presented genAI use cases, and Canadian participants were the most critical of several presented FPT use cases.\n\nThe public had the most trust in independent expert-run institutions to establish safety measures, and they believed that the government (for FPT) and companies developing genAI and FPT should be held accountable in case of harmful outcomes. Here, we did not identify any significant differences between respondents from different countries.\n\nOverall, we observed that the topics suggested by both surveyed groups (the general public and policymakers and advisors in AI) largely overlap. Topics raised by laypeople are less specific and focus more on leisure-related areas, such as genAI issues in the arts and FPT in private use cases or at the airport. Policymakers and advisors partially focused on specialized approaches, such as watermarks or AI disclosure mechanisms.\n",
+      "participants": [
+        "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-policymaker",
+        "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-laypeople"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Predictive AI",
+        "Current issues",
+        "Future issues",
+        "Specific AI system(s)"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "additional-acknowledgements": "Nikhil Sharma, Simeon Emilov Ivanov, Georgi Tsipov",
+      "inclusion-efforts": "\n",
+      "project-title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT",
+      "submitted-by": "Chiara Ullstein, Michel Hohendanner, Jens Grossklags",
+      "why-is-this-project-important-to-include-in-the": "This research represents a comprehensive effort to bridge perspectives between policymakers and laypeople by surveying topics related to genAI and FPT that policymakers seek laypeople’s opinions on (N = 61, 37 nationalities) and mapping them onto citizens' opinions in 12 countries (N = 1070). In contrast to many survey studies, in our citizens’ opinion survey, we provided information on genAI and FPT before participants responded to questions about their deployment. This research built the basis for our follow-up project, the Global AI Dialogues. The Global AI Dialogues were informed by the results of this study on several accounts: i.a., to narrow down the selection of countries, to select the different application contexts of both AI technologies that were presented to the participants of the dialogues for discussion, and to address country-specifics when applicable.",
+      "photos-and-images": [
+        {
+          "id": "attDoV8bGkjvn8vRz",
+          "width": 2415,
+          "height": 1819,
+          "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz.png",
+          "filename": "citizen_overall_tradeoffs_labels.png",
+          "size": 494286,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_small.png",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_large.png",
+              "width": 680,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attDoV8bGkjvn8vRz_full.png",
+              "width": 2415,
+              "height": 1819
+            }
+          }
+        },
+        {
+          "id": "attTqX1nkFlnlCbhj",
+          "width": 2700,
+          "height": 1200,
+          "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj.png",
+          "filename": "citizen_institutions.png",
+          "size": 246512,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_small.png",
+              "width": 81,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_large.png",
+              "width": 1152,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attTqX1nkFlnlCbhj_full.png",
+              "width": 2700,
+              "height": 1200
+            }
+          }
+        },
+        {
+          "id": "attOOSZx58I3vrrGZ",
+          "width": 4409,
+          "height": 1251,
+          "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ.png",
+          "filename": "StudyDesign.png",
+          "size": 550624,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_small.png",
+              "width": 127,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_large.png",
+              "width": 1804,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/4f45ccdbb3428a3f_fldd4B6cpBOP3n3is_attOOSZx58I3vrrGZ_full.png",
+              "width": 3000,
+              "height": 851
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "academic-article",
+        "academic-article-appendix-survey-design"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "deployment of generative AI and facial processing technologies in selected contexts",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2023,
+      "which-of-the-following-resources-are-available": [
+        "A research poster"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://doi.org/10.1145/3715335.3735470",
+      "where-were-participants-from": [
+        "Andorra; Argentina; Austria; Belgium; Canada; Chile; Denmark; Estonia; Finland; France; Georgia; Germany; Greece; Hungary; Iceland; Ireland; Italy; Japan; Kenya; Latvia; Liechtenstein; Lithuania; Malta; Mauritius; Mexico; Peru; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Turkey; Ukraine; Uruguay; USA",
+        "Nigeria; South Africa; India; Japan; South Korea; Germany; UK; USA; Canada; Chile; Mexico; Brazil"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-policymaker",
+        "data": {
+          "layout": "generic",
+          "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey policymaker",
+          "airtable_id": "ebc5f1cf7a3ecb92",
+          "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-policymaker",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Andorra; Argentina; Austria; Belgium; Canada; Chile; Denmark; Estonia; Finland; France; Georgia; Germany; Greece; Hungary; Iceland; Ireland; Italy; Japan; Kenya; Latvia; Liechtenstein; Lithuania; Malta; Mauritius; Mexico; Peru; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Turkey; Ukraine; Uruguay; USA",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.15,
+          "name": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey policymaker",
+          "group-description": "Online survey policymaker",
+          "how-many-people-took-part": 61,
+          "cases": [
+            "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+          ],
+          "recruitment-description": "We aimed to target individuals involved in AI policymaking. To do so, we defined two inclusion criteria: (1) the individual has been or is actively involved in AI policymaking at a governmental institution; (2) the individual has been or is actively advising AI policymakers. With AI policymaking, we refer to the development of AI strategies or policies at any local, national, or international level. We do not refer to AI strategies or policies introduced by industry players. We contacted a total of 703 individuals from the European Parliament (N = 110), the European Commission’s High-Level Expert Group (N = 42), the Council of Europe (N = 178), and national governments and their advisors (N = 373). To increase the response rate, we included in the email invitation letter a request for the contacted individuals to forward the survey invitations to relevant colleagues, such as their staff, who often prepare recommendations or technical details for AI policies or strategies. We collected data between 29 November 2023 and 12 December 2023. After an initial invitation, we sent out two reminders to people who had not completed the questionnaire at that time. The sample size is N = 61.",
+          "was-there-a-specific-target-population": "Policymakers and Policy Advisors in AI",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-laypeople",
+        "data": {
+          "layout": "generic",
+          "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey laypeople",
+          "airtable_id": "f3b567cfcca85e0b",
+          "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-laypeople",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Nigeria; South Africa; India; Japan; South Korea; Germany; UK; USA; Canada; Chile; Mexico; Brazil",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.2,
+          "name": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey laypeople",
+          "group-description": "Online survey laypeople",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 1070,
+          "cases": [
+            "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+          ],
+          "recruitment-description": "We recruited participants through Prolific.  The selection of nationalities is based on (a) the availability of nationalities on Prolific and (b) the aim to obtain a dataset with participants across Africa, Asia, Europe, North America, and South America to increase diversity in survey perspectives. The selected nationalities are Nigerian (N=110), South African (N=105), Indian (N=96), Japanese (N=24), South Korean (N=31), German (N=105), British (N=109), US-American (N=117), Canadian (N=106), Chilean (N=100), Mexican (N=104), Brazilian (N=63).",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "technical-university-of-munich",
+        "data": {
+          "layout": "organisation",
+          "title": "Technical University of Munich",
+          "airtable_id": "8598dad33d9bbc7b",
+          "slug": "technical-university-of-munich",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.tum.de/",
+          "name": "Technical University of Munich",
+          "lead-organisation-for": [
+            "global-ai-dialogues",
+            "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+          ],
+          "mission-statement": "To serve society through excellent research and education in science, engineering, and medicine. (Source: https://www.tum.de/)",
+          "main-location": [
+            "munich-germany"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues",
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+          ],
+          "layout": "generic",
+          "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-process",
+          "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues",
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey policymaker",
+        "airtable_id": "ebc5f1cf7a3ecb92",
+        "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-policymaker",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Andorra; Argentina; Austria; Belgium; Canada; Chile; Denmark; Estonia; Finland; France; Georgia; Germany; Greece; Hungary; Iceland; Ireland; Italy; Japan; Kenya; Latvia; Liechtenstein; Lithuania; Malta; Mauritius; Mexico; Peru; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Turkey; Ukraine; Uruguay; USA",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.15,
+        "name": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey policymaker",
+        "group-description": "Online survey policymaker",
+        "how-many-people-took-part": 61,
+        "cases": [
+          "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+        ],
+        "recruitment-description": "We aimed to target individuals involved in AI policymaking. To do so, we defined two inclusion criteria: (1) the individual has been or is actively involved in AI policymaking at a governmental institution; (2) the individual has been or is actively advising AI policymakers. With AI policymaking, we refer to the development of AI strategies or policies at any local, national, or international level. We do not refer to AI strategies or policies introduced by industry players. We contacted a total of 703 individuals from the European Parliament (N = 110), the European Commission’s High-Level Expert Group (N = 42), the Council of Europe (N = 178), and national governments and their advisors (N = 373). To increase the response rate, we included in the email invitation letter a request for the contacted individuals to forward the survey invitations to relevant colleagues, such as their staff, who often prepare recommendations or technical details for AI policies or strategies. We collected data between 29 November 2023 and 12 December 2023. After an initial invitation, we sent out two reminders to people who had not completed the questionnaire at that time. The sample size is N = 61.",
+        "was-there-a-specific-target-population": "Policymakers and Policy Advisors in AI",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues",
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey laypeople",
+        "airtable_id": "f3b567cfcca85e0b",
+        "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-survey-laypeople",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Nigeria; South Africa; India; Japan; South Korea; Germany; UK; USA; Canada; Chile; Mexico; Brazil",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.2,
+        "name": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT-Online survey laypeople",
+        "group-description": "Online survey laypeople",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 1070,
+        "cases": [
+          "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+        ],
+        "recruitment-description": "We recruited participants through Prolific.  The selection of nationalities is based on (a) the availability of nationalities on Prolific and (b) the aim to obtain a dataset with participants across Africa, Asia, Europe, North America, and South America to increase diversity in survey perspectives. The selected nationalities are Nigerian (N=110), South African (N=105), Indian (N=96), Japanese (N=24), South Korean (N=31), German (N=105), British (N=109), US-American (N=117), Canadian (N=106), Chilean (N=100), Mexican (N=104), Brazilian (N=63).",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+        ],
+        "layout": "generic",
+        "slug": "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-process",
+        "title": "Bridging Policymakers’ and Laypeople’s’ Perspectives on genAI and FPT - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Technical University of Munich",
+        "airtable_id": "8598dad33d9bbc7b",
+        "slug": "technical-university-of-munich",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.tum.de/",
+        "name": "Technical University of Munich",
+        "lead-organisation-for": [
+          "global-ai-dialogues",
+          "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+        ],
+        "mission-statement": "To serve society through excellent research and education in science, engineering, and medicine. (Source: https://www.tum.de/)",
+        "main-location": [
+          "munich-germany"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues",
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

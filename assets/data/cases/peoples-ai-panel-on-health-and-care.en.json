@@ -1,0 +1,157 @@
+{
+  "slug": "peoples-ai-panel-on-health-and-care",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "People’s AI Panel on Health and Care",
+    "airtable_id": "cd7a4c89dd6f2620",
+    "slug": "peoples-ai-panel-on-health-and-care",
+    "redirect_from": [
+      "/c/cd7a4c89dd6f2620/"
+    ],
+    "participants": [
+      "peoples-ai-panel-on-health-and-care-public-advisors"
+    ],
+    "theme": [
+      "Healthcare"
+    ],
+    "project-title": "People’s AI Panel on Health and Care",
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://static1.squarespace.com/static/5dc00e9e32cd095744be7634/t/6929c90f7fea7834bee8b78e/1764346128005/Peoples+AI+Panel+on+Health+and+Care+-+Scottish+AI+Alliance+2025.pdf",
+    "locations": [
+      "glasgow-scotland-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "The process was facilitated by Deciding Matters, an independent team specialising in civic engagement and deliberation. Participants were recruited to reflect a mix of ages, backgrounds, and experiences from across Scotland. This cohort met in a series of online pre-sessions and then came together for a weekend event in Glasgow."
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "peoples-ai-panel-on-health-and-care",
+    "data": {
+      "layout": "case",
+      "title": "People’s AI Panel on Health and Care",
+      "airtable_id": "cd7a4c89dd6f2620",
+      "slug": "peoples-ai-panel-on-health-and-care",
+      "redirect_from": [
+        "/c/cd7a4c89dd6f2620/"
+      ],
+      "participants": [
+        "peoples-ai-panel-on-health-and-care-public-advisors"
+      ],
+      "theme": [
+        "Healthcare"
+      ],
+      "project-title": "People’s AI Panel on Health and Care",
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://static1.squarespace.com/static/5dc00e9e32cd095744be7634/t/6929c90f7fea7834bee8b78e/1764346128005/Peoples+AI+Panel+on+Health+and+Care+-+Scottish+AI+Alliance+2025.pdf",
+      "locations": [
+        "glasgow-scotland-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "The process was facilitated by Deciding Matters, an independent team specialising in civic engagement and deliberation. Participants were recruited to reflect a mix of ages, backgrounds, and experiences from across Scotland. This cohort met in a series of online pre-sessions and then came together for a weekend event in Glasgow."
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "peoples-ai-panel-on-health-and-care-public-advisors",
+        "data": {
+          "layout": "generic",
+          "title": "People’s AI Panel on Health and Care-Public Advisors",
+          "airtable_id": "415beee296afe243",
+          "slug": "peoples-ai-panel-on-health-and-care-public-advisors",
+          "locations": [
+            "glasgow-scotland-united-kingdom"
+          ],
+          "where-were-participants-from": "The process was facilitated by Deciding Matters, an independent team specialising in civic engagement and deliberation. Participants were recruited to reflect a mix of ages, backgrounds, and experiences from across Scotland. This cohort met in a series of online pre-sessions and then came together for a weekend event in Glasgow.",
+          "on-average-how-many-hours-did-each-participant": 8,
+          "name": "People’s AI Panel on Health and Care-Public Advisors",
+          "group-description": "Public Advisors",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 16,
+          "cases": [
+            "peoples-ai-panel-on-health-and-care"
+          ],
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Healthcare"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "peoples-ai-panel-on-health-and-care"
+          ],
+          "layout": "generic",
+          "slug": "peoples-ai-panel-on-health-and-care-process",
+          "title": "People’s AI Panel on Health and Care - Process",
+          "theme": [
+            "Healthcare"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "People’s AI Panel on Health and Care-Public Advisors",
+        "airtable_id": "415beee296afe243",
+        "slug": "peoples-ai-panel-on-health-and-care-public-advisors",
+        "locations": [
+          "glasgow-scotland-united-kingdom"
+        ],
+        "where-were-participants-from": "The process was facilitated by Deciding Matters, an independent team specialising in civic engagement and deliberation. Participants were recruited to reflect a mix of ages, backgrounds, and experiences from across Scotland. This cohort met in a series of online pre-sessions and then came together for a weekend event in Glasgow.",
+        "on-average-how-many-hours-did-each-participant": 8,
+        "name": "People’s AI Panel on Health and Care-Public Advisors",
+        "group-description": "Public Advisors",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 16,
+        "cases": [
+          "peoples-ai-panel-on-health-and-care"
+        ],
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Healthcare"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "peoples-ai-panel-on-health-and-care"
+        ],
+        "layout": "generic",
+        "slug": "peoples-ai-panel-on-health-and-care-process",
+        "title": "People’s AI Panel on Health and Care - Process",
+        "theme": [
+          "Healthcare"
+        ]
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

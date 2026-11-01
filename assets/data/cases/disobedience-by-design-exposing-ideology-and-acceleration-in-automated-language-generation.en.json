@@ -1,0 +1,518 @@
+{
+  "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation",
+    "airtable_id": "129e5ddbef3f5b35",
+    "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+    "redirect_from": [
+      "/c/129e5ddbef3f5b35/"
+    ],
+    "lead-organisations": [
+      "free-university-of-bozen-bolzano"
+    ],
+    "provide-a-brief-description-of-the-project": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation is a practice-based doctoral research project investigating how public and artistic engagement can reveal the power dynamics embedded in Large Language Models (LLMs) and generative AI systems. Developed within the field of Human-Computer Interaction (HCI), the project combines critical design, AI-art practice, participatory workshops, and public exhibitions to explore how AI-mediated language production shapes creativity, labour, communication, and social relations.\n\nThe research emerged from concerns regarding the accelerating adoption of generative AI systems in creative and cultural sectors. While LLMs are frequently presented as neutral productivity tools, the project examines how they also embody ideological assumptions related to efficiency, optimisation, automation, and economic extraction. In particular, the research investigates how AI systems may reinforce existing power asymmetries between technology corporations, workers, artists, and audiences, while contributing to cultural homogenisation and the marginalisation of alternative perspectives.\n\nTo investigate these issues, the project developed two interactive AI artworks called Isotta and Alessia, collectively framed as Disobedient Discursive Machines. Rather than celebrating technological innovation, these systems were intentionally designed to resist dominant narratives surrounding AI progress.\n\nIsotta combines a mechanical typewriter with a Large Language Model connected to the social platform X/Twitter. While participants slowly type text using the analogue machine, the AI periodically interrupts the writing process by autonomously generating unexpected continuations. The interaction intentionally creates tension and discomfort between human agency and machine automation, exposing the asymmetry of power introduced by AI-assisted communication.\n\nAlessia is a “lazy” AI voice assistant built using an obsolete reel-to-reel tape recorder. Unlike commercial voice assistants designed around immediacy and frictionless interaction, Alessia responds slowly, mechanically, and imperfectly. The system rewinds tapes between utterances and forces participants to wait, listen, and reflect on the temporal assumptions embedded in contemporary AI systems. Through this deliberate slowness, the artwork invites audiences to critically reconsider the relationship between automation, productivity, and human experience.\n\nThe project engaged diverse publics through exhibitions, workshops, focus groups, and participatory creative activities. The artworks were exhibited in artistic and cultural venues, including international digital art contexts, where audiences interacted directly with the systems and collectively discussed their experiences. Additional workshops involved artists experimenting with LLMs for creative writing and speculative storytelling activities. These engagements created spaces where participants could articulate concerns about AI, including loss of creative agency, dependency on proprietary platforms, bias, opacity, labour exploitation, and the pressure toward accelerated production.\n\nThe research adopted qualitative and participatory methodologies, including field observations, interviews, thematic analysis, abductive analysis, and semiotic interpretation. Artistic practice was used not only as a method for producing artefacts, but also as a situated form of inquiry capable of generating critical reflection and public discussion around AI systems. Participants were not treated as passive audiences but as co-interpreters whose experiences, interpretations, and critiques informed the development of the research outcomes.\n\nThe project contributed three main outcomes relevant to public engagement on AI. First, it demonstrated how artistic and embodied interaction can make abstract AI power dynamics tangible and discussable for broader publics. Second, it developed design tactics for critical engagement with AI, including the use of obsolete technologies as political design materials, the contestation of technological speed and efficiency, and the introduction of friction as a mechanism for reflection. Third, it proposed analytical frameworks for understanding how ideological assumptions become embedded in AI-generated language and user interaction.\n\nMore broadly, the project argues that meaningful public engagement with AI should move beyond simplified narratives of innovation and risk, and instead create opportunities for situated, critical, and participatory reflection on the social values embedded in AI systems. By combining artistic practice, participatory engagement, and critical HCI research, Disobedience by Design explores how public voices and creative communities can contribute to more democratic, power-aware, and socially accountable discussions about the future of AI.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "headline-findings": "\n",
+    "participants": [
+      "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Language"
+    ],
+    "what-year-did-the-project-start": 2022,
+    "funding-organisations": [
+      "european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005",
+      "sineglossa"
+    ],
+    "additional-acknowledgements": "Antonella De Angeli; Max Dorfmann; Paolo Grigis",
+    "inclusion-efforts": "\n",
+    "project-title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation",
+    "submitted-by": "michele cremaschi",
+    "why-is-this-project-important-to-include-in-the": " This project is important to include in the PAVE Case Book because it demonstrates how artistic and participatory methods can support critical public engagement with generative AI beyond conventional awareness or consultation models. Rather than focusing only on technical literacy or policy discussion, the project created embodied and reflective experiences that helped participants critically examine the social, cultural, and political dimensions of AI systems.\n\nA distinctive aspect of the project is its engagement with communities often marginal within AI governance discussions, particularly artists and cultural practitioners. The research foregrounded the experiences of people whose creative labour and cultural production are increasingly shaped by AI technologies, enabling participants to discuss issues such as automation, authorship, bias, opacity, labour exploitation, and loss of creative agency.\n\nThe project also introduced novel engagement methods through interactive AI artworks built with obsolete technologies, including a mechanical typewriter and a reel-to-reel tape recorder connected to Large Language Models. Unlike commercial AI systems designed around speed and seamless interaction, these artworks intentionally introduced slowness, friction, interruption, and unpredictability. This design strategy transformed abstract AI infrastructures into tangible and experiential encounters, encouraging audiences to reflect on the values embedded in contemporary AI systems, particularly acceleration, efficiency, and technological control.\n\nThrough exhibitions, workshops, interviews, and participatory activities, the project created spaces where audiences could collectively interpret and question AI technologies. Artistic practice functioned both as a public engagement method and as a research methodology capable of generating situated insight into how people experience and negotiate AI-mediated communication.\n\nThe project is also relevant because it demonstrates how artistic and cultural settings can broaden participation in AI discussions beyond technical and institutional communities. By fostering open-ended interpretation, emotional engagement, and critical imagination, the research supported more inclusive and socially grounded conversations about the future of AI.\n\nOverall, the project offers a transferable example of how participatory art and critical design can contribute to democratic, reflective, and power-aware forms of public engagement with AI.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How GenAI induced acceleration and ideology embedded in GenAI generations affect artists' pratice",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "involved-organisations": [
+      "smart-it",
+      "retablo"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.researchgate.net/publication/403912200_Disobedience_by_Design_-_Exposing_Ideology_and_Acceleration_in_Automated_Language_Generation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCJ9fQ",
+    "locations": [
+      "italy"
+    ],
+    "where-were-participants-from": [
+      "mainly italian"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+    "data": {
+      "layout": "case",
+      "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation",
+      "airtable_id": "129e5ddbef3f5b35",
+      "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+      "redirect_from": [
+        "/c/129e5ddbef3f5b35/"
+      ],
+      "lead-organisations": [
+        "free-university-of-bozen-bolzano"
+      ],
+      "provide-a-brief-description-of-the-project": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation is a practice-based doctoral research project investigating how public and artistic engagement can reveal the power dynamics embedded in Large Language Models (LLMs) and generative AI systems. Developed within the field of Human-Computer Interaction (HCI), the project combines critical design, AI-art practice, participatory workshops, and public exhibitions to explore how AI-mediated language production shapes creativity, labour, communication, and social relations.\n\nThe research emerged from concerns regarding the accelerating adoption of generative AI systems in creative and cultural sectors. While LLMs are frequently presented as neutral productivity tools, the project examines how they also embody ideological assumptions related to efficiency, optimisation, automation, and economic extraction. In particular, the research investigates how AI systems may reinforce existing power asymmetries between technology corporations, workers, artists, and audiences, while contributing to cultural homogenisation and the marginalisation of alternative perspectives.\n\nTo investigate these issues, the project developed two interactive AI artworks called Isotta and Alessia, collectively framed as Disobedient Discursive Machines. Rather than celebrating technological innovation, these systems were intentionally designed to resist dominant narratives surrounding AI progress.\n\nIsotta combines a mechanical typewriter with a Large Language Model connected to the social platform X/Twitter. While participants slowly type text using the analogue machine, the AI periodically interrupts the writing process by autonomously generating unexpected continuations. The interaction intentionally creates tension and discomfort between human agency and machine automation, exposing the asymmetry of power introduced by AI-assisted communication.\n\nAlessia is a “lazy” AI voice assistant built using an obsolete reel-to-reel tape recorder. Unlike commercial voice assistants designed around immediacy and frictionless interaction, Alessia responds slowly, mechanically, and imperfectly. The system rewinds tapes between utterances and forces participants to wait, listen, and reflect on the temporal assumptions embedded in contemporary AI systems. Through this deliberate slowness, the artwork invites audiences to critically reconsider the relationship between automation, productivity, and human experience.\n\nThe project engaged diverse publics through exhibitions, workshops, focus groups, and participatory creative activities. The artworks were exhibited in artistic and cultural venues, including international digital art contexts, where audiences interacted directly with the systems and collectively discussed their experiences. Additional workshops involved artists experimenting with LLMs for creative writing and speculative storytelling activities. These engagements created spaces where participants could articulate concerns about AI, including loss of creative agency, dependency on proprietary platforms, bias, opacity, labour exploitation, and the pressure toward accelerated production.\n\nThe research adopted qualitative and participatory methodologies, including field observations, interviews, thematic analysis, abductive analysis, and semiotic interpretation. Artistic practice was used not only as a method for producing artefacts, but also as a situated form of inquiry capable of generating critical reflection and public discussion around AI systems. Participants were not treated as passive audiences but as co-interpreters whose experiences, interpretations, and critiques informed the development of the research outcomes.\n\nThe project contributed three main outcomes relevant to public engagement on AI. First, it demonstrated how artistic and embodied interaction can make abstract AI power dynamics tangible and discussable for broader publics. Second, it developed design tactics for critical engagement with AI, including the use of obsolete technologies as political design materials, the contestation of technological speed and efficiency, and the introduction of friction as a mechanism for reflection. Third, it proposed analytical frameworks for understanding how ideological assumptions become embedded in AI-generated language and user interaction.\n\nMore broadly, the project argues that meaningful public engagement with AI should move beyond simplified narratives of innovation and risk, and instead create opportunities for situated, critical, and participatory reflection on the social values embedded in AI systems. By combining artistic practice, participatory engagement, and critical HCI research, Disobedience by Design explores how public voices and creative communities can contribute to more democratic, power-aware, and socially accountable discussions about the future of AI.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "headline-findings": "\n",
+      "participants": [
+        "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Language"
+      ],
+      "what-year-did-the-project-start": 2022,
+      "funding-organisations": [
+        "european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005",
+        "sineglossa"
+      ],
+      "additional-acknowledgements": "Antonella De Angeli; Max Dorfmann; Paolo Grigis",
+      "inclusion-efforts": "\n",
+      "project-title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation",
+      "submitted-by": "michele cremaschi",
+      "why-is-this-project-important-to-include-in-the": " This project is important to include in the PAVE Case Book because it demonstrates how artistic and participatory methods can support critical public engagement with generative AI beyond conventional awareness or consultation models. Rather than focusing only on technical literacy or policy discussion, the project created embodied and reflective experiences that helped participants critically examine the social, cultural, and political dimensions of AI systems.\n\nA distinctive aspect of the project is its engagement with communities often marginal within AI governance discussions, particularly artists and cultural practitioners. The research foregrounded the experiences of people whose creative labour and cultural production are increasingly shaped by AI technologies, enabling participants to discuss issues such as automation, authorship, bias, opacity, labour exploitation, and loss of creative agency.\n\nThe project also introduced novel engagement methods through interactive AI artworks built with obsolete technologies, including a mechanical typewriter and a reel-to-reel tape recorder connected to Large Language Models. Unlike commercial AI systems designed around speed and seamless interaction, these artworks intentionally introduced slowness, friction, interruption, and unpredictability. This design strategy transformed abstract AI infrastructures into tangible and experiential encounters, encouraging audiences to reflect on the values embedded in contemporary AI systems, particularly acceleration, efficiency, and technological control.\n\nThrough exhibitions, workshops, interviews, and participatory activities, the project created spaces where audiences could collectively interpret and question AI technologies. Artistic practice functioned both as a public engagement method and as a research methodology capable of generating situated insight into how people experience and negotiate AI-mediated communication.\n\nThe project is also relevant because it demonstrates how artistic and cultural settings can broaden participation in AI discussions beyond technical and institutional communities. By fostering open-ended interpretation, emotional engagement, and critical imagination, the research supported more inclusive and socially grounded conversations about the future of AI.\n\nOverall, the project offers a transferable example of how participatory art and critical design can contribute to democratic, reflective, and power-aware forms of public engagement with AI.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How GenAI induced acceleration and ideology embedded in GenAI generations affect artists' pratice",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "involved-organisations": [
+        "smart-it",
+        "retablo"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.researchgate.net/publication/403912200_Disobedience_by_Design_-_Exposing_Ideology_and_Acceleration_in_Automated_Language_Generation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCJ9fQ",
+      "locations": [
+        "italy"
+      ],
+      "where-were-participants-from": [
+        "mainly italian"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists",
+        "data": {
+          "layout": "generic",
+          "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation-artists",
+          "airtable_id": "b1ea28e64c68ec68",
+          "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists",
+          "locations": [
+            "italy"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "mainly italian",
+          "name": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation-artists",
+          "group-description": "artists",
+          "how-many-people-took-part": 24,
+          "cases": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "recruitment-description": "artists who enroled to public workshops or attended public art exhibitions",
+          "was-there-a-specific-target-population": "artsists",
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "smart-it",
+        "data": {
+          "layout": "organisation",
+          "title": "Smart-it",
+          "airtable_id": "0856fd48d9e4ee20",
+          "slug": "smart-it",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://smart-it.com/",
+          "name": "Smart-it",
+          "mission-statement": "To deliver reliable, high-quality software development services and IT solutions to clients worldwide. (Source: https://smart-it.com/)",
+          "main-location": [
+            "italy"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "sineglossa",
+        "data": {
+          "layout": "organisation",
+          "title": "Sineglossa",
+          "airtable_id": "777873f9873461e8",
+          "slug": "sineglossa",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://sineglossa.it/",
+          "name": "Sineglossa",
+          "mission-statement": "To promote artistic research and practice as tools for critical reflection, social innovation, and cultural development in response to technological challenges. (Source: https://sineglossa.it/)",
+          "main-location": [
+            "bozen-bolzano-italy"
+          ],
+          "funding-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "free-university-of-bozen-bolzano",
+        "data": {
+          "layout": "organisation",
+          "title": "Free University of Bozen-Bolzano",
+          "airtable_id": "b205327b62a21722",
+          "slug": "free-university-of-bozen-bolzano",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.unibz.it/",
+          "name": "Free University of Bozen-Bolzano",
+          "lead-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "mission-statement": "To offer multilingual, practice-oriented education and conduct research that addresses regional and international challenges. (Source: https://www.unibz.it/)",
+          "main-location": [
+            "bozen-bolzano-italy"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "retablo",
+        "data": {
+          "layout": "organisation",
+          "title": "Retablo",
+          "airtable_id": "866dc4e016868654",
+          "slug": "retablo",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.retablo.it/",
+          "name": "Retablo",
+          "mission-statement": "To create digital solutions and cultural heritage platforms that enhance community engagement and history curation. (Source: https://www.retablo.it/)",
+          "main-location": [
+            "italy"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005",
+        "data": {
+          "layout": "organisation",
+          "title": "European Union – Next Generation EU, Mission 4, Component 1, CUP I52B22000890005",
+          "airtable_id": "9b89506bc4217356",
+          "slug": "european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://next-generation-eu.europa.eu/",
+          "name": "European Union – Next Generation EU, Mission 4, Component 1, CUP I52B22000890005",
+          "mission-statement": "To support member states in their recovery from the COVID-19 pandemic through green, digital, and resilient investments. (Source: https://next-generation-eu.europa.eu/)",
+          "main-location": [
+            "europe"
+          ],
+          "funding-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+          ],
+          "layout": "generic",
+          "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-process",
+          "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation - Process",
+          "theme": [
+            "Language"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation-artists",
+        "airtable_id": "b1ea28e64c68ec68",
+        "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists",
+        "locations": [
+          "italy"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "mainly italian",
+        "name": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation-artists",
+        "group-description": "artists",
+        "how-many-people-took-part": 24,
+        "cases": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "recruitment-description": "artists who enroled to public workshops or attended public art exhibitions",
+        "was-there-a-specific-target-population": "artsists",
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "layout": "generic",
+        "slug": "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-process",
+        "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation - Process",
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Smart-it",
+        "airtable_id": "0856fd48d9e4ee20",
+        "slug": "smart-it",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://smart-it.com/",
+        "name": "Smart-it",
+        "mission-statement": "To deliver reliable, high-quality software development services and IT solutions to clients worldwide. (Source: https://smart-it.com/)",
+        "main-location": [
+          "italy"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Sineglossa",
+        "airtable_id": "777873f9873461e8",
+        "slug": "sineglossa",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://sineglossa.it/",
+        "name": "Sineglossa",
+        "mission-statement": "To promote artistic research and practice as tools for critical reflection, social innovation, and cultural development in response to technological challenges. (Source: https://sineglossa.it/)",
+        "main-location": [
+          "bozen-bolzano-italy"
+        ],
+        "funding-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Free University of Bozen-Bolzano",
+        "airtable_id": "b205327b62a21722",
+        "slug": "free-university-of-bozen-bolzano",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.unibz.it/",
+        "name": "Free University of Bozen-Bolzano",
+        "lead-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "mission-statement": "To offer multilingual, practice-oriented education and conduct research that addresses regional and international challenges. (Source: https://www.unibz.it/)",
+        "main-location": [
+          "bozen-bolzano-italy"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Retablo",
+        "airtable_id": "866dc4e016868654",
+        "slug": "retablo",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.retablo.it/",
+        "name": "Retablo",
+        "mission-statement": "To create digital solutions and cultural heritage platforms that enhance community engagement and history curation. (Source: https://www.retablo.it/)",
+        "main-location": [
+          "italy"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "European Union – Next Generation EU, Mission 4, Component 1, CUP I52B22000890005",
+        "airtable_id": "9b89506bc4217356",
+        "slug": "european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://next-generation-eu.europa.eu/",
+        "name": "European Union – Next Generation EU, Mission 4, Component 1, CUP I52B22000890005",
+        "mission-statement": "To support member states in their recovery from the COVID-19 pandemic through green, digital, and resilient investments. (Source: https://next-generation-eu.europa.eu/)",
+        "main-location": [
+          "europe"
+        ],
+        "funding-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation"
+        ],
+        "theme": [
+          "Language"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

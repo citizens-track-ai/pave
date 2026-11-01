@@ -1,0 +1,1741 @@
+{
+  "slug": "belgian-citizens-panel-on-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Belgian Citizens Panel on AI",
+    "airtable_id": "f868a16fde8e3612",
+    "slug": "belgian-citizens-panel-on-ai",
+    "redirect_from": [
+      "/c/f868a16fde8e3612/"
+    ],
+    "lead-organisations": [
+      "mission-publiques"
+    ],
+    "provide-a-brief-description-of-the-project": "The Belgian Citizens Panel was composed of 60 randomly selected citizens invited to take part in three weekends of learning and deliberation in the first part of 2024 related to the evolution of artificial intelligence in Europe.\n\nThe Panel was organized as part of the Belgian presidency of the European Union, and was the first time a citizens assembly has been organized in support of an EU presidency. \n\nOver three weekends between February and April 2024, participants came together and took part in multi-lingual deliberations, reflecting that Dutch and French are both official languages in Belgium. \n\nFollowing deliberation, the Panel's findings were shared at a launch event in Brussels. Over a three-hour session, members of the citizens panel presented their findings, and then took part in a series of discussions asking questions of invited guests, including members of the European Parliament, industry representatives, representatives of the Belgian EU Presidency and the Belgian Minister of the Interior, International Reform of Democratic Renewal.\n",
+    "what-limitations-to-the-project-should-be-noted": "From Chapter 3 of the Final Report:\n\nAs a team, it was particularly interesting for us to organise a citizen panel on such a wide-ranging topic which is so hotly debated and currently so poorly understood. As such, we set out several methodological principles to ensure that the contribution of the citizen panel would be as relevant as possible to the current debate on AI and its regulation: \n\nIt was suggested that the citizens could discuss how AI might develop in the EU, rather than give recommendations on what the EU or other actors should or should not do. Knowledge of and advances in AI are developing at lightning speed, and we wanted to avoid the citizen panel focusing on certain technical aspects or elements that could quickly become obsolete. The views of the panel are a message to society, not just political players; \n\nThe panel started with a number of experiments with AI, through hands-on demonstrations. This gave the citizens the opportunity to talk to the individuals carrying out the demonstrations, whereby they all had a similar level of understanding of the concrete implications of this technology; \n\nThe citizens themselves determined which direction the panel should take. The starting point of the discussions was what citizens thought or felt when AI was brought up, rather than a strict presentation of what AI is and what the current challenges are. Such a presentation would de facto have established a “framework” for the panel; \n\nThe guest speakers, from academia, business and government, responded to the points raised by the citizens, based on what the citizens had to say. As such, it was the citizens who determined which themes and pillars of AI would be discussed during the 3 weekends; \n\nGiven that AI is a complex and broad-ranging topic whose ins and outs are not yet very clear, we chose to involve a large number of stakeholders throughout the process. That way, the citizens could hear different viewpoints or perspectives and also adapt their own views based on what they had heard; \n\nThe technological approach (description of how AI and its components work) was deliberately excluded from the scope of the discussions: the expertise of the citizens involved in a panel like this one is social and human, not technological. These carefully-considered choices were discussed with the Oversight Committee, which assisted us throughout the process. These exchanges allowed us to adjust the process from both a methodological and political perspective, with also the preparation of the distribution of the panel’s final report.\n",
+    "project-status": "Complete",
+    "participants": [
+      "belgian-citizens-panel-on-ai-citizen-panel"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Current issues",
+      "AI in general"
+    ],
+    "messages": [
+      "everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must",
+      "we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t",
+      "it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre",
+      "the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the",
+      "the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm",
+      "in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power",
+      "if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim",
+      "the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga",
+      "use-ai-systems-in-scientific-research-to-get-results-faster",
+      "encourage-research-for-the-development-of-ai",
+      "the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i",
+      "in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so",
+      "we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and",
+      "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl",
+      "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1",
+      "we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo",
+      "the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence",
+      "al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last",
+      "invest-in-communication-about-ai",
+      "take-action-now-and-build-trust",
+      "leave-no-one-behind",
+      "ensure-that-this-citizen-panel-is-followed-up"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "funding-organisations": [
+      "fps-foreign-affairs-belgium"
+    ],
+    "inclusion-efforts": "The project report notes a number of inclusion measures.\n\n\"To eliminate as many barriers as possible, the following\nmeasures were taken:\n\n1\\. Each participant received a fee of 320 euros (the fee was paid after participation in the full citizen panel).\n\n2\\. Free lunch, drinks and snacks were provided during the citizen panel.\n\n3\\. The participants’ dietary preferences were actively taken into account (vegetarian, vegan, halal, etc.)\n\n4\\. For parents with children under 12, professional child care was arranged.\n\n5\\. Any individuals requiring assistance and citizens who so wished, were allowed to bring a companion. The companion could also enjoy the catering provided but did not participate in the citizen panel.\n\n6\\. Participants younger than 18 were given permission to bring a parent/guardian.\n\n7\\. Participants who lived more than 100 km from Brussels were offered hotel stays and dinner each weekend, with guidance.\n\n8\\. First meeting in person: The organising team notified each citizen who had been drawn, by phone.\n\n9, Four online information sessions were organised in two languages prior to the citizen panel.\n\n10\\. Before and during the citizen panel, a contact point was set up where citizens could ask questions at any time via phone, email, or WhatsApp.\n\n11\\. All the facilitators were experienced in working with a highly diverse target group, and made sure all citizens were well looked after, during the sessions and during the breaks.\n\n12\\. Each citizen could express him or herself in their own language throughout the process.\n\n13\\. A quiet room was provided for citizens who felt the need to be alone for a while.\n\nThe organisers report that these measures \"resulted in 100% participation of the 60 citizens at the start of the citizen panel. Only three citizens dropped out during the process.\"\n",
+    "project-title": "Belgian Citizens Panel on AI",
+    "method-image-caption": "Process image. Source: Chapter 3 of project report",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "This is the first example of a panel as part of the rotating presidency of the European Union. \n\nThe final presentation event of the project involved panel members asking questions of power-holders, adding a strong communication element to the project. \n\nThe process involved a number of methodological developments, including hands-on demonstrations of AI tools, and experiments with AI transcription. ",
+    "photos-and-images": [
+      {
+        "id": "attZcFMOXIRWO5Uom",
+        "width": 538,
+        "height": 356,
+        "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom.png",
+        "filename": "belgian-citizen-panel-AI-photos-from-report-2.png",
+        "size": 306067,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_small.png",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_large.png",
+            "width": 538,
+            "height": 356
+          },
+          "full": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_full.png",
+            "width": 538,
+            "height": 356
+          }
+        }
+      },
+      {
+        "id": "attZ1EUI0hBS2Fri9",
+        "width": 623,
+        "height": 367,
+        "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9.png",
+        "filename": "belgian-citizen-panel-AI-photos-from-report-3.png",
+        "size": 399289,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_small.png",
+            "width": 61,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_large.png",
+            "width": 623,
+            "height": 367
+          },
+          "full": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_full.png",
+            "width": 623,
+            "height": 367
+          }
+        }
+      },
+      {
+        "id": "attMWvrrjl6h0VTpq",
+        "width": 785,
+        "height": 550,
+        "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq.png",
+        "filename": "belgian-citizen-panel-AI-photos-from-report-1.png",
+        "size": 975337,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_small.png",
+            "width": 51,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_large.png",
+            "width": 731,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_full.png",
+            "width": 785,
+            "height": 550
+          }
+        }
+      },
+      {
+        "id": "attdhTftNJNddBfXr",
+        "width": 723,
+        "height": 673,
+        "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr.png",
+        "filename": "belgian-citizen-panel-AI-photos-from-report-4.png",
+        "size": 794609,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_small.png",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_large.png",
+            "width": 550,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_full.png",
+            "width": 723,
+            "height": 673
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "a-citizens-view-of-artificial-intelligence-within-the-eu",
+      "citizen-panel-weekend-1",
+      "citizen-panel-weekend-2",
+      "citizen-panel-weekend-3",
+      "citizen-panel-closing-ceremony"
+    ],
+    "method-image": [
+      {
+        "id": "atts5LdLORINngL8U",
+        "width": 482,
+        "height": 669,
+        "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U.png",
+        "filename": "Screenshot 2026-06-26 at 18.12.27.png",
+        "size": 96994,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_small.png",
+            "width": 26,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_large.png",
+            "width": 482,
+            "height": 669
+          },
+          "full": {
+            "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_full.png",
+            "width": 482,
+            "height": 669
+          }
+        }
+      }
+    ],
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project video",
+      "A project report"
+    ],
+    "involved-organisations": [
+      "glassroots",
+      "vo-citizen",
+      "mission-publiques"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://missionspubliques.org/pf/citizen-panel-on-artificial-intelligence-belgian-presidency-of-the-council-of-the-eu/?lang=en",
+    "locations": [
+      "belgium"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "belgian-citizens-panel-on-ai",
+    "data": {
+      "layout": "case",
+      "title": "Belgian Citizens Panel on AI",
+      "airtable_id": "f868a16fde8e3612",
+      "slug": "belgian-citizens-panel-on-ai",
+      "redirect_from": [
+        "/c/f868a16fde8e3612/"
+      ],
+      "lead-organisations": [
+        "mission-publiques"
+      ],
+      "provide-a-brief-description-of-the-project": "The Belgian Citizens Panel was composed of 60 randomly selected citizens invited to take part in three weekends of learning and deliberation in the first part of 2024 related to the evolution of artificial intelligence in Europe.\n\nThe Panel was organized as part of the Belgian presidency of the European Union, and was the first time a citizens assembly has been organized in support of an EU presidency. \n\nOver three weekends between February and April 2024, participants came together and took part in multi-lingual deliberations, reflecting that Dutch and French are both official languages in Belgium. \n\nFollowing deliberation, the Panel's findings were shared at a launch event in Brussels. Over a three-hour session, members of the citizens panel presented their findings, and then took part in a series of discussions asking questions of invited guests, including members of the European Parliament, industry representatives, representatives of the Belgian EU Presidency and the Belgian Minister of the Interior, International Reform of Democratic Renewal.\n",
+      "what-limitations-to-the-project-should-be-noted": "From Chapter 3 of the Final Report:\n\nAs a team, it was particularly interesting for us to organise a citizen panel on such a wide-ranging topic which is so hotly debated and currently so poorly understood. As such, we set out several methodological principles to ensure that the contribution of the citizen panel would be as relevant as possible to the current debate on AI and its regulation: \n\nIt was suggested that the citizens could discuss how AI might develop in the EU, rather than give recommendations on what the EU or other actors should or should not do. Knowledge of and advances in AI are developing at lightning speed, and we wanted to avoid the citizen panel focusing on certain technical aspects or elements that could quickly become obsolete. The views of the panel are a message to society, not just political players; \n\nThe panel started with a number of experiments with AI, through hands-on demonstrations. This gave the citizens the opportunity to talk to the individuals carrying out the demonstrations, whereby they all had a similar level of understanding of the concrete implications of this technology; \n\nThe citizens themselves determined which direction the panel should take. The starting point of the discussions was what citizens thought or felt when AI was brought up, rather than a strict presentation of what AI is and what the current challenges are. Such a presentation would de facto have established a “framework” for the panel; \n\nThe guest speakers, from academia, business and government, responded to the points raised by the citizens, based on what the citizens had to say. As such, it was the citizens who determined which themes and pillars of AI would be discussed during the 3 weekends; \n\nGiven that AI is a complex and broad-ranging topic whose ins and outs are not yet very clear, we chose to involve a large number of stakeholders throughout the process. That way, the citizens could hear different viewpoints or perspectives and also adapt their own views based on what they had heard; \n\nThe technological approach (description of how AI and its components work) was deliberately excluded from the scope of the discussions: the expertise of the citizens involved in a panel like this one is social and human, not technological. These carefully-considered choices were discussed with the Oversight Committee, which assisted us throughout the process. These exchanges allowed us to adjust the process from both a methodological and political perspective, with also the preparation of the distribution of the panel’s final report.\n",
+      "project-status": "Complete",
+      "participants": [
+        "belgian-citizens-panel-on-ai-citizen-panel"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Current issues",
+        "AI in general"
+      ],
+      "messages": [
+        "everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must",
+        "we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t",
+        "it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre",
+        "the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the",
+        "the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm",
+        "in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power",
+        "if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim",
+        "the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga",
+        "use-ai-systems-in-scientific-research-to-get-results-faster",
+        "encourage-research-for-the-development-of-ai",
+        "the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i",
+        "in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so",
+        "we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and",
+        "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl",
+        "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1",
+        "we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo",
+        "the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence",
+        "al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last",
+        "invest-in-communication-about-ai",
+        "take-action-now-and-build-trust",
+        "leave-no-one-behind",
+        "ensure-that-this-citizen-panel-is-followed-up"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "funding-organisations": [
+        "fps-foreign-affairs-belgium"
+      ],
+      "inclusion-efforts": "The project report notes a number of inclusion measures.\n\n\"To eliminate as many barriers as possible, the following\nmeasures were taken:\n\n1\\. Each participant received a fee of 320 euros (the fee was paid after participation in the full citizen panel).\n\n2\\. Free lunch, drinks and snacks were provided during the citizen panel.\n\n3\\. The participants’ dietary preferences were actively taken into account (vegetarian, vegan, halal, etc.)\n\n4\\. For parents with children under 12, professional child care was arranged.\n\n5\\. Any individuals requiring assistance and citizens who so wished, were allowed to bring a companion. The companion could also enjoy the catering provided but did not participate in the citizen panel.\n\n6\\. Participants younger than 18 were given permission to bring a parent/guardian.\n\n7\\. Participants who lived more than 100 km from Brussels were offered hotel stays and dinner each weekend, with guidance.\n\n8\\. First meeting in person: The organising team notified each citizen who had been drawn, by phone.\n\n9, Four online information sessions were organised in two languages prior to the citizen panel.\n\n10\\. Before and during the citizen panel, a contact point was set up where citizens could ask questions at any time via phone, email, or WhatsApp.\n\n11\\. All the facilitators were experienced in working with a highly diverse target group, and made sure all citizens were well looked after, during the sessions and during the breaks.\n\n12\\. Each citizen could express him or herself in their own language throughout the process.\n\n13\\. A quiet room was provided for citizens who felt the need to be alone for a while.\n\nThe organisers report that these measures \"resulted in 100% participation of the 60 citizens at the start of the citizen panel. Only three citizens dropped out during the process.\"\n",
+      "project-title": "Belgian Citizens Panel on AI",
+      "method-image-caption": "Process image. Source: Chapter 3 of project report",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "This is the first example of a panel as part of the rotating presidency of the European Union. \n\nThe final presentation event of the project involved panel members asking questions of power-holders, adding a strong communication element to the project. \n\nThe process involved a number of methodological developments, including hands-on demonstrations of AI tools, and experiments with AI transcription. ",
+      "photos-and-images": [
+        {
+          "id": "attZcFMOXIRWO5Uom",
+          "width": 538,
+          "height": 356,
+          "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom.png",
+          "filename": "belgian-citizen-panel-AI-photos-from-report-2.png",
+          "size": 306067,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_small.png",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_large.png",
+              "width": 538,
+              "height": 356
+            },
+            "full": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZcFMOXIRWO5Uom_full.png",
+              "width": 538,
+              "height": 356
+            }
+          }
+        },
+        {
+          "id": "attZ1EUI0hBS2Fri9",
+          "width": 623,
+          "height": 367,
+          "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9.png",
+          "filename": "belgian-citizen-panel-AI-photos-from-report-3.png",
+          "size": 399289,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_small.png",
+              "width": 61,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_large.png",
+              "width": 623,
+              "height": 367
+            },
+            "full": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attZ1EUI0hBS2Fri9_full.png",
+              "width": 623,
+              "height": 367
+            }
+          }
+        },
+        {
+          "id": "attMWvrrjl6h0VTpq",
+          "width": 785,
+          "height": 550,
+          "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq.png",
+          "filename": "belgian-citizen-panel-AI-photos-from-report-1.png",
+          "size": 975337,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_small.png",
+              "width": 51,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_large.png",
+              "width": 731,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attMWvrrjl6h0VTpq_full.png",
+              "width": 785,
+              "height": 550
+            }
+          }
+        },
+        {
+          "id": "attdhTftNJNddBfXr",
+          "width": 723,
+          "height": 673,
+          "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr.png",
+          "filename": "belgian-citizen-panel-AI-photos-from-report-4.png",
+          "size": 794609,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_small.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_large.png",
+              "width": 550,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldd4B6cpBOP3n3is_attdhTftNJNddBfXr_full.png",
+              "width": 723,
+              "height": 673
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "a-citizens-view-of-artificial-intelligence-within-the-eu",
+        "citizen-panel-weekend-1",
+        "citizen-panel-weekend-2",
+        "citizen-panel-weekend-3",
+        "citizen-panel-closing-ceremony"
+      ],
+      "method-image": [
+        {
+          "id": "atts5LdLORINngL8U",
+          "width": 482,
+          "height": 669,
+          "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U.png",
+          "filename": "Screenshot 2026-06-26 at 18.12.27.png",
+          "size": 96994,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_small.png",
+              "width": 26,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_large.png",
+              "width": 482,
+              "height": 669
+            },
+            "full": {
+              "url": "/assets/attachments/f868a16fde8e3612_fldgrmlTFHIgHExO6_atts5LdLORINngL8U_full.png",
+              "width": 482,
+              "height": 669
+            }
+          }
+        }
+      ],
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project video",
+        "A project report"
+      ],
+      "involved-organisations": [
+        "glassroots",
+        "vo-citizen",
+        "mission-publiques"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://missionspubliques.org/pf/citizen-panel-on-artificial-intelligence-belgian-presidency-of-the-council-of-the-eu/?lang=en",
+      "locations": [
+        "belgium"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "belgian-citizens-panel-on-ai-citizen-panel",
+        "data": {
+          "layout": "generic",
+          "title": "Belgian Citizens Panel on AI-Citizen Panel",
+          "airtable_id": "636f7973fb47ee8b",
+          "slug": "belgian-citizens-panel-on-ai-citizen-panel",
+          "locations": [
+            "belgium"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens’ Assembly"
+          ],
+          "on-average-how-many-hours-did-each-participant": 42,
+          "name": "Belgian Citizens Panel on AI-Citizen Panel",
+          "group-description": "Citizen Panel",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 60,
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "recruitment-description": "Letters were sent to 16,200 addresses, reflecting a stratification of location, gender, language and age. From 1170 responses, 60 participants were selected, with additional stratification for level of education.",
+          "was-there-a-specific-target-population": "Representative population",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mission-publiques",
+        "data": {
+          "layout": "organisation",
+          "title": "Mission Publiques",
+          "airtable_id": "e0e404f3cc2ebc5d",
+          "slug": "mission-publiques",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://missionspubliques.org/",
+          "name": "Mission Publiques",
+          "lead-organisation-for": [
+            "belgian-citizens-panel-on-ai",
+            "paris-student-assembly-on-ai"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "fps-foreign-affairs-belgium",
+        "data": {
+          "layout": "organisation",
+          "title": "FPS Foreign Affairs Belgium",
+          "airtable_id": "ed6a83b015b1d230",
+          "slug": "fps-foreign-affairs-belgium",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://diplomatie.belgium.be/en",
+          "name": "FPS Foreign Affairs Belgium",
+          "main-location": [
+            "belgium"
+          ],
+          "funding-organisation-for": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "vo-citizen",
+        "data": {
+          "layout": "organisation",
+          "title": "VO Citizen",
+          "airtable_id": "7e3f253f9c16d077",
+          "slug": "vo-citizen",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "website-address": "https://www.vo-citizen.be/",
+          "name": "VO Citizen",
+          "mission-statement": "VO Citizen is a citizen communication agency that offers its expertise to public institutions, but also to NGOs and private companies with the conviction that addressing people as citizens, and not as consumers, allows the most impactful messages to be conveyed.",
+          "main-location": [
+            "belgium"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "glassroots",
+        "data": {
+          "layout": "organisation",
+          "title": "Glassroots",
+          "airtable_id": "fee56c25baa4df34",
+          "slug": "glassroots",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "name": "Glassroots",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i",
+        "data": {
+          "layout": "generic",
+          "title": "The ecological footprint also needs to be taken into account in the development of AI systems. This is not happening enough today.",
+          "airtable_id": "bd492f096fa8dc3b",
+          "slug": "the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on Al & the environment",
+          "name": "The ecological footprint also needs to be taken into account in the development of AI systems. This is not happening enough today.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga",
+        "data": {
+          "layout": "generic",
+          "title": "The preference of this citizen panel is to allow multiple European companies to grow.  We propose organising a separate citizen panel on this topic",
+          "airtable_id": "694a7ad6d42379a5",
+          "slug": "the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on economic system and power relations",
+          "name": "The preference of this citizen panel is to allow multiple European companies to grow.  We propose organising a separate citizen panel on this topic",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power",
+        "data": {
+          "layout": "generic",
+          "title": "In the development of Al, monopolies are not sustainable in the long run. Monopoly puts too much power in the hands of a few companies and also impacts democracy. Decision makers need to recognise the fact that monopolies are unsustainable, and be very critical of current and future power relations through monopolies",
+          "airtable_id": "5b6417ad6a075b8b",
+          "slug": "in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on economic system and power relations",
+          "name": "In the development of Al, monopolies are not sustainable in the long run. Monopoly puts too much power in the hands of a few companies and also impacts democracy. Decision makers need to recognise the fact that monopolies are unsustainable, and be very critical of current and future power relations through monopolies",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1",
+        "data": {
+          "layout": "generic",
+          "title": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2):\n\nMaking decisions more rapidly to keep pace with the development of Al. The structure of Europe, with its different levels of power and institutions, is a brake on rapid decision-making But working more with experts can speed up decision-making\n\nIn defence and security: preserving EU autonomy and protecting against cyber-attacks via Al. To arm ourselves against threats from outside the EU, we need to strengthen cyber defence at the European level\n\nAl must be a priority of the European institutions. Europe must be proud of its strengths and communicate them more effectively. We have an abundance of innovative projects that no one knows about. We need to communicate more with the general public and younger generations (eg. to promote training or jobs).",
+          "airtable_id": "172e2bccb687105a",
+          "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on the position of the European Union in the world",
+          "name": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2):\n\nMaking decisions more rapidly to keep pace with the development of Al. The structure of Europe, with its different levels of power and institutions, is a brake on rapid decision-making But working more with experts can speed up decision-making\n\nIn defence and security: preserving EU autonomy and protecting against cyber-attacks via Al. To arm ourselves against threats from outside the EU, we need to strengthen cyber defence at the European level\n\nAl must be a priority of the European institutions. Europe must be proud of its strengths and communicate them more effectively. We have an abundance of innovative projects that no one knows about. We need to communicate more with the general public and younger generations (eg. to promote training or jobs).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so",
+        "data": {
+          "layout": "generic",
+          "title": "In the public debate and on the political agenda about the development of Al systems, the possible solutions that Al can offer for environmental problems need to be highlighted along with the ecological footprint of Al systems. One does not exist without the other.",
+          "airtable_id": "87f2f2dbc5dd89fe",
+          "slug": "in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on Al & the environment",
+          "name": "In the public debate and on the political agenda about the development of Al systems, the possible solutions that Al can offer for environmental problems need to be highlighted along with the ecological footprint of Al systems. One does not exist without the other.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl",
+        "data": {
+          "layout": "generic",
+          "title": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2)\n\nReadily invest in the development of Al applications based on the strengths of the EU and its most important players. We encourage member states, but also private funds, to devote more of their budgets to the development of Al The resources currently being invested are not enough if we want to lead in this field\n\nAvoid mutual competition between Member States\n\nBe more ambitious in promoting and protecting European values and standards in the applications of Al. This is Europe's strength.",
+          "airtable_id": "88d42e238edb4324",
+          "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on the position of the European Union in the world",
+          "name": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2)\n\nReadily invest in the development of Al applications based on the strengths of the EU and its most important players. We encourage member states, but also private funds, to devote more of their budgets to the development of Al The resources currently being invested are not enough if we want to lead in this field\n\nAvoid mutual competition between Member States\n\nBe more ambitious in promoting and protecting European values and standards in the applications of Al. This is Europe's strength.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence",
+        "data": {
+          "layout": "generic",
+          "title": "The EU and its member states must set an example and be ambitious in order to have as much influence as possible on the moral/ethical front, and convince other countries of our framework and priorities\n\nIt is promising that there are already talks and partnerships at the UN, Council of Europe, OECD, G7, GPAI (global partnership on AI), but Europe should be more active in advocating to lay these down in agreements and put them high on the global political agenda",
+          "airtable_id": "63b4fe17dfcf7557",
+          "slug": "the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on global agreements",
+          "name": "The EU and its member states must set an example and be ambitious in order to have as much influence as possible on the moral/ethical front, and convince other countries of our framework and priorities\n\nIt is promising that there are already talks and partnerships at the UN, Council of Europe, OECD, G7, GPAI (global partnership on AI), but Europe should be more active in advocating to lay these down in agreements and put them high on the global political agenda",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must",
+        "data": {
+          "layout": "generic",
+          "title": "Everyone must take responsibility for adapting: individuals, employers and trade unions alike.\n\nAI must help people without replacing them - Changes need to be anticipated, so re-orientations can be done the right way.\n\nThe time that might be freed up thanks to AI (e.g., reduced workloads) should be used to innovate, improve the quality of work, focus more on the essentials and improve the work-life balance",
+          "airtable_id": "99c0def2fefaf39e",
+          "slug": "everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on work: help people without replacing them",
+          "name": "Everyone must take responsibility for adapting: individuals, employers and trade unions alike.\n\nAI must help people without replacing them - Changes need to be anticipated, so re-orientations can be done the right way.\n\nThe time that might be freed up thanks to AI (e.g., reduced workloads) should be used to innovate, improve the quality of work, focus more on the essentials and improve the work-life balance",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim",
+        "data": {
+          "layout": "generic",
+          "title": "If the EU and its member states invest in developing a European Al and bringing it to market to eliminate its dependency vis-a-vis other continents, it should ideally promote a model in which healthy competition is able to form. A model where knowledge is shared as much as possible (and the knowledge is therefore not in just a few companies but several), monopolies are tackled and sufficient private capital is mobilised",
+          "airtable_id": "97cd1a98ec44834c",
+          "slug": "if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on economic system and power relations",
+          "name": "If the EU and its member states invest in developing a European Al and bringing it to market to eliminate its dependency vis-a-vis other continents, it should ideally promote a model in which healthy competition is able to form. A model where knowledge is shared as much as possible (and the knowledge is therefore not in just a few companies but several), monopolies are tackled and sufficient private capital is mobilised",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and",
+        "data": {
+          "layout": "generic",
+          "title": "We believe that deepfakes and fake news generated by Al are untrustworthy sources of information and have a significant impact on our society they can influence citizens, threaten the privacy of individuals (eg, by spreading fake nude images), destroy reputations or create fake reputations, and easily spread false information. This can encourage bullying. Therefore, we believe that deepfakes and fake news should be considered high risk and not low risk as currently stated in the Al Act. \n\nMoreover, just because there is legislation on illegal deepfake does not mean that the problem is solved for people and democracyThis is an urgent and important issue that should be at the top of the political and legal agenda both nationally and at the European level\n\nWe also want a regulatory framework to be implemented exclusively by EU political actors, so that the responsibilities are not fragmented across a variety of actors",
+          "airtable_id": "f03d5c050956d819",
+          "slug": "we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on deepfakes & unreliable information",
+          "name": "We believe that deepfakes and fake news generated by Al are untrustworthy sources of information and have a significant impact on our society they can influence citizens, threaten the privacy of individuals (eg, by spreading fake nude images), destroy reputations or create fake reputations, and easily spread false information. This can encourage bullying. Therefore, we believe that deepfakes and fake news should be considered high risk and not low risk as currently stated in the Al Act. \n\nMoreover, just because there is legislation on illegal deepfake does not mean that the problem is solved for people and democracyThis is an urgent and important issue that should be at the top of the political and legal agenda both nationally and at the European level\n\nWe also want a regulatory framework to be implemented exclusively by EU political actors, so that the responsibilities are not fragmented across a variety of actors",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "leave-no-one-behind",
+        "data": {
+          "layout": "generic",
+          "title": "“Leave no one behind”",
+          "airtable_id": "e04fecacc04a5e1a",
+          "slug": "leave-no-one-behind",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Recommendations / key messages",
+          "name": "“Leave no one behind”",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the",
+        "data": {
+          "layout": "generic",
+          "title": "The EU must be prepared to cope with profound economic changes and allow a fresh perspective of the economic system in all its aspects Different taxation? Absorb the loss of income and/or income from work by people? Absorb the estimated loss of jobs (7% according to the IMF), new jobs? Another form of profit on Al?",
+          "airtable_id": "0e3307b290c135ec",
+          "slug": "the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on economic system and power relations",
+          "name": "The EU must be prepared to cope with profound economic changes and allow a fresh perspective of the economic system in all its aspects Different taxation? Absorb the loss of income and/or income from work by people? Absorb the estimated loss of jobs (7% according to the IMF), new jobs? Another form of profit on Al?",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "take-action-now-and-build-trust",
+        "data": {
+          "layout": "generic",
+          "title": "\u0007Take action now and build trust",
+          "airtable_id": "1f2a7d6a5b16e292",
+          "slug": "take-action-now-and-build-trust",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Recommendations / key messages",
+          "name": "\u0007Take action now and build trust",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "encourage-research-for-the-development-of-ai",
+        "data": {
+          "layout": "generic",
+          "title": " Encourage research for the development of AI",
+          "airtable_id": "43c9bd06b467a112",
+          "slug": "encourage-research-for-the-development-of-ai",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on scientific research and innovation",
+          "name": " Encourage research for the development of AI",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm",
+        "data": {
+          "layout": "generic",
+          "title": "The EU and its member states must ensure that they can generate sufficient revenue from the development of Al and avoid the situation where added value disappears abroad in order to safeguard our economic position",
+          "airtable_id": "0c0365891b5d9b16",
+          "slug": "the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on economic system and power relations",
+          "name": "The EU and its member states must ensure that they can generate sufficient revenue from the development of Al and avoid the situation where added value disappears abroad in order to safeguard our economic position",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "use-ai-systems-in-scientific-research-to-get-results-faster",
+        "data": {
+          "layout": "generic",
+          "title": "Use AI systems in scientific research to get results faster",
+          "airtable_id": "4883d94d1c9fa007",
+          "slug": "use-ai-systems-in-scientific-research-to-get-results-faster",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on scientific research and innovation",
+          "name": "Use AI systems in scientific research to get results faster",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t",
+        "data": {
+          "layout": "generic",
+          "title": "We need to understand how AI works to understand what we are dealing with and how AI is applicable to our daily lives. AI is not by definition bad, but it can have dangerous consequences. \n\nWe need to show that AI can be a help and that it is a useful tool. To make that happen will require a continuous effort by all players to adapt to a changing reality.",
+          "airtable_id": "ff8fa0d8bbbd880a",
+          "slug": "we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on learning to handle AI: invest in current and future generations",
+          "name": "We need to understand how AI works to understand what we are dealing with and how AI is applicable to our daily lives. AI is not by definition bad, but it can have dangerous consequences. \n\nWe need to show that AI can be a help and that it is a useful tool. To make that happen will require a continuous effort by all players to adapt to a changing reality.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ensure-that-this-citizen-panel-is-followed-up",
+        "data": {
+          "layout": "generic",
+          "title": " Ensure that this citizen panel is followed up",
+          "airtable_id": "abc1030f72f44285",
+          "slug": "ensure-that-this-citizen-panel-is-followed-up",
+          "type": "Recommendation",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Recommendations / key messages",
+          "name": " Ensure that this citizen panel is followed up",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo",
+        "data": {
+          "layout": "generic",
+          "title": "We believe that a number of global agreements on the development and application of Al are called for, for the sake of people and democracy. The EU must take the lead in this debate, starting from its framework of values and standards, and respect for other cultures",
+          "airtable_id": "dfe16f2d62f7d091",
+          "slug": "we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on global agreements",
+          "name": "We believe that a number of global agreements on the development and application of Al are called for, for the sake of people and democracy. The EU must take the lead in this debate, starting from its framework of values and standards, and respect for other cultures",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre",
+        "data": {
+          "layout": "generic",
+          "title": "It is important not to lose our human, soft skills. The focus needs to be on young people, who are already strongly influenced by AI systems (especially through social networks and platforms that use AI). They will have to live with these tools in the future. We therefore need to prepare them, to ensure that there is no gap between what we learn in school and what is needed in our adult personal and professional lives.",
+          "airtable_id": "25bb4a29c6a9b5b2",
+          "slug": "it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on learning to handle AI: invest in current and future generations",
+          "name": "It is important not to lose our human, soft skills. The focus needs to be on young people, who are already strongly influenced by AI systems (especially through social networks and platforms that use AI). They will have to live with these tools in the future. We therefore need to prepare them, to ensure that there is no gap between what we learn in school and what is needed in our adult personal and professional lives.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last",
+        "data": {
+          "layout": "generic",
+          "title": "Al should serve to help humans, not replace them\n\nWe believe that people should not only have the last word at the end of a decision-making process in which Al is used but that they must be involved throughout the process to explain or intervene. This is clearly important when Al systems are used without our explicit consent and when there is high risk, for example, in medical diagnosis or loan decisions\n\nTransparency and trust are important and go hand in hand in this regard if people gain insight into how and why a decision was made, they will more readily accept the outcome\n\nThis is all the more important for people less familiar with Al, or who do not have access to it, so that they are not excluded from society",
+          "airtable_id": "4c9fe5a8277bb781",
+          "slug": "al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last",
+          "type": "Issue",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Messages on 'Human in the loop' and human contact",
+          "name": "Al should serve to help humans, not replace them\n\nWe believe that people should not only have the last word at the end of a decision-making process in which Al is used but that they must be involved throughout the process to explain or intervene. This is clearly important when Al systems are used without our explicit consent and when there is high risk, for example, in medical diagnosis or loan decisions\n\nTransparency and trust are important and go hand in hand in this regard if people gain insight into how and why a decision was made, they will more readily accept the outcome\n\nThis is all the more important for people less familiar with Al, or who do not have access to it, so that they are not excluded from society",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "invest-in-communication-about-ai",
+        "data": {
+          "layout": "generic",
+          "title": "Invest in communication about AI",
+          "airtable_id": "c507ee4db3c14ad2",
+          "slug": "invest-in-communication-about-ai",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "additional-credit-line": "Recommendations / key messages",
+          "name": "Invest in communication about AI",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "belgian-citizens-panel-on-ai"
+          ],
+          "layout": "generic",
+          "slug": "belgian-citizens-panel-on-ai-process",
+          "title": "Belgian Citizens Panel on AI - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Current issues",
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Belgian Citizens Panel on AI-Citizen Panel",
+        "airtable_id": "636f7973fb47ee8b",
+        "slug": "belgian-citizens-panel-on-ai-citizen-panel",
+        "locations": [
+          "belgium"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens’ Assembly"
+        ],
+        "on-average-how-many-hours-did-each-participant": 42,
+        "name": "Belgian Citizens Panel on AI-Citizen Panel",
+        "group-description": "Citizen Panel",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 60,
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "recruitment-description": "Letters were sent to 16,200 addresses, reflecting a stratification of location, gender, language and age. From 1170 responses, 60 participants were selected, with additional stratification for level of education.",
+        "was-there-a-specific-target-population": "Representative population",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "layout": "generic",
+        "slug": "belgian-citizens-panel-on-ai-process",
+        "title": "Belgian Citizens Panel on AI - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Mission Publiques",
+        "airtable_id": "e0e404f3cc2ebc5d",
+        "slug": "mission-publiques",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://missionspubliques.org/",
+        "name": "Mission Publiques",
+        "lead-organisation-for": [
+          "belgian-citizens-panel-on-ai",
+          "paris-student-assembly-on-ai"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "FPS Foreign Affairs Belgium",
+        "airtable_id": "ed6a83b015b1d230",
+        "slug": "fps-foreign-affairs-belgium",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://diplomatie.belgium.be/en",
+        "name": "FPS Foreign Affairs Belgium",
+        "main-location": [
+          "belgium"
+        ],
+        "funding-organisation-for": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "VO Citizen",
+        "airtable_id": "7e3f253f9c16d077",
+        "slug": "vo-citizen",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "website-address": "https://www.vo-citizen.be/",
+        "name": "VO Citizen",
+        "mission-statement": "VO Citizen is a citizen communication agency that offers its expertise to public institutions, but also to NGOs and private companies with the conviction that addressing people as citizens, and not as consumers, allows the most impactful messages to be conveyed.",
+        "main-location": [
+          "belgium"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Glassroots",
+        "airtable_id": "fee56c25baa4df34",
+        "slug": "glassroots",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "name": "Glassroots",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "The ecological footprint also needs to be taken into account in the development of AI systems. This is not happening enough today.",
+        "airtable_id": "bd492f096fa8dc3b",
+        "slug": "the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on Al & the environment",
+        "name": "The ecological footprint also needs to be taken into account in the development of AI systems. This is not happening enough today.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The preference of this citizen panel is to allow multiple European companies to grow.  We propose organising a separate citizen panel on this topic",
+        "airtable_id": "694a7ad6d42379a5",
+        "slug": "the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on economic system and power relations",
+        "name": "The preference of this citizen panel is to allow multiple European companies to grow.  We propose organising a separate citizen panel on this topic",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "In the development of Al, monopolies are not sustainable in the long run. Monopoly puts too much power in the hands of a few companies and also impacts democracy. Decision makers need to recognise the fact that monopolies are unsustainable, and be very critical of current and future power relations through monopolies",
+        "airtable_id": "5b6417ad6a075b8b",
+        "slug": "in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on economic system and power relations",
+        "name": "In the development of Al, monopolies are not sustainable in the long run. Monopoly puts too much power in the hands of a few companies and also impacts democracy. Decision makers need to recognise the fact that monopolies are unsustainable, and be very critical of current and future power relations through monopolies",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2):\n\nMaking decisions more rapidly to keep pace with the development of Al. The structure of Europe, with its different levels of power and institutions, is a brake on rapid decision-making But working more with experts can speed up decision-making\n\nIn defence and security: preserving EU autonomy and protecting against cyber-attacks via Al. To arm ourselves against threats from outside the EU, we need to strengthen cyber defence at the European level\n\nAl must be a priority of the European institutions. Europe must be proud of its strengths and communicate them more effectively. We have an abundance of innovative projects that no one knows about. We need to communicate more with the general public and younger generations (eg. to promote training or jobs).",
+        "airtable_id": "172e2bccb687105a",
+        "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on the position of the European Union in the world",
+        "name": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2):\n\nMaking decisions more rapidly to keep pace with the development of Al. The structure of Europe, with its different levels of power and institutions, is a brake on rapid decision-making But working more with experts can speed up decision-making\n\nIn defence and security: preserving EU autonomy and protecting against cyber-attacks via Al. To arm ourselves against threats from outside the EU, we need to strengthen cyber defence at the European level\n\nAl must be a priority of the European institutions. Europe must be proud of its strengths and communicate them more effectively. We have an abundance of innovative projects that no one knows about. We need to communicate more with the general public and younger generations (eg. to promote training or jobs).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "In the public debate and on the political agenda about the development of Al systems, the possible solutions that Al can offer for environmental problems need to be highlighted along with the ecological footprint of Al systems. One does not exist without the other.",
+        "airtable_id": "87f2f2dbc5dd89fe",
+        "slug": "in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on Al & the environment",
+        "name": "In the public debate and on the political agenda about the development of Al systems, the possible solutions that Al can offer for environmental problems need to be highlighted along with the ecological footprint of Al systems. One does not exist without the other.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2)\n\nReadily invest in the development of Al applications based on the strengths of the EU and its most important players. We encourage member states, but also private funds, to devote more of their budgets to the development of Al The resources currently being invested are not enough if we want to lead in this field\n\nAvoid mutual competition between Member States\n\nBe more ambitious in promoting and protecting European values and standards in the applications of Al. This is Europe's strength.",
+        "airtable_id": "88d42e238edb4324",
+        "slug": "the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on the position of the European Union in the world",
+        "name": "The vision of this citizen panel is that the EU should build and strengthen its position in the world as follows (2/2)\n\nReadily invest in the development of Al applications based on the strengths of the EU and its most important players. We encourage member states, but also private funds, to devote more of their budgets to the development of Al The resources currently being invested are not enough if we want to lead in this field\n\nAvoid mutual competition between Member States\n\nBe more ambitious in promoting and protecting European values and standards in the applications of Al. This is Europe's strength.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The EU and its member states must set an example and be ambitious in order to have as much influence as possible on the moral/ethical front, and convince other countries of our framework and priorities\n\nIt is promising that there are already talks and partnerships at the UN, Council of Europe, OECD, G7, GPAI (global partnership on AI), but Europe should be more active in advocating to lay these down in agreements and put them high on the global political agenda",
+        "airtable_id": "63b4fe17dfcf7557",
+        "slug": "the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on global agreements",
+        "name": "The EU and its member states must set an example and be ambitious in order to have as much influence as possible on the moral/ethical front, and convince other countries of our framework and priorities\n\nIt is promising that there are already talks and partnerships at the UN, Council of Europe, OECD, G7, GPAI (global partnership on AI), but Europe should be more active in advocating to lay these down in agreements and put them high on the global political agenda",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Everyone must take responsibility for adapting: individuals, employers and trade unions alike.\n\nAI must help people without replacing them - Changes need to be anticipated, so re-orientations can be done the right way.\n\nThe time that might be freed up thanks to AI (e.g., reduced workloads) should be used to innovate, improve the quality of work, focus more on the essentials and improve the work-life balance",
+        "airtable_id": "99c0def2fefaf39e",
+        "slug": "everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on work: help people without replacing them",
+        "name": "Everyone must take responsibility for adapting: individuals, employers and trade unions alike.\n\nAI must help people without replacing them - Changes need to be anticipated, so re-orientations can be done the right way.\n\nThe time that might be freed up thanks to AI (e.g., reduced workloads) should be used to innovate, improve the quality of work, focus more on the essentials and improve the work-life balance",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "If the EU and its member states invest in developing a European Al and bringing it to market to eliminate its dependency vis-a-vis other continents, it should ideally promote a model in which healthy competition is able to form. A model where knowledge is shared as much as possible (and the knowledge is therefore not in just a few companies but several), monopolies are tackled and sufficient private capital is mobilised",
+        "airtable_id": "97cd1a98ec44834c",
+        "slug": "if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on economic system and power relations",
+        "name": "If the EU and its member states invest in developing a European Al and bringing it to market to eliminate its dependency vis-a-vis other continents, it should ideally promote a model in which healthy competition is able to form. A model where knowledge is shared as much as possible (and the knowledge is therefore not in just a few companies but several), monopolies are tackled and sufficient private capital is mobilised",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We believe that deepfakes and fake news generated by Al are untrustworthy sources of information and have a significant impact on our society they can influence citizens, threaten the privacy of individuals (eg, by spreading fake nude images), destroy reputations or create fake reputations, and easily spread false information. This can encourage bullying. Therefore, we believe that deepfakes and fake news should be considered high risk and not low risk as currently stated in the Al Act. \n\nMoreover, just because there is legislation on illegal deepfake does not mean that the problem is solved for people and democracyThis is an urgent and important issue that should be at the top of the political and legal agenda both nationally and at the European level\n\nWe also want a regulatory framework to be implemented exclusively by EU political actors, so that the responsibilities are not fragmented across a variety of actors",
+        "airtable_id": "f03d5c050956d819",
+        "slug": "we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on deepfakes & unreliable information",
+        "name": "We believe that deepfakes and fake news generated by Al are untrustworthy sources of information and have a significant impact on our society they can influence citizens, threaten the privacy of individuals (eg, by spreading fake nude images), destroy reputations or create fake reputations, and easily spread false information. This can encourage bullying. Therefore, we believe that deepfakes and fake news should be considered high risk and not low risk as currently stated in the Al Act. \n\nMoreover, just because there is legislation on illegal deepfake does not mean that the problem is solved for people and democracyThis is an urgent and important issue that should be at the top of the political and legal agenda both nationally and at the European level\n\nWe also want a regulatory framework to be implemented exclusively by EU political actors, so that the responsibilities are not fragmented across a variety of actors",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "“Leave no one behind”",
+        "airtable_id": "e04fecacc04a5e1a",
+        "slug": "leave-no-one-behind",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Recommendations / key messages",
+        "name": "“Leave no one behind”",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The EU must be prepared to cope with profound economic changes and allow a fresh perspective of the economic system in all its aspects Different taxation? Absorb the loss of income and/or income from work by people? Absorb the estimated loss of jobs (7% according to the IMF), new jobs? Another form of profit on Al?",
+        "airtable_id": "0e3307b290c135ec",
+        "slug": "the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on economic system and power relations",
+        "name": "The EU must be prepared to cope with profound economic changes and allow a fresh perspective of the economic system in all its aspects Different taxation? Absorb the loss of income and/or income from work by people? Absorb the estimated loss of jobs (7% according to the IMF), new jobs? Another form of profit on Al?",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "\u0007Take action now and build trust",
+        "airtable_id": "1f2a7d6a5b16e292",
+        "slug": "take-action-now-and-build-trust",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Recommendations / key messages",
+        "name": "\u0007Take action now and build trust",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": " Encourage research for the development of AI",
+        "airtable_id": "43c9bd06b467a112",
+        "slug": "encourage-research-for-the-development-of-ai",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on scientific research and innovation",
+        "name": " Encourage research for the development of AI",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The EU and its member states must ensure that they can generate sufficient revenue from the development of Al and avoid the situation where added value disappears abroad in order to safeguard our economic position",
+        "airtable_id": "0c0365891b5d9b16",
+        "slug": "the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on economic system and power relations",
+        "name": "The EU and its member states must ensure that they can generate sufficient revenue from the development of Al and avoid the situation where added value disappears abroad in order to safeguard our economic position",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Use AI systems in scientific research to get results faster",
+        "airtable_id": "4883d94d1c9fa007",
+        "slug": "use-ai-systems-in-scientific-research-to-get-results-faster",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on scientific research and innovation",
+        "name": "Use AI systems in scientific research to get results faster",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We need to understand how AI works to understand what we are dealing with and how AI is applicable to our daily lives. AI is not by definition bad, but it can have dangerous consequences. \n\nWe need to show that AI can be a help and that it is a useful tool. To make that happen will require a continuous effort by all players to adapt to a changing reality.",
+        "airtable_id": "ff8fa0d8bbbd880a",
+        "slug": "we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on learning to handle AI: invest in current and future generations",
+        "name": "We need to understand how AI works to understand what we are dealing with and how AI is applicable to our daily lives. AI is not by definition bad, but it can have dangerous consequences. \n\nWe need to show that AI can be a help and that it is a useful tool. To make that happen will require a continuous effort by all players to adapt to a changing reality.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": " Ensure that this citizen panel is followed up",
+        "airtable_id": "abc1030f72f44285",
+        "slug": "ensure-that-this-citizen-panel-is-followed-up",
+        "type": "Recommendation",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Recommendations / key messages",
+        "name": " Ensure that this citizen panel is followed up",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We believe that a number of global agreements on the development and application of Al are called for, for the sake of people and democracy. The EU must take the lead in this debate, starting from its framework of values and standards, and respect for other cultures",
+        "airtable_id": "dfe16f2d62f7d091",
+        "slug": "we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on global agreements",
+        "name": "We believe that a number of global agreements on the development and application of Al are called for, for the sake of people and democracy. The EU must take the lead in this debate, starting from its framework of values and standards, and respect for other cultures",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "It is important not to lose our human, soft skills. The focus needs to be on young people, who are already strongly influenced by AI systems (especially through social networks and platforms that use AI). They will have to live with these tools in the future. We therefore need to prepare them, to ensure that there is no gap between what we learn in school and what is needed in our adult personal and professional lives.",
+        "airtable_id": "25bb4a29c6a9b5b2",
+        "slug": "it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on learning to handle AI: invest in current and future generations",
+        "name": "It is important not to lose our human, soft skills. The focus needs to be on young people, who are already strongly influenced by AI systems (especially through social networks and platforms that use AI). They will have to live with these tools in the future. We therefore need to prepare them, to ensure that there is no gap between what we learn in school and what is needed in our adult personal and professional lives.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Al should serve to help humans, not replace them\n\nWe believe that people should not only have the last word at the end of a decision-making process in which Al is used but that they must be involved throughout the process to explain or intervene. This is clearly important when Al systems are used without our explicit consent and when there is high risk, for example, in medical diagnosis or loan decisions\n\nTransparency and trust are important and go hand in hand in this regard if people gain insight into how and why a decision was made, they will more readily accept the outcome\n\nThis is all the more important for people less familiar with Al, or who do not have access to it, so that they are not excluded from society",
+        "airtable_id": "4c9fe5a8277bb781",
+        "slug": "al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last",
+        "type": "Issue",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Messages on 'Human in the loop' and human contact",
+        "name": "Al should serve to help humans, not replace them\n\nWe believe that people should not only have the last word at the end of a decision-making process in which Al is used but that they must be involved throughout the process to explain or intervene. This is clearly important when Al systems are used without our explicit consent and when there is high risk, for example, in medical diagnosis or loan decisions\n\nTransparency and trust are important and go hand in hand in this regard if people gain insight into how and why a decision was made, they will more readily accept the outcome\n\nThis is all the more important for people less familiar with Al, or who do not have access to it, so that they are not excluded from society",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Invest in communication about AI",
+        "airtable_id": "c507ee4db3c14ad2",
+        "slug": "invest-in-communication-about-ai",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "belgian-citizens-panel-on-ai"
+        ],
+        "additional-credit-line": "Recommendations / key messages",
+        "name": "Invest in communication about AI",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Current issues",
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

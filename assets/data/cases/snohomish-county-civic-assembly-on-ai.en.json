@@ -1,0 +1,242 @@
+{
+  "slug": "snohomish-county-civic-assembly-on-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Snohomish County Civic Assembly on AI",
+    "airtable_id": "926a638e645651d7",
+    "slug": "snohomish-county-civic-assembly-on-ai",
+    "redirect_from": [
+      "/c/926a638e645651d7/"
+    ],
+    "lead-organisations": [
+      "civic-genius"
+    ],
+    "provide-a-brief-description-of-the-project": "Over the course of three weekends the group followed the process presented by the Civic Genius to address AI usage by the Snohomish County local government. The group’s goal was, through spirited discussions, and a great diversity of viewpoints, to generate recommendations to the Snohomish County Council on AI use that will be formally presented to the council and that they will formally respond to. \n",
+    "project-status": "Complete",
+    "headline-findings": "1. PUBLIC NEED & BURDEN: Only use AI when it clearly serves the public.\n2. HUMAN OVERSIGHT: Keep people responsible and reachable.\n3. TRANSPARENCY: Tell residents when and how AI is used.\n4. DATA PROTECTION & FAIRNESS: Protect resident data and prevent bias.\n5. AUDITING & REMEDIES: Check AI regularly and fix harms.\n6. VENDOR CONTROL: Keep vendors under public control.\n7. COMMUNITY & HUMAN EMPOWERMENT: Give residents and staff the power to oversee AI.\n8. ENVIRONMENTALISM & COMMUNITY IMPACT\n",
+    "participants": [
+      "snohomish-county-civic-assembly-on-ai"
+    ],
+    "participation-locations": "Snohomish County, Wahington, USA",
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "inclusion-efforts": "Random selection\n",
+    "project-title": "Snohomish County Civic Assembly on AI",
+    "method-image-caption": "Source: ",
+    "why-is-this-project-important-to-include-in-the": "This event was meant to allow residents to shape how their local government uses AI and what responsibilities that government has to its residents in using AI",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "httpswwwmehr-demokratiedeenmehr-wissencitizens-assembliesnewsdetails-viewtranslate-to-english-buerge"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Civic assembly to inform Snohomish County government's AI use and policy.",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "national-civic-league"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://ourcivicgenius.org/wp-content/uploads/2026/06/FINAL-SNOCO-CIVIC-ASSEMBLY-REPORT.pdf"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "snohomish-county-civic-assembly-on-ai",
+    "data": {
+      "layout": "case",
+      "title": "Snohomish County Civic Assembly on AI",
+      "airtable_id": "926a638e645651d7",
+      "slug": "snohomish-county-civic-assembly-on-ai",
+      "redirect_from": [
+        "/c/926a638e645651d7/"
+      ],
+      "lead-organisations": [
+        "civic-genius"
+      ],
+      "provide-a-brief-description-of-the-project": "Over the course of three weekends the group followed the process presented by the Civic Genius to address AI usage by the Snohomish County local government. The group’s goal was, through spirited discussions, and a great diversity of viewpoints, to generate recommendations to the Snohomish County Council on AI use that will be formally presented to the council and that they will formally respond to. \n",
+      "project-status": "Complete",
+      "headline-findings": "1. PUBLIC NEED & BURDEN: Only use AI when it clearly serves the public.\n2. HUMAN OVERSIGHT: Keep people responsible and reachable.\n3. TRANSPARENCY: Tell residents when and how AI is used.\n4. DATA PROTECTION & FAIRNESS: Protect resident data and prevent bias.\n5. AUDITING & REMEDIES: Check AI regularly and fix harms.\n6. VENDOR CONTROL: Keep vendors under public control.\n7. COMMUNITY & HUMAN EMPOWERMENT: Give residents and staff the power to oversee AI.\n8. ENVIRONMENTALISM & COMMUNITY IMPACT\n",
+      "participants": [
+        "snohomish-county-civic-assembly-on-ai"
+      ],
+      "participation-locations": "Snohomish County, Wahington, USA",
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "inclusion-efforts": "Random selection\n",
+      "project-title": "Snohomish County Civic Assembly on AI",
+      "method-image-caption": "Source: ",
+      "why-is-this-project-important-to-include-in-the": "This event was meant to allow residents to shape how their local government uses AI and what responsibilities that government has to its residents in using AI",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "httpswwwmehr-demokratiedeenmehr-wissencitizens-assembliesnewsdetails-viewtranslate-to-english-buerge"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Civic assembly to inform Snohomish County government's AI use and policy.",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "national-civic-league"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://ourcivicgenius.org/wp-content/uploads/2026/06/FINAL-SNOCO-CIVIC-ASSEMBLY-REPORT.pdf"
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "snohomish-county-civic-assembly-on-ai",
+        "data": {
+          "layout": "generic",
+          "title": "Snohomish County Civic Assembly on AI-",
+          "airtable_id": "ead387693bd82b47",
+          "slug": "snohomish-county-civic-assembly-on-ai",
+          "name": "Snohomish County Civic Assembly on AI-",
+          "cases": [
+            "snohomish-county-civic-assembly-on-ai"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-civic-league",
+        "data": {
+          "layout": "organisation",
+          "title": "National Civic League",
+          "airtable_id": "65853e8d414283fa",
+          "slug": "national-civic-league",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "snohomish-county-civic-assembly-on-ai"
+          ],
+          "name": "National Civic League",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "civic-genius",
+        "data": {
+          "layout": "organisation",
+          "title": "Civic Genius",
+          "airtable_id": "19dbd3dff57509c3",
+          "slug": "civic-genius",
+          "role": [
+            "Lead"
+          ],
+          "name": "Civic Genius",
+          "lead-organisation-for": [
+            "snohomish-county-civic-assembly-on-ai"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "snohomish-county-civic-assembly-on-ai"
+          ],
+          "layout": "generic",
+          "slug": "snohomish-county-civic-assembly-on-ai-process",
+          "title": "Snohomish County Civic Assembly on AI - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Snohomish County Civic Assembly on AI-",
+        "airtable_id": "ead387693bd82b47",
+        "slug": "snohomish-county-civic-assembly-on-ai",
+        "name": "Snohomish County Civic Assembly on AI-",
+        "cases": [
+          "snohomish-county-civic-assembly-on-ai"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "snohomish-county-civic-assembly-on-ai"
+        ],
+        "layout": "generic",
+        "slug": "snohomish-county-civic-assembly-on-ai-process",
+        "title": "Snohomish County Civic Assembly on AI - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "National Civic League",
+        "airtable_id": "65853e8d414283fa",
+        "slug": "national-civic-league",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "snohomish-county-civic-assembly-on-ai"
+        ],
+        "name": "National Civic League",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Civic Genius",
+        "airtable_id": "19dbd3dff57509c3",
+        "slug": "civic-genius",
+        "role": [
+          "Lead"
+        ],
+        "name": "Civic Genius",
+        "lead-organisation-for": [
+          "snohomish-county-civic-assembly-on-ai"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

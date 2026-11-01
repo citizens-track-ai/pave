@@ -1,0 +1,213 @@
+{
+  "slug": "aiaaic",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AIAAIC",
+    "airtable_id": "b4f05689ee802c68",
+    "slug": "aiaaic",
+    "redirect_from": [
+      "/c/b4f05689ee802c68/"
+    ],
+    "provide-a-brief-description-of-the-project": "The AIAAIC is an open, independent, grassroots public interest collection of incidents and ethical controversies caused by and associated with AI, algorithms, and automation.\n\nAnyone can submit incidents and access its database.\n\nA team of volunteer researchers and activists are collaboratively maintaining the repository and elaborating a human-centered AI harms taxonomy (<https://arxiv.org/abs/2407.01294>).\n\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "aiaaic-active-contributors"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Safety"
+    ],
+    "what-year-did-the-project-start": 2021,
+    "inclusion-efforts": "\n",
+    "project-title": "AIAAIC",
+    "submitted-by": "Pierre Noro",
+    "why-is-this-project-important-to-include-in-the": "Although very imperfect in the way it involves the public (the project is open and voluntary but lacks mechanisms to enhance public engagement and actively reach out to affected communities), the AIAAIC has been one of the pioneers when it comes to registering AI systems harms, its database has been used to seed all other influential projects in that direction, and remains the only open and independent incident repository.\nIt has been used and cited extensively in academic research, journalism and CSO advocacy.\nIts harms taxonomy (of which I am a co-author, so I might be biased) has also been influential and was one of the first published taxonomy to focus on harms and not on risks.\n\nIn spite of its limits, it is a project of historical and thematic signifiance to the case book (and arguably, its limits are also interesting to evaluate: difficulty of maintaining an active community with a global scope, lack of resources despite relative influence...).",
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Empowerment: Build community power with respect to AI",
+      "Audit: Review design or implementation of AI tools"
+    ],
+    "supporting-resources": [
+      "a-collaborative-human-centred-taxonomy-of-ai-algorithmic-and-automation-harms",
+      "2024-activity-report"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Crowd sourcing incidents and ethical controversies caused by and associated with AI, algorithms, and automation.",
+    "how-was-the-project-initiated": [
+      "Co-created"
+    ],
+    "level-of-engagement": "Global",
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "An independent evaluation",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.aiaaic.org/",
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "aiaaic",
+    "data": {
+      "layout": "case",
+      "title": "AIAAIC",
+      "airtable_id": "b4f05689ee802c68",
+      "slug": "aiaaic",
+      "redirect_from": [
+        "/c/b4f05689ee802c68/"
+      ],
+      "provide-a-brief-description-of-the-project": "The AIAAIC is an open, independent, grassroots public interest collection of incidents and ethical controversies caused by and associated with AI, algorithms, and automation.\n\nAnyone can submit incidents and access its database.\n\nA team of volunteer researchers and activists are collaboratively maintaining the repository and elaborating a human-centered AI harms taxonomy (<https://arxiv.org/abs/2407.01294>).\n\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "aiaaic-active-contributors"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Safety"
+      ],
+      "what-year-did-the-project-start": 2021,
+      "inclusion-efforts": "\n",
+      "project-title": "AIAAIC",
+      "submitted-by": "Pierre Noro",
+      "why-is-this-project-important-to-include-in-the": "Although very imperfect in the way it involves the public (the project is open and voluntary but lacks mechanisms to enhance public engagement and actively reach out to affected communities), the AIAAIC has been one of the pioneers when it comes to registering AI systems harms, its database has been used to seed all other influential projects in that direction, and remains the only open and independent incident repository.\nIt has been used and cited extensively in academic research, journalism and CSO advocacy.\nIts harms taxonomy (of which I am a co-author, so I might be biased) has also been influential and was one of the first published taxonomy to focus on harms and not on risks.\n\nIn spite of its limits, it is a project of historical and thematic signifiance to the case book (and arguably, its limits are also interesting to evaluate: difficulty of maintaining an active community with a global scope, lack of resources despite relative influence...).",
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Empowerment: Build community power with respect to AI",
+        "Audit: Review design or implementation of AI tools"
+      ],
+      "supporting-resources": [
+        "a-collaborative-human-centred-taxonomy-of-ai-algorithmic-and-automation-harms",
+        "2024-activity-report"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Crowd sourcing incidents and ethical controversies caused by and associated with AI, algorithms, and automation.",
+      "how-was-the-project-initiated": [
+        "Co-created"
+      ],
+      "level-of-engagement": "Global",
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "An independent evaluation",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.aiaaic.org/",
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "aiaaic-active-contributors",
+        "data": {
+          "layout": "generic",
+          "title": "AIAAIC-Active Contributors",
+          "airtable_id": "768fbc8e72da1777",
+          "slug": "aiaaic-active-contributors",
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Crowdsourcing"
+          ],
+          "name": "AIAAIC-Active Contributors",
+          "group-description": "Active Contributors",
+          "how-many-people-took-part": 50,
+          "cases": [
+            "aiaaic"
+          ],
+          "recruitment-description": "Seeking geographic diversity ",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "aiaaic"
+          ],
+          "layout": "generic",
+          "slug": "aiaaic-process",
+          "title": "AIAAIC - Process",
+          "theme": [
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AIAAIC-Active Contributors",
+        "airtable_id": "768fbc8e72da1777",
+        "slug": "aiaaic-active-contributors",
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Crowdsourcing"
+        ],
+        "name": "AIAAIC-Active Contributors",
+        "group-description": "Active Contributors",
+        "how-many-people-took-part": 50,
+        "cases": [
+          "aiaaic"
+        ],
+        "recruitment-description": "Seeking geographic diversity ",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "aiaaic"
+        ],
+        "layout": "generic",
+        "slug": "aiaaic-process",
+        "title": "AIAAIC - Process",
+        "theme": [
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

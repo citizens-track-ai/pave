@@ -1,0 +1,1071 @@
+{
+  "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities",
+    "airtable_id": "68e460c5d4ff1ad0",
+    "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+    "redirect_from": [
+      "/c/68e460c5d4ff1ad0/"
+    ],
+    "lead-organisations": [
+      "digital-empowerment-foundation"
+    ],
+    "provide-a-brief-description-of-the-project": "Between 2025 and 2026, the Digital Empowerment Foundation initiated a process that used community-based participatory research and focus groups to involve approximately 50 people in field-based research and workshops in Telangana's Mekaguda and Begarikancha villages to investigate the socio-environmental and governance implications of rapid data center expansion. The project sought to build community power, capture qualitative evidence on public attitudes to AI, and inform policy-making. \n\nThe project created accessible fact sheets, cartoons explaining issues related to data center development with the goal of supporting informed conversations.\n\nFor AI governance dialogues, the project offers a valuable Global South perspective by centring communities that are rarely represented in policy discussions. Focus groups were able to explore the lived experiences, aspirations, and concerns of residents, including farmers, women, local workers, and Panchayati Raj (elected village-level committee) representatives. Through this the project argues that meaningful AI governance requires participation from affected communities, greater transparency around infrastructure development, and mechanisms that enable local voices to shape decisions about digital futures. In doing so, it sought to broaden AI governance from a technology-focused agenda to one grounded in environmental justice, democratic accountability, and community rights.\n",
+    "what-limitations-to-the-project-should-be-noted": "The project has some important limitations. It was a qualitative, exploratory study conducted across two field sites, Mekaguda and Begarikancha, so the findings are not statistically generalisable to all communities affected by data center expansion in India. Instead, the study provides context-rich insights into lived experiences, community perceptions, and local governance concerns.\n\nThe research also depended on participant experiences and perceptions, which may have been shaped by limited access to technical, legal, or institutional information about data center operations. Many community members had limited information about how data centers function, what resources they use, and what long-term impacts they may have.\n\nA major limitation was the lack of transparency and limited access to official data from data center companies and relevant authorities, especially regarding water use, energy consumption, environmental compliance, and resource allocation. This made it difficult to independently verify some community concerns, such as groundwater extraction or future resource pressures.\n\nThe study also captures a specific moment in an ongoing process of industrial and digital infrastructure expansion. Since many impacts may emerge over time, especially those related to water stress, power demand, employment, land use change, and intergenerational livelihood effects, longer-term and interdisciplinary research would be needed.\n\nOverall, while the project made efforts to include diverse community voices, including farmers, women, frontline workers, and local representatives, the report does not claim to represent every affected group or all possible perspectives. The findings should therefore be read as grounded evidence from specific communities rather than as a complete account of all impacts of data center expansion.\n",
+    "project-status": "Complete",
+    "headline-findings": "1. Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”\n\n1. Pandu Reddy, former Sarpanch of Mekaguda and petitioner, said data center-linked land acquisition raised serious questions of legality, consent, and public interest. He described the acquisition process as “illegal” and said it disturbed “water bodies or agriculture land,” adding that complaints to local authorities, the state, and companies were ignored.\n\n1. Ramchandra, a CPI(M) district representative, said marginalised caste communities bore disproportionate land losses. He stated that “SC, ST and OBC communities have lost the land,” especially assigned lands, and that compensation was far below market value, leaving many families unable to buy replacement land.\n\n1. Farmers in Begarikancha said compensation did not reflect the later value of land transferred for data center development. They said: “We received INR 7,70,000 for the land, whereas it was later given to Amazon for over INR 1,00,00,000.”\n\n1. Local activists and IT experts said AI/data-centre policy risks prioritising corporate resource access over community needs. Ravi argued that industry has learned to take subsidies and buy “land… water… power” at cheaper rates. Rajshekhar P of Commons Collective asked: “If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”\n\n1. Mekaguda farmers and health workers said data centres are arriving in places already facing water and pollution stress. One farmer said: “We already have water problems… the pipes are rusted,” and linked local illness to polluted water: “If you drink water, the pain in the legs will increase.”\n\n1. Journalists and experts said the biggest governance gap is lack of transparency about water and resource use. Rohini Krishnamurthy said authorities could not clearly answer basic questions: “How do you not know how many data centres are here and what is the source…?” Siddhartha Malempatti said data-centre water use needs more disclosure because “for data centers, water is used for consumption.”\n\n1. Residents said the jobs promised by AI infrastructure are limited and often low-paid. Pandu Reddy asked how villages could expect jobs if “the state itself does not receive even ten jobs.” Y. Shrinu, a dairy worker, said he had hoped for a security/helper role but realised “such opportunities are limited,” so he turned to dairy work. In Begarikancha, available work was described as “security guards or sanitation workers.”\n\n1. Community members and local representatives said decision-making has not been meaningfully participatory. PRI participants reported limited involvement in planning and land acquisition, while ward members lacked basic information about how data centres operate. The report frames this as communities being included in development outcomes but excluded from decisions.\n\n1. Participants’ wider message is that AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”\n",
+    "participants": [
+      "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus",
+      "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-semi-structured-in"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues"
+    ],
+    "messages": [
+      "ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug",
+      "if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi",
+      "local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live"
+    ],
+    "theme": [
+      "Environment",
+      "Infrastructure"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "association-for-progressive-communications"
+    ],
+    "additional-acknowledgements": "Maitri Singh, Mili Dangwal",
+    "inclusion-efforts": "The fieldwork was designed to make the recruitment and engagement process inclusive by reaching people who are usually absent from AI governance and digital infrastructure debates. Rather than relying on online consultations or expert-only discussions, the research team conducted field-based engagement in Mekaguda and Begarikancha, enabling participation from rural residents, farmers, women, ASHA workers, Anganwadi workers, Panchayati Raj representatives, local workers, and people affected by land acquisition and livelihood transitions.\n\nParticipants were recruited through purposive sampling to reflect diverse social positions and lived experiences. This included people directly affected by data center expansion, such as farmers and local residents, as well as those with community-facing roles, such as frontline health workers, Anganwadi teachers, and elected village-level representatives. The study also included activists, journalists, researchers, and experts on land, water, energy, labour, and digital infrastructure to connect community experiences with broader governance and policy issues.\n\nSpecific efforts at inclusion included engaging marginalised communities and people from different caste and social groups, recognising that the impacts of land acquisition, resource pressure, and livelihood change are not experienced equally. The research team used focus group discussions and semi-structured interviews to create space for both collective discussion and more detailed individual testimony. This helped capture a range of perspectives, including aspirations for development, concerns about compensation and employment, anxieties about water and energy use, and experiences of exclusion from decision-making.\n\nThe process was also made more accessible by conducting field interactions in ways that were sensitive to local context and power dynamics. The report notes that participation was voluntary, informed consent was sought, confidentiality was maintained, and particular care was taken when engaging marginalised communities. Interviews and focus group discussions were transcribed from local language (Telugu) and dialect into English, which helped preserve local narratives while making them available for analysis and reporting.\n",
+    "project-title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities",
+    "submitted-by": "Dr. Arpita Kanjilal",
+    "why-is-this-project-important-to-include-in-the": "This project is important to include in the case book because it expands the scope of AI governance beyond algorithms, data protection, model safety, and platform regulation to include the physical and social infrastructures that make AI possible. The report shows that AI is not immaterial but depends on data centers that require land, electricity, water, public subsidies, labour, and local governance systems. The project demonstrates that decisions about AI infrastructure are also decisions about resource allocation, environmental risk, livelihood transitions, and democratic participation.\n\nThe case is especially significant because it foregrounds communities that are rarely represented in AI governance dialogues. The study is based on fieldwork in Mekaguda and Begarikancha villages in Rangareddy district, where large data center developments are reshaping everyday life. It includes the perspectives of farmers, women, ASHA workers, Anganwadi workers, Panchayati Raj representatives, local workers, activists, journalists, and experts on land, water, power, and digital infrastructure. These are not the actors typically invited into AI policy spaces, yet they are directly affected by the land acquisition, water demand, energy consumption, employment shifts, and governance decisions linked to AI infrastructure.\n\nThe project also offers a valuable Global South perspective on AI supply chains. It situates India’s data center growth within the global race to build AI and cloud infrastructure, while also showing how India’s role is shaped by policy incentives, resource availability, real estate development, and low-cost labour. This makes the case useful for understanding how the benefits and burdens of AI are distributed unevenly across geographies. While data centers are promoted as symbols of digital progress and economic growth, the report documents how local communities experience more complex realities: loss of agricultural land, rising pressure on water and electricity, limited employment opportunities, uncertainty about long-term benefits, and limited participation in decision-making.\n\nA distinctive contribution of this case is its community-centred methodology. Through focus group discussions, semi-structured interviews, and field-based research, the project documents lived experiences rather than relying only on policy claims or industry narratives. It captures both aspirations and concerns: communities recognise some visible infrastructure improvements and hopes for development, but also raise fears about land loss, water stress, environmental degradation, skills mismatch, and exclusion from governance processes. This nuanced account avoids portraying communities as simply anti-development or pro-development, and instead shows how people negotiate change under conditions of limited information and unequal power.\n\nThe project is also important because it brings together data justice and feminist political ecology. It asks who benefits from AI infrastructure, who bears its environmental and social costs, whose knowledge is recognised, and who is allowed to participate in decisions about digital futures. In doing so, it reframes AI governance as an issue of environmental justice, labour justice, community rights, and democratic accountability.\n\nIncluding this project in the case book would therefore broaden the understanding of responsible AI. It would show that responsible AI cannot be limited to technical safeguards or ethical principles at the level of models. It must also address the infrastructures, supply chains, resource demands, and affected communities that sustain AI systems. This case offers a grounded and timely example of why AI governance must be rights-based, transparent, participatory, and attentive to the lived realities of communities at the frontlines of digital infrastructure expansion.",
+    "photos-and-images": [
+      {
+        "id": "attk6vw168rdWXPTG",
+        "width": 4096,
+        "height": 3072,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG.jpg",
+        "filename": "Community Workshop with Panchayati Raj Representatives and Community Stakeholders.jpg",
+        "size": 3697580,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attk9Mv4lBW0F0D7M",
+        "width": 1280,
+        "height": 963,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M.jpeg",
+        "filename": "Photo 4.jpeg",
+        "size": 188208,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_large.jpeg",
+            "width": 681,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_full.jpeg",
+            "width": 1280,
+            "height": 963
+          }
+        }
+      },
+      {
+        "id": "attJJfwIS1SDKm8bf",
+        "width": 1280,
+        "height": 960,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf.jpeg",
+        "filename": "Photo 2.jpeg",
+        "size": 183023,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_large.jpeg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_full.jpeg",
+            "width": 1280,
+            "height": 960
+          }
+        }
+      },
+      {
+        "id": "attYyO7OFxRdxIBtQ",
+        "width": 1280,
+        "height": 960,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ.jpeg",
+        "filename": "Photo 1.jpeg",
+        "size": 123258,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_large.jpeg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_full.jpeg",
+            "width": 1280,
+            "height": 960
+          }
+        }
+      },
+      {
+        "id": "attZVcsJoCE6cALi3",
+        "width": 1280,
+        "height": 960,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3.jpeg",
+        "filename": "Photo 9.jpeg",
+        "size": 238781,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_large.jpeg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_full.jpeg",
+            "width": 1280,
+            "height": 960
+          }
+        }
+      },
+      {
+        "id": "attYtlPPErrPBaUBU",
+        "width": 960,
+        "height": 1280,
+        "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU.jpeg",
+        "filename": "Photo 10.jpeg",
+        "size": 189505,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_small.jpeg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_large.jpeg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_full.jpeg",
+            "width": 960,
+            "height": 1280
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+      "what-should-we-know-and-what-should-we-ask-about-data-centers-a-citizen-awareness-module-to-understa",
+      "just-ai-just-land-perspectives-from-the-field",
+      "data-land-livelihood-whose-digital-future-just-ai-just-land-factsheets"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Who benefits, who bears the costs, and how can affected communities participate in decisions about digital infrastructure?",
+    "how-was-the-project-initiated": [
+      "Commissioned",
+      "Community Led"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "ai-planetary-justice-alliance",
+      "commons-collective"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://drive.google.com/drive/folders/11OX3XR4ReczqdQhrjoPZQTqnerPxRQL3?usp=sharing",
+    "locations": [
+      "begarikancha-rangareddy-district-telangana-india",
+      "mekaguda-rangareddy-district-telangana-india",
+      "vavilakunta-telangana-india"
+    ],
+    "where-were-participants-from": [
+      "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India",
+      "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India; Vavilakunta, Telangana, India; Telangana, India; India; EU, São Paulo, Brazil"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+    "data": {
+      "layout": "case",
+      "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities",
+      "airtable_id": "68e460c5d4ff1ad0",
+      "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+      "redirect_from": [
+        "/c/68e460c5d4ff1ad0/"
+      ],
+      "lead-organisations": [
+        "digital-empowerment-foundation"
+      ],
+      "provide-a-brief-description-of-the-project": "Between 2025 and 2026, the Digital Empowerment Foundation initiated a process that used community-based participatory research and focus groups to involve approximately 50 people in field-based research and workshops in Telangana's Mekaguda and Begarikancha villages to investigate the socio-environmental and governance implications of rapid data center expansion. The project sought to build community power, capture qualitative evidence on public attitudes to AI, and inform policy-making. \n\nThe project created accessible fact sheets, cartoons explaining issues related to data center development with the goal of supporting informed conversations.\n\nFor AI governance dialogues, the project offers a valuable Global South perspective by centring communities that are rarely represented in policy discussions. Focus groups were able to explore the lived experiences, aspirations, and concerns of residents, including farmers, women, local workers, and Panchayati Raj (elected village-level committee) representatives. Through this the project argues that meaningful AI governance requires participation from affected communities, greater transparency around infrastructure development, and mechanisms that enable local voices to shape decisions about digital futures. In doing so, it sought to broaden AI governance from a technology-focused agenda to one grounded in environmental justice, democratic accountability, and community rights.\n",
+      "what-limitations-to-the-project-should-be-noted": "The project has some important limitations. It was a qualitative, exploratory study conducted across two field sites, Mekaguda and Begarikancha, so the findings are not statistically generalisable to all communities affected by data center expansion in India. Instead, the study provides context-rich insights into lived experiences, community perceptions, and local governance concerns.\n\nThe research also depended on participant experiences and perceptions, which may have been shaped by limited access to technical, legal, or institutional information about data center operations. Many community members had limited information about how data centers function, what resources they use, and what long-term impacts they may have.\n\nA major limitation was the lack of transparency and limited access to official data from data center companies and relevant authorities, especially regarding water use, energy consumption, environmental compliance, and resource allocation. This made it difficult to independently verify some community concerns, such as groundwater extraction or future resource pressures.\n\nThe study also captures a specific moment in an ongoing process of industrial and digital infrastructure expansion. Since many impacts may emerge over time, especially those related to water stress, power demand, employment, land use change, and intergenerational livelihood effects, longer-term and interdisciplinary research would be needed.\n\nOverall, while the project made efforts to include diverse community voices, including farmers, women, frontline workers, and local representatives, the report does not claim to represent every affected group or all possible perspectives. The findings should therefore be read as grounded evidence from specific communities rather than as a complete account of all impacts of data center expansion.\n",
+      "project-status": "Complete",
+      "headline-findings": "1. Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”\n\n1. Pandu Reddy, former Sarpanch of Mekaguda and petitioner, said data center-linked land acquisition raised serious questions of legality, consent, and public interest. He described the acquisition process as “illegal” and said it disturbed “water bodies or agriculture land,” adding that complaints to local authorities, the state, and companies were ignored.\n\n1. Ramchandra, a CPI(M) district representative, said marginalised caste communities bore disproportionate land losses. He stated that “SC, ST and OBC communities have lost the land,” especially assigned lands, and that compensation was far below market value, leaving many families unable to buy replacement land.\n\n1. Farmers in Begarikancha said compensation did not reflect the later value of land transferred for data center development. They said: “We received INR 7,70,000 for the land, whereas it was later given to Amazon for over INR 1,00,00,000.”\n\n1. Local activists and IT experts said AI/data-centre policy risks prioritising corporate resource access over community needs. Ravi argued that industry has learned to take subsidies and buy “land… water… power” at cheaper rates. Rajshekhar P of Commons Collective asked: “If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”\n\n1. Mekaguda farmers and health workers said data centres are arriving in places already facing water and pollution stress. One farmer said: “We already have water problems… the pipes are rusted,” and linked local illness to polluted water: “If you drink water, the pain in the legs will increase.”\n\n1. Journalists and experts said the biggest governance gap is lack of transparency about water and resource use. Rohini Krishnamurthy said authorities could not clearly answer basic questions: “How do you not know how many data centres are here and what is the source…?” Siddhartha Malempatti said data-centre water use needs more disclosure because “for data centers, water is used for consumption.”\n\n1. Residents said the jobs promised by AI infrastructure are limited and often low-paid. Pandu Reddy asked how villages could expect jobs if “the state itself does not receive even ten jobs.” Y. Shrinu, a dairy worker, said he had hoped for a security/helper role but realised “such opportunities are limited,” so he turned to dairy work. In Begarikancha, available work was described as “security guards or sanitation workers.”\n\n1. Community members and local representatives said decision-making has not been meaningfully participatory. PRI participants reported limited involvement in planning and land acquisition, while ward members lacked basic information about how data centres operate. The report frames this as communities being included in development outcomes but excluded from decisions.\n\n1. Participants’ wider message is that AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”\n",
+      "participants": [
+        "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus",
+        "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-semi-structured-in"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues"
+      ],
+      "messages": [
+        "ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug",
+        "if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi",
+        "local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live"
+      ],
+      "theme": [
+        "Environment",
+        "Infrastructure"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "association-for-progressive-communications"
+      ],
+      "additional-acknowledgements": "Maitri Singh, Mili Dangwal",
+      "inclusion-efforts": "The fieldwork was designed to make the recruitment and engagement process inclusive by reaching people who are usually absent from AI governance and digital infrastructure debates. Rather than relying on online consultations or expert-only discussions, the research team conducted field-based engagement in Mekaguda and Begarikancha, enabling participation from rural residents, farmers, women, ASHA workers, Anganwadi workers, Panchayati Raj representatives, local workers, and people affected by land acquisition and livelihood transitions.\n\nParticipants were recruited through purposive sampling to reflect diverse social positions and lived experiences. This included people directly affected by data center expansion, such as farmers and local residents, as well as those with community-facing roles, such as frontline health workers, Anganwadi teachers, and elected village-level representatives. The study also included activists, journalists, researchers, and experts on land, water, energy, labour, and digital infrastructure to connect community experiences with broader governance and policy issues.\n\nSpecific efforts at inclusion included engaging marginalised communities and people from different caste and social groups, recognising that the impacts of land acquisition, resource pressure, and livelihood change are not experienced equally. The research team used focus group discussions and semi-structured interviews to create space for both collective discussion and more detailed individual testimony. This helped capture a range of perspectives, including aspirations for development, concerns about compensation and employment, anxieties about water and energy use, and experiences of exclusion from decision-making.\n\nThe process was also made more accessible by conducting field interactions in ways that were sensitive to local context and power dynamics. The report notes that participation was voluntary, informed consent was sought, confidentiality was maintained, and particular care was taken when engaging marginalised communities. Interviews and focus group discussions were transcribed from local language (Telugu) and dialect into English, which helped preserve local narratives while making them available for analysis and reporting.\n",
+      "project-title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities",
+      "submitted-by": "Dr. Arpita Kanjilal",
+      "why-is-this-project-important-to-include-in-the": "This project is important to include in the case book because it expands the scope of AI governance beyond algorithms, data protection, model safety, and platform regulation to include the physical and social infrastructures that make AI possible. The report shows that AI is not immaterial but depends on data centers that require land, electricity, water, public subsidies, labour, and local governance systems. The project demonstrates that decisions about AI infrastructure are also decisions about resource allocation, environmental risk, livelihood transitions, and democratic participation.\n\nThe case is especially significant because it foregrounds communities that are rarely represented in AI governance dialogues. The study is based on fieldwork in Mekaguda and Begarikancha villages in Rangareddy district, where large data center developments are reshaping everyday life. It includes the perspectives of farmers, women, ASHA workers, Anganwadi workers, Panchayati Raj representatives, local workers, activists, journalists, and experts on land, water, power, and digital infrastructure. These are not the actors typically invited into AI policy spaces, yet they are directly affected by the land acquisition, water demand, energy consumption, employment shifts, and governance decisions linked to AI infrastructure.\n\nThe project also offers a valuable Global South perspective on AI supply chains. It situates India’s data center growth within the global race to build AI and cloud infrastructure, while also showing how India’s role is shaped by policy incentives, resource availability, real estate development, and low-cost labour. This makes the case useful for understanding how the benefits and burdens of AI are distributed unevenly across geographies. While data centers are promoted as symbols of digital progress and economic growth, the report documents how local communities experience more complex realities: loss of agricultural land, rising pressure on water and electricity, limited employment opportunities, uncertainty about long-term benefits, and limited participation in decision-making.\n\nA distinctive contribution of this case is its community-centred methodology. Through focus group discussions, semi-structured interviews, and field-based research, the project documents lived experiences rather than relying only on policy claims or industry narratives. It captures both aspirations and concerns: communities recognise some visible infrastructure improvements and hopes for development, but also raise fears about land loss, water stress, environmental degradation, skills mismatch, and exclusion from governance processes. This nuanced account avoids portraying communities as simply anti-development or pro-development, and instead shows how people negotiate change under conditions of limited information and unequal power.\n\nThe project is also important because it brings together data justice and feminist political ecology. It asks who benefits from AI infrastructure, who bears its environmental and social costs, whose knowledge is recognised, and who is allowed to participate in decisions about digital futures. In doing so, it reframes AI governance as an issue of environmental justice, labour justice, community rights, and democratic accountability.\n\nIncluding this project in the case book would therefore broaden the understanding of responsible AI. It would show that responsible AI cannot be limited to technical safeguards or ethical principles at the level of models. It must also address the infrastructures, supply chains, resource demands, and affected communities that sustain AI systems. This case offers a grounded and timely example of why AI governance must be rights-based, transparent, participatory, and attentive to the lived realities of communities at the frontlines of digital infrastructure expansion.",
+      "photos-and-images": [
+        {
+          "id": "attk6vw168rdWXPTG",
+          "width": 4096,
+          "height": 3072,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG.jpg",
+          "filename": "Community Workshop with Panchayati Raj Representatives and Community Stakeholders.jpg",
+          "size": 3697580,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk6vw168rdWXPTG_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attk9Mv4lBW0F0D7M",
+          "width": 1280,
+          "height": 963,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M.jpeg",
+          "filename": "Photo 4.jpeg",
+          "size": 188208,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_large.jpeg",
+              "width": 681,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attk9Mv4lBW0F0D7M_full.jpeg",
+              "width": 1280,
+              "height": 963
+            }
+          }
+        },
+        {
+          "id": "attJJfwIS1SDKm8bf",
+          "width": 1280,
+          "height": 960,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf.jpeg",
+          "filename": "Photo 2.jpeg",
+          "size": 183023,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_large.jpeg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attJJfwIS1SDKm8bf_full.jpeg",
+              "width": 1280,
+              "height": 960
+            }
+          }
+        },
+        {
+          "id": "attYyO7OFxRdxIBtQ",
+          "width": 1280,
+          "height": 960,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ.jpeg",
+          "filename": "Photo 1.jpeg",
+          "size": 123258,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_large.jpeg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYyO7OFxRdxIBtQ_full.jpeg",
+              "width": 1280,
+              "height": 960
+            }
+          }
+        },
+        {
+          "id": "attZVcsJoCE6cALi3",
+          "width": 1280,
+          "height": 960,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3.jpeg",
+          "filename": "Photo 9.jpeg",
+          "size": 238781,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_large.jpeg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attZVcsJoCE6cALi3_full.jpeg",
+              "width": 1280,
+              "height": 960
+            }
+          }
+        },
+        {
+          "id": "attYtlPPErrPBaUBU",
+          "width": 960,
+          "height": 1280,
+          "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU.jpeg",
+          "filename": "Photo 10.jpeg",
+          "size": 189505,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_small.jpeg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_large.jpeg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/68e460c5d4ff1ad0_fldd4B6cpBOP3n3is_attYtlPPErrPBaUBU_full.jpeg",
+              "width": 960,
+              "height": 1280
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities",
+        "what-should-we-know-and-what-should-we-ask-about-data-centers-a-citizen-awareness-module-to-understa",
+        "just-ai-just-land-perspectives-from-the-field",
+        "data-land-livelihood-whose-digital-future-just-ai-just-land-factsheets"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Who benefits, who bears the costs, and how can affected communities participate in decisions about digital infrastructure?",
+      "how-was-the-project-initiated": [
+        "Commissioned",
+        "Community Led"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "ai-planetary-justice-alliance",
+        "commons-collective"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://drive.google.com/drive/folders/11OX3XR4ReczqdQhrjoPZQTqnerPxRQL3?usp=sharing",
+      "locations": [
+        "begarikancha-rangareddy-district-telangana-india",
+        "mekaguda-rangareddy-district-telangana-india",
+        "vavilakunta-telangana-india"
+      ],
+      "where-were-participants-from": [
+        "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India",
+        "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India; Vavilakunta, Telangana, India; Telangana, India; India; EU, São Paulo, Brazil"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus",
+        "data": {
+          "layout": "generic",
+          "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Focus group discussions",
+          "airtable_id": "e7c06c89edc34ab7",
+          "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus",
+          "locations": [
+            "mekaguda-rangareddy-district-telangana-india",
+            "begarikancha-rangareddy-district-telangana-india"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group",
+            "Capacity Building Workshop"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Focus group discussions",
+          "group-description": "Focus group discussions",
+          "additional-notes": "In Begarikancha, focus group discussions included farmers, Panchayati Raj Institution representatives, and diverse community stakeholders. In Mekaguda, focus group discussions included farmers, ASHA workers, panchayat representatives, and other community members. The study followed ethical research practices including informed consent, confidentiality, voluntary participation, and sensitivity to local power dynamics. It is also an important consideration that 'community' is not a monolith category.",
+          "how-many-people-took-part": 36,
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "recruitment-description": "Participants were selected based on their direct or indirect engagement with the impacts of data center expansion. The recruitment approach aimed to include diverse social positions and lived experiences, including farmers affected by land acquisition, local governance representatives, frontline health workers, agricultural workers, and people from different caste and social groups. Specific efforts at inclusion included engaging marginalised communities and ensuring participation from groups often excluded from AI and digital infrastructure governance discussions.",
+          "was-there-a-specific-target-population": "The target population was local communities directly or indirectly affected by data center expansion, including farmers, women, ASHA (frontline health volunteers) workers, Panchayati Raj representatives, local residents, and other community stakeholders.",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-semi-structured-in",
+        "data": {
+          "layout": "generic",
+          "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Semi-structured interviews",
+          "airtable_id": "c07b4e218f00406d",
+          "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-semi-structured-in",
+          "locations": [
+            "mekaguda-rangareddy-district-telangana-india",
+            "begarikancha-rangareddy-district-telangana-india",
+            "vavilakunta-telangana-india"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India; Vavilakunta, Telangana, India; Telangana, India; India; EU, São Paulo, Brazil",
+          "which-of-the-following-methods-were-used-to": [
+            "Interviews"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Semi-structured interviews",
+          "group-description": "Semi-structured interviews",
+          "additional-notes": "The semi-structured interviews complemented the focus group discussions by providing deeper and more specialised perspectives on land acquisition, water and energy use, local livelihoods, employment expectations, environmental risks, policy incentives, and democratic participation. The interview group combined community knowledge with expert analysis, allowing the project to connect everyday experiences in affected villages with wider structural issues in India’s data center expansion and global AI infrastructure development. The report notes that the research followed ethical practices including informed consent, confidentiality, voluntary participation, and sensitivity to local power dynamics.",
+          "how-many-people-took-part": 14,
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "recruitment-description": "Participants were selected because of their direct lived experience of data center expansion or their specialised knowledge of the wider issues surrounding digital infrastructure. Local participants were identified through field-based engagement in affected or nearby communities, especially Mekaguda, Begarikancha, and surrounding villages. Expert participants were selected for their knowledge of land acquisition, water stress, power systems, labour, policy, digital infrastructure, journalism, and environmental governance.  Specific inclusion efforts included engaging people whose voices are often excluded from AI governance and digital infrastructure debates, including rural residents, farmers, women frontline workers, Anganwadi workers, ASHA workers, local community representatives, people affected by land acquisition, and members of communities experiencing livelihood and resource pressures. The interviews also included national and international expert perspectives to situate the local case within broader Indian and global debates on data centers and AI infrastructure.",
+          "was-there-a-specific-target-population": "The target population included community representatives, subject-matter experts, researchers, journalists and activists directly or indirectly engaged in advocating for community rights in the context of data center expansion, as well as people with relevant expertise on land governance, water resources, energy systems, labour, digital infrastructure, and environmental reporting.",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "commons-collective",
+        "data": {
+          "layout": "organisation",
+          "title": "Commons Collective",
+          "airtable_id": "4bfc826378749824",
+          "slug": "commons-collective",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://commonscollective.org/",
+          "name": "Commons Collective",
+          "main-location": [
+            "global"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "association-for-progressive-communications",
+        "data": {
+          "layout": "organisation",
+          "title": "Association for Progressive Communications",
+          "airtable_id": "df7980ab38381207",
+          "slug": "association-for-progressive-communications",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.apc.org/",
+          "name": "Association for Progressive Communications",
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ai-planetary-justice-alliance",
+        "data": {
+          "layout": "organisation",
+          "title": "AI + Planetary Justice Alliance",
+          "airtable_id": "f5aea90be7d6baab",
+          "slug": "ai-planetary-justice-alliance",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://aiplanetaryjustice.com/",
+          "name": "AI + Planetary Justice Alliance",
+          "main-location": [
+            "global"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "digital-empowerment-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Digital Empowerment Foundation",
+          "airtable_id": "4630c83c5c09b39c",
+          "slug": "digital-empowerment-foundation",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://defindia.org/",
+          "name": "Digital Empowerment Foundation",
+          "lead-organisation-for": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "main-location": [
+            "india"
+          ],
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi",
+        "data": {
+          "layout": "generic",
+          "title": "“If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”",
+          "airtable_id": "e14651499803931e",
+          "slug": "if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi",
+          "type": "Quote",
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "additional-credit-line": "Key findings",
+          "name": "“If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”",
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live",
+        "data": {
+          "layout": "generic",
+          "title": "Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”",
+          "airtable_id": "966ab9a92fb39207",
+          "slug": "local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live",
+          "type": "Quote",
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "additional-credit-line": "Key findings",
+          "name": "Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”",
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug",
+        "data": {
+          "layout": "generic",
+          "title": "AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”",
+          "airtable_id": "ca684d48cc0693d5",
+          "slug": "ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug",
+          "type": "Quote",
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "additional-credit-line": "Key findings",
+          "name": "AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”",
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+          ],
+          "layout": "generic",
+          "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-process",
+          "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities - Process",
+          "theme": [
+            "Environment",
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Focus group discussions",
+        "airtable_id": "e7c06c89edc34ab7",
+        "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus",
+        "locations": [
+          "mekaguda-rangareddy-district-telangana-india",
+          "begarikancha-rangareddy-district-telangana-india"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group",
+          "Capacity Building Workshop"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Focus group discussions",
+        "group-description": "Focus group discussions",
+        "additional-notes": "In Begarikancha, focus group discussions included farmers, Panchayati Raj Institution representatives, and diverse community stakeholders. In Mekaguda, focus group discussions included farmers, ASHA workers, panchayat representatives, and other community members. The study followed ethical research practices including informed consent, confidentiality, voluntary participation, and sensitivity to local power dynamics. It is also an important consideration that 'community' is not a monolith category.",
+        "how-many-people-took-part": 36,
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "recruitment-description": "Participants were selected based on their direct or indirect engagement with the impacts of data center expansion. The recruitment approach aimed to include diverse social positions and lived experiences, including farmers affected by land acquisition, local governance representatives, frontline health workers, agricultural workers, and people from different caste and social groups. Specific efforts at inclusion included engaging marginalised communities and ensuring participation from groups often excluded from AI and digital infrastructure governance discussions.",
+        "was-there-a-specific-target-population": "The target population was local communities directly or indirectly affected by data center expansion, including farmers, women, ASHA (frontline health volunteers) workers, Panchayati Raj representatives, local residents, and other community stakeholders.",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Semi-structured interviews",
+        "airtable_id": "c07b4e218f00406d",
+        "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-semi-structured-in",
+        "locations": [
+          "mekaguda-rangareddy-district-telangana-india",
+          "begarikancha-rangareddy-district-telangana-india",
+          "vavilakunta-telangana-india"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "Mekaguda, Rangareddy district, Telangana, India; Begarikancha, Rangareddy district, Telangana, India; Vavilakunta, Telangana, India; Telangana, India; India; EU, São Paulo, Brazil",
+        "which-of-the-following-methods-were-used-to": [
+          "Interviews"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Semi-structured interviews",
+        "group-description": "Semi-structured interviews",
+        "additional-notes": "The semi-structured interviews complemented the focus group discussions by providing deeper and more specialised perspectives on land acquisition, water and energy use, local livelihoods, employment expectations, environmental risks, policy incentives, and democratic participation. The interview group combined community knowledge with expert analysis, allowing the project to connect everyday experiences in affected villages with wider structural issues in India’s data center expansion and global AI infrastructure development. The report notes that the research followed ethical practices including informed consent, confidentiality, voluntary participation, and sensitivity to local power dynamics.",
+        "how-many-people-took-part": 14,
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "recruitment-description": "Participants were selected because of their direct lived experience of data center expansion or their specialised knowledge of the wider issues surrounding digital infrastructure. Local participants were identified through field-based engagement in affected or nearby communities, especially Mekaguda, Begarikancha, and surrounding villages. Expert participants were selected for their knowledge of land acquisition, water stress, power systems, labour, policy, digital infrastructure, journalism, and environmental governance.  Specific inclusion efforts included engaging people whose voices are often excluded from AI governance and digital infrastructure debates, including rural residents, farmers, women frontline workers, Anganwadi workers, ASHA workers, local community representatives, people affected by land acquisition, and members of communities experiencing livelihood and resource pressures. The interviews also included national and international expert perspectives to situate the local case within broader Indian and global debates on data centers and AI infrastructure.",
+        "was-there-a-specific-target-population": "The target population included community representatives, subject-matter experts, researchers, journalists and activists directly or indirectly engaged in advocating for community rights in the context of data center expansion, as well as people with relevant expertise on land governance, water resources, energy systems, labour, digital infrastructure, and environmental reporting.",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "layout": "generic",
+        "slug": "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-process",
+        "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities - Process",
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Commons Collective",
+        "airtable_id": "4bfc826378749824",
+        "slug": "commons-collective",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://commonscollective.org/",
+        "name": "Commons Collective",
+        "main-location": [
+          "global"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Association for Progressive Communications",
+        "airtable_id": "df7980ab38381207",
+        "slug": "association-for-progressive-communications",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.apc.org/",
+        "name": "Association for Progressive Communications",
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "AI + Planetary Justice Alliance",
+        "airtable_id": "f5aea90be7d6baab",
+        "slug": "ai-planetary-justice-alliance",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://aiplanetaryjustice.com/",
+        "name": "AI + Planetary Justice Alliance",
+        "main-location": [
+          "global"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Digital Empowerment Foundation",
+        "airtable_id": "4630c83c5c09b39c",
+        "slug": "digital-empowerment-foundation",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://defindia.org/",
+        "name": "Digital Empowerment Foundation",
+        "lead-organisation-for": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "main-location": [
+          "india"
+        ],
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "“If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”",
+        "airtable_id": "e14651499803931e",
+        "slug": "if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi",
+        "type": "Quote",
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "additional-credit-line": "Key findings",
+        "name": "“If data centers are treated as essential like milk or food, then in times of shortage, will they be given the same or even higher priority than basic needs of people?”",
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”",
+        "airtable_id": "966ab9a92fb39207",
+        "slug": "local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live",
+        "type": "Quote",
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "additional-credit-line": "Key findings",
+        "name": "Local farmers said AI infrastructure is not immaterial; it is experienced through land, water, and livelihood change. Farmers in Mekaguda linked data center expansion to an already changing agrarian economy, saying: “Now it is only cattle and dairy. Once [it] starts, there will be lot of usage. So, automatically, in the next 5 to 10 years, the water problem will be there. Anyways agriculture has reduced like 50%.”",
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”",
+        "airtable_id": "ca684d48cc0693d5",
+        "slug": "ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug",
+        "type": "Quote",
+        "cases": [
+          "just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities"
+        ],
+        "additional-credit-line": "Key findings",
+        "name": "AI governance cannot stop at algorithms. For people living near data centres, AI is experienced through land loss, water pressure, energy allocation, uncertain jobs, health fears, and lack of consent, not as an abstract “cloud.”",
+        "theme": [
+          "Environment",
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ]
+  }
+}

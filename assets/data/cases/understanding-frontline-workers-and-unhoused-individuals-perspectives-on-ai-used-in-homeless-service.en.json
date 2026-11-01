@@ -1,0 +1,613 @@
+{
+  "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services",
+    "airtable_id": "1f586a3ba2d55641",
+    "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+    "redirect_from": [
+      "/c/1f586a3ba2d55641/"
+    ],
+    "lead-organisations": [
+      "carnegie-mellon-university"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2022, Carnegie Mellon University co-created a process that used community-based participatory research and AI lifecycle comicboarding to involve approximately 21 social workers and unhoused people in participatory design sessions to evaluate a deployed AI-based decision-support system used in homeless services with the intended outcomes of shaping future AI tools, empowering impacted communities, and creating re-usable participation methods.\n\nRecent years have seen growing adoption of AI-based decision-support systems (ADS) in homeless services, yet we know little about stakeholder desires and concerns surrounding their use. In this work, we aim to understand impacted stakeholders’ perspectives on a deployed ADS that prioritizes scarce housing resources. We employed AI lifecycle comicboarding, an adapted version of the comicboarding method, to elicit stakeholder feedback and design ideas across various components of an AI system’s design. We elicited feedback from county workers who operate the ADS daily, service providers whose work is directly impacted by the ADS, and unhoused individuals in the region. Our participants shared concerns and design suggestions around the AI system’s overall objective, specific model design choices, dataset selection, and use in deployment. Our findings demonstrate that stakeholders, even without AI knowledge, can provide specific and critical feedback on an AI system’s design and deployment, if empowered to do so.\n",
+    "what-limitations-to-the-project-should-be-noted": "From the Authors' reflections in their academic article:\n\nIn this study, we used AI lifecycle comicboarding to solicit feedback and suggestions for design modifications to an AI system _after_ that system had already been deployed. While collecting post-deployment feedback is critical, as discussed in Section [5.1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-1), we also encourage using it early in the design process of a new AI system (e.g., conceptualization, prototyping, or pilot testing stages). Indeed, at later stages, once significant resources have been invested in an AI system’s development, there is a risk that system developers will be hesitant to implement broader changes such as those discussed in Section [5.2.1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-2-1) and Section [5.3.3](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-3-3), and may instead be biased towards more incremental changes that can be implemented with fewer resources. When using the method before a system is already in place, the final panel of each comicboard (e.g., Figure [1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#fig1) (e)) can be used to elicit feedback on _proposed_ designs. With this flexibility, our method is intended to empower participants not only to critique and redesign existing AI systems, but also to redirect the design processes of proposed systems at the earliest stages of the design process.\n\nIn the future, more formal and controlled evaluations of AI lifecycle comicboarding would help further understand its strengths and limitations in elicting specific feedback compared to standard interviews or alternative comicboarding approaches. We envision that our method could be adapted and used to elicit feedback from other stakeholder groups who experience intersectional social disadvantages, such as children and families subject to out-of-home placements and state intervention or individuals with intellectual/developmental or psychiatric disabilities. In future work, we also plan to develop a suite of toolkits based on the comicboards generated for this study, along with instructions on how to adapt and use them. We hope that releasing these toolkits will help HCI practitioners and developers of AI systems to better integrate the voices and perspectives of impacted stakeholders.\n",
+    "project-status": "Complete",
+    "headline-findings": "Participant N1: \"Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.\"\n\nParticipant P10: \"I think [the unhoused individuals] should be allowed to be involved because this is about them. They should be allowed to be heard. Not just the staff, not the county. They get to go home and sleep at night.\"\n\nParticipant N5: \"Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\"\n\nParticipant W3: \"What does it mean when something performs better. [...] Whose version of better is that?\"\n\nParticipant P2: \"There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\"\n\nParticipant N3: \"I don’t know how a computer considers whether a person will continue to experiencing homelessness if we don’t understand what brought him there in the first place. [...] I don’t think we have the right data. We’re looking at outcomes and not the causal effects of what resulted in that outcome.\"\n\nParticipant W1: \"My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\"\n\nParticipant N4: \"You shouldn’t just be worried about who’s in the waiting room. You should be worried about who’s not in the waiting room.\"\n\nParticipant P3: \"It’s weird that you got to prove that you’re homeless [to get housing]. Most people aren’t in the mental state to be able to prove anything in my experience.\"\n",
+    "participants": [
+      "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-1",
+      "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "messages": [
+      "most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members",
+      "mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them",
+      "my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage",
+      "theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data",
+      "what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that"
+    ],
+    "theme": [
+      "Public Services"
+    ],
+    "what-year-did-the-project-start": 2022,
+    "additional-acknowledgements": "Tzu-Sheng Kuo, Hong Shen, Jisoo Geum, Nev Jones, Jason I. Hong, Haiyi Zhu, Kenneth Holstein",
+    "inclusion-efforts": "Throughout the project, we collaborated with professionals who are experts in social work and have experience working with individuals with lived experience of homelessness. This collaborative effort ensured that our study methods, materials, and procedures were understandable, respectful, and engaging for participants of all backgrounds and experiences. For example, our comic boards break down the AI development lifecycle to elicit specific feedback on different components of an AI system’s design. Our comic boards also combine illustrations with brief, carefully crafted captions to increase accessibility to individuals with lower literacy. Meanwhile, we create a gender-neutral persona that allows participants to self-determine when to bring in their own lived experiences and when to distance themselves from the discussion subjects at hand. Last but not least, we conduct one-on-one sessions with participants, but share de-identified responses from prior study participants from other stakeholder groups, to facilitate asynchronous inter-group deliberation.\n",
+    "project-title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services",
+    "submitted-by": "Tzu-Sheng Kuo",
+    "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons:\n\n(a) The feedback elicitation method introduced in this project, called AI Lifecycle Comicboarding, is specifically designed to gather the unique perspectives of community stakeholders who may not have AI literacy, but who have lived experience in the specific context in which they live or work.\n\n(b) The project partners with local shelters to engage community stakeholders, especially individuals with lived experience of homelessness, to gather their critiques and feedback on the AI system used to allocate public housing, which directly impacts their lives.\n\n(c) The AI Lifecycle Comicboarding method is a novel approach that can effectively solicit targeted feedback at different stages of the AI development lifecycle, regardless of the participant’s background.\n\nOverall, this project demonstrates that community stakeholders can provide meaningful feedback and critique when appropriately empowered to do so.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Audit: Review design or implementation of AI tools",
+      "Empowerment: Build community power with respect to AI",
+      "Evaluate: Check the quality of evidence or engagement processes"
+    ],
+    "supporting-resources": [
+      "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The project introduces AI Lifecycle Comicboarding and uses it to gather stakeholder feedback on an AI-based decision-support system for allocating homeless services.",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2022,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://dl.acm.org/doi/10.1145/3544548.3580882",
+    "locations": [
+      "pittsburgh-pennsylvania-usa"
+    ],
+    "where-were-participants-from": [
+      "Pittsburgh"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+    "data": {
+      "layout": "case",
+      "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services",
+      "airtable_id": "1f586a3ba2d55641",
+      "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+      "redirect_from": [
+        "/c/1f586a3ba2d55641/"
+      ],
+      "lead-organisations": [
+        "carnegie-mellon-university"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2022, Carnegie Mellon University co-created a process that used community-based participatory research and AI lifecycle comicboarding to involve approximately 21 social workers and unhoused people in participatory design sessions to evaluate a deployed AI-based decision-support system used in homeless services with the intended outcomes of shaping future AI tools, empowering impacted communities, and creating re-usable participation methods.\n\nRecent years have seen growing adoption of AI-based decision-support systems (ADS) in homeless services, yet we know little about stakeholder desires and concerns surrounding their use. In this work, we aim to understand impacted stakeholders’ perspectives on a deployed ADS that prioritizes scarce housing resources. We employed AI lifecycle comicboarding, an adapted version of the comicboarding method, to elicit stakeholder feedback and design ideas across various components of an AI system’s design. We elicited feedback from county workers who operate the ADS daily, service providers whose work is directly impacted by the ADS, and unhoused individuals in the region. Our participants shared concerns and design suggestions around the AI system’s overall objective, specific model design choices, dataset selection, and use in deployment. Our findings demonstrate that stakeholders, even without AI knowledge, can provide specific and critical feedback on an AI system’s design and deployment, if empowered to do so.\n",
+      "what-limitations-to-the-project-should-be-noted": "From the Authors' reflections in their academic article:\n\nIn this study, we used AI lifecycle comicboarding to solicit feedback and suggestions for design modifications to an AI system _after_ that system had already been deployed. While collecting post-deployment feedback is critical, as discussed in Section [5.1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-1), we also encourage using it early in the design process of a new AI system (e.g., conceptualization, prototyping, or pilot testing stages). Indeed, at later stages, once significant resources have been invested in an AI system’s development, there is a risk that system developers will be hesitant to implement broader changes such as those discussed in Section [5.2.1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-2-1) and Section [5.3.3](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#sec-5-3-3), and may instead be biased towards more incremental changes that can be implemented with fewer resources. When using the method before a system is already in place, the final panel of each comicboard (e.g., Figure [1](https://dl.acm.org/doi/10.1145/3544548.3580882?__cf_chl_f_tk=Uy7iNwiEvg9nB64Rq.WK8SjfZnw_dURgpz1q_NRDX.8-1783080465-1.0.1.1-WLDayvweruRlEpMF72tM6kMya..XHKVTsDcU8DLlPAQ#fig1) (e)) can be used to elicit feedback on _proposed_ designs. With this flexibility, our method is intended to empower participants not only to critique and redesign existing AI systems, but also to redirect the design processes of proposed systems at the earliest stages of the design process.\n\nIn the future, more formal and controlled evaluations of AI lifecycle comicboarding would help further understand its strengths and limitations in elicting specific feedback compared to standard interviews or alternative comicboarding approaches. We envision that our method could be adapted and used to elicit feedback from other stakeholder groups who experience intersectional social disadvantages, such as children and families subject to out-of-home placements and state intervention or individuals with intellectual/developmental or psychiatric disabilities. In future work, we also plan to develop a suite of toolkits based on the comicboards generated for this study, along with instructions on how to adapt and use them. We hope that releasing these toolkits will help HCI practitioners and developers of AI systems to better integrate the voices and perspectives of impacted stakeholders.\n",
+      "project-status": "Complete",
+      "headline-findings": "Participant N1: \"Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.\"\n\nParticipant P10: \"I think [the unhoused individuals] should be allowed to be involved because this is about them. They should be allowed to be heard. Not just the staff, not the county. They get to go home and sleep at night.\"\n\nParticipant N5: \"Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\"\n\nParticipant W3: \"What does it mean when something performs better. [...] Whose version of better is that?\"\n\nParticipant P2: \"There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\"\n\nParticipant N3: \"I don’t know how a computer considers whether a person will continue to experiencing homelessness if we don’t understand what brought him there in the first place. [...] I don’t think we have the right data. We’re looking at outcomes and not the causal effects of what resulted in that outcome.\"\n\nParticipant W1: \"My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\"\n\nParticipant N4: \"You shouldn’t just be worried about who’s in the waiting room. You should be worried about who’s not in the waiting room.\"\n\nParticipant P3: \"It’s weird that you got to prove that you’re homeless [to get housing]. Most people aren’t in the mental state to be able to prove anything in my experience.\"\n",
+      "participants": [
+        "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-1",
+        "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "messages": [
+        "most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members",
+        "mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them",
+        "my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage",
+        "theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data",
+        "what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that"
+      ],
+      "theme": [
+        "Public Services"
+      ],
+      "what-year-did-the-project-start": 2022,
+      "additional-acknowledgements": "Tzu-Sheng Kuo, Hong Shen, Jisoo Geum, Nev Jones, Jason I. Hong, Haiyi Zhu, Kenneth Holstein",
+      "inclusion-efforts": "Throughout the project, we collaborated with professionals who are experts in social work and have experience working with individuals with lived experience of homelessness. This collaborative effort ensured that our study methods, materials, and procedures were understandable, respectful, and engaging for participants of all backgrounds and experiences. For example, our comic boards break down the AI development lifecycle to elicit specific feedback on different components of an AI system’s design. Our comic boards also combine illustrations with brief, carefully crafted captions to increase accessibility to individuals with lower literacy. Meanwhile, we create a gender-neutral persona that allows participants to self-determine when to bring in their own lived experiences and when to distance themselves from the discussion subjects at hand. Last but not least, we conduct one-on-one sessions with participants, but share de-identified responses from prior study participants from other stakeholder groups, to facilitate asynchronous inter-group deliberation.\n",
+      "project-title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services",
+      "submitted-by": "Tzu-Sheng Kuo",
+      "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons:\n\n(a) The feedback elicitation method introduced in this project, called AI Lifecycle Comicboarding, is specifically designed to gather the unique perspectives of community stakeholders who may not have AI literacy, but who have lived experience in the specific context in which they live or work.\n\n(b) The project partners with local shelters to engage community stakeholders, especially individuals with lived experience of homelessness, to gather their critiques and feedback on the AI system used to allocate public housing, which directly impacts their lives.\n\n(c) The AI Lifecycle Comicboarding method is a novel approach that can effectively solicit targeted feedback at different stages of the AI development lifecycle, regardless of the participant’s background.\n\nOverall, this project demonstrates that community stakeholders can provide meaningful feedback and critique when appropriately empowered to do so.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Audit: Review design or implementation of AI tools",
+        "Empowerment: Build community power with respect to AI",
+        "Evaluate: Check the quality of evidence or engagement processes"
+      ],
+      "supporting-resources": [
+        "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The project introduces AI Lifecycle Comicboarding and uses it to gather stakeholder feedback on an AI-based decision-support system for allocating homeless services.",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2022,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://dl.acm.org/doi/10.1145/3544548.3580882",
+      "locations": [
+        "pittsburgh-pennsylvania-usa"
+      ],
+      "where-were-participants-from": [
+        "Pittsburgh"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+        "data": {
+          "layout": "generic",
+          "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Frontline Social Workers",
+          "airtable_id": "9cf606b55d6932b5",
+          "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+          "locations": [
+            "pittsburgh-pennsylvania-usa"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Pittsburgh",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1.5,
+          "name": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Frontline Social Workers",
+          "group-description": "Frontline Social Workers",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 9,
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "recruitment-description": "Recruitment was conducted through local service providers and government agencies.",
+          "was-there-a-specific-target-population": "People with professional experience working with individuals who have lived experience of homelessness.",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-1",
+        "data": {
+          "layout": "generic",
+          "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Unhoused Individuals",
+          "airtable_id": "a10c69a3ccecbad3",
+          "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-1",
+          "locations": [
+            "pittsburgh-pennsylvania-usa"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Pittsburgh",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1.5,
+          "name": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Unhoused Individuals",
+          "group-description": "Unhoused Individuals",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 12,
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "recruitment-description": "Participants were recruited through local shelters.",
+          "was-there-a-specific-target-population": "People with lived experiences of homelessness",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "carnegie-mellon-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Carnegie Mellon University",
+          "airtable_id": "eff41d061d008bf7",
+          "slug": "carnegie-mellon-university",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.cmu.edu/",
+          "name": "Carnegie Mellon University",
+          "lead-organisation-for": [
+            "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+            "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+          ],
+          "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+          "main-location": [
+            "pittsburgh-pennsylvania-usa"
+          ],
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage",
+        "data": {
+          "layout": "generic",
+          "title": "My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\n\n",
+          "airtable_id": "f84be292b002a3af",
+          "slug": "my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage",
+          "type": "Quote",
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "additional-credit-line": "Participant W1",
+          "name": "My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\n\n",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that",
+        "data": {
+          "layout": "generic",
+          "title": "What does it mean when something performs better. [...] Whose version of better is that?\n\n",
+          "airtable_id": "21c25dbbeff2ac65",
+          "slug": "what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that",
+          "type": "Quote",
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "additional-credit-line": "Participant W3",
+          "name": "What does it mean when something performs better. [...] Whose version of better is that?\n\n",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them",
+        "data": {
+          "layout": "generic",
+          "title": "Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\n\n",
+          "airtable_id": "deabb5a8ee36e8ed",
+          "slug": "mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them",
+          "type": "Quote",
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "additional-credit-line": "Participant N5",
+          "name": "Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\n\n",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members",
+        "data": {
+          "layout": "generic",
+          "title": "Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.",
+          "airtable_id": "b49417e780cad349",
+          "slug": "most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members",
+          "type": "Quote",
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "additional-credit-line": "Participant N1",
+          "name": "Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data",
+        "data": {
+          "layout": "generic",
+          "title": "There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\n\n",
+          "airtable_id": "984a23b64593c77d",
+          "slug": "theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data",
+          "type": "Quote",
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "additional-credit-line": "Participant P2",
+          "name": "There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\n\n",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+          ],
+          "layout": "generic",
+          "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-process",
+          "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services - Process",
+          "theme": [
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Frontline Social Workers",
+        "airtable_id": "9cf606b55d6932b5",
+        "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+        "locations": [
+          "pittsburgh-pennsylvania-usa"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Pittsburgh",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1.5,
+        "name": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Frontline Social Workers",
+        "group-description": "Frontline Social Workers",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 9,
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "recruitment-description": "Recruitment was conducted through local service providers and government agencies.",
+        "was-there-a-specific-target-population": "People with professional experience working with individuals who have lived experience of homelessness.",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Unhoused Individuals",
+        "airtable_id": "a10c69a3ccecbad3",
+        "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-1",
+        "locations": [
+          "pittsburgh-pennsylvania-usa"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Pittsburgh",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1.5,
+        "name": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Unhoused Individuals",
+        "group-description": "Unhoused Individuals",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 12,
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "recruitment-description": "Participants were recruited through local shelters.",
+        "was-there-a-specific-target-population": "People with lived experiences of homelessness",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "layout": "generic",
+        "slug": "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service-process",
+        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services - Process",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Carnegie Mellon University",
+        "airtable_id": "eff41d061d008bf7",
+        "slug": "carnegie-mellon-university",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.cmu.edu/",
+        "name": "Carnegie Mellon University",
+        "lead-organisation-for": [
+          "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+          "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+        ],
+        "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+        "main-location": [
+          "pittsburgh-pennsylvania-usa"
+        ],
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\n\n",
+        "airtable_id": "f84be292b002a3af",
+        "slug": "my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage",
+        "type": "Quote",
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "additional-credit-line": "Participant W1",
+        "name": "My supervisor always says, [the model developers] tell him don’t ask what’s in the sausage.\n\n",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "What does it mean when something performs better. [...] Whose version of better is that?\n\n",
+        "airtable_id": "21c25dbbeff2ac65",
+        "slug": "what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that",
+        "type": "Quote",
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "additional-credit-line": "Participant W3",
+        "name": "What does it mean when something performs better. [...] Whose version of better is that?\n\n",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\n\n",
+        "airtable_id": "deabb5a8ee36e8ed",
+        "slug": "mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them",
+        "type": "Quote",
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "additional-credit-line": "Participant N5",
+        "name": "Mental health inpatient and all of these things have significant financial tags associated with them when a person experiencing homelessness.[...] It’s possible that these are the best proxies that exist, but it looks like we’re measuring more financial cost to systems that have power, than we are measuring actual harms to actual people.\n\n",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.",
+        "airtable_id": "b49417e780cad349",
+        "slug": "most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members",
+        "type": "Quote",
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "additional-credit-line": "Participant N1",
+        "name": "Most times people that do the kind of outreach work, where they’re face-to-face with community members and doing the hardest lift, they’re the least sought out as far as like research is concerned, and that should be the exact opposite.",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\n\n",
+        "airtable_id": "984a23b64593c77d",
+        "slug": "theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data",
+        "type": "Quote",
+        "cases": [
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service"
+        ],
+        "additional-credit-line": "Participant P2",
+        "name": "There’s just no way for a computer to accurately predict somebody’s future based on that limited data. [...] If a person is alone, scared, and suffering from fears of institutions, a computer doesn’t know that.\n\n",
+        "theme": [
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ]
+  }
+}

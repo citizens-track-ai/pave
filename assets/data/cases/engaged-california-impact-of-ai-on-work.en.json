@@ -1,0 +1,304 @@
+{
+  "slug": "engaged-california-impact-of-ai-on-work",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Engaged California: Impact of AI on Work",
+    "airtable_id": "20b61c49bbc6cb1a",
+    "slug": "engaged-california-impact-of-ai-on-work",
+    "redirect_from": [
+      "/c/20b61c49bbc6cb1a/"
+    ],
+    "lead-organisations": [
+      "office-of-the-governor-in-california"
+    ],
+    "provide-a-brief-description-of-the-project": "In May 2026 the Office of the Governor in California launched a statewide public engagement on the Economic and Labor Impacts of AI through the Engaged California platform. \n\nThe project used the GoVocal online engagement platform to solicit initial input, and has described plans to invite selected participants to discussions on Zoom for further engagement.\n\nA report is due later in 2026.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "engaged-california-impact-of-ai-on-work-govocal-online-engagement",
+      "engaged-california-impact-of-ai-on-work"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Work"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "funding-organisations": [
+      "office-of-the-governor-in-california"
+    ],
+    "inclusion-efforts": "\n",
+    "project-title": "Engaged California: Impact of AI on Work",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "California plays a strategically important role in shaping AI governance.\n\nBeth Noveck reports this is the first case of open (rather that invite based) recruitment engagement through the Engaged California platform. \n\nhttps://www.linkedin.com/posts/bethnoveck_citizen-engagement-platform-activity-7459527877215080449-Fi0x",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "linked-in-announcements"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How could AI could affect the job market and how you do your work?",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "Community",
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://join.engaged.ca.gov/en/projects/ai-impact",
+    "locations": [
+      "stanford-california-usa"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "engaged-california-impact-of-ai-on-work",
+    "data": {
+      "layout": "case",
+      "title": "Engaged California: Impact of AI on Work",
+      "airtable_id": "20b61c49bbc6cb1a",
+      "slug": "engaged-california-impact-of-ai-on-work",
+      "redirect_from": [
+        "/c/20b61c49bbc6cb1a/"
+      ],
+      "lead-organisations": [
+        "office-of-the-governor-in-california"
+      ],
+      "provide-a-brief-description-of-the-project": "In May 2026 the Office of the Governor in California launched a statewide public engagement on the Economic and Labor Impacts of AI through the Engaged California platform. \n\nThe project used the GoVocal online engagement platform to solicit initial input, and has described plans to invite selected participants to discussions on Zoom for further engagement.\n\nA report is due later in 2026.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "engaged-california-impact-of-ai-on-work-govocal-online-engagement",
+        "engaged-california-impact-of-ai-on-work"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Work"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "funding-organisations": [
+        "office-of-the-governor-in-california"
+      ],
+      "inclusion-efforts": "\n",
+      "project-title": "Engaged California: Impact of AI on Work",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "California plays a strategically important role in shaping AI governance.\n\nBeth Noveck reports this is the first case of open (rather that invite based) recruitment engagement through the Engaged California platform. \n\nhttps://www.linkedin.com/posts/bethnoveck_citizen-engagement-platform-activity-7459527877215080449-Fi0x",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "linked-in-announcements"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How could AI could affect the job market and how you do your work?",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "Community",
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://join.engaged.ca.gov/en/projects/ai-impact",
+      "locations": [
+        "stanford-california-usa"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "engaged-california-impact-of-ai-on-work-govocal-online-engagement",
+        "data": {
+          "layout": "generic",
+          "title": "Engaged California: Impact of AI on Work-GoVocal Online Engagement",
+          "airtable_id": "9dc7cacbfaf820f8",
+          "slug": "engaged-california-impact-of-ai-on-work-govocal-online-engagement",
+          "locations": [
+            "stanford-california-usa"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Crowdsourcing"
+          ],
+          "name": "Engaged California: Impact of AI on Work-GoVocal Online Engagement",
+          "group-description": "GoVocal Online Engagement",
+          "cases": [
+            "engaged-california-impact-of-ai-on-work"
+          ],
+          "recruitment-description": "The call for input was promoted through government communication channels",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "engaged-california-impact-of-ai-on-work",
+        "data": {
+          "layout": "generic",
+          "title": "Engaged California: Impact of AI on Work-",
+          "airtable_id": "b7a94d684d3c9f18",
+          "slug": "engaged-california-impact-of-ai-on-work",
+          "name": "Engaged California: Impact of AI on Work-",
+          "cases": [
+            "engaged-california-impact-of-ai-on-work"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "office-of-the-governor-in-california",
+        "data": {
+          "layout": "organisation",
+          "title": "Office of the Governor in California",
+          "airtable_id": "60018a0febcf8642",
+          "slug": "office-of-the-governor-in-california",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "name": "Office of the Governor in California",
+          "lead-organisation-for": [
+            "engaged-california-impact-of-ai-on-work"
+          ],
+          "funding-organisation-for": [
+            "engaged-california-impact-of-ai-on-work"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "engaged-california-impact-of-ai-on-work"
+          ],
+          "layout": "generic",
+          "slug": "engaged-california-impact-of-ai-on-work-process",
+          "title": "Engaged California: Impact of AI on Work - Process",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Engaged California: Impact of AI on Work-GoVocal Online Engagement",
+        "airtable_id": "9dc7cacbfaf820f8",
+        "slug": "engaged-california-impact-of-ai-on-work-govocal-online-engagement",
+        "locations": [
+          "stanford-california-usa"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Crowdsourcing"
+        ],
+        "name": "Engaged California: Impact of AI on Work-GoVocal Online Engagement",
+        "group-description": "GoVocal Online Engagement",
+        "cases": [
+          "engaged-california-impact-of-ai-on-work"
+        ],
+        "recruitment-description": "The call for input was promoted through government communication channels",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Engaged California: Impact of AI on Work-",
+        "airtable_id": "b7a94d684d3c9f18",
+        "slug": "engaged-california-impact-of-ai-on-work",
+        "name": "Engaged California: Impact of AI on Work-",
+        "cases": [
+          "engaged-california-impact-of-ai-on-work"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "engaged-california-impact-of-ai-on-work"
+        ],
+        "layout": "generic",
+        "slug": "engaged-california-impact-of-ai-on-work-process",
+        "title": "Engaged California: Impact of AI on Work - Process",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Office of the Governor in California",
+        "airtable_id": "60018a0febcf8642",
+        "slug": "office-of-the-governor-in-california",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "name": "Office of the Governor in California",
+        "lead-organisation-for": [
+          "engaged-california-impact-of-ai-on-work"
+        ],
+        "funding-organisation-for": [
+          "engaged-california-impact-of-ai-on-work"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

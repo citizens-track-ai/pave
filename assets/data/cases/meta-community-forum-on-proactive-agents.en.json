@@ -1,0 +1,416 @@
+{
+  "slug": "meta-community-forum-on-proactive-agents",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Meta Community Forum on Proactive Agents",
+    "airtable_id": "aa893b222f977a3b",
+    "slug": "meta-community-forum-on-proactive-agents",
+    "redirect_from": [
+      "/c/aa893b222f977a3b/"
+    ],
+    "lead-organisations": [
+      "meta",
+      "stanford-deliberative-democracy-lab"
+    ],
+    "provide-a-brief-description-of-the-project": "The project report describes the Community Forum format used for this, the third Meta Community Forum: \n\n\"The design for the deliberations followed the Deliberative Polling® model under the guidance of the Stanford Deliberative Democracy Lab. A distinguished Advisory Committee vetted the briefing materials for the deliberations and provided many of the experts for the plenary sessions. The process alternated small group discussions and plenary sessions where experts would answer questions agreed on in the small groups. The agenda was a series of 19 policy proposals focused on how users would want to interact with AI agents. The policy proposals were presented with background materials and with pros and cons posing trade-offs that the participants might want to consider. Video versions of the briefing materials were also provided during the event. \n\nThe small group discussions were conducted on the Stanford Online Deliberation Platform which moderated the video based discussions, controlled the queue for talking, nudged those who had not volunteered to talk, intervened if there was incivility, and moved the group through the agenda of policy proposals and their pros and cons. Near the end of each discussion, it also guided the groups in formulating key questions that they wished to pose to the panels of competing experts in the plenary sessions. \n\n...\nThe core issue posed for deliberation was ‘how should AI agents provide proactive, personalized experiences for users?’ and ‘how should AI agents and users interact?’. To what extent should AI agents offer a one-size-fits-all experience based on global norms, or tailor their responses to each user’s unique background and situation? Furthermore, as AI agents mimic human interactions more convincingly, we face the challenge of defining how human-like they should be.\n\nThis involves determining the appropriate level of transparency about their artificial nature, and identifying which aspects of human interaction are unsuitable for them to replicate. While some technologies allow for personalization of AI agents, these new capabilities raise challenges for how users balance the tradeoffs between consent, transparency, and interactions with AI agents. These are novel issues, and they amount to the beginnings of a social contract for how people engage with AI agents.\"\n",
+    "project-status": "Complete",
+    "participants": [
+      "meta-community-forum-on-proactive-agents-community-forum-participants"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "meta"
+    ],
+    "project-title": "Meta Community Forum on Proactive Agents",
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "meta-community-forum-results-analysis"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How should AI agents interact with users to provide proactive, personalized experiences?",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "stanford-deliberative-democracy-lab"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://fsi.stanford.edu/publication/meta-community-forum-results-analysis-april-2025",
+    "locations": [
+      "india",
+      "nigeria",
+      "saudi-arabia",
+      "south-africa",
+      "turkey"
+    ],
+    "where-were-participants-from": [
+      "India, Nigeria, Saudi Arabia, South Africa, and Turkey."
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "meta-community-forum-on-proactive-agents",
+    "data": {
+      "layout": "case",
+      "title": "Meta Community Forum on Proactive Agents",
+      "airtable_id": "aa893b222f977a3b",
+      "slug": "meta-community-forum-on-proactive-agents",
+      "redirect_from": [
+        "/c/aa893b222f977a3b/"
+      ],
+      "lead-organisations": [
+        "meta",
+        "stanford-deliberative-democracy-lab"
+      ],
+      "provide-a-brief-description-of-the-project": "The project report describes the Community Forum format used for this, the third Meta Community Forum: \n\n\"The design for the deliberations followed the Deliberative Polling® model under the guidance of the Stanford Deliberative Democracy Lab. A distinguished Advisory Committee vetted the briefing materials for the deliberations and provided many of the experts for the plenary sessions. The process alternated small group discussions and plenary sessions where experts would answer questions agreed on in the small groups. The agenda was a series of 19 policy proposals focused on how users would want to interact with AI agents. The policy proposals were presented with background materials and with pros and cons posing trade-offs that the participants might want to consider. Video versions of the briefing materials were also provided during the event. \n\nThe small group discussions were conducted on the Stanford Online Deliberation Platform which moderated the video based discussions, controlled the queue for talking, nudged those who had not volunteered to talk, intervened if there was incivility, and moved the group through the agenda of policy proposals and their pros and cons. Near the end of each discussion, it also guided the groups in formulating key questions that they wished to pose to the panels of competing experts in the plenary sessions. \n\n...\nThe core issue posed for deliberation was ‘how should AI agents provide proactive, personalized experiences for users?’ and ‘how should AI agents and users interact?’. To what extent should AI agents offer a one-size-fits-all experience based on global norms, or tailor their responses to each user’s unique background and situation? Furthermore, as AI agents mimic human interactions more convincingly, we face the challenge of defining how human-like they should be.\n\nThis involves determining the appropriate level of transparency about their artificial nature, and identifying which aspects of human interaction are unsuitable for them to replicate. While some technologies allow for personalization of AI agents, these new capabilities raise challenges for how users balance the tradeoffs between consent, transparency, and interactions with AI agents. These are novel issues, and they amount to the beginnings of a social contract for how people engage with AI agents.\"\n",
+      "project-status": "Complete",
+      "participants": [
+        "meta-community-forum-on-proactive-agents-community-forum-participants"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "meta"
+      ],
+      "project-title": "Meta Community Forum on Proactive Agents",
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "meta-community-forum-results-analysis"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How should AI agents interact with users to provide proactive, personalized experiences?",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "stanford-deliberative-democracy-lab"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://fsi.stanford.edu/publication/meta-community-forum-results-analysis-april-2025",
+      "locations": [
+        "india",
+        "nigeria",
+        "saudi-arabia",
+        "south-africa",
+        "turkey"
+      ],
+      "where-were-participants-from": [
+        "India, Nigeria, Saudi Arabia, South Africa, and Turkey."
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "meta-community-forum-on-proactive-agents-community-forum-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Meta Community Forum on Proactive Agents-Community Forum Participants",
+          "airtable_id": "ad7fa62467e96ef5",
+          "slug": "meta-community-forum-on-proactive-agents-community-forum-participants",
+          "locations": [
+            "india",
+            "nigeria",
+            "saudi-arabia",
+            "south-africa",
+            "turkey"
+          ],
+          "recruitment-method": "Statistical sample",
+          "where-were-participants-from": "India, Nigeria, Saudi Arabia, South Africa, and Turkey.",
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "Meta Community Forum on Proactive Agents-Community Forum Participants",
+          "group-description": "Community Forum Participants",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "A separate control group of an additional 1033 people completed the deliberative polling surveys but did not participate in any deliberation. ",
+          "how-many-people-took-part": 887,
+          "cases": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "recruitment-description": "The polling firms, YouGov and Random Dynamic Resources, were commissioned to recruit nationally representative samples of the general public (18+) in India, Nigeria, Saudi Arabia, South Africa, and Turkey.",
+          "was-there-a-specific-target-population": "Nationally representative sample",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "stanford-deliberative-democracy-lab",
+        "data": {
+          "layout": "organisation",
+          "title": "Stanford Deliberative Democracy Lab",
+          "airtable_id": "c20847a8aab77571",
+          "slug": "stanford-deliberative-democracy-lab",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "norwegian-public-sector-ai-deliberative-poll",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://ddl.stanford.edu/",
+          "name": "Stanford Deliberative Democracy Lab",
+          "lead-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "nationwide-deliberation-on-use-of-ai-in-high-schools",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "meta",
+        "data": {
+          "layout": "organisation",
+          "title": "Meta",
+          "airtable_id": "531dbb6ab36b8d39",
+          "slug": "meta",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "meta-community-forum-on-ai-wearables"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://about.meta.com/",
+          "name": "Meta",
+          "lead-organisation-for": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "funding-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "meta-community-forum-on-proactive-agents",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "layout": "generic",
+          "slug": "meta-community-forum-on-proactive-agents-process",
+          "title": "Meta Community Forum on Proactive Agents - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Meta Community Forum on Proactive Agents-Community Forum Participants",
+        "airtable_id": "ad7fa62467e96ef5",
+        "slug": "meta-community-forum-on-proactive-agents-community-forum-participants",
+        "locations": [
+          "india",
+          "nigeria",
+          "saudi-arabia",
+          "south-africa",
+          "turkey"
+        ],
+        "recruitment-method": "Statistical sample",
+        "where-were-participants-from": "India, Nigeria, Saudi Arabia, South Africa, and Turkey.",
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "Meta Community Forum on Proactive Agents-Community Forum Participants",
+        "group-description": "Community Forum Participants",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "A separate control group of an additional 1033 people completed the deliberative polling surveys but did not participate in any deliberation. ",
+        "how-many-people-took-part": 887,
+        "cases": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "recruitment-description": "The polling firms, YouGov and Random Dynamic Resources, were commissioned to recruit nationally representative samples of the general public (18+) in India, Nigeria, Saudi Arabia, South Africa, and Turkey.",
+        "was-there-a-specific-target-population": "Nationally representative sample",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "layout": "generic",
+        "slug": "meta-community-forum-on-proactive-agents-process",
+        "title": "Meta Community Forum on Proactive Agents - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Stanford Deliberative Democracy Lab",
+        "airtable_id": "c20847a8aab77571",
+        "slug": "stanford-deliberative-democracy-lab",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "norwegian-public-sector-ai-deliberative-poll",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://ddl.stanford.edu/",
+        "name": "Stanford Deliberative Democracy Lab",
+        "lead-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "nationwide-deliberation-on-use-of-ai-in-high-schools",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Meta",
+        "airtable_id": "531dbb6ab36b8d39",
+        "slug": "meta",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "meta-community-forum-on-ai-wearables"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://about.meta.com/",
+        "name": "Meta",
+        "lead-organisation-for": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "funding-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "meta-community-forum-on-proactive-agents",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

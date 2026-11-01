@@ -1,0 +1,607 @@
+{
+  "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
+    "airtable_id": "47ea2b35874735f0",
+    "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+    "redirect_from": [
+      "/c/47ea2b35874735f0/"
+    ],
+    "lead-organisations": [
+      "carnegie-mellon-university"
+    ],
+    "provide-a-brief-description-of-the-project": "To address the top-down nature of AI policy design, researchers at Carnegie Mellon University developed and tested \"PolicyCraft,\" an online system that scaffolds collaborative policy-making through case-grounded deliberation. During a 2024 field study, 68 university students used the platform asynchronously to propose, critique, and vote on course policies for generative AI, demonstrating how structured, case-based discussion can help communities reach greater consensus.\n\nCommunity and organizational AI policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this project, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. \n\nBuilding on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases.\n",
+    "what-limitations-to-the-project-should-be-noted": "The field study is currently being conducted at a university, where students collaboratively design course policies on the responsible use of AI. Conducting a broader field study in real-world settings would be beneficial for further demonstrating the system's effectiveness.\n\nFrom the author's academic article:\n> PolicyCraft is designed to support policy design across a broad range of community contexts. While the current study focuses on supporting students in collaboratively designing course policies on the use of generative AI, we envision its application in online communities like subreddits to develop content moderation policies [[39](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0039)], or in local communities such as vTaiwan to refine regulations for emerging technologies [[33](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0033)]. Still, some implementations of PolicyCraft will require careful adaptation to align with specific communities’ norms. For example, to encourage policy iteration while holding participants accountable for their edits, the current implementation of PolicyCraft adopts Wikipedia’s approach by allowing all participants to edit policies while maintaining a transparent edit history [[46](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0046)]. While this approach has shown to be effective in supporting coordination and preventing vandalism in peer production [[20](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0020), [84](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0084)] and the current study, a more robust moderation strategy may be required when applying PolicyCraft in different contexts. Future research should investigate which aspects of PolicyCraft’s current design need to be adapted for use by other communities and identify which findings from the current study are most transferable across diverse contexts.\n\n",
+    "project-status": "Complete",
+    "headline-findings": "Policies developed through PolicyCraft received stronger support.\n\nPolicies developed through PolicyCraft achieved greater consensus during voting.\n\nParticipants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.\n",
+    "participants": [
+      "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "messages": [
+      "policies-developed-through-policycraft-received-stronger-support",
+      "policies-developed-through-policycraft-achieved-greater-consensus-during-voting",
+      "participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with"
+    ],
+    "theme": [
+      "Artificial Intelligence",
+      "Education"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence",
+      "cmus-block-center-for-technology-and-society",
+      "metagovs-grant-for-interoperable-deliberative-tools"
+    ],
+    "additional-acknowledgements": "Tzu-Sheng Kuo, Quan Ze Chen, Amy X. Zhang, Jane Hsieh, Haiyi Zhu, Kenneth Holstein",
+    "inclusion-efforts": "The system is accessible online anytime and anywhere, allowing participants to collaborate on policy design asynchronously from locations of their choice.\n",
+    "project-title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
+    "submitted-by": "Tzu-Sheng Kuo",
+    "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons:\n\n(a) The system introduced in this project, called PolicyCraft, is specifically designed to surface diverse viewpoints regarding the wording of policies or the fundamental differences in perspectives on how specific cases impacted by those policies should be handled. The system further facilitates deliberation on these viewpoints to help establish consensus based on concrete cases.\n\n(b) The system is intended to empower a bottom-up, collaborative approach to policy design, in contrast to the more common top-down, centralized methods.\n\n(c) The system introduces the unique mechanism of \"case-grounded deliberation\" to support effective policy discussion. The project has been cited by the European Parliament's Policy Department for Justice, Civil Liberties, and Institutional Affairs in their examination of the use of technology to monitor the application of EU law: \n\nhttps://www.europarl.europa.eu/RegData/etudes/STUD/2025/777915/IUST_STU(2025)777915_EN.pdf\n\nOverall, this project presents a system that is highly valuable for collaborative approaches to AI governance and to the broader field of public policy design.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Audit: Review design or implementation of AI tools",
+      "Empowerment: Build community power with respect to AI",
+      "Evaluate: Check the quality of evidence or engagement processes"
+    ],
+    "supporting-resources": [
+      "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The project introduces PolicyCraft, a system that enables collaborative and participatory design of AI governance policy through case-grounded deliberation.",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://doi.org/10.1145/3706598.3713865",
+    "locations": [
+      "united-states"
+    ],
+    "where-were-participants-from": [
+      "universities in the U.S."
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+    "data": {
+      "layout": "case",
+      "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
+      "airtable_id": "47ea2b35874735f0",
+      "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+      "redirect_from": [
+        "/c/47ea2b35874735f0/"
+      ],
+      "lead-organisations": [
+        "carnegie-mellon-university"
+      ],
+      "provide-a-brief-description-of-the-project": "To address the top-down nature of AI policy design, researchers at Carnegie Mellon University developed and tested \"PolicyCraft,\" an online system that scaffolds collaborative policy-making through case-grounded deliberation. During a 2024 field study, 68 university students used the platform asynchronously to propose, critique, and vote on course policies for generative AI, demonstrating how structured, case-based discussion can help communities reach greater consensus.\n\nCommunity and organizational AI policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this project, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. \n\nBuilding on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases.\n",
+      "what-limitations-to-the-project-should-be-noted": "The field study is currently being conducted at a university, where students collaboratively design course policies on the responsible use of AI. Conducting a broader field study in real-world settings would be beneficial for further demonstrating the system's effectiveness.\n\nFrom the author's academic article:\n> PolicyCraft is designed to support policy design across a broad range of community contexts. While the current study focuses on supporting students in collaboratively designing course policies on the use of generative AI, we envision its application in online communities like subreddits to develop content moderation policies [[39](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0039)], or in local communities such as vTaiwan to refine regulations for emerging technologies [[33](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0033)]. Still, some implementations of PolicyCraft will require careful adaptation to align with specific communities’ norms. For example, to encourage policy iteration while holding participants accountable for their edits, the current implementation of PolicyCraft adopts Wikipedia’s approach by allowing all participants to edit policies while maintaining a transparent edit history [[46](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0046)]. While this approach has shown to be effective in supporting coordination and preventing vandalism in peer production [[20](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0020), [84](https://dl.acm.org/doi/10.1145/3706598.3713865#Bib0084)] and the current study, a more robust moderation strategy may be required when applying PolicyCraft in different contexts. Future research should investigate which aspects of PolicyCraft’s current design need to be adapted for use by other communities and identify which findings from the current study are most transferable across diverse contexts.\n\n",
+      "project-status": "Complete",
+      "headline-findings": "Policies developed through PolicyCraft received stronger support.\n\nPolicies developed through PolicyCraft achieved greater consensus during voting.\n\nParticipants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.\n",
+      "participants": [
+        "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "messages": [
+        "policies-developed-through-policycraft-received-stronger-support",
+        "policies-developed-through-policycraft-achieved-greater-consensus-during-voting",
+        "participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with"
+      ],
+      "theme": [
+        "Artificial Intelligence",
+        "Education"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence",
+        "cmus-block-center-for-technology-and-society",
+        "metagovs-grant-for-interoperable-deliberative-tools"
+      ],
+      "additional-acknowledgements": "Tzu-Sheng Kuo, Quan Ze Chen, Amy X. Zhang, Jane Hsieh, Haiyi Zhu, Kenneth Holstein",
+      "inclusion-efforts": "The system is accessible online anytime and anywhere, allowing participants to collaborate on policy design asynchronously from locations of their choice.\n",
+      "project-title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation",
+      "submitted-by": "Tzu-Sheng Kuo",
+      "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons:\n\n(a) The system introduced in this project, called PolicyCraft, is specifically designed to surface diverse viewpoints regarding the wording of policies or the fundamental differences in perspectives on how specific cases impacted by those policies should be handled. The system further facilitates deliberation on these viewpoints to help establish consensus based on concrete cases.\n\n(b) The system is intended to empower a bottom-up, collaborative approach to policy design, in contrast to the more common top-down, centralized methods.\n\n(c) The system introduces the unique mechanism of \"case-grounded deliberation\" to support effective policy discussion. The project has been cited by the European Parliament's Policy Department for Justice, Civil Liberties, and Institutional Affairs in their examination of the use of technology to monitor the application of EU law: \n\nhttps://www.europarl.europa.eu/RegData/etudes/STUD/2025/777915/IUST_STU(2025)777915_EN.pdf\n\nOverall, this project presents a system that is highly valuable for collaborative approaches to AI governance and to the broader field of public policy design.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Audit: Review design or implementation of AI tools",
+        "Empowerment: Build community power with respect to AI",
+        "Evaluate: Check the quality of evidence or engagement processes"
+      ],
+      "supporting-resources": [
+        "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The project introduces PolicyCraft, a system that enables collaborative and participatory design of AI governance policy through case-grounded deliberation.",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://doi.org/10.1145/3706598.3713865",
+      "locations": [
+        "united-states"
+      ],
+      "where-were-participants-from": [
+        "universities in the U.S."
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+        "data": {
+          "layout": "generic",
+          "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation-University Students",
+          "airtable_id": "55fab9f91287ca2d",
+          "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+          "locations": [
+            "united-states"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "universities in the U.S.",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research"
+          ],
+          "on-average-how-many-hours-did-each-participant": 72,
+          "name": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation-University Students",
+          "group-description": "University Students",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 68,
+          "cases": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "recruitment-description": "We collaborate with university instructors who are interested in and willing to empower their students to draft AI course policies, rather than making such decisions solely on their own.",
+          "was-there-a-specific-target-population": "students from participating classes",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "metagovs-grant-for-interoperable-deliberative-tools",
+        "data": {
+          "layout": "organisation",
+          "title": "Metagov’s Grant for Interoperable Deliberative Tools",
+          "airtable_id": "3b7966ece2b2812d",
+          "slug": "metagovs-grant-for-interoperable-deliberative-tools",
+          "role": [
+            "Funder"
+          ],
+          "name": "Metagov’s Grant for Interoperable Deliberative Tools",
+          "funding-organisation-for": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cmus-block-center-for-technology-and-society",
+        "data": {
+          "layout": "organisation",
+          "title": "CMU’s Block Center for Technology and Society",
+          "airtable_id": "b97d02b0e8bffb08",
+          "slug": "cmus-block-center-for-technology-and-society",
+          "role": [
+            "Funder"
+          ],
+          "name": "CMU’s Block Center for Technology and Society",
+          "funding-organisation-for": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "carnegie-mellon-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Carnegie Mellon University",
+          "airtable_id": "eff41d061d008bf7",
+          "slug": "carnegie-mellon-university",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.cmu.edu/",
+          "name": "Carnegie Mellon University",
+          "lead-organisation-for": [
+            "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+            "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+          ],
+          "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+          "main-location": [
+            "pittsburgh-pennsylvania-usa"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence",
+        "data": {
+          "layout": "organisation",
+          "title": "UL Research Institutes through the Center for Advancing Safety of Machine Intelligence",
+          "airtable_id": "4b9c02041398017b",
+          "slug": "ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence",
+          "role": [
+            "Funder"
+          ],
+          "name": "UL Research Institutes through the Center for Advancing Safety of Machine Intelligence",
+          "funding-organisation-for": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "policies-developed-through-policycraft-achieved-greater-consensus-during-voting",
+        "data": {
+          "layout": "generic",
+          "title": "Policies developed through PolicyCraft achieved greater consensus during voting.",
+          "airtable_id": "b115d4ff2849e30b",
+          "slug": "policies-developed-through-policycraft-achieved-greater-consensus-during-voting",
+          "type": "Issue",
+          "cases": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "name": "Policies developed through PolicyCraft achieved greater consensus during voting.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "policies-developed-through-policycraft-received-stronger-support",
+        "data": {
+          "layout": "generic",
+          "title": "Policies developed through PolicyCraft received stronger support.",
+          "airtable_id": "de34eec943ece947",
+          "slug": "policies-developed-through-policycraft-received-stronger-support",
+          "type": "Issue",
+          "cases": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "name": "Policies developed through PolicyCraft received stronger support.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with",
+        "data": {
+          "layout": "generic",
+          "title": "Participants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.",
+          "airtable_id": "2d98472744fceb28",
+          "slug": "participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with",
+          "type": "Issue",
+          "cases": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "name": "Participants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+          ],
+          "layout": "generic",
+          "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat-process",
+          "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation - Process",
+          "theme": [
+            "Artificial Intelligence",
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation-University Students",
+        "airtable_id": "55fab9f91287ca2d",
+        "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+        "locations": [
+          "united-states"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "universities in the U.S.",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research"
+        ],
+        "on-average-how-many-hours-did-each-participant": 72,
+        "name": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation-University Students",
+        "group-description": "University Students",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 68,
+        "cases": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "recruitment-description": "We collaborate with university instructors who are interested in and willing to empower their students to draft AI course policies, rather than making such decisions solely on their own.",
+        "was-there-a-specific-target-population": "students from participating classes",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "layout": "generic",
+        "slug": "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat-process",
+        "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation - Process",
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Metagov’s Grant for Interoperable Deliberative Tools",
+        "airtable_id": "3b7966ece2b2812d",
+        "slug": "metagovs-grant-for-interoperable-deliberative-tools",
+        "role": [
+          "Funder"
+        ],
+        "name": "Metagov’s Grant for Interoperable Deliberative Tools",
+        "funding-organisation-for": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "CMU’s Block Center for Technology and Society",
+        "airtable_id": "b97d02b0e8bffb08",
+        "slug": "cmus-block-center-for-technology-and-society",
+        "role": [
+          "Funder"
+        ],
+        "name": "CMU’s Block Center for Technology and Society",
+        "funding-organisation-for": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Carnegie Mellon University",
+        "airtable_id": "eff41d061d008bf7",
+        "slug": "carnegie-mellon-university",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.cmu.edu/",
+        "name": "Carnegie Mellon University",
+        "lead-organisation-for": [
+          "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+          "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+        ],
+        "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+        "main-location": [
+          "pittsburgh-pennsylvania-usa"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UL Research Institutes through the Center for Advancing Safety of Machine Intelligence",
+        "airtable_id": "4b9c02041398017b",
+        "slug": "ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence",
+        "role": [
+          "Funder"
+        ],
+        "name": "UL Research Institutes through the Center for Advancing Safety of Machine Intelligence",
+        "funding-organisation-for": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Policies developed through PolicyCraft achieved greater consensus during voting.",
+        "airtable_id": "b115d4ff2849e30b",
+        "slug": "policies-developed-through-policycraft-achieved-greater-consensus-during-voting",
+        "type": "Issue",
+        "cases": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "name": "Policies developed through PolicyCraft achieved greater consensus during voting.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Policies developed through PolicyCraft received stronger support.",
+        "airtable_id": "de34eec943ece947",
+        "slug": "policies-developed-through-policycraft-received-stronger-support",
+        "type": "Issue",
+        "cases": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "name": "Policies developed through PolicyCraft received stronger support.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Participants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.",
+        "airtable_id": "2d98472744fceb28",
+        "slug": "participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with",
+        "type": "Issue",
+        "cases": [
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat"
+        ],
+        "name": "Participants who used PolicyCraft found it easier to understand why people agreed or disagreed with each other.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1703 @@
+{
+  "slug": "citizens-assembly-on-ai-french-speaking-switzerland",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Citizen's Assembly on AI - French Speaking Switzerland",
+    "airtable_id": "ca7f35d7ea9ad196",
+    "slug": "citizens-assembly-on-ai-french-speaking-switzerland",
+    "redirect_from": [
+      "/c/ca7f35d7ea9ad196/"
+    ],
+    "lead-organisations": [
+      "epfl-ai-center"
+    ],
+    "provide-a-brief-description-of-the-project": "The 2025 Citizen's Assembly on AI in French Speaking Switzerland was organized in November 2025 by the EPFL AI Center in collaboration with the Research Hub on Democratic Innovations at the University of Geneva and Demoscan. \n\nThe project included a survey of 734 residents of French-speaking Switzerland and a deliberation process with 40 randomly selected citizens from French speaking Switzerland, reflecting the demographics of the population, who met over a total of four days on two weekends, hearing from experts and deliberating to explore their views on AI.  \n\nIt resulted in 20 proposals that outline the foundations of responsible AI governance, including proposals on privacy protection, transparency, and meaningful human control.\n",
+    "what-limitations-to-the-project-should-be-noted": "The project report notes a number of methodological limitations that impacted the project. A low 10% response rate on the initial survey due to tight deadlines and the technical nature of artificial intelligence. Additionally, a notable \"volunteer effect\" emerged among those willing to commit to the four-day, in-person format, creating an initial pool that skewed toward tertiary-educated individuals, residents of the canton of Vaud, and left-of-center political alignments. \n\nOrganizers used a weighted lottery to correct these imbalances, the small size of the final assembly (40 participants) meant that random dropouts and subsequent replacements still caused minor geographic skews, such as an overrepresentation of the canton of Jura and an underrepresentation of Neuchâtel.  \n\nPractical constraints of the format restricted participation to those available on weekends, and the entire project was structurally limited to the French-speaking regions of Switzerland, meaning it did not capture the perspectives of the rest of the country.\n",
+    "project-status": "Complete",
+    "headline-findings": "The Citizens Assembly component resulted in five issues, and two objectives, and a set of supporting recommendations for society and policy makers. \n\nThe issues and objectives are detailed bellow, and the more detailed recommendations can found in the full report. \n\nISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\nObjective 1: Adopt a national AI strategy.  \n\nObjective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.  \n\nISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\nObjective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\nObjective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world.  \n\nISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\nObjective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\nObjective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.  \n\nISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\nObjective 1: Label human creation.  \n\nObjective 2: Adapt and strengthen copyright protection.  \n\nISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\nObjective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\nObjective 2: Fight cybercrime. \n",
+    "participants": [
+      "citizens-assembly-on-ai-french-speaking-switzerland-online-survey",
+      "citizens-assembly-on-ai-french-speaking-switzerland-assembly-group"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Generative AI"
+    ],
+    "messages": [
+      "implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli",
+      "strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an",
+      "create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy",
+      "ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et",
+      "encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution",
+      "createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera",
+      "create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa",
+      "increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea",
+      "develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of",
+      "dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions",
+      "tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al",
+      "encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad",
+      "create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-proving-human-creation-thro",
+      "allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al",
+      "federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem",
+      "adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework",
+      "put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers",
+      "put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and",
+      "create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre",
+      "issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im",
+      "issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use",
+      "issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti",
+      "issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from",
+      "issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "stiftung-mercator-schweiz",
+      "epfl-ai-center"
+    ],
+    "inclusion-efforts": "The project ensured accessibility and inclusion by using a weighted random lottery (sortition) to select the final 40 participants from a volunteer pool, intentionally correcting demographic skews to mirror the general population's mix of age, sex, geographic cantons, political alignments, and education levels. \n\nTo foster an inclusive deliberative environment for laypeople tackling a complex technical topic, expert presentations were designed to be factual and accessible. Furthermore, facilitators utilised specific group-dynamic exercises on the second day—such as \"the power walk\"—to raise awareness about moral equality and address potential asymmetries in speaking time, while participants collectively established ground rules to guarantee balanced, respectful dialogue.\n",
+    "project-title": "Citizen's Assembly on AI - French Speaking Switzerland",
+    "why-is-this-project-important-to-include-in-the": "The project reflects an academic-led process within a specific language community in Switzerland. The team frame the work as \" a compass for policymakers and civil society alike\", with the goal of influencing public debate on AI governance. ",
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "citizens-assembly-on-artificial-intelligence-french-speaking-switzerland",
+      "ai-good-servant-bad-master"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Artificial intelligence is transforming our society — but what role do we want it to play?",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "research-hub-on-democratic-innovations-at-the-university-of-geneva",
+      "demoscan"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://ai.epfl.ch/innovation/citizens-assembly-on-ai/",
+    "locations": [
+      "switzerland"
+    ],
+    "where-were-participants-from": [
+      "French speaking Canton's of Switzerland",
+      "French speaking cantons of Switzerland."
+    ],
+    "where-did-engagement-take-place": [
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "citizens-assembly-on-ai-french-speaking-switzerland",
+    "data": {
+      "layout": "case",
+      "title": "Citizen's Assembly on AI - French Speaking Switzerland",
+      "airtable_id": "ca7f35d7ea9ad196",
+      "slug": "citizens-assembly-on-ai-french-speaking-switzerland",
+      "redirect_from": [
+        "/c/ca7f35d7ea9ad196/"
+      ],
+      "lead-organisations": [
+        "epfl-ai-center"
+      ],
+      "provide-a-brief-description-of-the-project": "The 2025 Citizen's Assembly on AI in French Speaking Switzerland was organized in November 2025 by the EPFL AI Center in collaboration with the Research Hub on Democratic Innovations at the University of Geneva and Demoscan. \n\nThe project included a survey of 734 residents of French-speaking Switzerland and a deliberation process with 40 randomly selected citizens from French speaking Switzerland, reflecting the demographics of the population, who met over a total of four days on two weekends, hearing from experts and deliberating to explore their views on AI.  \n\nIt resulted in 20 proposals that outline the foundations of responsible AI governance, including proposals on privacy protection, transparency, and meaningful human control.\n",
+      "what-limitations-to-the-project-should-be-noted": "The project report notes a number of methodological limitations that impacted the project. A low 10% response rate on the initial survey due to tight deadlines and the technical nature of artificial intelligence. Additionally, a notable \"volunteer effect\" emerged among those willing to commit to the four-day, in-person format, creating an initial pool that skewed toward tertiary-educated individuals, residents of the canton of Vaud, and left-of-center political alignments. \n\nOrganizers used a weighted lottery to correct these imbalances, the small size of the final assembly (40 participants) meant that random dropouts and subsequent replacements still caused minor geographic skews, such as an overrepresentation of the canton of Jura and an underrepresentation of Neuchâtel.  \n\nPractical constraints of the format restricted participation to those available on weekends, and the entire project was structurally limited to the French-speaking regions of Switzerland, meaning it did not capture the perspectives of the rest of the country.\n",
+      "project-status": "Complete",
+      "headline-findings": "The Citizens Assembly component resulted in five issues, and two objectives, and a set of supporting recommendations for society and policy makers. \n\nThe issues and objectives are detailed bellow, and the more detailed recommendations can found in the full report. \n\nISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\nObjective 1: Adopt a national AI strategy.  \n\nObjective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.  \n\nISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\nObjective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\nObjective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world.  \n\nISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\nObjective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\nObjective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.  \n\nISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\nObjective 1: Label human creation.  \n\nObjective 2: Adapt and strengthen copyright protection.  \n\nISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\nObjective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\nObjective 2: Fight cybercrime. \n",
+      "participants": [
+        "citizens-assembly-on-ai-french-speaking-switzerland-online-survey",
+        "citizens-assembly-on-ai-french-speaking-switzerland-assembly-group"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Generative AI"
+      ],
+      "messages": [
+        "implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli",
+        "strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an",
+        "create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy",
+        "ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et",
+        "encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution",
+        "createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera",
+        "create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa",
+        "increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea",
+        "develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of",
+        "dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions",
+        "tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al",
+        "encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad",
+        "create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-proving-human-creation-thro",
+        "allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al",
+        "federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem",
+        "adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework",
+        "put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers",
+        "put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and",
+        "create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre",
+        "issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im",
+        "issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use",
+        "issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti",
+        "issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from",
+        "issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "stiftung-mercator-schweiz",
+        "epfl-ai-center"
+      ],
+      "inclusion-efforts": "The project ensured accessibility and inclusion by using a weighted random lottery (sortition) to select the final 40 participants from a volunteer pool, intentionally correcting demographic skews to mirror the general population's mix of age, sex, geographic cantons, political alignments, and education levels. \n\nTo foster an inclusive deliberative environment for laypeople tackling a complex technical topic, expert presentations were designed to be factual and accessible. Furthermore, facilitators utilised specific group-dynamic exercises on the second day—such as \"the power walk\"—to raise awareness about moral equality and address potential asymmetries in speaking time, while participants collectively established ground rules to guarantee balanced, respectful dialogue.\n",
+      "project-title": "Citizen's Assembly on AI - French Speaking Switzerland",
+      "why-is-this-project-important-to-include-in-the": "The project reflects an academic-led process within a specific language community in Switzerland. The team frame the work as \" a compass for policymakers and civil society alike\", with the goal of influencing public debate on AI governance. ",
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "citizens-assembly-on-artificial-intelligence-french-speaking-switzerland",
+        "ai-good-servant-bad-master"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Artificial intelligence is transforming our society — but what role do we want it to play?",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "research-hub-on-democratic-innovations-at-the-university-of-geneva",
+        "demoscan"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://ai.epfl.ch/innovation/citizens-assembly-on-ai/",
+      "locations": [
+        "switzerland"
+      ],
+      "where-were-participants-from": [
+        "French speaking Canton's of Switzerland",
+        "French speaking cantons of Switzerland."
+      ],
+      "where-did-engagement-take-place": [
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "citizens-assembly-on-ai-french-speaking-switzerland-assembly-group",
+        "data": {
+          "layout": "generic",
+          "title": "Citizen's Assembly on AI - French Speaking Switzerland-Assembly Group",
+          "airtable_id": "58cba4500160f8c7",
+          "slug": "citizens-assembly-on-ai-french-speaking-switzerland-assembly-group",
+          "locations": [
+            "switzerland"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "French speaking cantons of Switzerland.",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens’ Assembly",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 28,
+          "name": "Citizen's Assembly on AI - French Speaking Switzerland-Assembly Group",
+          "group-description": "Assembly Group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "The process was designed and facilitated by Demoscan to ensure democratic innovation and strict neutrality. The assembly followed a structured 4-day progression: Day 1 was dedicated to expert input and a learning phase; Day 2 involved problem framing and identifying major issues; Day 3 focused on defining operational objectives; and Day 4 concluded with drafting and voting on the final 20 proposals. An exit survey showed a very high participant satisfaction rate and a strong endorsement of the process's neutrality.",
+          "how-many-people-took-part": 40,
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "recruitment-description": "Of the 734 people responding to the online survey, one quarter (24%) indicated that they wished to participate in the Assembly. From these volunteers, 40 citizens were selected, with the aim, as far as possible, of ensuring balanced representation across cantons, sexes, education levels, ages and political orientations.",
+          "was-there-a-specific-target-population": "French speaking population of Switzerland.",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "citizens-assembly-on-ai-french-speaking-switzerland-online-survey",
+        "data": {
+          "layout": "generic",
+          "title": "Citizen's Assembly on AI - French Speaking Switzerland-Online survey",
+          "airtable_id": "3098a8d040a2f96c",
+          "slug": "citizens-assembly-on-ai-french-speaking-switzerland-online-survey",
+          "locations": [
+            "switzerland"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "French speaking Canton's of Switzerland",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.25,
+          "name": "Citizen's Assembly on AI - French Speaking Switzerland-Online survey",
+          "group-description": "Online survey",
+          "additional-notes": "The survey yielded a response rate of approximately 10%. It served to establish an initial snapshot of public opinion on AI in French-speaking Switzerland before the deliberative phase began.",
+          "how-many-people-took-part": 734,
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "recruitment-description": "The Federal Statistical Office provided 7,000 randomly selected addresses from all French-speaking cantons/regions, ensuring a balance across sex and age groups (16+). These individuals received an invitation letter by post to complete the survey online. 734 participants responded. ",
+          "was-there-a-specific-target-population": "French speaking population aged 16+",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "stiftung-mercator-schweiz",
+        "data": {
+          "layout": "organisation",
+          "title": "Stiftung Mercator Schweiz",
+          "airtable_id": "875633921d59e41f",
+          "slug": "stiftung-mercator-schweiz",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://www.stiftung-mercator.ch/",
+          "name": "Stiftung Mercator Schweiz",
+          "main-location": [
+            "zurich-switzerland"
+          ],
+          "funding-organisation-for": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "demoscan",
+        "data": {
+          "layout": "organisation",
+          "title": "Demoscan",
+          "airtable_id": "93d5f3eeffa8024b",
+          "slug": "demoscan",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://demoscan.ch/",
+          "name": "Demoscan",
+          "main-location": [
+            "switzerland"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "research-hub-on-democratic-innovations-at-the-university-of-geneva",
+        "data": {
+          "layout": "organisation",
+          "title": "Research Hub on Democratic Innovations at the University of Geneva",
+          "airtable_id": "4e8a4de2d407f122",
+          "slug": "research-hub-on-democratic-innovations-at-the-university-of-geneva",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.unige.ch/sciences-societe/recherche/hub-innovations-democratiques/",
+          "name": "Research Hub on Democratic Innovations at the University of Geneva",
+          "main-location": [
+            "geneva-switzerland"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "epfl-ai-center",
+        "data": {
+          "layout": "organisation",
+          "title": "EPFL AI Center",
+          "airtable_id": "f4e9b5df508a48ab",
+          "slug": "epfl-ai-center",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.epfl.ch/research/domains/ai/",
+          "name": "EPFL AI Center",
+          "lead-organisation-for": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "main-location": [
+            "switzerland"
+          ],
+          "funding-organisation-for": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera",
+        "data": {
+          "layout": "generic",
+          "title": "Create/promote/inform people about specific local events for a broad public (festivals, open days, interactive simulations, forum theatre, etc.), or integrate into existing events, in order to raise awareness of Al and prioritize human rather than digital contact.",
+          "airtable_id": "b6c24adb1ed7c801",
+          "slug": "createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+          "name": "Create/promote/inform people about specific local events for a broad public (festivals, open days, interactive simulations, forum theatre, etc.), or integrate into existing events, in order to raise awareness of Al and prioritize human rather than digital contact.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti",
+        "data": {
+          "layout": "generic",
+          "title": "ISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\n* Objective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\n* Objective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.",
+          "airtable_id": "0f0e44951a82e341",
+          "slug": "issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti",
+          "type": "Issue",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+          "name": "ISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\n* Objective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\n* Objective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im",
+        "data": {
+          "layout": "generic",
+          "title": "ISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\n* Objective 1: Adopt a national AI strategy.  \n\n* Objective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.",
+          "airtable_id": "705867111e7f7e1f",
+          "slug": "issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im",
+          "type": "Issue",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+          "name": "ISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\n* Objective 1: Adopt a national AI strategy.  \n\n* Objective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers",
+        "data": {
+          "layout": "generic",
+          "title": "Put in place educational tools and awareness courses on data protection, scam prevention, the dangers linked to the use of Al and the internet, etc., from childhood and for all ages, in school and out-of-school, associative and professional settings.",
+          "airtable_id": "c6d24056d3538073",
+          "slug": "put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers",
+          "featured": [
+            "Education"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+          "name": "Put in place educational tools and awareness courses on data protection, scam prevention, the dangers linked to the use of Al and the internet, etc., from childhood and for all ages, in school and out-of-school, associative and professional settings.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre",
+        "data": {
+          "layout": "generic",
+          "title": "Create a federal \"task force\" composed of members of government, police and independent experts to strengthen, with human and financial resources, the fight against cybercrime intensified by Al.",
+          "airtable_id": "19a4424aeffbff02",
+          "slug": "create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre",
+          "featured": [
+            "Safety"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+          "name": "Create a federal \"task force\" composed of members of government, police and independent experts to strengthen, with human and financial resources, the fight against cybercrime intensified by Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli",
+        "data": {
+          "layout": "generic",
+          "title": "Implement the strategies defined by political bodies by putting in place collaborations between politicians, experts and citizens (for example: commissions, mandates, meetings, audits, citizens' assemblies) to guide and assess the proper implementation of these strategies.",
+          "airtable_id": "aae246b741d53767",
+          "slug": "implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+          "name": "Implement the strategies defined by political bodies by putting in place collaborations between politicians, experts and citizens (for example: commissions, mandates, meetings, audits, citizens' assemblies) to guide and assess the proper implementation of these strategies.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and",
+        "data": {
+          "layout": "generic",
+          "title": "Put in place legislation and a specific independent audit body that verifies ethical compliance and good-practice criteria (label).",
+          "airtable_id": "6483af1b8a483913",
+          "slug": "put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+          "name": "Put in place legislation and a specific independent audit body that verifies ethical compliance and good-practice criteria (label).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of",
+        "data": {
+          "layout": "generic",
+          "title": "Develop and adopt protective measures and adapt training to anticipate the evolution of the world of work linked to Al.",
+          "airtable_id": "92524bbcf195d493",
+          "slug": "develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of",
+          "featured": [
+            "Work"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+          "name": "Develop and adopt protective measures and adapt training to anticipate the evolution of the world of work linked to Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use",
+        "data": {
+          "layout": "generic",
+          "title": "ISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\n* Objective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\n* Objective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world",
+          "airtable_id": "4bc7bb853aa8d1d8",
+          "slug": "issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use",
+          "type": "Issue",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+          "name": "ISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\n* Objective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\n* Objective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from",
+        "data": {
+          "layout": "generic",
+          "title": "ISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\n* Objective 1: Label human creation.  \n\n* Objective 2: Adapt and strengthen copyright protection.",
+          "airtable_id": "e07781442fc148f1",
+          "slug": "issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from",
+          "type": "Issue",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+          "name": "ISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\n* Objective 1: Label human creation.  \n\n* Objective 2: Adapt and strengthen copyright protection.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework",
+        "data": {
+          "layout": "generic",
+          "title": "Adapt and strengthen copyright protection within a basic national and international legal framework linked to Al.",
+          "airtable_id": "f5bef38a46eee12a",
+          "slug": "adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+          "name": "Adapt and strengthen copyright protection within a basic national and international legal framework linked to Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et",
+        "data": {
+          "layout": "generic",
+          "title": "Ensure sustainable funding dedicated to the needs of Al research and development (for example EPFL, ETH Zurich, universities of applied sciences and universities, the Apertus project).",
+          "airtable_id": "1ff8ab4907cf4f78",
+          "slug": "ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+          "name": "Ensure sustainable funding dedicated to the needs of Al research and development (for example EPFL, ETH Zurich, universities of applied sciences and universities, the Apertus project).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution",
+        "data": {
+          "layout": "generic",
+          "title": "Encourage and support associations, media outlets, media libraries, schools, adult education institutions, etc., to raise awareness and inform/help the public understand Al, its uses and its ecological, geopolitical, social, economic and public-health implications, and to address cases of dependency.",
+          "airtable_id": "058e70d050892e1e",
+          "slug": "encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+          "name": "Encourage and support associations, media outlets, media libraries, schools, adult education institutions, etc., to raise awareness and inform/help the public understand Al, its uses and its ecological, geopolitical, social, economic and public-health implications, and to address cases of dependency.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an",
+        "data": {
+          "layout": "generic",
+          "title": "Strengthen national and international research in the field of Al, notably on technological, social and ethical aspects (calls for proposals, competitions, conferences, universities, etc.).",
+          "airtable_id": "9f2b38543176b2f2",
+          "slug": "strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+          "name": "Strengthen national and international research in the field of Al, notably on technological, social and ethical aspects (calls for proposals, competitions, conferences, universities, etc.).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa",
+        "data": {
+          "layout": "generic",
+          "title": "Create and support organizations / pools of experts that can serve as reference points for training/awareness-raising / risk prevention for the population, cantons and regions, notably in cooperation with education and health services.",
+          "airtable_id": "03410c966b269ef4",
+          "slug": "create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+          "name": "Create and support organizations / pools of experts that can serve as reference points for training/awareness-raising / risk prevention for the population, cantons and regions, notably in cooperation with education and health services.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions",
+        "data": {
+          "layout": "generic",
+          "title": "Dedicate a share of the funds provided by Swiss umbrella organizations and other professional unions at the federal and/or cantonal level to training and retraining linked to job losses due to Al.",
+          "airtable_id": "50b605bff2280c49",
+          "slug": "dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions",
+          "featured": [
+            "Work"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+          "name": "Dedicate a share of the funds provided by Swiss umbrella organizations and other professional unions at the federal and/or cantonal level to training and retraining linked to job losses due to Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem",
+        "data": {
+          "layout": "generic",
+          "title": "Federal recognition of the label, awareness-raising and support (financial, guidance, etc.) for its dissemination and use in Switzerland and abroad.",
+          "airtable_id": "60b87a84854e2f1a",
+          "slug": "federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+          "name": "Federal recognition of the label, awareness-raising and support (financial, guidance, etc.) for its dissemination and use in Switzerland and abroad.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-proving-human-creation-thro",
+        "data": {
+          "layout": "generic",
+          "title": "Create a label that guarantees the origin of outputs (example: \"Swiss valid ®\") proving human creation through a tamper-proof / encrypted digital signature (e.g. blockchain).",
+          "airtable_id": "abe86df64d5e10c9",
+          "slug": "create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-proving-human-creation-thro",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+          "name": "Create a label that guarantees the origin of outputs (example: \"Swiss valid ®\") proving human creation through a tamper-proof / encrypted digital signature (e.g. blockchain).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al",
+        "data": {
+          "layout": "generic",
+          "title": "Tax or levy providers that generate lasting job losses because of Al.",
+          "airtable_id": "13a3496a76b7e6d1",
+          "slug": "tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al",
+          "featured": [
+            "Work"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+          "name": "Tax or levy providers that generate lasting job losses because of Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea",
+        "data": {
+          "layout": "generic",
+          "title": "Increase funding for social, cultural, sporting and artistic activities (local sports clubs, scouts, theatre, conservatory, dance, etc.) to strengthen social interactions.",
+          "airtable_id": "0af8724bf6198b6d",
+          "slug": "increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+          "name": "Increase funding for social, cultural, sporting and artistic activities (local sports clubs, scouts, theatre, conservatory, dance, etc.) to strengthen social interactions.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy",
+        "data": {
+          "layout": "generic",
+          "title": "Create a new federal office for Al and new technologies to define and implement a political strategy that respects human rights and Swiss values (neutrality, humanitarianism, democracy, peace, diplomacy, etc.).",
+          "airtable_id": "2b3a0da5f7a38861",
+          "slug": "create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+          "name": "Create a new federal office for Al and new technologies to define and implement a political strategy that respects human rights and Swiss values (neutrality, humanitarianism, democracy, peace, diplomacy, etc.).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad",
+        "data": {
+          "layout": "generic",
+          "title": "Encourage and rethink career transitions, notably toward new Al-related professions (for example by adapting unemployment insurance to the challenges posed by Al).",
+          "airtable_id": "b9045fbd1d3ef358",
+          "slug": "encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+          "name": "Encourage and rethink career transitions, notably toward new Al-related professions (for example by adapting unemployment insurance to the challenges posed by Al).",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha",
+        "data": {
+          "layout": "generic",
+          "title": "ISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\n* Objective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\n* Objective 2: Fight cybercrime.",
+          "airtable_id": "29ccfb2f9a6eac38",
+          "slug": "issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha",
+          "type": "Issue",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+          "name": "ISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\n* Objective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\n* Objective 2: Fight cybercrime.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al",
+        "data": {
+          "layout": "generic",
+          "title": "Allow the author to refuse the use and modification of their work by Al.",
+          "airtable_id": "ba7b61001d95e671",
+          "slug": "allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al",
+          "type": "Recommendation",
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "additional-credit-line": "Citizen Assembly recommendation for society on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+          "name": "Allow the author to refuse the use and modification of their work by Al.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "citizens-assembly-on-ai-french-speaking-switzerland"
+          ],
+          "layout": "generic",
+          "slug": "citizens-assembly-on-ai-french-speaking-switzerland-process",
+          "title": "Citizen's Assembly on AI - French Speaking Switzerland - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Citizen's Assembly on AI - French Speaking Switzerland-Assembly Group",
+        "airtable_id": "58cba4500160f8c7",
+        "slug": "citizens-assembly-on-ai-french-speaking-switzerland-assembly-group",
+        "locations": [
+          "switzerland"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "French speaking cantons of Switzerland.",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens’ Assembly",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 28,
+        "name": "Citizen's Assembly on AI - French Speaking Switzerland-Assembly Group",
+        "group-description": "Assembly Group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "The process was designed and facilitated by Demoscan to ensure democratic innovation and strict neutrality. The assembly followed a structured 4-day progression: Day 1 was dedicated to expert input and a learning phase; Day 2 involved problem framing and identifying major issues; Day 3 focused on defining operational objectives; and Day 4 concluded with drafting and voting on the final 20 proposals. An exit survey showed a very high participant satisfaction rate and a strong endorsement of the process's neutrality.",
+        "how-many-people-took-part": 40,
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "recruitment-description": "Of the 734 people responding to the online survey, one quarter (24%) indicated that they wished to participate in the Assembly. From these volunteers, 40 citizens were selected, with the aim, as far as possible, of ensuring balanced representation across cantons, sexes, education levels, ages and political orientations.",
+        "was-there-a-specific-target-population": "French speaking population of Switzerland.",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Citizen's Assembly on AI - French Speaking Switzerland-Online survey",
+        "airtable_id": "3098a8d040a2f96c",
+        "slug": "citizens-assembly-on-ai-french-speaking-switzerland-online-survey",
+        "locations": [
+          "switzerland"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "French speaking Canton's of Switzerland",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.25,
+        "name": "Citizen's Assembly on AI - French Speaking Switzerland-Online survey",
+        "group-description": "Online survey",
+        "additional-notes": "The survey yielded a response rate of approximately 10%. It served to establish an initial snapshot of public opinion on AI in French-speaking Switzerland before the deliberative phase began.",
+        "how-many-people-took-part": 734,
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "recruitment-description": "The Federal Statistical Office provided 7,000 randomly selected addresses from all French-speaking cantons/regions, ensuring a balance across sex and age groups (16+). These individuals received an invitation letter by post to complete the survey online. 734 participants responded. ",
+        "was-there-a-specific-target-population": "French speaking population aged 16+",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "layout": "generic",
+        "slug": "citizens-assembly-on-ai-french-speaking-switzerland-process",
+        "title": "Citizen's Assembly on AI - French Speaking Switzerland - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Stiftung Mercator Schweiz",
+        "airtable_id": "875633921d59e41f",
+        "slug": "stiftung-mercator-schweiz",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://www.stiftung-mercator.ch/",
+        "name": "Stiftung Mercator Schweiz",
+        "main-location": [
+          "zurich-switzerland"
+        ],
+        "funding-organisation-for": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Demoscan",
+        "airtable_id": "93d5f3eeffa8024b",
+        "slug": "demoscan",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://demoscan.ch/",
+        "name": "Demoscan",
+        "main-location": [
+          "switzerland"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Research Hub on Democratic Innovations at the University of Geneva",
+        "airtable_id": "4e8a4de2d407f122",
+        "slug": "research-hub-on-democratic-innovations-at-the-university-of-geneva",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.unige.ch/sciences-societe/recherche/hub-innovations-democratiques/",
+        "name": "Research Hub on Democratic Innovations at the University of Geneva",
+        "main-location": [
+          "geneva-switzerland"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "EPFL AI Center",
+        "airtable_id": "f4e9b5df508a48ab",
+        "slug": "epfl-ai-center",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.epfl.ch/research/domains/ai/",
+        "name": "EPFL AI Center",
+        "lead-organisation-for": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "main-location": [
+          "switzerland"
+        ],
+        "funding-organisation-for": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Create/promote/inform people about specific local events for a broad public (festivals, open days, interactive simulations, forum theatre, etc.), or integrate into existing events, in order to raise awareness of Al and prioritize human rather than digital contact.",
+        "airtable_id": "b6c24adb1ed7c801",
+        "slug": "createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+        "name": "Create/promote/inform people about specific local events for a broad public (festivals, open days, interactive simulations, forum theatre, etc.), or integrate into existing events, in order to raise awareness of Al and prioritize human rather than digital contact.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\n* Objective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\n* Objective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.",
+        "airtable_id": "0f0e44951a82e341",
+        "slug": "issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti",
+        "type": "Issue",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+        "name": "ISSUE 3: Prepare the world of work for the AI transition with regard to social and financial protection and to technological changes in jobs.  \n\n* Objective 1: Anticipate the socio-professional impacts linked to the advent of AI.  \n\n* Objective 2: Guarantee dignity, and human and financial support, for people who may lose their job or experience a change in their role due to AI.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\n* Objective 1: Adopt a national AI strategy.  \n\n* Objective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.",
+        "airtable_id": "705867111e7f7e1f",
+        "slug": "issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im",
+        "type": "Issue",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+        "name": "ISSUE 1: Determine the degree of state involvement and responsibility in AI, in its development and implementation in Switzerland.  \n\n* Objective 1: Adopt a national AI strategy.  \n\n* Objective 2: Promote the development of AI in accordance with human rights, enriched by Swiss values, in order to shape the future of AI.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Put in place educational tools and awareness courses on data protection, scam prevention, the dangers linked to the use of Al and the internet, etc., from childhood and for all ages, in school and out-of-school, associative and professional settings.",
+        "airtable_id": "c6d24056d3538073",
+        "slug": "put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers",
+        "featured": [
+          "Education"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+        "name": "Put in place educational tools and awareness courses on data protection, scam prevention, the dangers linked to the use of Al and the internet, etc., from childhood and for all ages, in school and out-of-school, associative and professional settings.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Create a federal \"task force\" composed of members of government, police and independent experts to strengthen, with human and financial resources, the fight against cybercrime intensified by Al.",
+        "airtable_id": "19a4424aeffbff02",
+        "slug": "create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre",
+        "featured": [
+          "Safety"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+        "name": "Create a federal \"task force\" composed of members of government, police and independent experts to strengthen, with human and financial resources, the fight against cybercrime intensified by Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Implement the strategies defined by political bodies by putting in place collaborations between politicians, experts and citizens (for example: commissions, mandates, meetings, audits, citizens' assemblies) to guide and assess the proper implementation of these strategies.",
+        "airtable_id": "aae246b741d53767",
+        "slug": "implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+        "name": "Implement the strategies defined by political bodies by putting in place collaborations between politicians, experts and citizens (for example: commissions, mandates, meetings, audits, citizens' assemblies) to guide and assess the proper implementation of these strategies.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Put in place legislation and a specific independent audit body that verifies ethical compliance and good-practice criteria (label).",
+        "airtable_id": "6483af1b8a483913",
+        "slug": "put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 5: Define responsible and ethical practices for Al users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.",
+        "name": "Put in place legislation and a specific independent audit body that verifies ethical compliance and good-practice criteria (label).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Develop and adopt protective measures and adapt training to anticipate the evolution of the world of work linked to Al.",
+        "airtable_id": "92524bbcf195d493",
+        "slug": "develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of",
+        "featured": [
+          "Work"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+        "name": "Develop and adopt protective measures and adapt training to anticipate the evolution of the world of work linked to Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\n* Objective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\n* Objective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world",
+        "airtable_id": "4bc7bb853aa8d1d8",
+        "slug": "issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use",
+        "type": "Issue",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+        "name": "ISSUE 2: Democratize access to AI and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.  \n\n* Objective 1: Raise public awareness of AI, train people in its responsible use, and facilitate access for everyone.  \n\n* Objective 2: Promote social, cultural, sporting and artistic gatherings so as not to fall into an \"all-AI\" world",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\n* Objective 1: Label human creation.  \n\n* Objective 2: Adapt and strengthen copyright protection.",
+        "airtable_id": "e07781442fc148f1",
+        "slug": "issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from",
+        "type": "Issue",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+        "name": "ISSUE 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from AI.  \n\n* Objective 1: Label human creation.  \n\n* Objective 2: Adapt and strengthen copyright protection.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Adapt and strengthen copyright protection within a basic national and international legal framework linked to Al.",
+        "airtable_id": "f5bef38a46eee12a",
+        "slug": "adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+        "name": "Adapt and strengthen copyright protection within a basic national and international legal framework linked to Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Ensure sustainable funding dedicated to the needs of Al research and development (for example EPFL, ETH Zurich, universities of applied sciences and universities, the Apertus project).",
+        "airtable_id": "1ff8ab4907cf4f78",
+        "slug": "ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+        "name": "Ensure sustainable funding dedicated to the needs of Al research and development (for example EPFL, ETH Zurich, universities of applied sciences and universities, the Apertus project).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Encourage and support associations, media outlets, media libraries, schools, adult education institutions, etc., to raise awareness and inform/help the public understand Al, its uses and its ecological, geopolitical, social, economic and public-health implications, and to address cases of dependency.",
+        "airtable_id": "058e70d050892e1e",
+        "slug": "encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+        "name": "Encourage and support associations, media outlets, media libraries, schools, adult education institutions, etc., to raise awareness and inform/help the public understand Al, its uses and its ecological, geopolitical, social, economic and public-health implications, and to address cases of dependency.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Strengthen national and international research in the field of Al, notably on technological, social and ethical aspects (calls for proposals, competitions, conferences, universities, etc.).",
+        "airtable_id": "9f2b38543176b2f2",
+        "slug": "strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+        "name": "Strengthen national and international research in the field of Al, notably on technological, social and ethical aspects (calls for proposals, competitions, conferences, universities, etc.).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Create and support organizations / pools of experts that can serve as reference points for training/awareness-raising / risk prevention for the population, cantons and regions, notably in cooperation with education and health services.",
+        "airtable_id": "03410c966b269ef4",
+        "slug": "create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+        "name": "Create and support organizations / pools of experts that can serve as reference points for training/awareness-raising / risk prevention for the population, cantons and regions, notably in cooperation with education and health services.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Dedicate a share of the funds provided by Swiss umbrella organizations and other professional unions at the federal and/or cantonal level to training and retraining linked to job losses due to Al.",
+        "airtable_id": "50b605bff2280c49",
+        "slug": "dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions",
+        "featured": [
+          "Work"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+        "name": "Dedicate a share of the funds provided by Swiss umbrella organizations and other professional unions at the federal and/or cantonal level to training and retraining linked to job losses due to Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Federal recognition of the label, awareness-raising and support (financial, guidance, etc.) for its dissemination and use in Switzerland and abroad.",
+        "airtable_id": "60b87a84854e2f1a",
+        "slug": "federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+        "name": "Federal recognition of the label, awareness-raising and support (financial, guidance, etc.) for its dissemination and use in Switzerland and abroad.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Create a label that guarantees the origin of outputs (example: \"Swiss valid ®\") proving human creation through a tamper-proof / encrypted digital signature (e.g. blockchain).",
+        "airtable_id": "abe86df64d5e10c9",
+        "slug": "create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-proving-human-creation-thro",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+        "name": "Create a label that guarantees the origin of outputs (example: \"Swiss valid ®\") proving human creation through a tamper-proof / encrypted digital signature (e.g. blockchain).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Tax or levy providers that generate lasting job losses because of Al.",
+        "airtable_id": "13a3496a76b7e6d1",
+        "slug": "tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al",
+        "featured": [
+          "Work"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+        "name": "Tax or levy providers that generate lasting job losses because of Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Increase funding for social, cultural, sporting and artistic activities (local sports clubs, scouts, theatre, conservatory, dance, etc.) to strengthen social interactions.",
+        "airtable_id": "0af8724bf6198b6d",
+        "slug": "increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 2: Democratize access to Al and promote equality, encourage healthy, responsible and ethical use, notably to limit dependency and foster social interactions, including in the real world.",
+        "name": "Increase funding for social, cultural, sporting and artistic activities (local sports clubs, scouts, theatre, conservatory, dance, etc.) to strengthen social interactions.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Create a new federal office for Al and new technologies to define and implement a political strategy that respects human rights and Swiss values (neutrality, humanitarianism, democracy, peace, diplomacy, etc.).",
+        "airtable_id": "2b3a0da5f7a38861",
+        "slug": "create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 1: Determine the degree of state involvement and responsibility in Al, in its development and implementation in Switzerland.",
+        "name": "Create a new federal office for Al and new technologies to define and implement a political strategy that respects human rights and Swiss values (neutrality, humanitarianism, democracy, peace, diplomacy, etc.).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Encourage and rethink career transitions, notably toward new Al-related professions (for example by adapting unemployment insurance to the challenges posed by Al).",
+        "airtable_id": "b9045fbd1d3ef358",
+        "slug": "encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for policymakers on issue 3: Prepare the world of work for the Al transition with regard to social and financial protection and to technological changes in jobs.",
+        "name": "Encourage and rethink career transitions, notably toward new Al-related professions (for example by adapting unemployment insurance to the challenges posed by Al).",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\n* Objective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\n* Objective 2: Fight cybercrime.",
+        "airtable_id": "29ccfb2f9a6eac38",
+        "slug": "issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha",
+        "type": "Issue",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Issues identified by the Citizen Assembly (translated from original French)",
+        "name": "ISSUE 5: Define responsible and ethical practices for AI users (legal entities and natural persons) that guarantee data protection and the reliability of tools shared online.  \n\n* Objective 1: Define criteria for good practices for users and providers and create instruments (national labeling body, legislation, etc.) to implement and assess these good practices.  \n\n* Objective 2: Fight cybercrime.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Allow the author to refuse the use and modification of their work by Al.",
+        "airtable_id": "ba7b61001d95e671",
+        "slug": "allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al",
+        "type": "Recommendation",
+        "cases": [
+          "citizens-assembly-on-ai-french-speaking-switzerland"
+        ],
+        "additional-credit-line": "Citizen Assembly recommendation for society on issue 4: Guarantee the origin and traceability of outputs and distinguish what comes from humans from what comes from Al.",
+        "name": "Allow the author to refuse the use and modification of their work by Al.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Generative AI"
+        ]
+      }
+    ]
+  }
+}

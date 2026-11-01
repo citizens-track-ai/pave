@@ -1,0 +1,781 @@
+{
+  "slug": "nyci-youth-juries-on-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "NYCI Youth Juries on AI",
+    "airtable_id": "ddbb25d1fffe10f6",
+    "slug": "nyci-youth-juries-on-ai",
+    "redirect_from": [
+      "/c/ddbb25d1fffe10f6/"
+    ],
+    "lead-organisations": [
+      "ombudsman-for-children-ireland",
+      "insight-research-ireland-centre-for-data-analytics-dcu-ireland"
+    ],
+    "provide-a-brief-description-of-the-project": "The National Youth Council of Ireland hosted a series of Citizens’ Youth Juries on AI, involving 48 young people from across Ireland. It explored young people’s views on the opportunities and risks posed by AI, including its impact on education, jobs, misinformation, online safety and the environment. Each Jury engaged in a three‐stage process of learning, deliberation, and recommendation‐forming, supported by external experts and briefing papers. The report of the juries sets out their recommendations for policymakers.\n",
+    "what-limitations-to-the-project-should-be-noted": "We did not succeed in recruiting any members from the Traveller or Roma communities.\n",
+    "project-status": "Complete",
+    "headline-findings": "1. AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n2. AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)\n3. AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses)\n4. AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)\n5. AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)\n6. AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)\n",
+    "participants": [
+      "nyci-youth-juries-on-ai-jurors"
+    ],
+    "participation-locations": "Ireland",
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Future issues",
+      "Current issues"
+    ],
+    "messages": [
+      "ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con",
+      "ai-chatbots-companions-they-recommend-prohibiting-ai-chatbots-from-providing-health-advice-and-requi",
+      "ai-misinformation-radicalisation-the-jury-emphasises-the-need-for-ai-literacy-improved-watermarking",
+      "ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni",
+      "ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w",
+      "ai-laws-regulation-their-recommendations-include-prohibiting-invasive-ageverification-methods-requir"
+    ],
+    "theme": [
+      "Education",
+      "Youth",
+      "Work",
+      "Environment",
+      "Safety",
+      "Internet governance"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "research-ireland"
+    ],
+    "additional-acknowledgements": "Orla Matthews,  Ervands Mumdzjans",
+    "inclusion-efforts": "NYCI launched an open call for young people to apply to the citizen’s juries. Applicants were not asked to detail their experience or interest in AI. Instead, they were required only to provide basic contact information and demographic details through an online form. The form was openly accessible to all young people via NYCI’s website. This was complemented by pro‑active outreach on social media and emails to more than 400 DEIS schools, UBU Youth Services, and Comhairle na nÓg groups.\n\nUsing data available via the CSO and other sources, the project team developed an estimated demographic profile of Irish youth. The selection process aimed to ensure each of the following demographics were represented on the juries. \n• Young people of all gender identities.\n• Young people of different ages.\n• Disabled young people \n• LGBT+ young people\n• Young people from a variety of racial \nand ethnic backgrounds\n• Young people living in rural Ireland\n• Young people living in different \nparts of Ireland and within areas \nexperiencing economic disadvantage.\n• Young people who left education \nearly.\nThe estimated demographic  profile informed the development of quotas and targets for the recruitment process.\n\nA code developed by researchers at the Insight SFI Research Centre for Data Analytics in DCU was then used to randomly select 48 jurors across 6 juries while maintaining the desired demographic balance laid out in the quotas.\n",
+    "project-title": "NYCI Youth Juries on AI",
+    "submitted-by": "Reuban Murray",
+    "why-is-this-project-important-to-include-in-the": "Ireland has been actively debating the place of young people in an increasingly digital society. At NYCI, we  believe that the voices of young people must be central to these discussions",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Putting young voices at the centre of key policy debates on AI.",
+    "how-was-the-project-initiated": [
+      "Other"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.youth.ie/documents/irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries/",
+    "where-were-participants-from": [
+      "Participants were all based in Ireland. The geographic diversity of participants is detailed on pg 11 of the report. "
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "nyci-youth-juries-on-ai",
+    "data": {
+      "layout": "case",
+      "title": "NYCI Youth Juries on AI",
+      "airtable_id": "ddbb25d1fffe10f6",
+      "slug": "nyci-youth-juries-on-ai",
+      "redirect_from": [
+        "/c/ddbb25d1fffe10f6/"
+      ],
+      "lead-organisations": [
+        "ombudsman-for-children-ireland",
+        "insight-research-ireland-centre-for-data-analytics-dcu-ireland"
+      ],
+      "provide-a-brief-description-of-the-project": "The National Youth Council of Ireland hosted a series of Citizens’ Youth Juries on AI, involving 48 young people from across Ireland. It explored young people’s views on the opportunities and risks posed by AI, including its impact on education, jobs, misinformation, online safety and the environment. Each Jury engaged in a three‐stage process of learning, deliberation, and recommendation‐forming, supported by external experts and briefing papers. The report of the juries sets out their recommendations for policymakers.\n",
+      "what-limitations-to-the-project-should-be-noted": "We did not succeed in recruiting any members from the Traveller or Roma communities.\n",
+      "project-status": "Complete",
+      "headline-findings": "1. AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n2. AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)\n3. AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses)\n4. AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)\n5. AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)\n6. AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)\n",
+      "participants": [
+        "nyci-youth-juries-on-ai-jurors"
+      ],
+      "participation-locations": "Ireland",
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Future issues",
+        "Current issues"
+      ],
+      "messages": [
+        "ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con",
+        "ai-chatbots-companions-they-recommend-prohibiting-ai-chatbots-from-providing-health-advice-and-requi",
+        "ai-misinformation-radicalisation-the-jury-emphasises-the-need-for-ai-literacy-improved-watermarking",
+        "ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni",
+        "ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w",
+        "ai-laws-regulation-their-recommendations-include-prohibiting-invasive-ageverification-methods-requir"
+      ],
+      "theme": [
+        "Education",
+        "Youth",
+        "Work",
+        "Environment",
+        "Safety",
+        "Internet governance"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "research-ireland"
+      ],
+      "additional-acknowledgements": "Orla Matthews,  Ervands Mumdzjans",
+      "inclusion-efforts": "NYCI launched an open call for young people to apply to the citizen’s juries. Applicants were not asked to detail their experience or interest in AI. Instead, they were required only to provide basic contact information and demographic details through an online form. The form was openly accessible to all young people via NYCI’s website. This was complemented by pro‑active outreach on social media and emails to more than 400 DEIS schools, UBU Youth Services, and Comhairle na nÓg groups.\n\nUsing data available via the CSO and other sources, the project team developed an estimated demographic profile of Irish youth. The selection process aimed to ensure each of the following demographics were represented on the juries. \n• Young people of all gender identities.\n• Young people of different ages.\n• Disabled young people \n• LGBT+ young people\n• Young people from a variety of racial \nand ethnic backgrounds\n• Young people living in rural Ireland\n• Young people living in different \nparts of Ireland and within areas \nexperiencing economic disadvantage.\n• Young people who left education \nearly.\nThe estimated demographic  profile informed the development of quotas and targets for the recruitment process.\n\nA code developed by researchers at the Insight SFI Research Centre for Data Analytics in DCU was then used to randomly select 48 jurors across 6 juries while maintaining the desired demographic balance laid out in the quotas.\n",
+      "project-title": "NYCI Youth Juries on AI",
+      "submitted-by": "Reuban Murray",
+      "why-is-this-project-important-to-include-in-the": "Ireland has been actively debating the place of young people in an increasingly digital society. At NYCI, we  believe that the voices of young people must be central to these discussions",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Putting young voices at the centre of key policy debates on AI.",
+      "how-was-the-project-initiated": [
+        "Other"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.youth.ie/documents/irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries/",
+      "where-were-participants-from": [
+        "Participants were all based in Ireland. The geographic diversity of participants is detailed on pg 11 of the report. "
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "nyci-youth-juries-on-ai-jurors",
+        "data": {
+          "layout": "generic",
+          "title": "NYCI Youth Juries on AI-Jurors",
+          "airtable_id": "ca1719615de364d0",
+          "slug": "nyci-youth-juries-on-ai-jurors",
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "Participants were all based in Ireland. The geographic diversity of participants is detailed on pg 11 of the report. ",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens' Jury"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "NYCI Youth Juries on AI-Jurors",
+          "group-description": "Jurors",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 48,
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "recruitment-description": "NYCI launched an open call for young  people to apply to the citizen’s juries.  Applicants were not asked to detail their  experience or interest in AI. Instead, they  were required only to provide basic  contact information and demographic  details through an online form. The form was openly accessible to all  young people via NYCI’s website. This  was complemented by pro‑active  outreach on social media and emails to  more than 400 DEIS schools, UBU Youth  Services, and Comhairle na nÓg groups. A code developed by researchers at  the Insight SFI Research Centre for  Data Analytics in DCU was then used  to randomly select 48 jurors across 6  juries while maintaining the desired  demographic balance laid out in the  quotas. Naturally, not all selected young  people would be able to participate. To  address this, 24 alternate jurors were  also identified. Where a young person  withdrew from a jury, an alternate  juror was randomly selected to fill their  place.",
+          "was-there-a-specific-target-population": "Using data available via the CSO  and other sources, the project team  developed an estimated demographic  profile of Irish youth. The selection  process aimed to ensure each of  the following demographics were  represented on the juries.  • Young people of all gender identities. • Young people of different ages. • Disabled young people  • LGBT+ young people • Young people from a variety of racial  and ethnic backgrounds • Young people living in rural Ireland • Young people living in different  parts of Ireland and within areas  experiencing economic disadvantage. • Young people who left education  early. The estimated demographic  profile informed the development of quotas and targets for the recruitment process",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "insight-research-ireland-centre-for-data-analytics-dcu-ireland",
+        "data": {
+          "layout": "organisation",
+          "title": "Insight Research Ireland Centre for Data Analytics (DCU Ireland)",
+          "airtable_id": "dba81a95aed30434",
+          "slug": "insight-research-ireland-centre-for-data-analytics-dcu-ireland",
+          "role": [
+            "Lead"
+          ],
+          "name": "Insight Research Ireland Centre for Data Analytics (DCU Ireland)",
+          "lead-organisation-for": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "research-ireland",
+        "data": {
+          "layout": "organisation",
+          "title": "Research Ireland",
+          "airtable_id": "54cfc8bca5575714",
+          "slug": "research-ireland",
+          "role": [
+            "Funder"
+          ],
+          "name": "Research Ireland",
+          "funding-organisation-for": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ombudsman-for-children-ireland",
+        "data": {
+          "layout": "organisation",
+          "title": "Ombudsman for Children (Ireland)",
+          "airtable_id": "3e636f527aee6ac8",
+          "slug": "ombudsman-for-children-ireland",
+          "role": [
+            "Lead"
+          ],
+          "name": "Ombudsman for Children (Ireland)",
+          "lead-organisation-for": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-laws-regulation-their-recommendations-include-prohibiting-invasive-ageverification-methods-requir",
+        "data": {
+          "layout": "generic",
+          "title": "AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)",
+          "airtable_id": "10810aebd5681d0a",
+          "slug": "ai-laws-regulation-their-recommendations-include-prohibiting-invasive-ageverification-methods-requir",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni",
+        "data": {
+          "layout": "generic",
+          "title": "AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)",
+          "airtable_id": "c50fea9faa0e105e",
+          "slug": "ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-misinformation-radicalisation-the-jury-emphasises-the-need-for-ai-literacy-improved-watermarking",
+        "data": {
+          "layout": "generic",
+          "title": "AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses).",
+          "airtable_id": "560c105f95f9480b",
+          "slug": "ai-misinformation-radicalisation-the-jury-emphasises-the-need-for-ai-literacy-improved-watermarking",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses).",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-chatbots-companions-they-recommend-prohibiting-ai-chatbots-from-providing-health-advice-and-requi",
+        "data": {
+          "layout": "generic",
+          "title": "AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)",
+          "airtable_id": "24890c7080c09e00",
+          "slug": "ai-chatbots-companions-they-recommend-prohibiting-ai-chatbots-from-providing-health-advice-and-requi",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w",
+        "data": {
+          "layout": "generic",
+          "title": "AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)",
+          "airtable_id": "432b74701de779ac",
+          "slug": "ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con",
+        "data": {
+          "layout": "generic",
+          "title": "AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n",
+          "airtable_id": "dc5bb97d047b6a07",
+          "slug": "ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con",
+          "type": "Recommendation",
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "name": "AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "nyci-youth-juries-on-ai"
+          ],
+          "layout": "generic",
+          "slug": "nyci-youth-juries-on-ai-process",
+          "title": "NYCI Youth Juries on AI - Process",
+          "theme": [
+            "Education",
+            "Youth",
+            "Work",
+            "Environment",
+            "Safety",
+            "Internet governance"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "NYCI Youth Juries on AI-Jurors",
+        "airtable_id": "ca1719615de364d0",
+        "slug": "nyci-youth-juries-on-ai-jurors",
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "Participants were all based in Ireland. The geographic diversity of participants is detailed on pg 11 of the report. ",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens' Jury"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "NYCI Youth Juries on AI-Jurors",
+        "group-description": "Jurors",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 48,
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "recruitment-description": "NYCI launched an open call for young  people to apply to the citizen’s juries.  Applicants were not asked to detail their  experience or interest in AI. Instead, they  were required only to provide basic  contact information and demographic  details through an online form. The form was openly accessible to all  young people via NYCI’s website. This  was complemented by pro‑active  outreach on social media and emails to  more than 400 DEIS schools, UBU Youth  Services, and Comhairle na nÓg groups. A code developed by researchers at  the Insight SFI Research Centre for  Data Analytics in DCU was then used  to randomly select 48 jurors across 6  juries while maintaining the desired  demographic balance laid out in the  quotas. Naturally, not all selected young  people would be able to participate. To  address this, 24 alternate jurors were  also identified. Where a young person  withdrew from a jury, an alternate  juror was randomly selected to fill their  place.",
+        "was-there-a-specific-target-population": "Using data available via the CSO  and other sources, the project team  developed an estimated demographic  profile of Irish youth. The selection  process aimed to ensure each of  the following demographics were  represented on the juries.  • Young people of all gender identities. • Young people of different ages. • Disabled young people  • LGBT+ young people • Young people from a variety of racial  and ethnic backgrounds • Young people living in rural Ireland • Young people living in different  parts of Ireland and within areas  experiencing economic disadvantage. • Young people who left education  early. The estimated demographic  profile informed the development of quotas and targets for the recruitment process",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "layout": "generic",
+        "slug": "nyci-youth-juries-on-ai-process",
+        "title": "NYCI Youth Juries on AI - Process",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Insight Research Ireland Centre for Data Analytics (DCU Ireland)",
+        "airtable_id": "dba81a95aed30434",
+        "slug": "insight-research-ireland-centre-for-data-analytics-dcu-ireland",
+        "role": [
+          "Lead"
+        ],
+        "name": "Insight Research Ireland Centre for Data Analytics (DCU Ireland)",
+        "lead-organisation-for": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Research Ireland",
+        "airtable_id": "54cfc8bca5575714",
+        "slug": "research-ireland",
+        "role": [
+          "Funder"
+        ],
+        "name": "Research Ireland",
+        "funding-organisation-for": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Ombudsman for Children (Ireland)",
+        "airtable_id": "3e636f527aee6ac8",
+        "slug": "ombudsman-for-children-ireland",
+        "role": [
+          "Lead"
+        ],
+        "name": "Ombudsman for Children (Ireland)",
+        "lead-organisation-for": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)",
+        "airtable_id": "10810aebd5681d0a",
+        "slug": "ai-laws-regulation-their-recommendations-include-prohibiting-invasive-ageverification-methods-requir",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI Laws & Regulation (Their recommendations include prohibiting invasive age‐verification methods, requiring disclosure of AI training data, protecting artists from data scraping, and introducing independent audits and liability structures for AI companies.)",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)",
+        "airtable_id": "c50fea9faa0e105e",
+        "slug": "ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI in Education (They propose a publicly owned, ethical, free AI chatbot for students supporting learning without replacing critical thinking or acting as a therapist.)",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses).",
+        "airtable_id": "560c105f95f9480b",
+        "slug": "ai-misinformation-radicalisation-the-jury-emphasises-the-need-for-ai-literacy-improved-watermarking",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI Misinformation & Radicalisation (The Jury emphasises the need for AI literacy, improved watermarking, and requirements for AI tools to disclose the sources used to generate responses).",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)",
+        "airtable_id": "24890c7080c09e00",
+        "slug": "ai-chatbots-companions-they-recommend-prohibiting-ai-chatbots-from-providing-health-advice-and-requi",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI Chatbots & Companions (They recommend prohibiting AI chatbots from providing health advice and requiring continuous safety warnings such as “This is not a real person.”)",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)",
+        "airtable_id": "432b74701de779ac",
+        "slug": "ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI & the Future of Jobs (They recommend clearer regulation of AI use by employers, required disclosure when AI is used in recruitment, the right to explanations, and limitations on using applicants’ data to train models.)",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n",
+        "airtable_id": "dc5bb97d047b6a07",
+        "slug": "ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con",
+        "type": "Recommendation",
+        "cases": [
+          "nyci-youth-juries-on-ai"
+        ],
+        "name": "AI & the Environment (Young people recognise the economic importance of data centres but are deeply concerned about their environmental impact.)\n",
+        "theme": [
+          "Education",
+          "Youth",
+          "Work",
+          "Environment",
+          "Safety",
+          "Internet governance"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ]
+  }
+}

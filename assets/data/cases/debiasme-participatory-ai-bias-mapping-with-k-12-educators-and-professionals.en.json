@@ -1,0 +1,450 @@
+{
+  "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals",
+    "airtable_id": "6da30126904d9433",
+    "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals",
+    "redirect_from": [
+      "/c/6da30126904d9433/"
+    ],
+    "lead-organisations": [
+      "debiasme"
+    ],
+    "provide-a-brief-description-of-the-project": "DeBiasMe is a community-engaged AI literacy initiative that turns AI bias into learning contents publics can explore and act on together rather than a technical problem left to experts. Using an AI literacy toolkit of tangible \"bias mapping\" cards and cubes organised around four stages of the AI life cycle (prompt/input, data, model training, and output interpretation), DeBiasMe runs participatory workshops in which learners, educators or facilitators, and AI systems jointly examine where bias enters AI and who is responsible for addressing it. Run with K-12 teacher and professional cohorts in South Korea, with ongoing parallel pilots in the UK, the workshops surface how non-technical publics perceive and regulate AI bias and build their capacity to engage critically with it. The initiative connects grassroots engagement to a global standard: DeBiasMe supports the South Korea validation of the UNESCO AI Competency Framework for Students.\n",
+    "what-limitations-to-the-project-should-be-noted": "1\\. Convenience recruitment via partner networks likely skews toward educators and professionals already interested in AI.\n\n2\\. Sessions are facilitator-mediated; the full three-way learner–facilitator–AI dynamic has not yet been measured.\n",
+    "project-status": "In Progress",
+    "headline-findings": "From \"flaw to detect\" to \"responsibility to share.\" Non-experts could locate and name bias. Given the cards, teachers and professionals with no technical background could identify where bias enters (input / data / model / interpretation) and assign who should act on it. Participants reframed AI bias as a shared responsibility to regulate. \n",
+    "participants": [
+      "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-design-probe",
+      "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-inperson-survey"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Predictive AI",
+      "Current issues",
+      "Future issues"
+    ],
+    "theme": [
+      "Education"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "inclusion-efforts": "The card/cube artifact requires no coding or technical background; it lets non-specialists locate and discuss bias through physical arrangement and conversation rather than jargon.\n",
+    "project-title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals",
+    "submitted-by": "Chaeyeon Lim",
+    "why-is-this-project-important-to-include-in-the": "DeBiasMe brings into the casebook a set of voices and methods that are largely absent from the existing evidence base:\n1. Communities rarely heard in AI governance: Participants are classroom teachers and non-technical professionals, people usually positioned only as end-users of AI. \n2. A novel, reusable participation method: The bias-mapping card and cube system is a low-tech, hands-on artifact that externalises the AI life cycle and makes an abstract concept (\"bias\") concrete, locatable, and negotiable across a group. It is designed to be reused by other facilitators.\n3. Our project reframes the unit of engagement: Rather than asking individuals to detect bias, the workshop distributes the work of scrutinising AI across people, making bias a collective and deliberative learning object. \n4. It builds power, not just data. The aim is to leave participants more able to question and shape AI in their own settings, and to connect that capacity to a global policy instrument (UNESCO AI CFS).",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Audit: Review design or implementation of AI tools",
+      "Empowerment: Build community power with respect to AI",
+      "Evaluate: Check the quality of evidence or engagement processes"
+    ],
+    "supporting-resources": [
+      "making-bias-explorable-for-metacognitive-scaffolding-and-shared-regulation-in-learning"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How AI and human bias emerges across AI life cycle, and how educators, learners, and professionals can collectively recognize and regulate it.",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "A research poster",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "learningspark"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://debiasme.grwebsite.com/",
+    "where-were-participants-from": [
+      "Seoul, South Korea ",
+      "South Korea "
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals",
+    "data": {
+      "layout": "case",
+      "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals",
+      "airtable_id": "6da30126904d9433",
+      "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals",
+      "redirect_from": [
+        "/c/6da30126904d9433/"
+      ],
+      "lead-organisations": [
+        "debiasme"
+      ],
+      "provide-a-brief-description-of-the-project": "DeBiasMe is a community-engaged AI literacy initiative that turns AI bias into learning contents publics can explore and act on together rather than a technical problem left to experts. Using an AI literacy toolkit of tangible \"bias mapping\" cards and cubes organised around four stages of the AI life cycle (prompt/input, data, model training, and output interpretation), DeBiasMe runs participatory workshops in which learners, educators or facilitators, and AI systems jointly examine where bias enters AI and who is responsible for addressing it. Run with K-12 teacher and professional cohorts in South Korea, with ongoing parallel pilots in the UK, the workshops surface how non-technical publics perceive and regulate AI bias and build their capacity to engage critically with it. The initiative connects grassroots engagement to a global standard: DeBiasMe supports the South Korea validation of the UNESCO AI Competency Framework for Students.\n",
+      "what-limitations-to-the-project-should-be-noted": "1\\. Convenience recruitment via partner networks likely skews toward educators and professionals already interested in AI.\n\n2\\. Sessions are facilitator-mediated; the full three-way learner–facilitator–AI dynamic has not yet been measured.\n",
+      "project-status": "In Progress",
+      "headline-findings": "From \"flaw to detect\" to \"responsibility to share.\" Non-experts could locate and name bias. Given the cards, teachers and professionals with no technical background could identify where bias enters (input / data / model / interpretation) and assign who should act on it. Participants reframed AI bias as a shared responsibility to regulate. \n",
+      "participants": [
+        "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-design-probe",
+        "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-inperson-survey"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Predictive AI",
+        "Current issues",
+        "Future issues"
+      ],
+      "theme": [
+        "Education"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "inclusion-efforts": "The card/cube artifact requires no coding or technical background; it lets non-specialists locate and discuss bias through physical arrangement and conversation rather than jargon.\n",
+      "project-title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals",
+      "submitted-by": "Chaeyeon Lim",
+      "why-is-this-project-important-to-include-in-the": "DeBiasMe brings into the casebook a set of voices and methods that are largely absent from the existing evidence base:\n1. Communities rarely heard in AI governance: Participants are classroom teachers and non-technical professionals, people usually positioned only as end-users of AI. \n2. A novel, reusable participation method: The bias-mapping card and cube system is a low-tech, hands-on artifact that externalises the AI life cycle and makes an abstract concept (\"bias\") concrete, locatable, and negotiable across a group. It is designed to be reused by other facilitators.\n3. Our project reframes the unit of engagement: Rather than asking individuals to detect bias, the workshop distributes the work of scrutinising AI across people, making bias a collective and deliberative learning object. \n4. It builds power, not just data. The aim is to leave participants more able to question and shape AI in their own settings, and to connect that capacity to a global policy instrument (UNESCO AI CFS).",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Audit: Review design or implementation of AI tools",
+        "Empowerment: Build community power with respect to AI",
+        "Evaluate: Check the quality of evidence or engagement processes"
+      ],
+      "supporting-resources": [
+        "making-bias-explorable-for-metacognitive-scaffolding-and-shared-regulation-in-learning"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How AI and human bias emerges across AI life cycle, and how educators, learners, and professionals can collectively recognize and regulate it.",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "A research poster",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "learningspark"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://debiasme.grwebsite.com/",
+      "where-were-participants-from": [
+        "Seoul, South Korea ",
+        "South Korea "
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-inperson-survey",
+        "data": {
+          "layout": "generic",
+          "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Inperson survey ",
+          "airtable_id": "43666a37b64b688b",
+          "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-inperson-survey",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "South Korea ",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Inperson survey ",
+          "group-description": "Inperson survey ",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "additional-notes": "structured product-feedback session using the same artifact in a workplace setting",
+          "how-many-people-took-part": 12,
+          "cases": [
+            "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+          ],
+          "recruitment-description": "Survey held during workshop for professionals ",
+          "was-there-a-specific-target-population": "Non-technical professionals",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-design-probe",
+        "data": {
+          "layout": "generic",
+          "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Design probe",
+          "airtable_id": "f78a633c8ee70408",
+          "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-design-probe",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Seoul, South Korea ",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research",
+            "Participatory futures workshop",
+            "Scenario Workshop"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Design probe",
+          "group-description": "Design probe",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 10,
+          "cases": [
+            "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+          ],
+          "recruitment-description": "Advertised for volunteers during Learningspark's AI sessions for teachers. ",
+          "was-there-a-specific-target-population": "K-12 teachers",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "debiasme",
+        "data": {
+          "layout": "organisation",
+          "title": "DeBiasMe",
+          "airtable_id": "f833b5bb16117061",
+          "slug": "debiasme",
+          "role": [
+            "Lead"
+          ],
+          "name": "DeBiasMe",
+          "lead-organisation-for": [
+            "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "learningspark",
+        "data": {
+          "layout": "organisation",
+          "title": "Learningspark",
+          "airtable_id": "ba9c0d8a1c33f206",
+          "slug": "learningspark",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+          ],
+          "name": "Learningspark",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+          ],
+          "layout": "generic",
+          "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-process",
+          "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals - Process",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Inperson survey ",
+        "airtable_id": "43666a37b64b688b",
+        "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-inperson-survey",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "South Korea ",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Inperson survey ",
+        "group-description": "Inperson survey ",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "additional-notes": "structured product-feedback session using the same artifact in a workplace setting",
+        "how-many-people-took-part": 12,
+        "cases": [
+          "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+        ],
+        "recruitment-description": "Survey held during workshop for professionals ",
+        "was-there-a-specific-target-population": "Non-technical professionals",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Design probe",
+        "airtable_id": "f78a633c8ee70408",
+        "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-design-probe",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Seoul, South Korea ",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research",
+          "Participatory futures workshop",
+          "Scenario Workshop"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals-Design probe",
+        "group-description": "Design probe",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 10,
+        "cases": [
+          "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+        ],
+        "recruitment-description": "Advertised for volunteers during Learningspark's AI sessions for teachers. ",
+        "was-there-a-specific-target-population": "K-12 teachers",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+        ],
+        "layout": "generic",
+        "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals-process",
+        "title": "DeBiasMe: Participatory AI Bias Mapping with K-12 Educators and Professionals - Process",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "DeBiasMe",
+        "airtable_id": "f833b5bb16117061",
+        "slug": "debiasme",
+        "role": [
+          "Lead"
+        ],
+        "name": "DeBiasMe",
+        "lead-organisation-for": [
+          "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Learningspark",
+        "airtable_id": "ba9c0d8a1c33f206",
+        "slug": "learningspark",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals"
+        ],
+        "name": "Learningspark",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology",
+  "lang": "en",
+  "structure": "process-centric",
+  "case_data": {
+    "layout": "case",
+    "title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology",
+    "airtable_id": "0b9e54c4a3314e51",
+    "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology",
+    "redirect_from": [
+      "/c/0b9e54c4a3314e51/"
+    ],
+    "provide-a-brief-description-of-the-project": "The MTST (Homeless Workers' Movement) Technology Hub is a community-led initiative created within one of Brazil's largest social movements. Established during the COVID-19 pandemic, the project seeks to connect struggles for housing, social justice, and digital sovereignty.\n\nThe initiative develops technological capacities among working-class and peripheral communities through training programmes in programming, microelectronics, digital literacy, and critical technology education. Beyond technical skills, participants are encouraged to critically engage with digital infrastructures, algorithms, data governance, and the social impacts of emerging technologies.\n\nThe project is organised around three pillars: meaningful community connectivity, critical and peripheral technology education, and the creation of dignified alternatives to precarious forms of digital labour. It also experiments with participatory technologies, civic engagement tools, and community-based approaches to data and digital infrastructures.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "what-year-did-the-project-start": 2020,
+    "inclusion-efforts": "\n",
+    "project-title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology",
+    "submitted-by": "Carine Roos",
+    "why-is-this-project-important-to-include-in-the": "This project offers a unique example of public engagement with technology and AI from the perspective of communities that are often excluded from discussions about digital governance. Rather than engaging citizens only as consultees, the MTST Technology Hub seeks to build long-term technological autonomy and democratic participation among marginalised populations.\n\nThe initiative is particularly significant because it links questions of AI, data governance, and digital infrastructures to broader struggles for social justice, housing, and economic rights. It demonstrates how communities can move beyond being passive users of technology and become active participants in shaping digital futures.\n\nThe project also contributes an important Majority World perspective on public participation, highlighting how engagement with AI and technology governance can emerge from grassroots social movements instead of formal institutional processes. Its concept of \"Popular Digital Sovereignty\" offers an innovative framework for thinking about democratic participation in technology governance.",
+    "supporting-resources": [
+      "building-worker-owned-technologies-in-latin-america-shared-learning-intersectionality-and-collective"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://tecnologia.mtst.org"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology",
+    "data": {
+      "layout": "case",
+      "title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology",
+      "airtable_id": "0b9e54c4a3314e51",
+      "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology",
+      "redirect_from": [
+        "/c/0b9e54c4a3314e51/"
+      ],
+      "provide-a-brief-description-of-the-project": "The MTST (Homeless Workers' Movement) Technology Hub is a community-led initiative created within one of Brazil's largest social movements. Established during the COVID-19 pandemic, the project seeks to connect struggles for housing, social justice, and digital sovereignty.\n\nThe initiative develops technological capacities among working-class and peripheral communities through training programmes in programming, microelectronics, digital literacy, and critical technology education. Beyond technical skills, participants are encouraged to critically engage with digital infrastructures, algorithms, data governance, and the social impacts of emerging technologies.\n\nThe project is organised around three pillars: meaningful community connectivity, critical and peripheral technology education, and the creation of dignified alternatives to precarious forms of digital labour. It also experiments with participatory technologies, civic engagement tools, and community-based approaches to data and digital infrastructures.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "what-year-did-the-project-start": 2020,
+      "inclusion-efforts": "\n",
+      "project-title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology",
+      "submitted-by": "Carine Roos",
+      "why-is-this-project-important-to-include-in-the": "This project offers a unique example of public engagement with technology and AI from the perspective of communities that are often excluded from discussions about digital governance. Rather than engaging citizens only as consultees, the MTST Technology Hub seeks to build long-term technological autonomy and democratic participation among marginalised populations.\n\nThe initiative is particularly significant because it links questions of AI, data governance, and digital infrastructures to broader struggles for social justice, housing, and economic rights. It demonstrates how communities can move beyond being passive users of technology and become active participants in shaping digital futures.\n\nThe project also contributes an important Majority World perspective on public participation, highlighting how engagement with AI and technology governance can emerge from grassroots social movements instead of formal institutional processes. Its concept of \"Popular Digital Sovereignty\" offers an innovative framework for thinking about democratic participation in technology governance.",
+      "supporting-resources": [
+        "building-worker-owned-technologies-in-latin-america-shared-learning-intersectionality-and-collective"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://tecnologia.mtst.org"
+    },
+    "children": [
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology"
+          ],
+          "layout": "generic",
+          "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology-process",
+          "title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology - Process"
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [],
+    "processes": [
+      {
+        "cases": [
+          "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology"
+        ],
+        "layout": "generic",
+        "slug": "mtst-technology-hub-building-popular-digital-sovereignty-through-community-led-technology-process",
+        "title": "MTST Technology Hub: Building Popular Digital Sovereignty Through Community-Led Technology - Process"
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

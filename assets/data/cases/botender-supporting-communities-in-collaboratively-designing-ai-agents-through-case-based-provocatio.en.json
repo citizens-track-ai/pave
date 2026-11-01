@@ -1,0 +1,310 @@
+{
+  "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations",
+    "airtable_id": "2e9241af9eeeffca",
+    "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+    "redirect_from": [
+      "/c/2e9241af9eeeffca/"
+    ],
+    "lead-organisations": [
+      "carnegie-mellon-university"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2025 at team at Carnegie Mellon University initiated a process using an online form of community-based participatory research to engage approximately 31 people in collaborative design sessions across six Discord servers. Participants were involved in collaborative design and shaping of the behavior of LLM-powered community bots, with the goal building greater community power with respect to shaping AI tools used in their online spaces.\n\nThe project team describe: \n> AI agents, or bots, serve important roles in online communities. However, they are often designed by outsiders or a few tech-savvy members, leading to bots that may not align with the broader community’s needs. How might communities collectively shape the behavior of community bots? \n> \n> Botender is a system that enables communities to collaboratively design LLM-powered bots without coding. With Botender, community members can directly propose, iterate on, and deploy custom bot behaviors tailored to community needs. Botender facilitates testing and iteration on bot behavior through case-based provocations: interaction scenarios generated to spark user reflection and discussion around desirable bot behavior.\n> \n> A validation study found these provocations more useful than standard test cases for revealing improvement opportunities and surfacing disagreements. \n> \n> During a five-day deployment across six Discord servers, Botender supported communities in tailoring bot behavior to their specific needs, showcasing the usefulness of case-based provocations in facilitating collaborative bot design.\n",
+    "what-limitations-to-the-project-should-be-noted": "Currently, Discord groups interested in trying out the system should contact us to request the installation link, as it is not yet publicly available.\n",
+    "project-status": "Complete",
+    "headline-findings": "With Botender, participants designed a variety of tasks for the bot tailored to the specific needs and norms of their own communities.\n\nParticipants found that case-based provocations effectively facilitated iterative, collaborative design.\n\nParticipants emphasized that Botender’s overall work-flow and integration with their community platform were helpful in fostering community participation.\n\n",
+    "participants": [
+      "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "additional-acknowledgements": "Tzu-Sheng Kuo, Sophia Liu, Quan Ze Chen, Joseph Seering, Amy X. Zhang, Haiyi Zhu, Kenneth Holstein",
+    "inclusion-efforts": "We recruited participants through both paper and digital flyers. To accommodate participants from the same Discord server who may not be available at the same time, we recorded the onboarding tutorial so they could join at their convenience. The system is very user-friendly, and no participants had any issues learning how to use it.\n",
+    "project-title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations",
+    "submitted-by": "Tzu-Sheng Kuo",
+    "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons: (a) The system introduced, called Botender, is specifically designed to surface diverse perspectives within an online community regarding desired LLM-based bot behavior on their platform. (b) Unlike the common paradigm in which only members with technical expertise shape bot behavior, this system enables all community members to collaborate on bot design. (c) The system’s novelty lies in its support for collaborative bot design through the use of case-based provocations, which are synthetic scenarios generated to spark reflection and discussion about desirable bot behavior.",
+    "project-goals": [
+      "AI Development: Shape the development of AI tools"
+    ],
+    "supporting-resources": [
+      "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "This project presents Botender, a system that enables online communities to collaboratively design LLM-powered bots without coding.",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "Professional",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://doi.org/10.1145/3772318.3790500",
+    "locations": [
+      "global"
+    ],
+    "where-were-participants-from": [
+      "Discord servers"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+    "data": {
+      "layout": "case",
+      "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations",
+      "airtable_id": "2e9241af9eeeffca",
+      "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+      "redirect_from": [
+        "/c/2e9241af9eeeffca/"
+      ],
+      "lead-organisations": [
+        "carnegie-mellon-university"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2025 at team at Carnegie Mellon University initiated a process using an online form of community-based participatory research to engage approximately 31 people in collaborative design sessions across six Discord servers. Participants were involved in collaborative design and shaping of the behavior of LLM-powered community bots, with the goal building greater community power with respect to shaping AI tools used in their online spaces.\n\nThe project team describe: \n> AI agents, or bots, serve important roles in online communities. However, they are often designed by outsiders or a few tech-savvy members, leading to bots that may not align with the broader community’s needs. How might communities collectively shape the behavior of community bots? \n> \n> Botender is a system that enables communities to collaboratively design LLM-powered bots without coding. With Botender, community members can directly propose, iterate on, and deploy custom bot behaviors tailored to community needs. Botender facilitates testing and iteration on bot behavior through case-based provocations: interaction scenarios generated to spark user reflection and discussion around desirable bot behavior.\n> \n> A validation study found these provocations more useful than standard test cases for revealing improvement opportunities and surfacing disagreements. \n> \n> During a five-day deployment across six Discord servers, Botender supported communities in tailoring bot behavior to their specific needs, showcasing the usefulness of case-based provocations in facilitating collaborative bot design.\n",
+      "what-limitations-to-the-project-should-be-noted": "Currently, Discord groups interested in trying out the system should contact us to request the installation link, as it is not yet publicly available.\n",
+      "project-status": "Complete",
+      "headline-findings": "With Botender, participants designed a variety of tasks for the bot tailored to the specific needs and norms of their own communities.\n\nParticipants found that case-based provocations effectively facilitated iterative, collaborative design.\n\nParticipants emphasized that Botender’s overall work-flow and integration with their community platform were helpful in fostering community participation.\n\n",
+      "participants": [
+        "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "additional-acknowledgements": "Tzu-Sheng Kuo, Sophia Liu, Quan Ze Chen, Joseph Seering, Amy X. Zhang, Haiyi Zhu, Kenneth Holstein",
+      "inclusion-efforts": "We recruited participants through both paper and digital flyers. To accommodate participants from the same Discord server who may not be available at the same time, we recorded the onboarding tutorial so they could join at their convenience. The system is very user-friendly, and no participants had any issues learning how to use it.\n",
+      "project-title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations",
+      "submitted-by": "Tzu-Sheng Kuo",
+      "why-is-this-project-important-to-include-in-the": "This project should be included in the case book for the following reasons: (a) The system introduced, called Botender, is specifically designed to surface diverse perspectives within an online community regarding desired LLM-based bot behavior on their platform. (b) Unlike the common paradigm in which only members with technical expertise shape bot behavior, this system enables all community members to collaborate on bot design. (c) The system’s novelty lies in its support for collaborative bot design through the use of case-based provocations, which are synthetic scenarios generated to spark reflection and discussion about desirable bot behavior.",
+      "project-goals": [
+        "AI Development: Shape the development of AI tools"
+      ],
+      "supporting-resources": [
+        "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "This project presents Botender, a system that enables online communities to collaboratively design LLM-powered bots without coding.",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "Professional",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://doi.org/10.1145/3772318.3790500",
+      "locations": [
+        "global"
+      ],
+      "where-were-participants-from": [
+        "Discord servers"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+        "data": {
+          "layout": "generic",
+          "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations-Discord users",
+          "airtable_id": "93574520bd9c0bc4",
+          "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+          "locations": [
+            "global"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Discord servers",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research"
+          ],
+          "on-average-how-many-hours-did-each-participant": 120,
+          "name": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations-Discord users",
+          "group-description": "Discord users",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 31,
+          "cases": [
+            "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+          ],
+          "recruitment-description": "We recruited participants interested in trying out our tool through both paper and digital flyers.",
+          "was-there-a-specific-target-population": "Users from the same Discord server were recruited to collaborate on designing a bot that meets the specific needs and norms of their server.",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "carnegie-mellon-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Carnegie Mellon University",
+          "airtable_id": "eff41d061d008bf7",
+          "slug": "carnegie-mellon-university",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.cmu.edu/",
+          "name": "Carnegie Mellon University",
+          "lead-organisation-for": [
+            "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+            "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+            "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+            "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+          ],
+          "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+          "main-location": [
+            "pittsburgh-pennsylvania-usa"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+          ],
+          "layout": "generic",
+          "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio-process",
+          "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations-Discord users",
+        "airtable_id": "93574520bd9c0bc4",
+        "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio",
+        "locations": [
+          "global"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Discord servers",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research"
+        ],
+        "on-average-how-many-hours-did-each-participant": 120,
+        "name": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations-Discord users",
+        "group-description": "Discord users",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 31,
+        "cases": [
+          "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+        ],
+        "recruitment-description": "We recruited participants interested in trying out our tool through both paper and digital flyers.",
+        "was-there-a-specific-target-population": "Users from the same Discord server were recruited to collaborate on designing a bot that meets the specific needs and norms of their server.",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+        ],
+        "layout": "generic",
+        "slug": "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio-process",
+        "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Carnegie Mellon University",
+        "airtable_id": "eff41d061d008bf7",
+        "slug": "carnegie-mellon-university",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.cmu.edu/",
+        "name": "Carnegie Mellon University",
+        "lead-organisation-for": [
+          "wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia",
+          "understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service",
+          "policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat",
+          "botender-supporting-communities-in-collaboratively-designing-ai-agents-through-case-based-provocatio"
+        ],
+        "mission-statement": "To challenge the curious and passionate to imagine and deliver work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)",
+        "main-location": [
+          "pittsburgh-pennsylvania-usa"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

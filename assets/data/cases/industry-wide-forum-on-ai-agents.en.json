@@ -1,0 +1,943 @@
+{
+  "slug": "industry-wide-forum-on-ai-agents",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Industry Wide Forum on AI Agents",
+    "airtable_id": "433ceb81bba28f44",
+    "slug": "industry-wide-forum-on-ai-agents",
+    "redirect_from": [
+      "/c/433ceb81bba28f44/"
+    ],
+    "lead-organisations": [
+      "stanford-deliberative-democracy-lab",
+      "oracle",
+      "doordash",
+      "paypal",
+      "cohere",
+      "microsoft"
+    ],
+    "provide-a-brief-description-of-the-project": "\"In November 2025, leading technology companies—Meta, Oracle, DoorDash, PayPal, Cohere, and Microsoft—in partnership with the Stanford Deliberative Democracy Lab organized a first-of-its-kind collaborative effort to consult the public in shaping the future of AI agents: The Industry-Wide Forum on AI Agents.\n\nThis Industry-Wide Forum brought together everyday people to weigh in on tech policy and product development decisions where there are difficult tradeoffs with no simple answers. Specifically, participants in the Industry-Wide Forum explored the use of AI agents, a type of generative AI that can perform actions for you, on your behalf autonomously. In the near term, AI agents are expected to conduct a myriad of transactions and tasks on behalf of users, opening up considerable opportunities to offer great value as well as significant risks. \n\nConsidering everything from personal to financial, medical, work use cases, and more, participants discussed not only what a world with AI agents would look like, but also how that world would fit them. These deliberations highlight what users are thinking now amidst the developing landscape of AI agents. \n\n503 participants from two countries, the United States and India, participated in this deliberative event. The samples of these countries were recruited independently, so the Industry-Wide Forum should be seen as two independent deliberations. In addition, 519 persons participated in the control group, where the participants did not deliberate in any discussions; the control group only completed the two surveys, pre and post. The main purpose of the control group is to demonstrate that any changes that occur after deliberation are a result of the deliberative event.\"\n",
+    "project-status": "Complete",
+    "participants": [
+      "industry-wide-forum-on-ai-agents"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "messages": [
+      "when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i",
+      "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask",
+      "ai-agents-should-tailor-their-responses-to-different-cultures-or-regions",
+      "when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference",
+      "an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go",
+      "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify",
+      "ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such",
+      "i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double",
+      "low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was",
+      "i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe",
+      "an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "meta"
+    ],
+    "project-title": "Industry Wide Forum on AI Agents",
+    "why-is-this-project-important-to-include-in-the": "This is the first cross-industry sponsored deliberative poll.",
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "summary-report-of-findings"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The future of AI agents in personal, financial, medical and work use cases",
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://fsi.stanford.edu/news/people-shaping-ai-groundbreaking-industry-wide-forum-invites-public-input-future-ai-agents",
+    "locations": [
+      "india",
+      "united-states"
+    ],
+    "where-were-participants-from": [
+      "United States, India"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "industry-wide-forum-on-ai-agents",
+    "data": {
+      "layout": "case",
+      "title": "Industry Wide Forum on AI Agents",
+      "airtable_id": "433ceb81bba28f44",
+      "slug": "industry-wide-forum-on-ai-agents",
+      "redirect_from": [
+        "/c/433ceb81bba28f44/"
+      ],
+      "lead-organisations": [
+        "stanford-deliberative-democracy-lab",
+        "oracle",
+        "doordash",
+        "paypal",
+        "cohere",
+        "microsoft"
+      ],
+      "provide-a-brief-description-of-the-project": "\"In November 2025, leading technology companies—Meta, Oracle, DoorDash, PayPal, Cohere, and Microsoft—in partnership with the Stanford Deliberative Democracy Lab organized a first-of-its-kind collaborative effort to consult the public in shaping the future of AI agents: The Industry-Wide Forum on AI Agents.\n\nThis Industry-Wide Forum brought together everyday people to weigh in on tech policy and product development decisions where there are difficult tradeoffs with no simple answers. Specifically, participants in the Industry-Wide Forum explored the use of AI agents, a type of generative AI that can perform actions for you, on your behalf autonomously. In the near term, AI agents are expected to conduct a myriad of transactions and tasks on behalf of users, opening up considerable opportunities to offer great value as well as significant risks. \n\nConsidering everything from personal to financial, medical, work use cases, and more, participants discussed not only what a world with AI agents would look like, but also how that world would fit them. These deliberations highlight what users are thinking now amidst the developing landscape of AI agents. \n\n503 participants from two countries, the United States and India, participated in this deliberative event. The samples of these countries were recruited independently, so the Industry-Wide Forum should be seen as two independent deliberations. In addition, 519 persons participated in the control group, where the participants did not deliberate in any discussions; the control group only completed the two surveys, pre and post. The main purpose of the control group is to demonstrate that any changes that occur after deliberation are a result of the deliberative event.\"\n",
+      "project-status": "Complete",
+      "participants": [
+        "industry-wide-forum-on-ai-agents"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "messages": [
+        "when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i",
+        "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask",
+        "ai-agents-should-tailor-their-responses-to-different-cultures-or-regions",
+        "when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference",
+        "an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go",
+        "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify",
+        "ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such",
+        "i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double",
+        "low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was",
+        "i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe",
+        "an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "meta"
+      ],
+      "project-title": "Industry Wide Forum on AI Agents",
+      "why-is-this-project-important-to-include-in-the": "This is the first cross-industry sponsored deliberative poll.",
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "summary-report-of-findings"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The future of AI agents in personal, financial, medical and work use cases",
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://fsi.stanford.edu/news/people-shaping-ai-groundbreaking-industry-wide-forum-invites-public-input-future-ai-agents",
+      "locations": [
+        "india",
+        "united-states"
+      ],
+      "where-were-participants-from": [
+        "United States, India"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "industry-wide-forum-on-ai-agents",
+        "data": {
+          "layout": "generic",
+          "title": "Industry Wide Forum on AI Agents-",
+          "airtable_id": "6bea2008243b8f3d",
+          "slug": "industry-wide-forum-on-ai-agents",
+          "locations": [
+            "united-states",
+            "india"
+          ],
+          "recruitment-method": "Statistical sample",
+          "where-were-participants-from": "United States, India",
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "Industry Wide Forum on AI Agents-",
+          "how-many-people-took-part": 503,
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "doordash",
+        "data": {
+          "layout": "organisation",
+          "title": "DoorDash",
+          "airtable_id": "6b35d3dbc7d0c522",
+          "slug": "doordash",
+          "role": [
+            "Lead"
+          ],
+          "name": "DoorDash",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "paypal",
+        "data": {
+          "layout": "organisation",
+          "title": "PayPal",
+          "airtable_id": "073e6aa5ec293849",
+          "slug": "paypal",
+          "role": [
+            "Lead"
+          ],
+          "name": "PayPal",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "oracle",
+        "data": {
+          "layout": "organisation",
+          "title": "Oracle",
+          "airtable_id": "c0cd6b1bae45c23d",
+          "slug": "oracle",
+          "role": [
+            "Lead"
+          ],
+          "name": "Oracle",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cohere",
+        "data": {
+          "layout": "organisation",
+          "title": "Cohere",
+          "airtable_id": "3b25978911d5698d",
+          "slug": "cohere",
+          "role": [
+            "Lead"
+          ],
+          "name": "Cohere",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "stanford-deliberative-democracy-lab",
+        "data": {
+          "layout": "organisation",
+          "title": "Stanford Deliberative Democracy Lab",
+          "airtable_id": "c20847a8aab77571",
+          "slug": "stanford-deliberative-democracy-lab",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "norwegian-public-sector-ai-deliberative-poll",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://ddl.stanford.edu/",
+          "name": "Stanford Deliberative Democracy Lab",
+          "lead-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "nationwide-deliberation-on-use-of-ai-in-high-schools",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "microsoft",
+        "data": {
+          "layout": "organisation",
+          "title": "Microsoft",
+          "airtable_id": "241e6537d2560587",
+          "slug": "microsoft",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.microsoft.com/",
+          "name": "Microsoft",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "main-location": [
+            "united-states"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "meta",
+        "data": {
+          "layout": "organisation",
+          "title": "Meta",
+          "airtable_id": "531dbb6ab36b8d39",
+          "slug": "meta",
+          "role": [
+            "Funder"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "meta-community-forum-on-ai-wearables"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://about.meta.com/",
+          "name": "Meta",
+          "lead-organisation-for": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "funding-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "meta-community-forum-on-proactive-agents",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe",
+        "data": {
+          "layout": "generic",
+          "title": "I want to use an AI agent if it would help me make plans, even if it meant I personally considered fewer options.",
+          "airtable_id": "50bc6929ae338093",
+          "slug": "i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: India (72.3%)",
+          "name": "I want to use an AI agent if it would help me make plans, even if it meant I personally considered fewer options.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double",
+        "data": {
+          "layout": "generic",
+          "title": "I want to use an AI agent at work if it helped me automate repetitive tasks, even if I had to double check its answers to make sure they were correct.",
+          "airtable_id": "26050a9c1d3044b0",
+          "slug": "i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (51.9%) and India (74.1%)",
+          "name": "I want to use an AI agent at work if it helped me automate repetitive tasks, even if I had to double check its answers to make sure they were correct.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go",
+        "data": {
+          "layout": "generic",
+          "title": "An AI agent should be able to use information about my working and writing style in order to be a good work assistant.",
+          "airtable_id": "f872cf3194065698",
+          "slug": "an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (53.4%) and India (75.9%)",
+          "name": "An AI agent should be able to use information about my working and writing style in order to be a good work assistant.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference",
+        "data": {
+          "layout": "generic",
+          "title": "When users first engage with AI agents, agents should ask users about their cultural norms, preferences, and considerations, and then adapt all responses accordingly.",
+          "airtable_id": "bcd1f50c61a3b5ae",
+          "slug": "when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (59%) and India (73.2%)",
+          "name": "When users first engage with AI agents, agents should ask users about their cultural norms, preferences, and considerations, and then adapt all responses accordingly.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask",
+        "data": {
+          "layout": "generic",
+          "title": "I think AI agents should be able to pay on my behalf only when I explicitly ask.",
+          "airtable_id": "569b9efc2ddef1b4",
+          "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (63%)",
+          "name": "I think AI agents should be able to pay on my behalf only when I explicitly ask.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-agents-should-tailor-their-responses-to-different-cultures-or-regions",
+        "data": {
+          "layout": "generic",
+          "title": "AI agents should tailor their responses to different cultures or regions.",
+          "airtable_id": "330bcf1b498280cb",
+          "slug": "ai-agents-should-tailor-their-responses-to-different-cultures-or-regions",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (59.2%) and India (75%)",
+          "name": "AI agents should tailor their responses to different cultures or regions.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify",
+        "data": {
+          "layout": "generic",
+          "title": "I think AI agents should be able to pay on my behalf for the kinds of tasks that I specify.",
+          "airtable_id": "133a0fab778c85d6",
+          "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (53.2%)",
+          "name": "I think AI agents should be able to pay on my behalf for the kinds of tasks that I specify.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such",
+        "data": {
+          "layout": "generic",
+          "title": "AI agents should automatically tailor their responses to the user's culture based on\ninformation such as the language the user uses, and/or their location.",
+          "airtable_id": "47d05eee01e62704",
+          "slug": "ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (52.7%)",
+          "name": "AI agents should automatically tailor their responses to the user's culture based on\ninformation such as the language the user uses, and/or their location.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper",
+        "data": {
+          "layout": "generic",
+          "title": "An AI agent should be able to use my shopping history in order to be a good personal shopper.",
+          "airtable_id": "dfbf45e2e5909eba",
+          "slug": "an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: India (71%)",
+          "name": "An AI agent should be able to use my shopping history in order to be a good personal shopper.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i",
+        "data": {
+          "layout": "generic",
+          "title": "When making purchases, AI agents should prioritize getting user consent every time, even if it means it takes longer to finish a task because it pauses agent workflows.",
+          "airtable_id": "a6556d2060aa5381",
+          "slug": "when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: US (82.1%) and India (77.7%)",
+          "name": "When making purchases, AI agents should prioritize getting user consent every time, even if it means it takes longer to finish a task because it pauses agent workflows.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was",
+        "data": {
+          "layout": "generic",
+          "title": "Low Risk (Photos): I would trust an AI agent to act on my behalf, even if it explained to me how it was tested and evaluated, every time I use an AI agent.",
+          "airtable_id": "7a8eb5c8c057f18f",
+          "slug": "low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was",
+          "type": "Issue",
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "additional-credit-line": "Most supported statements after deliberation: India (73.7%)",
+          "name": "Low Risk (Photos): I would trust an AI agent to act on my behalf, even if it explained to me how it was tested and evaluated, every time I use an AI agent.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "layout": "generic",
+          "slug": "industry-wide-forum-on-ai-agents-process",
+          "title": "Industry Wide Forum on AI Agents - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Industry Wide Forum on AI Agents-",
+        "airtable_id": "6bea2008243b8f3d",
+        "slug": "industry-wide-forum-on-ai-agents",
+        "locations": [
+          "united-states",
+          "india"
+        ],
+        "recruitment-method": "Statistical sample",
+        "where-were-participants-from": "United States, India",
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "Industry Wide Forum on AI Agents-",
+        "how-many-people-took-part": 503,
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "layout": "generic",
+        "slug": "industry-wide-forum-on-ai-agents-process",
+        "title": "Industry Wide Forum on AI Agents - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "DoorDash",
+        "airtable_id": "6b35d3dbc7d0c522",
+        "slug": "doordash",
+        "role": [
+          "Lead"
+        ],
+        "name": "DoorDash",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "PayPal",
+        "airtable_id": "073e6aa5ec293849",
+        "slug": "paypal",
+        "role": [
+          "Lead"
+        ],
+        "name": "PayPal",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Oracle",
+        "airtable_id": "c0cd6b1bae45c23d",
+        "slug": "oracle",
+        "role": [
+          "Lead"
+        ],
+        "name": "Oracle",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Cohere",
+        "airtable_id": "3b25978911d5698d",
+        "slug": "cohere",
+        "role": [
+          "Lead"
+        ],
+        "name": "Cohere",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Stanford Deliberative Democracy Lab",
+        "airtable_id": "c20847a8aab77571",
+        "slug": "stanford-deliberative-democracy-lab",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "norwegian-public-sector-ai-deliberative-poll",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://ddl.stanford.edu/",
+        "name": "Stanford Deliberative Democracy Lab",
+        "lead-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "nationwide-deliberation-on-use-of-ai-in-high-schools",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Microsoft",
+        "airtable_id": "241e6537d2560587",
+        "slug": "microsoft",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.microsoft.com/",
+        "name": "Microsoft",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "main-location": [
+          "united-states"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Meta",
+        "airtable_id": "531dbb6ab36b8d39",
+        "slug": "meta",
+        "role": [
+          "Funder"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "meta-community-forum-on-ai-wearables"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://about.meta.com/",
+        "name": "Meta",
+        "lead-organisation-for": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "funding-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "meta-community-forum-on-proactive-agents",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "I want to use an AI agent if it would help me make plans, even if it meant I personally considered fewer options.",
+        "airtable_id": "50bc6929ae338093",
+        "slug": "i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: India (72.3%)",
+        "name": "I want to use an AI agent if it would help me make plans, even if it meant I personally considered fewer options.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I want to use an AI agent at work if it helped me automate repetitive tasks, even if I had to double check its answers to make sure they were correct.",
+        "airtable_id": "26050a9c1d3044b0",
+        "slug": "i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (51.9%) and India (74.1%)",
+        "name": "I want to use an AI agent at work if it helped me automate repetitive tasks, even if I had to double check its answers to make sure they were correct.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "An AI agent should be able to use information about my working and writing style in order to be a good work assistant.",
+        "airtable_id": "f872cf3194065698",
+        "slug": "an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (53.4%) and India (75.9%)",
+        "name": "An AI agent should be able to use information about my working and writing style in order to be a good work assistant.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "When users first engage with AI agents, agents should ask users about their cultural norms, preferences, and considerations, and then adapt all responses accordingly.",
+        "airtable_id": "bcd1f50c61a3b5ae",
+        "slug": "when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (59%) and India (73.2%)",
+        "name": "When users first engage with AI agents, agents should ask users about their cultural norms, preferences, and considerations, and then adapt all responses accordingly.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I think AI agents should be able to pay on my behalf only when I explicitly ask.",
+        "airtable_id": "569b9efc2ddef1b4",
+        "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (63%)",
+        "name": "I think AI agents should be able to pay on my behalf only when I explicitly ask.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI agents should tailor their responses to different cultures or regions.",
+        "airtable_id": "330bcf1b498280cb",
+        "slug": "ai-agents-should-tailor-their-responses-to-different-cultures-or-regions",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (59.2%) and India (75%)",
+        "name": "AI agents should tailor their responses to different cultures or regions.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I think AI agents should be able to pay on my behalf for the kinds of tasks that I specify.",
+        "airtable_id": "133a0fab778c85d6",
+        "slug": "i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (53.2%)",
+        "name": "I think AI agents should be able to pay on my behalf for the kinds of tasks that I specify.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI agents should automatically tailor their responses to the user's culture based on\ninformation such as the language the user uses, and/or their location.",
+        "airtable_id": "47d05eee01e62704",
+        "slug": "ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (52.7%)",
+        "name": "AI agents should automatically tailor their responses to the user's culture based on\ninformation such as the language the user uses, and/or their location.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "An AI agent should be able to use my shopping history in order to be a good personal shopper.",
+        "airtable_id": "dfbf45e2e5909eba",
+        "slug": "an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: India (71%)",
+        "name": "An AI agent should be able to use my shopping history in order to be a good personal shopper.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "When making purchases, AI agents should prioritize getting user consent every time, even if it means it takes longer to finish a task because it pauses agent workflows.",
+        "airtable_id": "a6556d2060aa5381",
+        "slug": "when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: US (82.1%) and India (77.7%)",
+        "name": "When making purchases, AI agents should prioritize getting user consent every time, even if it means it takes longer to finish a task because it pauses agent workflows.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Low Risk (Photos): I would trust an AI agent to act on my behalf, even if it explained to me how it was tested and evaluated, every time I use an AI agent.",
+        "airtable_id": "7a8eb5c8c057f18f",
+        "slug": "low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was",
+        "type": "Issue",
+        "cases": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "additional-credit-line": "Most supported statements after deliberation: India (73.7%)",
+        "name": "Low Risk (Photos): I would trust an AI agent to act on my behalf, even if it explained to me how it was tested and evaluated, every time I use an AI agent.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ]
+  }
+}

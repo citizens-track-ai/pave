@@ -1,0 +1,224 @@
+{
+  "slug": "ai-atlarge",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AI AtLarge",
+    "airtable_id": "a0a0c118d6019a27",
+    "slug": "ai-atlarge",
+    "redirect_from": [
+      "/c/a0a0c118d6019a27/"
+    ],
+    "lead-organisations": [
+      "ai-atlarge-inc"
+    ],
+    "provide-a-brief-description-of-the-project": "Launched in 2026, AI AtLarge is exploring the use of capacity-building workshops and structured listening to help everyday communities navigate and question the impact of artificial intelligence on their daily lives. By focusing on practical oversight questions rather than technical training, the project aims to empower workers, families, and students to participate meaningfully in AI governance.\n\nThe team behind it explain: \n\n> \"AI will affect everyone, yet the public discussion around it often remains distant from the people whose work, education, families, public services, and daily lives are being reshaped. AI AtLarge exists to help people understand, use, question, navigate, and shape artificial intelligence through accessible resources, public dialogue, civic engagement, and carefully selected community-led activity.\n> \n> Our purpose is not simply to teach people how AI works. It is to build the knowledge and confidence people need to recognize where AI affects them, ask informed questions, and participate meaningfully in decisions that shape their lives.\"\n\nAI AtLarge is currently operating as a focused public-interest platform. Its initial work includes clear public education, practical tools, structured public listening, short public notes that translate institutional AI debates into understandable questions, and selective engagement in forums concerning AI’s societal effects. It may co-host events where a credible partner provides a clear audience, practical capacity, and public benefit.\n\nGatherings, local Hubs, and Chapters remain possible future delivery mechanisms. AI AtLarge does not yet claim to represent AI users or to operate a broad network. It intends to earn legitimacy through sustained listening, useful public resources, and credible engagement with people living with AI’s effects.\n\n**Primary aims**\n- Advance public understanding of AI in everyday life.\n- Strengthen people’s confidence and human agency in an AI-shaped society.\n- Make AI governance questions understandable and relevant beyond expert communities.\n- Listen to real public questions, experiences, concerns, and aspirations.\n- Support more meaningful public participation in decisions about AI.\n\n**Who the initiative serves**\nPeople living with the effects of AI, particularly workers, families, students, seniors, consumers, and communities not ordinarily included in the traditional AI ecosystem.\n\n**Approach / methodology**\nAI AtLarge combines accessible public resources, practical questions, structured listening, and selective civic engagement. Its educational approach can draw on four questions from the _Human in the Oversight_ framework:\n\n1. Can people see where and how AI affects them?\n2. Can they question, correct, refuse, appeal, or obtain meaningful human review?\n3. Who is accountable when an AI-enabled system causes harm or unfairness?\n4. What evidence justifies trust in its use?\n\nThis is intended as a practical public-interest framework, not a technical training curriculum.\n\n**Current activities**\n- Accessible resources on AI in everyday life.\n- An “AI Ask Anything” public-learning and listening channel.\n- Selective participation in public hearings, forums, and institutional discussions.\n- Short factual public notes translating AI policy and governance developments into plain-language questions.\n- Occasional co-hosted public events with credible partners.\n- Gradual development of an AI Public Experience Observatory based on real questions and experiences.\n\n**Geographic scope**\nInitially United States-based, with a public-interest perspective relevant to wider international AI-governance discussions. Future activity may include international partnerships where there is a credible public benefit and delivery capacity.\n\n\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "ai-atlarge-community-hubs"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "additional-acknowledgements": "Khaled Koubaa",
+    "inclusion-efforts": "\n",
+    "project-title": "AI AtLarge",
+    "method-image-caption": "Source: ",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "AI AtLarge addresses a central weakness in AI governance: people are routinely affected by AI but are rarely equipped to understand its implications or participate confidently in shaping its use. It seeks to create a credible bridge between public experience and institutional AI debates, beginning with understanding and listening rather than claiming representation.",
+    "project-goals": [
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Exploring the questions the public have about AI. ",
+    "how-was-the-project-initiated": [
+      "Community Led"
+    ],
+    "level-of-engagement": "Community",
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.aiatlarge.org/",
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ai-atlarge",
+    "data": {
+      "layout": "case",
+      "title": "AI AtLarge",
+      "airtable_id": "a0a0c118d6019a27",
+      "slug": "ai-atlarge",
+      "redirect_from": [
+        "/c/a0a0c118d6019a27/"
+      ],
+      "lead-organisations": [
+        "ai-atlarge-inc"
+      ],
+      "provide-a-brief-description-of-the-project": "Launched in 2026, AI AtLarge is exploring the use of capacity-building workshops and structured listening to help everyday communities navigate and question the impact of artificial intelligence on their daily lives. By focusing on practical oversight questions rather than technical training, the project aims to empower workers, families, and students to participate meaningfully in AI governance.\n\nThe team behind it explain: \n\n> \"AI will affect everyone, yet the public discussion around it often remains distant from the people whose work, education, families, public services, and daily lives are being reshaped. AI AtLarge exists to help people understand, use, question, navigate, and shape artificial intelligence through accessible resources, public dialogue, civic engagement, and carefully selected community-led activity.\n> \n> Our purpose is not simply to teach people how AI works. It is to build the knowledge and confidence people need to recognize where AI affects them, ask informed questions, and participate meaningfully in decisions that shape their lives.\"\n\nAI AtLarge is currently operating as a focused public-interest platform. Its initial work includes clear public education, practical tools, structured public listening, short public notes that translate institutional AI debates into understandable questions, and selective engagement in forums concerning AI’s societal effects. It may co-host events where a credible partner provides a clear audience, practical capacity, and public benefit.\n\nGatherings, local Hubs, and Chapters remain possible future delivery mechanisms. AI AtLarge does not yet claim to represent AI users or to operate a broad network. It intends to earn legitimacy through sustained listening, useful public resources, and credible engagement with people living with AI’s effects.\n\n**Primary aims**\n- Advance public understanding of AI in everyday life.\n- Strengthen people’s confidence and human agency in an AI-shaped society.\n- Make AI governance questions understandable and relevant beyond expert communities.\n- Listen to real public questions, experiences, concerns, and aspirations.\n- Support more meaningful public participation in decisions about AI.\n\n**Who the initiative serves**\nPeople living with the effects of AI, particularly workers, families, students, seniors, consumers, and communities not ordinarily included in the traditional AI ecosystem.\n\n**Approach / methodology**\nAI AtLarge combines accessible public resources, practical questions, structured listening, and selective civic engagement. Its educational approach can draw on four questions from the _Human in the Oversight_ framework:\n\n1. Can people see where and how AI affects them?\n2. Can they question, correct, refuse, appeal, or obtain meaningful human review?\n3. Who is accountable when an AI-enabled system causes harm or unfairness?\n4. What evidence justifies trust in its use?\n\nThis is intended as a practical public-interest framework, not a technical training curriculum.\n\n**Current activities**\n- Accessible resources on AI in everyday life.\n- An “AI Ask Anything” public-learning and listening channel.\n- Selective participation in public hearings, forums, and institutional discussions.\n- Short factual public notes translating AI policy and governance developments into plain-language questions.\n- Occasional co-hosted public events with credible partners.\n- Gradual development of an AI Public Experience Observatory based on real questions and experiences.\n\n**Geographic scope**\nInitially United States-based, with a public-interest perspective relevant to wider international AI-governance discussions. Future activity may include international partnerships where there is a credible public benefit and delivery capacity.\n\n\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "ai-atlarge-community-hubs"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "additional-acknowledgements": "Khaled Koubaa",
+      "inclusion-efforts": "\n",
+      "project-title": "AI AtLarge",
+      "method-image-caption": "Source: ",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "AI AtLarge addresses a central weakness in AI governance: people are routinely affected by AI but are rarely equipped to understand its implications or participate confidently in shaping its use. It seeks to create a credible bridge between public experience and institutional AI debates, beginning with understanding and listening rather than claiming representation.",
+      "project-goals": [
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Exploring the questions the public have about AI. ",
+      "how-was-the-project-initiated": [
+        "Community Led"
+      ],
+      "level-of-engagement": "Community",
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.aiatlarge.org/",
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ai-atlarge-community-hubs",
+        "data": {
+          "layout": "generic",
+          "title": "AI AtLarge-Community Hubs",
+          "airtable_id": "edde1e61ddc3e062",
+          "slug": "ai-atlarge-community-hubs",
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Capacity Building Workshop"
+          ],
+          "name": "AI AtLarge-Community Hubs",
+          "group-description": "Community Hubs",
+          "additional-notes": "Current numbers based on the data at https://www.aiatlarge.org/question-atlas for submitted questions. \n\nTotal participant numbers not currently available. ",
+          "how-many-people-took-part": 0,
+          "cases": [
+            "ai-atlarge"
+          ],
+          "recruitment-description": "Resources are provided for community hubs to invite participants. ",
+          "where-did-engagement-take-place": [
+            "Offline",
+            "Hybrid"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ai-atlarge-inc",
+        "data": {
+          "layout": "organisation",
+          "title": "AI AtLarge Inc.",
+          "airtable_id": "73dc1bfa411e3888",
+          "slug": "ai-atlarge-inc",
+          "role": [
+            "Lead"
+          ],
+          "name": "AI AtLarge Inc.",
+          "lead-organisation-for": [
+            "ai-atlarge"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ai-atlarge"
+          ],
+          "layout": "generic",
+          "slug": "ai-atlarge-process",
+          "title": "AI AtLarge - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AI AtLarge-Community Hubs",
+        "airtable_id": "edde1e61ddc3e062",
+        "slug": "ai-atlarge-community-hubs",
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Capacity Building Workshop"
+        ],
+        "name": "AI AtLarge-Community Hubs",
+        "group-description": "Community Hubs",
+        "additional-notes": "Current numbers based on the data at https://www.aiatlarge.org/question-atlas for submitted questions. \n\nTotal participant numbers not currently available. ",
+        "how-many-people-took-part": 0,
+        "cases": [
+          "ai-atlarge"
+        ],
+        "recruitment-description": "Resources are provided for community hubs to invite participants. ",
+        "where-did-engagement-take-place": [
+          "Offline",
+          "Hybrid"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ai-atlarge"
+        ],
+        "layout": "generic",
+        "slug": "ai-atlarge-process",
+        "title": "AI AtLarge - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "AI AtLarge Inc.",
+        "airtable_id": "73dc1bfa411e3888",
+        "slug": "ai-atlarge-inc",
+        "role": [
+          "Lead"
+        ],
+        "name": "AI AtLarge Inc.",
+        "lead-organisation-for": [
+          "ai-atlarge"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

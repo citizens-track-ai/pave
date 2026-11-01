@@ -1,0 +1,820 @@
+{
+  "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
+    "airtable_id": "4e9af4412ad21ae5",
+    "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+    "redirect_from": [
+      "/c/4e9af4412ad21ae5/"
+    ],
+    "lead-organisations": [
+      "dignity-in-difference"
+    ],
+    "provide-a-brief-description-of-the-project": "**Through the VoiceValor platform, Dignity in Difference engaged survivors of technology-facilitated gender-based violence across South Asia to audit and correct commercial AI toxicity classifiers. By crowdsourcing over 10,000 inputs across 14 languages, the project combined action research and co-creation workshops to document algorithmic failures and retrain classifiers to better recognize localized online harms.**\n\nWho gets to define what constitutes harm in online spaces? Is it governments, platforms, or survivors on the receiving end of that harm?  VoiceValor is a web-based auditing tool designed to uncover blind spots in social media content moderation. It uses community-led reporting and cultural-context analysis to identify forms of online toxicity, specifically misogyny and hate speech, that automated systems typically miss. Marginalized communities use VoiceValor to document and flag these algorithmic failures, while researchers and advocates can use the platform’s insights to challenge bias and demand more equitable digital safety standards. \n\nVoiceValor enables users to audit and correct how AI toxicity classifiers interpret local expressions of misogyny. Using widely deployed commercial classifiers, the platform analyses survivors’ digital experiences across common harm indicators used in trust and safety policies. It then presents transparent scores that show where algorithms fail. \n\nUsers can flag missed harms, down-rank false positives, and provide rich contextual insights grounded in real life experience. Outputs are explainable at the individual comment level, allowing clear documentation for policymakers and digital platforms. The design and implementation operationalize design justice by introducing a new method through which voices of survivors of technology-facilitated gender-based violence can shape the present and future of algorithmic decision-making. \n",
+    "what-limitations-to-the-project-should-be-noted": "Key challenges included user interface design, survivor safety and fatigue associated with revisiting harmful content, uneven connectivity, and the difficulty of standardizing context across dialects and evolving slang. Platform resistance and limited transparency from large technology companies slowed the integration of community corrections into production moderation systems. We are working to improve the platform's UX to increase survivors’ repeat contributions and to build the VoiceValor Community to lead data governance. \n",
+    "project-status": "In Progress",
+    "headline-findings": "- A 27-year-old survivor from Sri Lanka described it as giving her \"a way to respond,\" and feeling \"empowered to contribute to a solution against online abuse.\" \n\n- A 30-year-old lawyer dealing with online harassment cases shared how its a novel, innovative approach to deconstruct algorithmic failures, and can help in understanding how to advocate for transparency \n\n- A 40-year-old educator shared how they’ve never thought about countering harm at such a systemic level, because they didn’t think it was possible. Using VoiceValor pushed the limits of their own imagination of what was possible. \n\n- Survivor-reviewers repeatedly showed that AI systems miss abuse when harm is indirect through caste-coded insults, religious insinuations, sexualized mockery, political threats, and local slang. \n\n- LGBTQI+ and feminist participants said moderation systems often misread identity language itself, flagging the language of marginalized communities while missing violence aimed at them. \n\n- Civil society reviewers said the audit process helped turn scattered screenshots into patterns, and patterns into evidence for advocacy, policy, and platform accountability. \n\n- Validators said statistical accuracy does not show the entire picture. A system is failing if it works statistically but cannot understand the language of the people it has been made to regulate. \n",
+    "participants": [
+      "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)",
+      "AI in general",
+      "Current issues",
+      "Future issues"
+    ],
+    "theme": [
+      "Safety",
+      "Social media"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "unesco-liiv-center",
+      "women-of-the-south-speak-out",
+      "feminist-batti-jalao-by-point-of-view",
+      "eu-global-youth-mobilization-grant"
+    ],
+    "additional-acknowledgements": "Himanshu Panday, Hameeda Syed, Dridhata Silwal, Saashi Windsor",
+    "inclusion-efforts": "Do the people closest to online harm have the most knowledge to shape how those systems are created and designed? We believe so. VoiceValor invited survivors and marginalized users to become the trust and safety professional auditors from the start. Through 30 feminist, LGBTQI+, journalist, and civil society networks across South Asia borne from our personal and professional networks, we engaged people who had directly experienced technology-facilitated gender-based violence, especially abuse hidden in local slang, caste and religious markers, political codes, and identity-based insinuations. \n\nThe platform was built around their ways of knowing. Participants could see how toxicity classifiers scored comments, correct failures in plain language, and validate harms across 14 Global South languages. We used low-barrier annotation workflows, explicit consent, no direct personal identifiers, opt-out options, and trauma-sensitive engagement. To date, survivors have contributed more than 500,000 comments and contributed over 10,000 survivor inputs documenting misclassifications and missed harms, including more than 5,000 distinct cases of algorithmic failures linked to cultural context. The dataset has then been used to retrain the toxicity classifiers. A community of survivors tests every feature and flags what doesn’t work. Their feedback has led to major revisions and stronger indicators.   \n",
+    "project-title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
+    "submitted-by": "Pooja Lama",
+    "why-is-this-project-important-to-include-in-the": "As a case study serving underrepresented communities in South Asia, VoiceValor’s methodology combines digital anthropology, participatory AI, trust and safety evaluation, data governance, and public-interest technology design. We call the core approach thick-big data (building on Rettberg's concept of algorithmic failure as a humanities methodology, 2022): a way of joining the scale of digital evidence with the interpretive depth of community knowledge. Algorithmic failure is data about where systems misunderstand the communities they claim to protect. VoiceValor presents a novel method for co-designing and refining AI systems by centering on the \"thick data\" of lived experience, specifically addressing algorithmic failures of classifiers based on big data.  \n\nThrough VoiceValor, survivors get to have say in how to shape the technology that facilitates harm by shifting them from passive reporters to active auditors of moderation logic who will correct algorithmic failures that silence survivors like them and enable online abuse. These corrections are aggregated, anonymised, and fed back to platforms to improve detection of culturally specific misogyny across 14 Global South languages. \n\nBeyond algorithmic correction, VoiceValor also provides users with access to support resources and 20 domain-specific AI personas. These personas act as coaches, helping creators develop counter-narratives and strategies to navigate digital toxicity.  \n\nOnline content moderation is one of the most consequential governance systems of our time. It decides whose speech is protected, whose harm is visible, and who can safely participate in digital public life. Yet it has been built almost entirely without the participation of the communities it affects most. VoiceValor is a democratic intervention in this system. It changes who holds the power to define harm. Survivors’ cultural expertise, linguistic fluency, and lived understanding of how violence travels through language become the inputs that shape AI behavior. It expands civic participation for women and gender minorities who are currently driven out of digital spaces by unaddressed harassment. It provides a more accurate, more representative information environment where harm is visible. ",
+    "photos-and-images": [
+      {
+        "id": "att423ozrlqBHGaqa",
+        "width": 2000,
+        "height": 1600,
+        "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa.png",
+        "filename": "Mockup.png",
+        "size": 424711,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_small.png",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_large.png",
+            "width": 640,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_full.png",
+            "width": 2000,
+            "height": 1600
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Audit: Review design or implementation of AI tools",
+      "Empowerment: Build community power with respect to AI",
+      "Evaluate: Check the quality of evidence or engagement processes"
+    ],
+    "supporting-resources": [
+      "vv-advocacy-toolkit",
+      "prevention-by-design",
+      "voice-valor-introduction-and-platform-video",
+      "voice-valor-design-sprint-photos",
+      "in-person-showcase",
+      "voicevalor-toxicity-classifier-screenshots",
+      "pitch-asia-safety-showcase",
+      "citation"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Failure of commercially available AI Toxicity classifiers in social media platforms ",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created"
+    ],
+    "level-of-engagement": "National",
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "trust-and-safety-professionals-association",
+      "queer-youth-groups"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.voicevalor.dignityindifference.org/  ",
+    "locations": [
+      "bangladesh",
+      "india",
+      "nepal",
+      "sri-lanka"
+    ],
+    "where-were-participants-from": [
+      "We received entries from Nepal, India, Sri Lanka, and Bangladesh."
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+    "data": {
+      "layout": "case",
+      "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
+      "airtable_id": "4e9af4412ad21ae5",
+      "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+      "redirect_from": [
+        "/c/4e9af4412ad21ae5/"
+      ],
+      "lead-organisations": [
+        "dignity-in-difference"
+      ],
+      "provide-a-brief-description-of-the-project": "**Through the VoiceValor platform, Dignity in Difference engaged survivors of technology-facilitated gender-based violence across South Asia to audit and correct commercial AI toxicity classifiers. By crowdsourcing over 10,000 inputs across 14 languages, the project combined action research and co-creation workshops to document algorithmic failures and retrain classifiers to better recognize localized online harms.**\n\nWho gets to define what constitutes harm in online spaces? Is it governments, platforms, or survivors on the receiving end of that harm?  VoiceValor is a web-based auditing tool designed to uncover blind spots in social media content moderation. It uses community-led reporting and cultural-context analysis to identify forms of online toxicity, specifically misogyny and hate speech, that automated systems typically miss. Marginalized communities use VoiceValor to document and flag these algorithmic failures, while researchers and advocates can use the platform’s insights to challenge bias and demand more equitable digital safety standards. \n\nVoiceValor enables users to audit and correct how AI toxicity classifiers interpret local expressions of misogyny. Using widely deployed commercial classifiers, the platform analyses survivors’ digital experiences across common harm indicators used in trust and safety policies. It then presents transparent scores that show where algorithms fail. \n\nUsers can flag missed harms, down-rank false positives, and provide rich contextual insights grounded in real life experience. Outputs are explainable at the individual comment level, allowing clear documentation for policymakers and digital platforms. The design and implementation operationalize design justice by introducing a new method through which voices of survivors of technology-facilitated gender-based violence can shape the present and future of algorithmic decision-making. \n",
+      "what-limitations-to-the-project-should-be-noted": "Key challenges included user interface design, survivor safety and fatigue associated with revisiting harmful content, uneven connectivity, and the difficulty of standardizing context across dialects and evolving slang. Platform resistance and limited transparency from large technology companies slowed the integration of community corrections into production moderation systems. We are working to improve the platform's UX to increase survivors’ repeat contributions and to build the VoiceValor Community to lead data governance. \n",
+      "project-status": "In Progress",
+      "headline-findings": "- A 27-year-old survivor from Sri Lanka described it as giving her \"a way to respond,\" and feeling \"empowered to contribute to a solution against online abuse.\" \n\n- A 30-year-old lawyer dealing with online harassment cases shared how its a novel, innovative approach to deconstruct algorithmic failures, and can help in understanding how to advocate for transparency \n\n- A 40-year-old educator shared how they’ve never thought about countering harm at such a systemic level, because they didn’t think it was possible. Using VoiceValor pushed the limits of their own imagination of what was possible. \n\n- Survivor-reviewers repeatedly showed that AI systems miss abuse when harm is indirect through caste-coded insults, religious insinuations, sexualized mockery, political threats, and local slang. \n\n- LGBTQI+ and feminist participants said moderation systems often misread identity language itself, flagging the language of marginalized communities while missing violence aimed at them. \n\n- Civil society reviewers said the audit process helped turn scattered screenshots into patterns, and patterns into evidence for advocacy, policy, and platform accountability. \n\n- Validators said statistical accuracy does not show the entire picture. A system is failing if it works statistically but cannot understand the language of the people it has been made to regulate. \n",
+      "participants": [
+        "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)",
+        "AI in general",
+        "Current issues",
+        "Future issues"
+      ],
+      "theme": [
+        "Safety",
+        "Social media"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "unesco-liiv-center",
+        "women-of-the-south-speak-out",
+        "feminist-batti-jalao-by-point-of-view",
+        "eu-global-youth-mobilization-grant"
+      ],
+      "additional-acknowledgements": "Himanshu Panday, Hameeda Syed, Dridhata Silwal, Saashi Windsor",
+      "inclusion-efforts": "Do the people closest to online harm have the most knowledge to shape how those systems are created and designed? We believe so. VoiceValor invited survivors and marginalized users to become the trust and safety professional auditors from the start. Through 30 feminist, LGBTQI+, journalist, and civil society networks across South Asia borne from our personal and professional networks, we engaged people who had directly experienced technology-facilitated gender-based violence, especially abuse hidden in local slang, caste and religious markers, political codes, and identity-based insinuations. \n\nThe platform was built around their ways of knowing. Participants could see how toxicity classifiers scored comments, correct failures in plain language, and validate harms across 14 Global South languages. We used low-barrier annotation workflows, explicit consent, no direct personal identifiers, opt-out options, and trauma-sensitive engagement. To date, survivors have contributed more than 500,000 comments and contributed over 10,000 survivor inputs documenting misclassifications and missed harms, including more than 5,000 distinct cases of algorithmic failures linked to cultural context. The dataset has then been used to retrain the toxicity classifiers. A community of survivors tests every feature and flags what doesn’t work. Their feedback has led to major revisions and stronger indicators.   \n",
+      "project-title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
+      "submitted-by": "Pooja Lama",
+      "why-is-this-project-important-to-include-in-the": "As a case study serving underrepresented communities in South Asia, VoiceValor’s methodology combines digital anthropology, participatory AI, trust and safety evaluation, data governance, and public-interest technology design. We call the core approach thick-big data (building on Rettberg's concept of algorithmic failure as a humanities methodology, 2022): a way of joining the scale of digital evidence with the interpretive depth of community knowledge. Algorithmic failure is data about where systems misunderstand the communities they claim to protect. VoiceValor presents a novel method for co-designing and refining AI systems by centering on the \"thick data\" of lived experience, specifically addressing algorithmic failures of classifiers based on big data.  \n\nThrough VoiceValor, survivors get to have say in how to shape the technology that facilitates harm by shifting them from passive reporters to active auditors of moderation logic who will correct algorithmic failures that silence survivors like them and enable online abuse. These corrections are aggregated, anonymised, and fed back to platforms to improve detection of culturally specific misogyny across 14 Global South languages. \n\nBeyond algorithmic correction, VoiceValor also provides users with access to support resources and 20 domain-specific AI personas. These personas act as coaches, helping creators develop counter-narratives and strategies to navigate digital toxicity.  \n\nOnline content moderation is one of the most consequential governance systems of our time. It decides whose speech is protected, whose harm is visible, and who can safely participate in digital public life. Yet it has been built almost entirely without the participation of the communities it affects most. VoiceValor is a democratic intervention in this system. It changes who holds the power to define harm. Survivors’ cultural expertise, linguistic fluency, and lived understanding of how violence travels through language become the inputs that shape AI behavior. It expands civic participation for women and gender minorities who are currently driven out of digital spaces by unaddressed harassment. It provides a more accurate, more representative information environment where harm is visible. ",
+      "photos-and-images": [
+        {
+          "id": "att423ozrlqBHGaqa",
+          "width": 2000,
+          "height": 1600,
+          "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa.png",
+          "filename": "Mockup.png",
+          "size": 424711,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_small.png",
+              "width": 45,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_large.png",
+              "width": 640,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/4e9af4412ad21ae5_fldd4B6cpBOP3n3is_att423ozrlqBHGaqa_full.png",
+              "width": 2000,
+              "height": 1600
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Audit: Review design or implementation of AI tools",
+        "Empowerment: Build community power with respect to AI",
+        "Evaluate: Check the quality of evidence or engagement processes"
+      ],
+      "supporting-resources": [
+        "vv-advocacy-toolkit",
+        "prevention-by-design",
+        "voice-valor-introduction-and-platform-video",
+        "voice-valor-design-sprint-photos",
+        "in-person-showcase",
+        "voicevalor-toxicity-classifier-screenshots",
+        "pitch-asia-safety-showcase",
+        "citation"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Failure of commercially available AI Toxicity classifiers in social media platforms ",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created"
+      ],
+      "level-of-engagement": "National",
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "trust-and-safety-professionals-association",
+        "queer-youth-groups"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.voicevalor.dignityindifference.org/  ",
+      "locations": [
+        "bangladesh",
+        "india",
+        "nepal",
+        "sri-lanka"
+      ],
+      "where-were-participants-from": [
+        "We received entries from Nepal, India, Sri Lanka, and Bangladesh."
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+        "data": {
+          "layout": "generic",
+          "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia-Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+          "airtable_id": "66bc7346c78b4a0c",
+          "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+          "locations": [
+            "nepal",
+            "india",
+            "sri-lanka",
+            "bangladesh"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "We received entries from Nepal, India, Sri Lanka, and Bangladesh.",
+          "which-of-the-following-methods-were-used-to": [
+            "Action Research",
+            "Capacity Building Workshop",
+            "Co-creation workshops",
+            "Community-led Audit",
+            "Crowdsourcing"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia-Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+          "group-description": "Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "More than 10,000 survivors and marginalized users have engaged with VoiceValor. Its design has been shaped by 700+ survivors, technologists, creators, and community stakeholders. \n\nDepending on the number of comments they were correcting, each session of VoiceValor where the survivor-user is auditing the content’s toxicity classifier could take between 10 to 30 mins. ",
+          "how-many-people-took-part": 10000,
+          "cases": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "recruitment-description": "VoiceValor began with hybrid interviews and listening sessions with 60 women, gender minorities, LGBTQI+ users, journalists, feminist creators, and survivors of technology-facilitated gender-based violence across South Asia. They described a pattern that many moderation systems still fail to see around online harm expressed through humor, culturally coded threats, caste and religious markers, sexualised humiliation, political abuse, local slang, and identity-based insinuation. Survivors kept flagging and reporting. We heard from their needs and ran a small beta platform to get their feedback. After integrating their feedback, we piloted the technology stack and an evaluation interface in a gathering of 700+ grassroots community leaders. Learning and co-creating with them helped us pilot and evaluate the web auditing in practice. The early feedback is very encouraging for the use of the methods and technology.  ",
+          "was-there-a-specific-target-population": "Women and Gender-diverse digital users, average aged 18-49 ",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "feminist-batti-jalao-by-point-of-view",
+        "data": {
+          "layout": "organisation",
+          "title": "Feminist Batti Jalao by Point of View",
+          "airtable_id": "5737f1a43e612fb7",
+          "slug": "feminist-batti-jalao-by-point-of-view",
+          "role": [
+            "Funder"
+          ],
+          "name": "Feminist Batti Jalao by Point of View",
+          "funding-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "trust-and-safety-professionals-association",
+        "data": {
+          "layout": "organisation",
+          "title": "Trust and Safety Professionals Association",
+          "airtable_id": "2efb97634bedf296",
+          "slug": "trust-and-safety-professionals-association",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.tspa.org/",
+          "name": "Trust and Safety Professionals Association",
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "dignity-in-difference",
+        "data": {
+          "layout": "organisation",
+          "title": "Dignity in Difference",
+          "airtable_id": "54894e134d56e9ae",
+          "slug": "dignity-in-difference",
+          "role": [
+            "Lead"
+          ],
+          "name": "Dignity in Difference",
+          "lead-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "queer-youth-groups",
+        "data": {
+          "layout": "organisation",
+          "title": "Queer Youth Groups",
+          "airtable_id": "44ea7b8ee4b29331",
+          "slug": "queer-youth-groups",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.connectedbydata.org/",
+          "name": "Queer Youth Groups",
+          "main-location": [
+            "global"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "eu-global-youth-mobilization-grant",
+        "data": {
+          "layout": "organisation",
+          "title": "EU Global Youth Mobilization Grant",
+          "airtable_id": "584f76a604736c90",
+          "slug": "eu-global-youth-mobilization-grant",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://globalyouthmobilization.org/",
+          "name": "EU Global Youth Mobilization Grant",
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "unesco-liiv-center",
+        "data": {
+          "layout": "organisation",
+          "title": "UNESCO-LiiV Center",
+          "airtable_id": "133bd2ce0d142073",
+          "slug": "unesco-liiv-center",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research",
+            "Non-profit"
+          ],
+          "website-address": "https://www.liivcenter.org/",
+          "name": "UNESCO-LiiV Center",
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "women-of-the-south-speak-out",
+        "data": {
+          "layout": "organisation",
+          "title": "Women of the South Speak Out",
+          "airtable_id": "f6083eb5ab7fc5a7",
+          "slug": "women-of-the-south-speak-out",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://wosso.org/",
+          "name": "Women of the South Speak Out",
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+          ],
+          "layout": "generic",
+          "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de-process",
+          "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia - Process",
+          "theme": [
+            "Safety",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia-Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+        "airtable_id": "66bc7346c78b4a0c",
+        "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
+        "locations": [
+          "nepal",
+          "india",
+          "sri-lanka",
+          "bangladesh"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "We received entries from Nepal, India, Sri Lanka, and Bangladesh.",
+        "which-of-the-following-methods-were-used-to": [
+          "Action Research",
+          "Capacity Building Workshop",
+          "Co-creation workshops",
+          "Community-led Audit",
+          "Crowdsourcing"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia-Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+        "group-description": "Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "More than 10,000 survivors and marginalized users have engaged with VoiceValor. Its design has been shaped by 700+ survivors, technologists, creators, and community stakeholders. \n\nDepending on the number of comments they were correcting, each session of VoiceValor where the survivor-user is auditing the content’s toxicity classifier could take between 10 to 30 mins. ",
+        "how-many-people-took-part": 10000,
+        "cases": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "recruitment-description": "VoiceValor began with hybrid interviews and listening sessions with 60 women, gender minorities, LGBTQI+ users, journalists, feminist creators, and survivors of technology-facilitated gender-based violence across South Asia. They described a pattern that many moderation systems still fail to see around online harm expressed through humor, culturally coded threats, caste and religious markers, sexualised humiliation, political abuse, local slang, and identity-based insinuation. Survivors kept flagging and reporting. We heard from their needs and ran a small beta platform to get their feedback. After integrating their feedback, we piloted the technology stack and an evaluation interface in a gathering of 700+ grassroots community leaders. Learning and co-creating with them helped us pilot and evaluate the web auditing in practice. The early feedback is very encouraging for the use of the methods and technology.  ",
+        "was-there-a-specific-target-population": "Women and Gender-diverse digital users, average aged 18-49 ",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "layout": "generic",
+        "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de-process",
+        "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia - Process",
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Feminist Batti Jalao by Point of View",
+        "airtable_id": "5737f1a43e612fb7",
+        "slug": "feminist-batti-jalao-by-point-of-view",
+        "role": [
+          "Funder"
+        ],
+        "name": "Feminist Batti Jalao by Point of View",
+        "funding-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Trust and Safety Professionals Association",
+        "airtable_id": "2efb97634bedf296",
+        "slug": "trust-and-safety-professionals-association",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.tspa.org/",
+        "name": "Trust and Safety Professionals Association",
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Dignity in Difference",
+        "airtable_id": "54894e134d56e9ae",
+        "slug": "dignity-in-difference",
+        "role": [
+          "Lead"
+        ],
+        "name": "Dignity in Difference",
+        "lead-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Queer Youth Groups",
+        "airtable_id": "44ea7b8ee4b29331",
+        "slug": "queer-youth-groups",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.connectedbydata.org/",
+        "name": "Queer Youth Groups",
+        "main-location": [
+          "global"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "EU Global Youth Mobilization Grant",
+        "airtable_id": "584f76a604736c90",
+        "slug": "eu-global-youth-mobilization-grant",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://globalyouthmobilization.org/",
+        "name": "EU Global Youth Mobilization Grant",
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UNESCO-LiiV Center",
+        "airtable_id": "133bd2ce0d142073",
+        "slug": "unesco-liiv-center",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research",
+          "Non-profit"
+        ],
+        "website-address": "https://www.liivcenter.org/",
+        "name": "UNESCO-LiiV Center",
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Women of the South Speak Out",
+        "airtable_id": "f6083eb5ab7fc5a7",
+        "slug": "women-of-the-south-speak-out",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://wosso.org/",
+        "name": "Women of the South Speak Out",
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de"
+        ],
+        "theme": [
+          "Safety",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

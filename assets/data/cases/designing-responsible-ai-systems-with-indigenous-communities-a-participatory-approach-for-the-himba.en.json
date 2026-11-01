@@ -1,0 +1,709 @@
+{
+  "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia",
+    "airtable_id": "18f94077e60b08db",
+    "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+    "redirect_from": [
+      "/c/18f94077e60b08db/"
+    ],
+    "lead-organisations": [
+      "namibia-university-of-science-technology",
+      "aarhus-university"
+    ],
+    "provide-a-brief-description-of-the-project": "**Led by academic researchers in collaboration with local elders, this 2024 initiative engaged at least 30 members of Namibia's Ovahimba and San communities through co-creation workshops and prototyping. By centering local cultural values and Indigenous Knowledge Systems, the project aimed to establish trustworthy, context-specific AI tools while developing reusable participatory methodologies.**\n\nThis research investigates participatory and responsible Artificial Intelligence (RAI) practices within three interconnected AI-driven projects focused on Namibia’s Indigenous communities, specifically the Ovahimba and San. Three AI-driven projects; Himbaverse, Smart Hydroponics, and Resilience App, were explored and implemented through a co-design process. \n\nThe projects aim to promote responsible AI development that enhance trust and aligns with local community aspirations, needs and goals of sustainability and integration of Indigenous Knowledge Systems (IKS) with advanced technology to empower local cultures. The research is based on participatory design processes and technology prototyping with Ovahimba and San communities in Namibia. It shows that transparency and active participation empower communities to contribute to development of evolving knowledge bases and system capabilities of RAI. \n\nPreliminary findings reveal that responsible AI design must be deeply contextual and shaped by local cultural values, knowledge systems, and community-defined objectives. The study contributes to the growing discourse on participatory AI development, demonstrating how culturally responsive and responsible AI systems can empower Indigenous communities and promote equitable technological integration.\n",
+    "project-status": "Complete",
+    "headline-findings": "Across the three cases, several transferable practices emerged: (1) treating AI systems as evolving collaborators rather than fixed tools; (2) grounding transparency in culturally meaningful metaphors; (3) prioritising participatory processual representations over static outputs; and (4) embedding learning and capacity-building as core design outcomes. These practices provide actionable guidance for researchers and practitioners seeking to operationalise responsible and participatory AI in other Indigenous contexts.\nThe paper has demonstrated how RAI can be enacted through participatory, community-centred design with Indigenous communities in Namibia. By grounding AI development in local knowledge systems, cultural values, and long-term relationships, the three cases illustrate how global ethical principles can be translated into situated practices and lifeworlds. Rather than offering a universal framework, this work contributes empirical insights, design practices, and relational methods that support culturally grounded, ethical, and resilient AI futures.\n",
+    "participants": [
+      "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+    ],
+    "participation-locations": "Namibia",
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)",
+      "AI in general"
+    ],
+    "messages": [
+      "treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools",
+      "ground-transparency-in-culturally-meaningful-metaphors",
+      "embed-learning-and-capacity-building-as-core-design-outcomes"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "additional-acknowledgements": "NAFTALI NDEAPO INDONGO, RACHEL CHARLOTTE SMITH, SHORTY KANDJENGO, UARIAIKE MBINGE, HEIKE WINSCHIERS-THEOPHILUS",
+    "inclusion-efforts": "In each community, the processes were led by a community elder, who recruited m/f members of the youth and community to join on a voluntary basis. Approximately 10-20 participants actively participated in each session. The first field trips explored aspects of trust, cultural validity and relatability in the two sites, as well as providing understandings of what responsible AI, algorithms, and automated systems might mean in each of these contexts. Based on ongoing research collaboration and ethical protocols between NUST and the two sites, including set compensations for translation, coordination, and engagement, were adhered to. \n",
+    "project-title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia",
+    "submitted-by": "Naftali Ndeapo Indongo (see above)",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "AI Development: Shape the development of AI tools"
+    ],
+    "supporting-resources": [
+      "httpsdlacmorgdoifull10114537966243796667",
+      "designing-responsible-ai-with-indigenous-communitiestowards-participatory-ai-with-ovahimba-and-san-p"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "This research investigates participatory and responsible Artificial Intelligence (RAI) practices within three interconnected AI-driven projects focused on Namibia’s Indigenous communities, specifically the Ovahimba and San. ",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "geographic-scope": [
+      "namibia"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "namibia-university-of-science-technology",
+      "aarhus-university",
+      "donkerbos-community",
+      "otjisa-community",
+      "namibia-university-of-science-technology-1"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.pairs.site/Designing-Responsible-AI-Systems-with-Indigenous-Communities-A-Participatory-Approach-for-the-Himba-263260e24e1a8197b229c6cf9c772c6e",
+    "locations": [
+      "namibia"
+    ],
+    "where-were-participants-from": [
+      "Namibia"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+    "data": {
+      "layout": "case",
+      "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia",
+      "airtable_id": "18f94077e60b08db",
+      "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+      "redirect_from": [
+        "/c/18f94077e60b08db/"
+      ],
+      "lead-organisations": [
+        "namibia-university-of-science-technology",
+        "aarhus-university"
+      ],
+      "provide-a-brief-description-of-the-project": "**Led by academic researchers in collaboration with local elders, this 2024 initiative engaged at least 30 members of Namibia's Ovahimba and San communities through co-creation workshops and prototyping. By centering local cultural values and Indigenous Knowledge Systems, the project aimed to establish trustworthy, context-specific AI tools while developing reusable participatory methodologies.**\n\nThis research investigates participatory and responsible Artificial Intelligence (RAI) practices within three interconnected AI-driven projects focused on Namibia’s Indigenous communities, specifically the Ovahimba and San. Three AI-driven projects; Himbaverse, Smart Hydroponics, and Resilience App, were explored and implemented through a co-design process. \n\nThe projects aim to promote responsible AI development that enhance trust and aligns with local community aspirations, needs and goals of sustainability and integration of Indigenous Knowledge Systems (IKS) with advanced technology to empower local cultures. The research is based on participatory design processes and technology prototyping with Ovahimba and San communities in Namibia. It shows that transparency and active participation empower communities to contribute to development of evolving knowledge bases and system capabilities of RAI. \n\nPreliminary findings reveal that responsible AI design must be deeply contextual and shaped by local cultural values, knowledge systems, and community-defined objectives. The study contributes to the growing discourse on participatory AI development, demonstrating how culturally responsive and responsible AI systems can empower Indigenous communities and promote equitable technological integration.\n",
+      "project-status": "Complete",
+      "headline-findings": "Across the three cases, several transferable practices emerged: (1) treating AI systems as evolving collaborators rather than fixed tools; (2) grounding transparency in culturally meaningful metaphors; (3) prioritising participatory processual representations over static outputs; and (4) embedding learning and capacity-building as core design outcomes. These practices provide actionable guidance for researchers and practitioners seeking to operationalise responsible and participatory AI in other Indigenous contexts.\nThe paper has demonstrated how RAI can be enacted through participatory, community-centred design with Indigenous communities in Namibia. By grounding AI development in local knowledge systems, cultural values, and long-term relationships, the three cases illustrate how global ethical principles can be translated into situated practices and lifeworlds. Rather than offering a universal framework, this work contributes empirical insights, design practices, and relational methods that support culturally grounded, ethical, and resilient AI futures.\n",
+      "participants": [
+        "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+      ],
+      "participation-locations": "Namibia",
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)",
+        "AI in general"
+      ],
+      "messages": [
+        "treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools",
+        "ground-transparency-in-culturally-meaningful-metaphors",
+        "embed-learning-and-capacity-building-as-core-design-outcomes"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "additional-acknowledgements": "NAFTALI NDEAPO INDONGO, RACHEL CHARLOTTE SMITH, SHORTY KANDJENGO, UARIAIKE MBINGE, HEIKE WINSCHIERS-THEOPHILUS",
+      "inclusion-efforts": "In each community, the processes were led by a community elder, who recruited m/f members of the youth and community to join on a voluntary basis. Approximately 10-20 participants actively participated in each session. The first field trips explored aspects of trust, cultural validity and relatability in the two sites, as well as providing understandings of what responsible AI, algorithms, and automated systems might mean in each of these contexts. Based on ongoing research collaboration and ethical protocols between NUST and the two sites, including set compensations for translation, coordination, and engagement, were adhered to. \n",
+      "project-title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia",
+      "submitted-by": "Naftali Ndeapo Indongo (see above)",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "AI Development: Shape the development of AI tools"
+      ],
+      "supporting-resources": [
+        "httpsdlacmorgdoifull10114537966243796667",
+        "designing-responsible-ai-with-indigenous-communitiestowards-participatory-ai-with-ovahimba-and-san-p"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "This research investigates participatory and responsible Artificial Intelligence (RAI) practices within three interconnected AI-driven projects focused on Namibia’s Indigenous communities, specifically the Ovahimba and San. ",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "geographic-scope": [
+        "namibia"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "namibia-university-of-science-technology",
+        "aarhus-university",
+        "donkerbos-community",
+        "otjisa-community",
+        "namibia-university-of-science-technology-1"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.pairs.site/Designing-Responsible-AI-Systems-with-Indigenous-Communities-A-Participatory-Approach-for-the-Himba-263260e24e1a8197b229c6cf9c772c6e",
+      "locations": [
+        "namibia"
+      ],
+      "where-were-participants-from": [
+        "Namibia"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+        "data": {
+          "layout": "generic",
+          "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia-Community Members",
+          "airtable_id": "d718993ff6ab2a9a",
+          "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+          "locations": [
+            "namibia"
+          ],
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "Namibia",
+          "which-of-the-following-methods-were-used-to": [
+            "Prototyping",
+            "Co-creation workshops",
+            "Public Dialogue"
+          ],
+          "on-average-how-many-hours-did-each-participant": 10,
+          "name": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia-Community Members",
+          "group-description": "Community Members",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 30,
+          "cases": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "namibia-university-of-science-technology-1",
+        "data": {
+          "layout": "organisation",
+          "title": "Namibia University of Science & Technology",
+          "airtable_id": "51146b2f9d424915",
+          "slug": "namibia-university-of-science-technology-1",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.nust.na/",
+          "name": "Namibia University of Science & Technology",
+          "main-location": [
+            "namibia"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "donkerbos-community",
+        "data": {
+          "layout": "organisation",
+          "title": "Donkerbos Community",
+          "airtable_id": "1195b842e8cd130d",
+          "slug": "donkerbos-community",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.donkerbos.org/",
+          "name": "Donkerbos Community",
+          "main-location": [
+            "namibia"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "otjisa-community",
+        "data": {
+          "layout": "organisation",
+          "title": "Otjisa Community",
+          "airtable_id": "b41070ef42518690",
+          "slug": "otjisa-community",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.nust.na/",
+          "name": "Otjisa Community",
+          "main-location": [
+            "namibia"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "aarhus-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Aarhus University",
+          "airtable_id": "55c22b4662a467bd",
+          "slug": "aarhus-university",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.au.dk/",
+          "name": "Aarhus University",
+          "lead-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "main-location": [
+            "denmark"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "namibia-university-of-science-technology",
+        "data": {
+          "layout": "organisation",
+          "title": "Namibia University of Science & Technology",
+          "airtable_id": "5fda9f752440ba67",
+          "slug": "namibia-university-of-science-technology",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.nust.na/",
+          "name": "Namibia University of Science & Technology",
+          "lead-organisation-for": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "main-location": [
+            "namibia"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ground-transparency-in-culturally-meaningful-metaphors",
+        "data": {
+          "layout": "generic",
+          "title": "Ground transparency in culturally meaningful metaphors.",
+          "airtable_id": "7f8c032e97a5573d",
+          "slug": "ground-transparency-in-culturally-meaningful-metaphors",
+          "type": "Recommendation",
+          "cases": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "name": "Ground transparency in culturally meaningful metaphors.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools",
+        "data": {
+          "layout": "generic",
+          "title": "Treat AI systems as evolving collaborators rather than fixed tools.",
+          "airtable_id": "2401ff0288cafc42",
+          "slug": "treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools",
+          "type": "Recommendation",
+          "cases": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "name": "Treat AI systems as evolving collaborators rather than fixed tools.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "embed-learning-and-capacity-building-as-core-design-outcomes",
+        "data": {
+          "layout": "generic",
+          "title": "Embed learning and capacity-building as core design outcomes.",
+          "airtable_id": "102f75bb6ebb28d6",
+          "slug": "embed-learning-and-capacity-building-as-core-design-outcomes",
+          "type": "Recommendation",
+          "cases": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "name": "Embed learning and capacity-building as core design outcomes.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+          ],
+          "layout": "generic",
+          "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba-process",
+          "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia-Community Members",
+        "airtable_id": "d718993ff6ab2a9a",
+        "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba",
+        "locations": [
+          "namibia"
+        ],
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "Namibia",
+        "which-of-the-following-methods-were-used-to": [
+          "Prototyping",
+          "Co-creation workshops",
+          "Public Dialogue"
+        ],
+        "on-average-how-many-hours-did-each-participant": 10,
+        "name": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia-Community Members",
+        "group-description": "Community Members",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 30,
+        "cases": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "layout": "generic",
+        "slug": "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba-process",
+        "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Namibia University of Science & Technology",
+        "airtable_id": "51146b2f9d424915",
+        "slug": "namibia-university-of-science-technology-1",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.nust.na/",
+        "name": "Namibia University of Science & Technology",
+        "main-location": [
+          "namibia"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Donkerbos Community",
+        "airtable_id": "1195b842e8cd130d",
+        "slug": "donkerbos-community",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.donkerbos.org/",
+        "name": "Donkerbos Community",
+        "main-location": [
+          "namibia"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Otjisa Community",
+        "airtable_id": "b41070ef42518690",
+        "slug": "otjisa-community",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.nust.na/",
+        "name": "Otjisa Community",
+        "main-location": [
+          "namibia"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Aarhus University",
+        "airtable_id": "55c22b4662a467bd",
+        "slug": "aarhus-university",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.au.dk/",
+        "name": "Aarhus University",
+        "lead-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "main-location": [
+          "denmark"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Namibia University of Science & Technology",
+        "airtable_id": "5fda9f752440ba67",
+        "slug": "namibia-university-of-science-technology",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.nust.na/",
+        "name": "Namibia University of Science & Technology",
+        "lead-organisation-for": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "main-location": [
+          "namibia"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Ground transparency in culturally meaningful metaphors.",
+        "airtable_id": "7f8c032e97a5573d",
+        "slug": "ground-transparency-in-culturally-meaningful-metaphors",
+        "type": "Recommendation",
+        "cases": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "name": "Ground transparency in culturally meaningful metaphors.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Treat AI systems as evolving collaborators rather than fixed tools.",
+        "airtable_id": "2401ff0288cafc42",
+        "slug": "treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools",
+        "type": "Recommendation",
+        "cases": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "name": "Treat AI systems as evolving collaborators rather than fixed tools.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Embed learning and capacity-building as core design outcomes.",
+        "airtable_id": "102f75bb6ebb28d6",
+        "slug": "embed-learning-and-capacity-building-as-core-design-outcomes",
+        "type": "Recommendation",
+        "cases": [
+          "designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba"
+        ],
+        "name": "Embed learning and capacity-building as core design outcomes.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

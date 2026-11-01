@@ -1,0 +1,3287 @@
+{
+  "slug": "global-ai-dialogues",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Global AI Dialogues",
+    "airtable_id": "272b6e6f3370faee",
+    "slug": "global-ai-dialogues",
+    "redirect_from": [
+      "/c/272b6e6f3370faee/"
+    ],
+    "lead-organisations": [
+      "technical-university-of-munich"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2024, the Technical University of Munich initiated a process that used participatory futures workshops and surveys to involve approximately 284 people in one-day dialogue workshops.\n\nThe Global AI Dialogues are a dialogue series that invites citizens around the world to engage, discuss, and contribute their perspectives on the topic of Artificial Intelligence (AI), specifically generative AI and facial processing technologies. So far, the dialogues have taken place in Bolivia, Mexico, Nigeria, India, Germany, and Japan. \n\nDuring the one-day dialogue workshop, participants explore the deployment of technology in specific contexts, reflect on its future implications for societies, determine whether they consider its future deployment desirable, and identify relevant measures to support its desirable deployment – or alternative measures in the event that its deployment is not deemed desirable. In addition to providing spaces for discourse, the Global AI Dialogues is an international research project comparing participants’ perspectives cross-nationally.\n",
+    "what-limitations-to-the-project-should-be-noted": "One limitation of conducting dialogues is the necessary budget for participant compensation, food and drinks, and venue costs. This restricts either the number of participants per location or the number of locations where the dialogues can be held. For the Global AI Dialogues, for example, our financial resources limited the dialogues to six countries. \n\nFor our multi-location dialogues, all implementing research teams applied the same sampling criteria and attempted to achieve demographic heterogeneity through targeted sampling. Given different age structures, university quotas, and factors such as familiarity and openness to participating in dialogues, the samples in the six countries are inevitably different from each other. Our priority was to apply the same sampling criteria and achieve a sample that resembled the location of the dialogue. We acknowledge that our sample ended up being rather educated.\n\nIn terms of methodology, the Global AI Dialogues feature a participatory futuring workshop paired with individual surveys conducted at specific points in time: before, during, and after the dialogues. During the dialogues, we use design futuring approaches to facilitate conversations about AI. We prompt participants to consider future AI deployment, which sets the stage for collective exploration. Participants imagine and evaluate potential consequences based on their experiences and viewpoints. They also explore the roles and interests of the involved stakeholders. The guided process results in a set of measures for different actors to pursue in order to support the desirable deployment or non-deployment of AI in the discussed application context. As a multi-country research project, the Global AI Dialogues enable comparative analysis of the results. This analysis was performed by an international research team, composed of the researchers who organized and facilitated the local dialogues, through joint analysis workshops.\n",
+    "project-status": "In Progress",
+    "headline-findings": "The results from the dialogues were jointly analyzed by an international research team, composed of the researchers who organized and facilitated the local dialogues. The reported findings reflect the researchers’ synthesis.\n\nFor future usage of generative AI (genAI) systems, laypeople in Nigeria, Japan, and Germany envisioned the future value of these systems in educational, public service, and artistic contexts to make valuable goods (knowledge, public service, and art creation) more accessible to everyone, thus making them public goods. People expressed specific requirements that must be met in order for the envisioned value to be realized. These requirements include, among others, mindful regulation, technical robustness, and a knowledgeable population with broad access to the technology. \n\nFor future usage of facial processing technology, laypeople in Bolivia, India, Nigeria, Japan, and Germany envisioned these systems' value in public safety and policing, corporate contexts, and social interactions to reduce crime, increase security, improve efficiency, and enhance convenience in respective processes. Similar to the results emerging from the discourses on genAI, people considered the envisioned values to be achievable only if certain requirements are met and particular measures implemented. These requirements include, among others, having robust, privacy-preserving systems that are built and deployed in accordance with regulatory frameworks. Participants also emphasized the relevance of involving stakeholders in several governance steps and establishing awareness of how the technology functions. The researchers observed that positive corporate and governmental narratives influenced people's positive perspectives. Despite expressing concerns about validity or inaccuracy, participants attributed abilities related to the above-described envisioned values to facial processing technology. The participants' suggestions for regulatory measures potentially mitigated their concerns.\n\nOverall, the majority of participants demanded that AI systems be regulated. They also highlighted the importance of keeping societies, especially lay citizens, in the loop to discuss desirable AI development and deployment. This was deemed especially important when discussing the appropriate mechanisms for governing these technologies, while paying attention to local factors, such as prevailing narratives that influence perceptions, to help question technology narratives and technology deployment. \n",
+    "participants": [
+      "global-ai-dialogues-mini-public"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Predictive AI",
+      "Current issues",
+      "Future issues"
+    ],
+    "messages": [
+      "when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain",
+      "interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ",
+      "genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr",
+      "to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-特区",
+      "models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w",
+      "to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable",
+      "societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase",
+      "promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc",
+      "the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa",
+      "to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh",
+      "possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol",
+      "genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d",
+      "adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system",
+      "societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci",
+      "governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed",
+      "taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no",
+      "the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo",
+      "all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c",
+      "appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif",
+      "nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems",
+      "japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi",
+      "german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse",
+      "japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als",
+      "german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well",
+      "nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f",
+      "japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline"
+    ],
+    "theme": [
+      "Artificial Intelligence",
+      "Education",
+      "Safety"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "institute-of-electrical-and-electronics-engineers"
+    ],
+    "additional-acknowledgements": "Arisa Ema, Bukola Onyekwelu, Nidhi Singh, Shashank Mohan, Olusola Babalola, Amelia Katirai, Aimi Ozaki, Jun Kuribayashi, Tatsuya Daikoku, Naira Paola Arnez Jordan, Nikhil Sharma, Srija Naskar, Jhalak Kakkar, Oscar Ortiz Antelo, Jose Jesus Cabrera Pantoja, Indiana Karina Jordan Barros, Cynthia Maria Montaudon-Tomas, Gabriela Sánchez Bazán, Christin Schüler, Gabriela Grossklags, Alvaro Morales Ponce",
+    "inclusion-efforts": "With the aim of providing a space for laypeople across different countries to explore and express their opinions on desirable AI development and deployment, we decided on a mix of participant selection methods. The participant outreach process employed targeted recruitment through various digital and analog communication channels and engagement with communities (e.g., neighbourhood associations, …) that shared information about the dialogues. This approach aimed to enhance diversity in gender, age, and AI knowledge, resulting in a self-selected pre-registered set of the interested general population. We chose self-selection based on the principle of universality, which reflects a participatory ideal of citizen engagement. We implemented purposive sampling with a random component on all pre-registrations. We ensured that each dialogue workshop group was gender-diverse and diverse across age clusters (20-year intervals: ‘low’, ‘middle’, ‘high’) and AI knowledge levels (‘low’, ‘middle’, ‘high’). We refer to the group of laypeople selected through this approach as a “mini-public,” in which people gather to discuss matters of public interest.\n",
+    "project-title": "Global AI Dialogues",
+    "submitted-by": "Chiara Ullstein, Michel Hohendanner and Jens Grossklags.",
+    "why-is-this-project-important-to-include-in-the": "The Global AI Dialogues is one of the first efforts to engage citizens from different countries in conversations about the future deployment of AI in specific contexts, such as generative AI for public services. To date, 284 participants from six countries – Bolivia, Mexico, Nigeria, India, Germany, and Japan – have participated in one-day dialogues on generative AI and facial processing technologies. In terms of methodology, the Global AI Dialogues feature a participatory futuring workshop paired with individual surveys conducted at specific points in time: before, during, and after the dialogues. During the dialogues, we use design futuring approaches to facilitate conversations about AI. We prompt participants to consider future AI deployment, which sets the stage for collective exploration. Participants imagine and evaluate potential consequences based on their experiences and viewpoints. They also explore the roles and interests of the involved stakeholders. The guided process results in a set of measures for different actors to pursue in order to support the desirable deployment or non-deployment of AI in the discussed application context. As a multi-country research project, the Global AI Dialogues enable comparative analysis of the results. This analysis was performed by an international research team, composed of the researchers who organized and facilitated the local dialogues, through joint analysis workshops.",
+    "photos-and-images": [
+      {
+        "id": "attLuscFNrFp3UPNV",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV.jpg",
+        "filename": "03_GAIDs_Munich.jpg",
+        "size": 190457,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attqAiRNoB9RqOSUn",
+        "width": 2400,
+        "height": 2400,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn.jpg",
+        "filename": "01_GAIDs_Plenary_Munich.jpg",
+        "size": 1001428,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_small.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_large.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_full.jpg",
+            "width": 2400,
+            "height": 2400
+          }
+        }
+      },
+      {
+        "id": "attZcD6MtDyhNTr6y",
+        "width": 4032,
+        "height": 3024,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y.jpeg",
+        "filename": "04_GAIDs_Delhi.jpeg",
+        "size": 1417048,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_small.jpeg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_large.jpeg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_full.jpeg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attoHkborO3Wmooqh",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh.jpg",
+        "filename": "06_GAIDs_Delhi.jpg",
+        "size": 240917,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attFYfgNuo0saUoQi",
+        "width": 2400,
+        "height": 1800,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi.jpg",
+        "filename": "02_GAIDs_Group_Munich.jpg",
+        "size": 1519367,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_full.jpg",
+            "width": 2400,
+            "height": 1800
+          }
+        }
+      },
+      {
+        "id": "att3XBgopjQGgdV4C",
+        "width": 2255,
+        "height": 888,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C.jpg",
+        "filename": "08_GAIDs_Tokyo_group_wide.jpg",
+        "size": 532131,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_small.jpg",
+            "width": 91,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_large.jpg",
+            "width": 1300,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_full.jpg",
+            "width": 2255,
+            "height": 888
+          }
+        }
+      },
+      {
+        "id": "attv3hJfe77P3nIA6",
+        "width": 2400,
+        "height": 1600,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6.jpg",
+        "filename": "10_GAIDs_Nigeria.jpg",
+        "size": 702653,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_full.jpg",
+            "width": 2400,
+            "height": 1600
+          }
+        }
+      },
+      {
+        "id": "attmYBSdClwjm8zHC",
+        "width": 2300,
+        "height": 1950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC.jpg",
+        "filename": "09_GAIDs_Tokyo_group-work.jpg",
+        "size": 900244,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_small.jpg",
+            "width": 42,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_large.jpg",
+            "width": 604,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_full.jpg",
+            "width": 2300,
+            "height": 1950
+          }
+        }
+      },
+      {
+        "id": "att9JnhEucZmu8dPR",
+        "width": 1280,
+        "height": 1030,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR.jpg",
+        "filename": "07_GAIDs_Tokyo.jpg",
+        "size": 268003,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_small.jpg",
+            "width": 45,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_large.jpg",
+            "width": 636,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_full.jpg",
+            "width": 1280,
+            "height": 1030
+          }
+        }
+      },
+      {
+        "id": "attE8FrtvstrvA85C",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C.jpg",
+        "filename": "11_GAIDs_Nigeria.jpg",
+        "size": 150633,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attwM5QulfeoERM7I",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I.jpg",
+        "filename": "12_GAIDs_Nigeria.jpg",
+        "size": 151408,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attKMXRjraUvq5nNS",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS.jpg",
+        "filename": "13_GAIDs_Nigeria.jpg",
+        "size": 128021,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attkFQhg19y2UBg8v",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v.jpg",
+        "filename": "14_GAIDs_Bolivia.jpg",
+        "size": 213767,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attyn8RMM4PrpkIKC",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC.jpg",
+        "filename": "15_GAIDs_Bolivia.jpg",
+        "size": 290091,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attw9hpzZalCJQBbA",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA.jpg",
+        "filename": "16_GAIDs_Bolivia.jpg",
+        "size": 185196,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attMKM25SCalNx4DH",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH.jpg",
+        "filename": "17_GAIDs_Mexico.jpg",
+        "size": 207963,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "att5pdkpqFpglXtUN",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN.jpg",
+        "filename": "18_GAIDs_Mexico.jpg",
+        "size": 184504,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attI1Irl58AH7T0II",
+        "width": 1280,
+        "height": 950,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II.jpg",
+        "filename": "19_GAIDs_Mexico.jpg",
+        "size": 243518,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_large.jpg",
+            "width": 690,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_full.jpg",
+            "width": 1280,
+            "height": 950
+          }
+        }
+      },
+      {
+        "id": "attoxzGygX0jtFrcC",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC.jpeg",
+        "filename": "05_GAIDs_Delhi.jpeg",
+        "size": 1165162,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_small.jpeg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_large.jpeg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_full.jpeg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI"
+    ],
+    "supporting-resources": [
+      "initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro",
+      "global-ai-dialogues-a-toolkit-for-facilitating-citizen-dialogues-on-ai",
+      "anticipating-risks-and-identifying-governance-measures-for-the-use-of-genai-and-fpt-citizens-perspec",
+      "perspectives-from-the-global-ai-dialogues-in-mexico-bolivia-india-nigeria-japan-and-germany",
+      "about-the-global-ai-dialogues"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Desirable developments and non-deployments of generative AI in education, public service, and the arts, as well as facial processing AI for public safety, policing, corporate contexts, and social interactions. ",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project video",
+      "A research poster",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "the-university-of-tokyo",
+      "national-law-university-delhi",
+      "elizade-university-nigeria",
+      "universidad-católica-boliviana",
+      "universidad-popular-autónoma-del-estado-de-puebla",
+      "hochschule-münchen-university-of-applied-sciences"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://designxdiscourse.com/global-ai-dialogues/",
+    "locations": [
+      "delhi-india",
+      "lagos-nigeria",
+      "munich-germany",
+      "puebla-mexico",
+      "santa-cruz-de-la-sierra-bolivia",
+      "tokyo-japan"
+    ],
+    "where-were-participants-from": [
+      "Germany (Munich), Japan (Tokyo), Nigeria (Lagos), India (Delhi), Mexico (Puebla), Bolivia (Santa Cruz de la Sierra)"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "global-ai-dialogues",
+    "data": {
+      "layout": "case",
+      "title": "Global AI Dialogues",
+      "airtable_id": "272b6e6f3370faee",
+      "slug": "global-ai-dialogues",
+      "redirect_from": [
+        "/c/272b6e6f3370faee/"
+      ],
+      "lead-organisations": [
+        "technical-university-of-munich"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2024, the Technical University of Munich initiated a process that used participatory futures workshops and surveys to involve approximately 284 people in one-day dialogue workshops.\n\nThe Global AI Dialogues are a dialogue series that invites citizens around the world to engage, discuss, and contribute their perspectives on the topic of Artificial Intelligence (AI), specifically generative AI and facial processing technologies. So far, the dialogues have taken place in Bolivia, Mexico, Nigeria, India, Germany, and Japan. \n\nDuring the one-day dialogue workshop, participants explore the deployment of technology in specific contexts, reflect on its future implications for societies, determine whether they consider its future deployment desirable, and identify relevant measures to support its desirable deployment – or alternative measures in the event that its deployment is not deemed desirable. In addition to providing spaces for discourse, the Global AI Dialogues is an international research project comparing participants’ perspectives cross-nationally.\n",
+      "what-limitations-to-the-project-should-be-noted": "One limitation of conducting dialogues is the necessary budget for participant compensation, food and drinks, and venue costs. This restricts either the number of participants per location or the number of locations where the dialogues can be held. For the Global AI Dialogues, for example, our financial resources limited the dialogues to six countries. \n\nFor our multi-location dialogues, all implementing research teams applied the same sampling criteria and attempted to achieve demographic heterogeneity through targeted sampling. Given different age structures, university quotas, and factors such as familiarity and openness to participating in dialogues, the samples in the six countries are inevitably different from each other. Our priority was to apply the same sampling criteria and achieve a sample that resembled the location of the dialogue. We acknowledge that our sample ended up being rather educated.\n\nIn terms of methodology, the Global AI Dialogues feature a participatory futuring workshop paired with individual surveys conducted at specific points in time: before, during, and after the dialogues. During the dialogues, we use design futuring approaches to facilitate conversations about AI. We prompt participants to consider future AI deployment, which sets the stage for collective exploration. Participants imagine and evaluate potential consequences based on their experiences and viewpoints. They also explore the roles and interests of the involved stakeholders. The guided process results in a set of measures for different actors to pursue in order to support the desirable deployment or non-deployment of AI in the discussed application context. As a multi-country research project, the Global AI Dialogues enable comparative analysis of the results. This analysis was performed by an international research team, composed of the researchers who organized and facilitated the local dialogues, through joint analysis workshops.\n",
+      "project-status": "In Progress",
+      "headline-findings": "The results from the dialogues were jointly analyzed by an international research team, composed of the researchers who organized and facilitated the local dialogues. The reported findings reflect the researchers’ synthesis.\n\nFor future usage of generative AI (genAI) systems, laypeople in Nigeria, Japan, and Germany envisioned the future value of these systems in educational, public service, and artistic contexts to make valuable goods (knowledge, public service, and art creation) more accessible to everyone, thus making them public goods. People expressed specific requirements that must be met in order for the envisioned value to be realized. These requirements include, among others, mindful regulation, technical robustness, and a knowledgeable population with broad access to the technology. \n\nFor future usage of facial processing technology, laypeople in Bolivia, India, Nigeria, Japan, and Germany envisioned these systems' value in public safety and policing, corporate contexts, and social interactions to reduce crime, increase security, improve efficiency, and enhance convenience in respective processes. Similar to the results emerging from the discourses on genAI, people considered the envisioned values to be achievable only if certain requirements are met and particular measures implemented. These requirements include, among others, having robust, privacy-preserving systems that are built and deployed in accordance with regulatory frameworks. Participants also emphasized the relevance of involving stakeholders in several governance steps and establishing awareness of how the technology functions. The researchers observed that positive corporate and governmental narratives influenced people's positive perspectives. Despite expressing concerns about validity or inaccuracy, participants attributed abilities related to the above-described envisioned values to facial processing technology. The participants' suggestions for regulatory measures potentially mitigated their concerns.\n\nOverall, the majority of participants demanded that AI systems be regulated. They also highlighted the importance of keeping societies, especially lay citizens, in the loop to discuss desirable AI development and deployment. This was deemed especially important when discussing the appropriate mechanisms for governing these technologies, while paying attention to local factors, such as prevailing narratives that influence perceptions, to help question technology narratives and technology deployment. \n",
+      "participants": [
+        "global-ai-dialogues-mini-public"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Predictive AI",
+        "Current issues",
+        "Future issues"
+      ],
+      "messages": [
+        "when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain",
+        "interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ",
+        "genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr",
+        "to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-特区",
+        "models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w",
+        "to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable",
+        "societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase",
+        "promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc",
+        "the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa",
+        "to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh",
+        "possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol",
+        "genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d",
+        "adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system",
+        "societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci",
+        "governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed",
+        "taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no",
+        "the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo",
+        "all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c",
+        "appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif",
+        "nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems",
+        "japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi",
+        "german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse",
+        "japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als",
+        "german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well",
+        "nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f",
+        "japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline"
+      ],
+      "theme": [
+        "Artificial Intelligence",
+        "Education",
+        "Safety"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "institute-of-electrical-and-electronics-engineers"
+      ],
+      "additional-acknowledgements": "Arisa Ema, Bukola Onyekwelu, Nidhi Singh, Shashank Mohan, Olusola Babalola, Amelia Katirai, Aimi Ozaki, Jun Kuribayashi, Tatsuya Daikoku, Naira Paola Arnez Jordan, Nikhil Sharma, Srija Naskar, Jhalak Kakkar, Oscar Ortiz Antelo, Jose Jesus Cabrera Pantoja, Indiana Karina Jordan Barros, Cynthia Maria Montaudon-Tomas, Gabriela Sánchez Bazán, Christin Schüler, Gabriela Grossklags, Alvaro Morales Ponce",
+      "inclusion-efforts": "With the aim of providing a space for laypeople across different countries to explore and express their opinions on desirable AI development and deployment, we decided on a mix of participant selection methods. The participant outreach process employed targeted recruitment through various digital and analog communication channels and engagement with communities (e.g., neighbourhood associations, …) that shared information about the dialogues. This approach aimed to enhance diversity in gender, age, and AI knowledge, resulting in a self-selected pre-registered set of the interested general population. We chose self-selection based on the principle of universality, which reflects a participatory ideal of citizen engagement. We implemented purposive sampling with a random component on all pre-registrations. We ensured that each dialogue workshop group was gender-diverse and diverse across age clusters (20-year intervals: ‘low’, ‘middle’, ‘high’) and AI knowledge levels (‘low’, ‘middle’, ‘high’). We refer to the group of laypeople selected through this approach as a “mini-public,” in which people gather to discuss matters of public interest.\n",
+      "project-title": "Global AI Dialogues",
+      "submitted-by": "Chiara Ullstein, Michel Hohendanner and Jens Grossklags.",
+      "why-is-this-project-important-to-include-in-the": "The Global AI Dialogues is one of the first efforts to engage citizens from different countries in conversations about the future deployment of AI in specific contexts, such as generative AI for public services. To date, 284 participants from six countries – Bolivia, Mexico, Nigeria, India, Germany, and Japan – have participated in one-day dialogues on generative AI and facial processing technologies. In terms of methodology, the Global AI Dialogues feature a participatory futuring workshop paired with individual surveys conducted at specific points in time: before, during, and after the dialogues. During the dialogues, we use design futuring approaches to facilitate conversations about AI. We prompt participants to consider future AI deployment, which sets the stage for collective exploration. Participants imagine and evaluate potential consequences based on their experiences and viewpoints. They also explore the roles and interests of the involved stakeholders. The guided process results in a set of measures for different actors to pursue in order to support the desirable deployment or non-deployment of AI in the discussed application context. As a multi-country research project, the Global AI Dialogues enable comparative analysis of the results. This analysis was performed by an international research team, composed of the researchers who organized and facilitated the local dialogues, through joint analysis workshops.",
+      "photos-and-images": [
+        {
+          "id": "attLuscFNrFp3UPNV",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV.jpg",
+          "filename": "03_GAIDs_Munich.jpg",
+          "size": 190457,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attLuscFNrFp3UPNV_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attqAiRNoB9RqOSUn",
+          "width": 2400,
+          "height": 2400,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn.jpg",
+          "filename": "01_GAIDs_Plenary_Munich.jpg",
+          "size": 1001428,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_small.jpg",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_large.jpg",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attqAiRNoB9RqOSUn_full.jpg",
+              "width": 2400,
+              "height": 2400
+            }
+          }
+        },
+        {
+          "id": "attZcD6MtDyhNTr6y",
+          "width": 4032,
+          "height": 3024,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y.jpeg",
+          "filename": "04_GAIDs_Delhi.jpeg",
+          "size": 1417048,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_small.jpeg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_large.jpeg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attZcD6MtDyhNTr6y_full.jpeg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attoHkborO3Wmooqh",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh.jpg",
+          "filename": "06_GAIDs_Delhi.jpg",
+          "size": 240917,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoHkborO3Wmooqh_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attFYfgNuo0saUoQi",
+          "width": 2400,
+          "height": 1800,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi.jpg",
+          "filename": "02_GAIDs_Group_Munich.jpg",
+          "size": 1519367,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attFYfgNuo0saUoQi_full.jpg",
+              "width": 2400,
+              "height": 1800
+            }
+          }
+        },
+        {
+          "id": "att3XBgopjQGgdV4C",
+          "width": 2255,
+          "height": 888,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C.jpg",
+          "filename": "08_GAIDs_Tokyo_group_wide.jpg",
+          "size": 532131,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_small.jpg",
+              "width": 91,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_large.jpg",
+              "width": 1300,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att3XBgopjQGgdV4C_full.jpg",
+              "width": 2255,
+              "height": 888
+            }
+          }
+        },
+        {
+          "id": "attv3hJfe77P3nIA6",
+          "width": 2400,
+          "height": 1600,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6.jpg",
+          "filename": "10_GAIDs_Nigeria.jpg",
+          "size": 702653,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attv3hJfe77P3nIA6_full.jpg",
+              "width": 2400,
+              "height": 1600
+            }
+          }
+        },
+        {
+          "id": "attmYBSdClwjm8zHC",
+          "width": 2300,
+          "height": 1950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC.jpg",
+          "filename": "09_GAIDs_Tokyo_group-work.jpg",
+          "size": 900244,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_small.jpg",
+              "width": 42,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_large.jpg",
+              "width": 604,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attmYBSdClwjm8zHC_full.jpg",
+              "width": 2300,
+              "height": 1950
+            }
+          }
+        },
+        {
+          "id": "att9JnhEucZmu8dPR",
+          "width": 1280,
+          "height": 1030,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR.jpg",
+          "filename": "07_GAIDs_Tokyo.jpg",
+          "size": 268003,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_small.jpg",
+              "width": 45,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_large.jpg",
+              "width": 636,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att9JnhEucZmu8dPR_full.jpg",
+              "width": 1280,
+              "height": 1030
+            }
+          }
+        },
+        {
+          "id": "attE8FrtvstrvA85C",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C.jpg",
+          "filename": "11_GAIDs_Nigeria.jpg",
+          "size": 150633,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attE8FrtvstrvA85C_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attwM5QulfeoERM7I",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I.jpg",
+          "filename": "12_GAIDs_Nigeria.jpg",
+          "size": 151408,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attwM5QulfeoERM7I_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attKMXRjraUvq5nNS",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS.jpg",
+          "filename": "13_GAIDs_Nigeria.jpg",
+          "size": 128021,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attKMXRjraUvq5nNS_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attkFQhg19y2UBg8v",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v.jpg",
+          "filename": "14_GAIDs_Bolivia.jpg",
+          "size": 213767,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attkFQhg19y2UBg8v_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attyn8RMM4PrpkIKC",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC.jpg",
+          "filename": "15_GAIDs_Bolivia.jpg",
+          "size": 290091,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attyn8RMM4PrpkIKC_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attw9hpzZalCJQBbA",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA.jpg",
+          "filename": "16_GAIDs_Bolivia.jpg",
+          "size": 185196,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attw9hpzZalCJQBbA_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attMKM25SCalNx4DH",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH.jpg",
+          "filename": "17_GAIDs_Mexico.jpg",
+          "size": 207963,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attMKM25SCalNx4DH_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "att5pdkpqFpglXtUN",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN.jpg",
+          "filename": "18_GAIDs_Mexico.jpg",
+          "size": 184504,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_att5pdkpqFpglXtUN_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attI1Irl58AH7T0II",
+          "width": 1280,
+          "height": 950,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II.jpg",
+          "filename": "19_GAIDs_Mexico.jpg",
+          "size": 243518,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_large.jpg",
+              "width": 690,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attI1Irl58AH7T0II_full.jpg",
+              "width": 1280,
+              "height": 950
+            }
+          }
+        },
+        {
+          "id": "attoxzGygX0jtFrcC",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC.jpeg",
+          "filename": "05_GAIDs_Delhi.jpeg",
+          "size": 1165162,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_small.jpeg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_large.jpeg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/272b6e6f3370faee_fldd4B6cpBOP3n3is_attoxzGygX0jtFrcC_full.jpeg",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI"
+      ],
+      "supporting-resources": [
+        "initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro",
+        "global-ai-dialogues-a-toolkit-for-facilitating-citizen-dialogues-on-ai",
+        "anticipating-risks-and-identifying-governance-measures-for-the-use-of-genai-and-fpt-citizens-perspec",
+        "perspectives-from-the-global-ai-dialogues-in-mexico-bolivia-india-nigeria-japan-and-germany",
+        "about-the-global-ai-dialogues"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Desirable developments and non-deployments of generative AI in education, public service, and the arts, as well as facial processing AI for public safety, policing, corporate contexts, and social interactions. ",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project video",
+        "A research poster",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "the-university-of-tokyo",
+        "national-law-university-delhi",
+        "elizade-university-nigeria",
+        "universidad-católica-boliviana",
+        "universidad-popular-autónoma-del-estado-de-puebla",
+        "hochschule-münchen-university-of-applied-sciences"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://designxdiscourse.com/global-ai-dialogues/",
+      "locations": [
+        "delhi-india",
+        "lagos-nigeria",
+        "munich-germany",
+        "puebla-mexico",
+        "santa-cruz-de-la-sierra-bolivia",
+        "tokyo-japan"
+      ],
+      "where-were-participants-from": [
+        "Germany (Munich), Japan (Tokyo), Nigeria (Lagos), India (Delhi), Mexico (Puebla), Bolivia (Santa Cruz de la Sierra)"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "global-ai-dialogues-mini-public",
+        "data": {
+          "layout": "generic",
+          "title": "Global AI Dialogues-Mini public",
+          "airtable_id": "416eb6f78da66b21",
+          "slug": "global-ai-dialogues-mini-public",
+          "locations": [
+            "munich-germany",
+            "tokyo-japan",
+            "lagos-nigeria",
+            "delhi-india",
+            "puebla-mexico",
+            "santa-cruz-de-la-sierra-bolivia"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Germany (Munich), Japan (Tokyo), Nigeria (Lagos), India (Delhi), Mexico (Puebla), Bolivia (Santa Cruz de la Sierra)",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey",
+            "Participatory futures workshop"
+          ],
+          "on-average-how-many-hours-did-each-participant": 8,
+          "name": "Global AI Dialogues-Mini public",
+          "group-description": "Mini public",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 284,
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "recruitment-description": "With the aim of providing a space for laypeople across different countries to explore and express their opinions on desirable AI development and deployment, we decided on a mix of participant selection methods. The participant outreach process employed targeted recruitment through various digital and analog communication channels and engagement with communities (e.g., neighbourhood associations, …) that shared information about the dialogues. This approach aimed to enhance diversity in gender, age, and AI knowledge, resulting in a self-selected pre-registered set of the interested general population. We chose self-selection based on the principle of universality, which reflects a participatory ideal of citizen engagement. We implemented purposive sampling with a random component on all pre-registrations. We ensured that each dialogue workshop group was gender-diverse and diverse across age clusters (20-year intervals: ‘low’, ‘middle’, ‘high’) and AI knowledge levels (‘low’, ‘middle’, ‘high’). We refer to the group of laypeople selected through this approach as a “mini-public,” in which people gather to discuss matters of public interest.",
+          "was-there-a-specific-target-population": "general public",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "institute-of-electrical-and-electronics-engineers",
+        "data": {
+          "layout": "organisation",
+          "title": "Institute of Electrical and Electronics Engineers",
+          "airtable_id": "f10ac7ae0065d07f",
+          "slug": "institute-of-electrical-and-electronics-engineers",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.ieee.org/",
+          "name": "Institute of Electrical and Electronics Engineers",
+          "mission-statement": "To foster technological innovation and excellence for the benefit of humanity. (Source: https://www.ieee.org/)",
+          "main-location": [
+            "new-york-new-york-usa"
+          ],
+          "funding-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "the-university-of-tokyo",
+        "data": {
+          "layout": "organisation",
+          "title": "The University of Tokyo",
+          "airtable_id": "6b425b26a555704b",
+          "slug": "the-university-of-tokyo",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.u-tokyo.ac.jp/",
+          "name": "The University of Tokyo",
+          "main-location": [
+            "tokyo-japan"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-law-university-delhi",
+        "data": {
+          "layout": "organisation",
+          "title": "National Law University Delhi",
+          "airtable_id": "23e02480b37e8731",
+          "slug": "national-law-university-delhi",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://nludelhi.ac.in/",
+          "name": "National Law University Delhi",
+          "main-location": [
+            "delhi-india"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "universidad-católica-boliviana",
+        "data": {
+          "layout": "organisation",
+          "title": "Universidad Católica Boliviana",
+          "airtable_id": "1733296c77997e56",
+          "slug": "universidad-católica-boliviana",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.ucb.edu.bo/",
+          "name": "Universidad Católica Boliviana",
+          "main-location": [
+            "santa-cruz-de-la-sierra-bolivia"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "universidad-popular-autónoma-del-estado-de-puebla",
+        "data": {
+          "layout": "organisation",
+          "title": "Universidad Popular Autónoma del Estado de Puebla",
+          "airtable_id": "0b963eb5204dd7e8",
+          "slug": "universidad-popular-autónoma-del-estado-de-puebla",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://upaep.mx/",
+          "name": "Universidad Popular Autónoma del Estado de Puebla",
+          "main-location": [
+            "puebla-mexico"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "technical-university-of-munich",
+        "data": {
+          "layout": "organisation",
+          "title": "Technical University of Munich",
+          "airtable_id": "8598dad33d9bbc7b",
+          "slug": "technical-university-of-munich",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.tum.de/",
+          "name": "Technical University of Munich",
+          "lead-organisation-for": [
+            "global-ai-dialogues",
+            "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+          ],
+          "mission-statement": "To serve society through excellent research and education in science, engineering, and medicine. (Source: https://www.tum.de/)",
+          "main-location": [
+            "munich-germany"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "elizade-university-nigeria",
+        "data": {
+          "layout": "organisation",
+          "title": "Elizade University, Nigeria",
+          "airtable_id": "37cac16f94ee7ced",
+          "slug": "elizade-university-nigeria",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.elizadeuniversity.edu.ng/",
+          "name": "Elizade University, Nigeria",
+          "main-location": [
+            "nigeria"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "hochschule-münchen-university-of-applied-sciences",
+        "data": {
+          "layout": "organisation",
+          "title": "Hochschule München University of Applied Sciences",
+          "airtable_id": "4f6fa02907c1c2d1",
+          "slug": "hochschule-münchen-university-of-applied-sciences",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "global-ai-dialogues"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.hm.edu/",
+          "name": "Hochschule München University of Applied Sciences",
+          "main-location": [
+            "munich-germany"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems",
+        "data": {
+          "layout": "generic",
+          "title": "Nigerian participants emphasized the importance of bridging the digital divide by providing systems that are easy to learn and use and run on low-data connections. ",
+          "airtable_id": "5cc2cfb9107f3548",
+          "slug": "nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "Nigerian participants emphasized the importance of bridging the digital divide by providing systems that are easy to learn and use and run on low-data connections. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa",
+        "data": {
+          "layout": "generic",
+          "title": "The promotion of genAI awareness must be accompanied by providing training through established educational formats fostering reflective and responsible use, promoting a dual path to knowledge where genAI serves as one among many methods, while preventing over reliance on system use and outputs.",
+          "airtable_id": "0132c03421b666bc",
+          "slug": "the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to intermediaries (e.g., educators, public administrations) (Nigeria, Germany and Japan)",
+          "name": "The promotion of genAI awareness must be accompanied by providing training through established educational formats fostering reflective and responsible use, promoting a dual path to knowledge where genAI serves as one among many methods, while preventing over reliance on system use and outputs.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci",
+        "data": {
+          "layout": "generic",
+          "title": "Societies must be supported during periods of rapid change, e.g., job market impact caused by genAI. Societal support can also be realized through providing guidance and a vision of how genAI should be used. ",
+          "airtable_id": "285b5e1ab4a834b1",
+          "slug": "societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci",
+          "featured": [
+            "Work"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "Societies must be supported during periods of rapid change, e.g., job market impact caused by genAI. Societal support can also be realized through providing guidance and a vision of how genAI should be used. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh",
+        "data": {
+          "layout": "generic",
+          "title": "To ensure adequate support and education, and the use of genAI by conscious societies, programs to enhance AI literacy must be implemented. ",
+          "airtable_id": "1e90e8a4a2f7f1ad",
+          "slug": "to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "To ensure adequate support and education, and the use of genAI by conscious societies, programs to enhance AI literacy must be implemented. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline",
+        "data": {
+          "layout": "generic",
+          "title": "Japanese participants called on the government and political actors to create standardized guidelines about education on genAI (rather than regulations), create sandboxes for testing, and close the digital divide, also ensuring that everyone has access to digital devices. ",
+          "airtable_id": "9761b861eba62965",
+          "slug": "japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "Japanese participants called on the government and political actors to create standardized guidelines about education on genAI (rather than regulations), create sandboxes for testing, and close the digital divide, also ensuring that everyone has access to digital devices. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system",
+        "data": {
+          "layout": "generic",
+          "title": "Adaptable regulations and guidelines must be implemented to govern illegal or unethical genAI systems and to restrict or support societal systems such as schools or public administration to deploy genAI for their purposes. ",
+          "airtable_id": "9b670a85171179a3",
+          "slug": "adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "Adaptable regulations and guidelines must be implemented to govern illegal or unethical genAI systems and to restrict or support societal systems such as schools or public administration to deploy genAI for their purposes. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable",
+        "data": {
+          "layout": "generic",
+          "title": "To ensure the accessibility of genAI to all people, the tools must remain financially affordable.",
+          "airtable_id": "dd307368ec096273",
+          "slug": "to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "To ensure the accessibility of genAI to all people, the tools must remain financially affordable.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase",
+        "data": {
+          "layout": "generic",
+          "title": "Societies require genAI flagship projects that manage to bridge the socio-technical gap and showcase the societal value of genAI in specific use cases.",
+          "airtable_id": "2d95b4b6161b3d6a",
+          "slug": "societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to researchers and science actors (Nigeria, Germany and Japan)",
+          "name": "Societies require genAI flagship projects that manage to bridge the socio-technical gap and showcase the societal value of genAI in specific use cases.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c",
+        "data": {
+          "layout": "generic",
+          "title": "All stakeholders must ensure that capacities are built for the roll-out of genAI in their specific context and that feedback and monitoring systems are in place to ensure rapid response mechanisms. Accountability must be ensured. ",
+          "airtable_id": "a9042c6be25739d8",
+          "slug": "all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to all stakeholders (Nigeria, Germany and Japan)",
+          "name": "All stakeholders must ensure that capacities are built for the roll-out of genAI in their specific context and that feedback and monitoring systems are in place to ensure rapid response mechanisms. Accountability must be ensured. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f",
+        "data": {
+          "layout": "generic",
+          "title": "Nigerian participants suggested the government could foster the development of its own genAI tools for easier and regulated use to curb data breaches or misinformation. ",
+          "airtable_id": "799d63df1a679f14",
+          "slug": "nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "Nigerian participants suggested the government could foster the development of its own genAI tools for easier and regulated use to curb data breaches or misinformation. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d",
+        "data": {
+          "layout": "generic",
+          "title": "genAI industry players must not become further entrenched as monopolies to prevent one-dimensional development, which may hinder innovation and create power imbalances potentially decreasing accessibility. ",
+          "airtable_id": "096ef6cbd4c1ab37",
+          "slug": "genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "genAI industry players must not become further entrenched as monopolies to prevent one-dimensional development, which may hinder innovation and create power imbalances potentially decreasing accessibility. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well",
+        "data": {
+          "layout": "generic",
+          "title": "German participants recommended researchers implement best practices and positive use cases, as well as models based on European values that can also boost the acceptance of genAI by the public. They also cautioned that personnel using and disseminating genAI in their contexts must gain relevant expertise and capacities. ",
+          "airtable_id": "a8e31c6753ebc764",
+          "slug": "german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "German participants recommended researchers implement best practices and positive use cases, as well as models based on European values that can also boost the acceptance of genAI by the public. They also cautioned that personnel using and disseminating genAI in their contexts must gain relevant expertise and capacities. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi",
+        "data": {
+          "layout": "generic",
+          "title": "Japanese participants highlighted companies should avoid the monopolization of information and provide laypeople opportunities such as workshops to learn from experts. ",
+          "airtable_id": "257a9db440bd12ea",
+          "slug": "japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "Japanese participants highlighted companies should avoid the monopolization of information and provide laypeople opportunities such as workshops to learn from experts. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr",
+        "data": {
+          "layout": "generic",
+          "title": "genAI systems should only be released if their outputs are of high quality, respecting individual’s privacy. ",
+          "airtable_id": "2acd9f5a48752843",
+          "slug": "genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "genAI systems should only be released if their outputs are of high quality, respecting individual’s privacy. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif",
+        "data": {
+          "layout": "generic",
+          "title": "Appropriate infrastructure contributing to the accessibility of genAI systems must be ensured on different levels, such as the availability of hardware and internet, e.g., in schools, or compatible software.",
+          "airtable_id": "bf26371fe5291a38",
+          "slug": "appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to all stakeholders (Nigeria, Germany and Japan)",
+          "name": "Appropriate infrastructure contributing to the accessibility of genAI systems must be ensured on different levels, such as the availability of hardware and internet, e.g., in schools, or compatible software.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als",
+        "data": {
+          "layout": "generic",
+          "title": "Japanese participants requested that researchers should provide high-quality educational content, also for life-long learning. ",
+          "airtable_id": "e9ca330af4734dcc",
+          "slug": "japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "Japanese participants requested that researchers should provide high-quality educational content, also for life-long learning. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no",
+        "data": {
+          "layout": "generic",
+          "title": "Taking up the topic of awareness, it is relevant to emphasize that both users and non-users should not shy away from remaining curious and, even if not using, engaging with genAI. ",
+          "airtable_id": "6dfd738ab8f5fb00",
+          "slug": "taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to users and all laypeople (Nigeria, Germany and Japan)",
+          "name": "Taking up the topic of awareness, it is relevant to emphasize that both users and non-users should not shy away from remaining curious and, even if not using, engaging with genAI. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol",
+        "data": {
+          "layout": "generic",
+          "title": "Possibilities for public discourse and participation must be implemented to allow different stakeholders, explicitly including laypeople, to share their views. ",
+          "airtable_id": "6e4a307e478eb797",
+          "slug": "possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "Possibilities for public discourse and participation must be implemented to allow different stakeholders, explicitly including laypeople, to share their views. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo",
+        "data": {
+          "layout": "generic",
+          "title": "The commitment to a reflective understanding of opportunities and risks ensures a non-agitated exploration of genAI, whereby responsible use must be ensured.",
+          "airtable_id": "b90d95f0c7fd3625",
+          "slug": "the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to users and all laypeople (Nigeria, Germany and Japan)",
+          "name": "The commitment to a reflective understanding of opportunities and risks ensures a non-agitated exploration of genAI, whereby responsible use must be ensured.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w",
+        "data": {
+          "layout": "generic",
+          "title": "Models must only be trained on data for which data owners have given explicit and informed consent: without exceptions. ",
+          "airtable_id": "5404e1401a06c1bf",
+          "slug": "models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "Models must only be trained on data for which data owners have given explicit and informed consent: without exceptions. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed",
+        "data": {
+          "layout": "generic",
+          "title": "Governments must ensure sufficient financial resources for infrastructure, innovation, research, and educational programs related to genAI and societal impact.",
+          "airtable_id": "3edf0741255a20c6",
+          "slug": "governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+          "name": "Governments must ensure sufficient financial resources for infrastructure, innovation, research, and educational programs related to genAI and societal impact.",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse",
+        "data": {
+          "layout": "generic",
+          "title": "German participants emphasized the need for industry to ensure privacy protection and informed consent. ",
+          "airtable_id": "be6225da6ea3738b",
+          "slug": "german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse",
+          "type": "Issue",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+          "name": "German participants emphasized the need for industry to ensure privacy protection and informed consent. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain",
+        "data": {
+          "layout": "generic",
+          "title": "When developing genAI systems, it is essential to respect inclusivity from the beginning and refrain from building systems primarily for higher-skilled individuals with ample resources.  ",
+          "airtable_id": "0201e1ba96809293",
+          "slug": "when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "When developing genAI systems, it is essential to respect inclusivity from the beginning and refrain from building systems primarily for higher-skilled individuals with ample resources.  ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ",
+        "data": {
+          "layout": "generic",
+          "title": "Interfaces should be easy to navigate, and system designs should run on low-tech devices and not require many resources (data amount, speed, energy) to be accessible to users at any time. ",
+          "airtable_id": "9c0fc557a9f4d22e",
+          "slug": "interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "Interfaces should be easy to navigate, and system designs should run on low-tech devices and not require many resources (data amount, speed, energy) to be accessible to users at any time. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-特区",
+        "data": {
+          "layout": "generic",
+          "title": "To test the systems, open-source code should be released or systems be tested in sandboxes (特区).",
+          "airtable_id": "0b4aa3016a3c5ee5",
+          "slug": "to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-特区",
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+          "name": "To test the systems, open-source code should be released or systems be tested in sandboxes (特区).",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc",
+        "data": {
+          "layout": "generic",
+          "title": "Promote awareness of the use of genAI for institutionalized learning and teaching, for counter balancing lack of resources, and for individual work. ",
+          "airtable_id": "69dcaa246d98a299",
+          "slug": "promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc",
+          "featured": [
+            "Education"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "additional-credit-line": "Recommendations to intermediaries (e.g., educators, public administrations) (Nigeria, Germany and Japan)",
+          "name": "Promote awareness of the use of genAI for institutionalized learning and teaching, for counter balancing lack of resources, and for individual work. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "global-ai-dialogues"
+          ],
+          "layout": "generic",
+          "slug": "global-ai-dialogues-process",
+          "title": "Global AI Dialogues - Process",
+          "theme": [
+            "Artificial Intelligence",
+            "Education",
+            "Safety"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Predictive AI",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Global AI Dialogues-Mini public",
+        "airtable_id": "416eb6f78da66b21",
+        "slug": "global-ai-dialogues-mini-public",
+        "locations": [
+          "munich-germany",
+          "tokyo-japan",
+          "lagos-nigeria",
+          "delhi-india",
+          "puebla-mexico",
+          "santa-cruz-de-la-sierra-bolivia"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Germany (Munich), Japan (Tokyo), Nigeria (Lagos), India (Delhi), Mexico (Puebla), Bolivia (Santa Cruz de la Sierra)",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey",
+          "Participatory futures workshop"
+        ],
+        "on-average-how-many-hours-did-each-participant": 8,
+        "name": "Global AI Dialogues-Mini public",
+        "group-description": "Mini public",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 284,
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "recruitment-description": "With the aim of providing a space for laypeople across different countries to explore and express their opinions on desirable AI development and deployment, we decided on a mix of participant selection methods. The participant outreach process employed targeted recruitment through various digital and analog communication channels and engagement with communities (e.g., neighbourhood associations, …) that shared information about the dialogues. This approach aimed to enhance diversity in gender, age, and AI knowledge, resulting in a self-selected pre-registered set of the interested general population. We chose self-selection based on the principle of universality, which reflects a participatory ideal of citizen engagement. We implemented purposive sampling with a random component on all pre-registrations. We ensured that each dialogue workshop group was gender-diverse and diverse across age clusters (20-year intervals: ‘low’, ‘middle’, ‘high’) and AI knowledge levels (‘low’, ‘middle’, ‘high’). We refer to the group of laypeople selected through this approach as a “mini-public,” in which people gather to discuss matters of public interest.",
+        "was-there-a-specific-target-population": "general public",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "layout": "generic",
+        "slug": "global-ai-dialogues-process",
+        "title": "Global AI Dialogues - Process",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Institute of Electrical and Electronics Engineers",
+        "airtable_id": "f10ac7ae0065d07f",
+        "slug": "institute-of-electrical-and-electronics-engineers",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.ieee.org/",
+        "name": "Institute of Electrical and Electronics Engineers",
+        "mission-statement": "To foster technological innovation and excellence for the benefit of humanity. (Source: https://www.ieee.org/)",
+        "main-location": [
+          "new-york-new-york-usa"
+        ],
+        "funding-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "The University of Tokyo",
+        "airtable_id": "6b425b26a555704b",
+        "slug": "the-university-of-tokyo",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.u-tokyo.ac.jp/",
+        "name": "The University of Tokyo",
+        "main-location": [
+          "tokyo-japan"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Law University Delhi",
+        "airtable_id": "23e02480b37e8731",
+        "slug": "national-law-university-delhi",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://nludelhi.ac.in/",
+        "name": "National Law University Delhi",
+        "main-location": [
+          "delhi-india"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Universidad Católica Boliviana",
+        "airtable_id": "1733296c77997e56",
+        "slug": "universidad-católica-boliviana",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.ucb.edu.bo/",
+        "name": "Universidad Católica Boliviana",
+        "main-location": [
+          "santa-cruz-de-la-sierra-bolivia"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Universidad Popular Autónoma del Estado de Puebla",
+        "airtable_id": "0b963eb5204dd7e8",
+        "slug": "universidad-popular-autónoma-del-estado-de-puebla",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://upaep.mx/",
+        "name": "Universidad Popular Autónoma del Estado de Puebla",
+        "main-location": [
+          "puebla-mexico"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Technical University of Munich",
+        "airtable_id": "8598dad33d9bbc7b",
+        "slug": "technical-university-of-munich",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.tum.de/",
+        "name": "Technical University of Munich",
+        "lead-organisation-for": [
+          "global-ai-dialogues",
+          "bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt"
+        ],
+        "mission-statement": "To serve society through excellent research and education in science, engineering, and medicine. (Source: https://www.tum.de/)",
+        "main-location": [
+          "munich-germany"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Elizade University, Nigeria",
+        "airtable_id": "37cac16f94ee7ced",
+        "slug": "elizade-university-nigeria",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.elizadeuniversity.edu.ng/",
+        "name": "Elizade University, Nigeria",
+        "main-location": [
+          "nigeria"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Hochschule München University of Applied Sciences",
+        "airtable_id": "4f6fa02907c1c2d1",
+        "slug": "hochschule-münchen-university-of-applied-sciences",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "global-ai-dialogues"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.hm.edu/",
+        "name": "Hochschule München University of Applied Sciences",
+        "main-location": [
+          "munich-germany"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Nigerian participants emphasized the importance of bridging the digital divide by providing systems that are easy to learn and use and run on low-data connections. ",
+        "airtable_id": "5cc2cfb9107f3548",
+        "slug": "nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "Nigerian participants emphasized the importance of bridging the digital divide by providing systems that are easy to learn and use and run on low-data connections. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The promotion of genAI awareness must be accompanied by providing training through established educational formats fostering reflective and responsible use, promoting a dual path to knowledge where genAI serves as one among many methods, while preventing over reliance on system use and outputs.",
+        "airtable_id": "0132c03421b666bc",
+        "slug": "the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to intermediaries (e.g., educators, public administrations) (Nigeria, Germany and Japan)",
+        "name": "The promotion of genAI awareness must be accompanied by providing training through established educational formats fostering reflective and responsible use, promoting a dual path to knowledge where genAI serves as one among many methods, while preventing over reliance on system use and outputs.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Societies must be supported during periods of rapid change, e.g., job market impact caused by genAI. Societal support can also be realized through providing guidance and a vision of how genAI should be used. ",
+        "airtable_id": "285b5e1ab4a834b1",
+        "slug": "societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci",
+        "featured": [
+          "Work"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "Societies must be supported during periods of rapid change, e.g., job market impact caused by genAI. Societal support can also be realized through providing guidance and a vision of how genAI should be used. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "To ensure adequate support and education, and the use of genAI by conscious societies, programs to enhance AI literacy must be implemented. ",
+        "airtable_id": "1e90e8a4a2f7f1ad",
+        "slug": "to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "To ensure adequate support and education, and the use of genAI by conscious societies, programs to enhance AI literacy must be implemented. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Japanese participants called on the government and political actors to create standardized guidelines about education on genAI (rather than regulations), create sandboxes for testing, and close the digital divide, also ensuring that everyone has access to digital devices. ",
+        "airtable_id": "9761b861eba62965",
+        "slug": "japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "Japanese participants called on the government and political actors to create standardized guidelines about education on genAI (rather than regulations), create sandboxes for testing, and close the digital divide, also ensuring that everyone has access to digital devices. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Adaptable regulations and guidelines must be implemented to govern illegal or unethical genAI systems and to restrict or support societal systems such as schools or public administration to deploy genAI for their purposes. ",
+        "airtable_id": "9b670a85171179a3",
+        "slug": "adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "Adaptable regulations and guidelines must be implemented to govern illegal or unethical genAI systems and to restrict or support societal systems such as schools or public administration to deploy genAI for their purposes. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "To ensure the accessibility of genAI to all people, the tools must remain financially affordable.",
+        "airtable_id": "dd307368ec096273",
+        "slug": "to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "To ensure the accessibility of genAI to all people, the tools must remain financially affordable.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Societies require genAI flagship projects that manage to bridge the socio-technical gap and showcase the societal value of genAI in specific use cases.",
+        "airtable_id": "2d95b4b6161b3d6a",
+        "slug": "societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to researchers and science actors (Nigeria, Germany and Japan)",
+        "name": "Societies require genAI flagship projects that manage to bridge the socio-technical gap and showcase the societal value of genAI in specific use cases.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "All stakeholders must ensure that capacities are built for the roll-out of genAI in their specific context and that feedback and monitoring systems are in place to ensure rapid response mechanisms. Accountability must be ensured. ",
+        "airtable_id": "a9042c6be25739d8",
+        "slug": "all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to all stakeholders (Nigeria, Germany and Japan)",
+        "name": "All stakeholders must ensure that capacities are built for the roll-out of genAI in their specific context and that feedback and monitoring systems are in place to ensure rapid response mechanisms. Accountability must be ensured. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Nigerian participants suggested the government could foster the development of its own genAI tools for easier and regulated use to curb data breaches or misinformation. ",
+        "airtable_id": "799d63df1a679f14",
+        "slug": "nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "Nigerian participants suggested the government could foster the development of its own genAI tools for easier and regulated use to curb data breaches or misinformation. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "genAI industry players must not become further entrenched as monopolies to prevent one-dimensional development, which may hinder innovation and create power imbalances potentially decreasing accessibility. ",
+        "airtable_id": "096ef6cbd4c1ab37",
+        "slug": "genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "genAI industry players must not become further entrenched as monopolies to prevent one-dimensional development, which may hinder innovation and create power imbalances potentially decreasing accessibility. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "German participants recommended researchers implement best practices and positive use cases, as well as models based on European values that can also boost the acceptance of genAI by the public. They also cautioned that personnel using and disseminating genAI in their contexts must gain relevant expertise and capacities. ",
+        "airtable_id": "a8e31c6753ebc764",
+        "slug": "german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "German participants recommended researchers implement best practices and positive use cases, as well as models based on European values that can also boost the acceptance of genAI by the public. They also cautioned that personnel using and disseminating genAI in their contexts must gain relevant expertise and capacities. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Japanese participants highlighted companies should avoid the monopolization of information and provide laypeople opportunities such as workshops to learn from experts. ",
+        "airtable_id": "257a9db440bd12ea",
+        "slug": "japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "Japanese participants highlighted companies should avoid the monopolization of information and provide laypeople opportunities such as workshops to learn from experts. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "genAI systems should only be released if their outputs are of high quality, respecting individual’s privacy. ",
+        "airtable_id": "2acd9f5a48752843",
+        "slug": "genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "genAI systems should only be released if their outputs are of high quality, respecting individual’s privacy. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Appropriate infrastructure contributing to the accessibility of genAI systems must be ensured on different levels, such as the availability of hardware and internet, e.g., in schools, or compatible software.",
+        "airtable_id": "bf26371fe5291a38",
+        "slug": "appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to all stakeholders (Nigeria, Germany and Japan)",
+        "name": "Appropriate infrastructure contributing to the accessibility of genAI systems must be ensured on different levels, such as the availability of hardware and internet, e.g., in schools, or compatible software.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Japanese participants requested that researchers should provide high-quality educational content, also for life-long learning. ",
+        "airtable_id": "e9ca330af4734dcc",
+        "slug": "japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "Japanese participants requested that researchers should provide high-quality educational content, also for life-long learning. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Taking up the topic of awareness, it is relevant to emphasize that both users and non-users should not shy away from remaining curious and, even if not using, engaging with genAI. ",
+        "airtable_id": "6dfd738ab8f5fb00",
+        "slug": "taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to users and all laypeople (Nigeria, Germany and Japan)",
+        "name": "Taking up the topic of awareness, it is relevant to emphasize that both users and non-users should not shy away from remaining curious and, even if not using, engaging with genAI. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Possibilities for public discourse and participation must be implemented to allow different stakeholders, explicitly including laypeople, to share their views. ",
+        "airtable_id": "6e4a307e478eb797",
+        "slug": "possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "Possibilities for public discourse and participation must be implemented to allow different stakeholders, explicitly including laypeople, to share their views. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The commitment to a reflective understanding of opportunities and risks ensures a non-agitated exploration of genAI, whereby responsible use must be ensured.",
+        "airtable_id": "b90d95f0c7fd3625",
+        "slug": "the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to users and all laypeople (Nigeria, Germany and Japan)",
+        "name": "The commitment to a reflective understanding of opportunities and risks ensures a non-agitated exploration of genAI, whereby responsible use must be ensured.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Models must only be trained on data for which data owners have given explicit and informed consent: without exceptions. ",
+        "airtable_id": "5404e1401a06c1bf",
+        "slug": "models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "Models must only be trained on data for which data owners have given explicit and informed consent: without exceptions. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Governments must ensure sufficient financial resources for infrastructure, innovation, research, and educational programs related to genAI and societal impact.",
+        "airtable_id": "3edf0741255a20c6",
+        "slug": "governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to governments and political actors (Nigeria, Germany and Japan)",
+        "name": "Governments must ensure sufficient financial resources for infrastructure, innovation, research, and educational programs related to genAI and societal impact.",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "German participants emphasized the need for industry to ensure privacy protection and informed consent. ",
+        "airtable_id": "be6225da6ea3738b",
+        "slug": "german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse",
+        "type": "Issue",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "\"Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan\"",
+        "name": "German participants emphasized the need for industry to ensure privacy protection and informed consent. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "When developing genAI systems, it is essential to respect inclusivity from the beginning and refrain from building systems primarily for higher-skilled individuals with ample resources.  ",
+        "airtable_id": "0201e1ba96809293",
+        "slug": "when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "When developing genAI systems, it is essential to respect inclusivity from the beginning and refrain from building systems primarily for higher-skilled individuals with ample resources.  ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Interfaces should be easy to navigate, and system designs should run on low-tech devices and not require many resources (data amount, speed, energy) to be accessible to users at any time. ",
+        "airtable_id": "9c0fc557a9f4d22e",
+        "slug": "interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "Interfaces should be easy to navigate, and system designs should run on low-tech devices and not require many resources (data amount, speed, energy) to be accessible to users at any time. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "To test the systems, open-source code should be released or systems be tested in sandboxes (特区).",
+        "airtable_id": "0b4aa3016a3c5ee5",
+        "slug": "to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-特区",
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to AI developers and industry (Nigeria, Germany and Japan)",
+        "name": "To test the systems, open-source code should be released or systems be tested in sandboxes (特区).",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Promote awareness of the use of genAI for institutionalized learning and teaching, for counter balancing lack of resources, and for individual work. ",
+        "airtable_id": "69dcaa246d98a299",
+        "slug": "promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc",
+        "featured": [
+          "Education"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "global-ai-dialogues"
+        ],
+        "additional-credit-line": "Recommendations to intermediaries (e.g., educators, public administrations) (Nigeria, Germany and Japan)",
+        "name": "Promote awareness of the use of genAI for institutionalized learning and teaching, for counter balancing lack of resources, and for individual work. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Education",
+          "Safety"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Predictive AI",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ]
+  }
+}

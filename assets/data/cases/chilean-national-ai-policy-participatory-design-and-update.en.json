@@ -1,0 +1,1141 @@
+{
+  "slug": "chilean-national-ai-policy-participatory-design-and-update",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Chilean National AI Policy Participatory Design and Update",
+    "airtable_id": "91a93e4c82cdaa1b",
+    "slug": "chilean-national-ai-policy-participatory-design-and-update",
+    "redirect_from": [
+      "/c/91a93e4c82cdaa1b/"
+    ],
+    "lead-organisations": [
+      "ministry-of-science-technology-knowledge-and-innovation"
+    ],
+    "provide-a-brief-description-of-the-project": "Chile’s National Artificial Intelligence Policy is a ten-year strategy to guide the responsible development, adoption and governance of AI in the country. Its original 2019-2021 development process began as a more expert-led policy exercise but evolved into a broad participatory process after Chile’s 2019 social unrest and the COVID-19 pandemic. The Ministry of Science, Technology, Knowledge and Innovation opened the process through regional roundtables, self-organized roundtables, webinars and a public consultation, involving thousands of participants from academia, industry, civil society, the public sector and the general public.\n\nThe policy was later updated through a second participatory process in 2023-2024, informed by UNESCO’s Readiness Assessment Methodology, regional thematic discussions, virtual expert sessions and a final online public consultation. This update focused especially on governance, ethics, regulation, labor impacts, inclusion, children and adolescents, intellectual property, culture, cybersecurity, and environmental sustainability. Together, both phases show how Chile used participatory methods to move AI governance beyond expert consultation and incorporate territorial, social and ethical concerns into national AI policy.\n",
+    "what-limitations-to-the-project-should-be-noted": "Several limitations should be noted. First, participation was broad but not statistically representative of Chile’s population. Many activities relied on open calls, institutional networks, stakeholder organizations and self-selection, which likely favored people and groups already interested in AI, technology, public policy or digital rights.\n\nSecond, the process was affected by major external disruptions. The original 2019-2020 process took place during the aftermath of Chile’s social unrest and then the COVID-19 pandemic. COVID-19 forced activities to move online, which allowed the process to continue and even expand geographically, but may have excluded people with limited connectivity, digital skills, time or access to online participation tools.\n\nThird, participation was uneven across groups. Expert, professional and highly educated participants were strongly represented, particularly in the public consultation stages. Gender participation was also uneven in some parts of the process, with men overrepresented in the 2021 consultation and the 2024 consultation.\n\nFourth, although regional roundtables and the RAM discussions helped include territorial perspectives, the process did not use targeted recruitment methods for specific marginalized communities, peer researchers, or multilingual facilitation. Indigenous peoples, rural communities, children and adolescents, people with disabilities, and other groups affected by AI were addressed in the policy discussion, but not always engaged through tailored methods.\n\nFinally, there are limits in accountability and traceability. The consultations and RAM process produced reports and influenced the policy update, but not every contribution can be traced directly to a specific change in the final text. Policy drafting still involved synthesis by the Ministry, expert input and administrative decision-making.\n",
+    "project-status": "Complete",
+    "headline-findings": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.\n\nParticipants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].\n\nParticipants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].\n\nParticipants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].\n\nParticipants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.\n\nRAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.\n\nRAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.\n\n2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.\n\n2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.\n\n2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.\n",
+    "participants": [
+      "chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables",
+      "chilean-national-ai-policy-participatory-design-and-update-regional-tables",
+      "chilean-national-ai-policy-participatory-design-and-update-draft-consultation",
+      "chilean-national-ai-policy-participatory-design-and-update-ram-multi-stakeholder-thematic-discussion",
+      "chilean-national-ai-policy-participatory-design-and-update-final-public-consultation-for-the-2024-ai"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues",
+      "Future issues"
+    ],
+    "messages": [
+      "regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p",
+      "participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu",
+      "participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants",
+      "participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions",
+      "participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon",
+      "ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks",
+      "ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo",
+      "2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm",
+      "2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender",
+      "2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2020,
+    "inclusion-efforts": "The process made inclusion a central design principle across both phases: the original 2019-2020 policy process and the 2023-2024 update. In the first phase, the Ministry deliberately opened participation beyond technical experts, inviting individuals, academia, industry, civil society, public-sector actors and self-organized groups to contribute. This was especially important because some actors initially argued that AI policy should be left mainly to experts. The Ministry took the opposite position: social concerns, territorial priorities, fears, expectations and lived experience were treated as legitimate inputs for AI governance.\n\nSeveral mechanisms were used to lower barriers to participation. The 2019-2020 process included self-organized roundtables, allowing groups to convene their own discussions and submit inputs under common guidelines. The Ministry supported them with guiding questions, optional presentations by public servants, contact points, and a sponsorship mechanism that gave official recognition to independently organized discussions. When COVID-19 disrupted in-person engagement, the process moved online, deadlines were extended, and a participation manual was prepared to help people organize virtual roundtables.\n\nThe process also included Ministry-led regional roundtables and webinars. The regional roundtables brought territorial perspectives into a policy area often concentrated in Santiago and expert communities, while the webinars helped build a shared baseline of understanding about AI for people without technical backgrounds.\n\nThe update process continued and expanded this inclusive approach. The RAM process held six thematic discussions in different regions, with participants from academia, industry, the public sector and civil society, plus virtual expert sessions. These discussions used backcasting methods to help participants imagine possible AI futures for Chile and identify actions needed today. The final 2024 online consultation was open to individuals, legal entities and groups, promoted through the Ministry’s website and social media, and received input from all regions of Chile.\n\nNo peer-researcher model or multilingual translation process was used. Inclusion relied mainly on open access, regional outreach, self-organized participation, hybrid and online formats, public dissemination, structured guidance, and explicit recognition of non-expert knowledge.\n",
+    "project-title": "Chilean National AI Policy Participatory Design and Update",
+    "submitted-by": "Jose A. Guridi",
+    "why-is-this-project-important-to-include-in-the": "This project is important because it shows how a national AI policy in Latin America moved beyond expert consultation and created multiple channels for public, territorial and multi-sector participation. The process deliberately treated non-expert knowledge as relevant to AI governance: people’s fears, expectations, territorial priorities, labor concerns and social values were considered alongside technical expertise.\n\nThe case is also distinctive because participation was sustained across two policy cycles. The original 2019-2021 process included self-organized roundtables, regional roundtables, webinars and a public consultation, adapting rapidly to COVID-19. The 2023-2024 update then used UNESCO’s RAM process, regional thematic discussions, virtual expert sessions and a final online public consultation to update the policy’s governance and ethics agenda.\n\nIt is especially relevant for the case book because it illustrates participation under real institutional and political constraints: social unrest, pandemic disruption, expert resistance, limited resources and a change of government. Despite these challenges, the process helped make the policy more legitimate and resilient, allowing it to survive political transition and evolve into a policy of State.",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "supporting-participation-processes-using-nlp-in-constrained-resources-settings",
+      "chile-artificial-intelligence-readiness-assessment-report",
+      "informe-de-resultados-2024",
+      "webinars-ia"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Design and then update of the National AI Policy.",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "An independent evaluation"
+    ],
+    "involved-organisations": [
+      "unesco",
+      "foresight"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/",
+    "where-were-participants-from": [
+      "Arica y Parinacota; Tarapacá; Antofagasta; Atacama; Coquimbo; Valparaíso; Metropolitana de Santiago; Libertador General Bernardo O’Higgins; Maule; Ñuble; Biobío; La Araucanía; Los Ríos; Los Lagos; Aysén del General Carlos Ibáñez del Campo; Magallanes y de la Antártica Chilena",
+      "Chile",
+      "Northern macro-zone; Central macro-zone; Santiago; Center-south macrozone; Southern macrozone; Austral macro zone"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "chilean-national-ai-policy-participatory-design-and-update",
+    "data": {
+      "layout": "case",
+      "title": "Chilean National AI Policy Participatory Design and Update",
+      "airtable_id": "91a93e4c82cdaa1b",
+      "slug": "chilean-national-ai-policy-participatory-design-and-update",
+      "redirect_from": [
+        "/c/91a93e4c82cdaa1b/"
+      ],
+      "lead-organisations": [
+        "ministry-of-science-technology-knowledge-and-innovation"
+      ],
+      "provide-a-brief-description-of-the-project": "Chile’s National Artificial Intelligence Policy is a ten-year strategy to guide the responsible development, adoption and governance of AI in the country. Its original 2019-2021 development process began as a more expert-led policy exercise but evolved into a broad participatory process after Chile’s 2019 social unrest and the COVID-19 pandemic. The Ministry of Science, Technology, Knowledge and Innovation opened the process through regional roundtables, self-organized roundtables, webinars and a public consultation, involving thousands of participants from academia, industry, civil society, the public sector and the general public.\n\nThe policy was later updated through a second participatory process in 2023-2024, informed by UNESCO’s Readiness Assessment Methodology, regional thematic discussions, virtual expert sessions and a final online public consultation. This update focused especially on governance, ethics, regulation, labor impacts, inclusion, children and adolescents, intellectual property, culture, cybersecurity, and environmental sustainability. Together, both phases show how Chile used participatory methods to move AI governance beyond expert consultation and incorporate territorial, social and ethical concerns into national AI policy.\n",
+      "what-limitations-to-the-project-should-be-noted": "Several limitations should be noted. First, participation was broad but not statistically representative of Chile’s population. Many activities relied on open calls, institutional networks, stakeholder organizations and self-selection, which likely favored people and groups already interested in AI, technology, public policy or digital rights.\n\nSecond, the process was affected by major external disruptions. The original 2019-2020 process took place during the aftermath of Chile’s social unrest and then the COVID-19 pandemic. COVID-19 forced activities to move online, which allowed the process to continue and even expand geographically, but may have excluded people with limited connectivity, digital skills, time or access to online participation tools.\n\nThird, participation was uneven across groups. Expert, professional and highly educated participants were strongly represented, particularly in the public consultation stages. Gender participation was also uneven in some parts of the process, with men overrepresented in the 2021 consultation and the 2024 consultation.\n\nFourth, although regional roundtables and the RAM discussions helped include territorial perspectives, the process did not use targeted recruitment methods for specific marginalized communities, peer researchers, or multilingual facilitation. Indigenous peoples, rural communities, children and adolescents, people with disabilities, and other groups affected by AI were addressed in the policy discussion, but not always engaged through tailored methods.\n\nFinally, there are limits in accountability and traceability. The consultations and RAM process produced reports and influenced the policy update, but not every contribution can be traced directly to a specific change in the final text. Policy drafting still involved synthesis by the Ministry, expert input and administrative decision-making.\n",
+      "project-status": "Complete",
+      "headline-findings": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.\n\nParticipants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].\n\nParticipants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].\n\nParticipants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].\n\nParticipants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.\n\nRAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.\n\nRAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.\n\n2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.\n\n2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.\n\n2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.\n",
+      "participants": [
+        "chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables",
+        "chilean-national-ai-policy-participatory-design-and-update-regional-tables",
+        "chilean-national-ai-policy-participatory-design-and-update-draft-consultation",
+        "chilean-national-ai-policy-participatory-design-and-update-ram-multi-stakeholder-thematic-discussion",
+        "chilean-national-ai-policy-participatory-design-and-update-final-public-consultation-for-the-2024-ai"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues",
+        "Future issues"
+      ],
+      "messages": [
+        "regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p",
+        "participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu",
+        "participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants",
+        "participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions",
+        "participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon",
+        "ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks",
+        "ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo",
+        "2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm",
+        "2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender",
+        "2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2020,
+      "inclusion-efforts": "The process made inclusion a central design principle across both phases: the original 2019-2020 policy process and the 2023-2024 update. In the first phase, the Ministry deliberately opened participation beyond technical experts, inviting individuals, academia, industry, civil society, public-sector actors and self-organized groups to contribute. This was especially important because some actors initially argued that AI policy should be left mainly to experts. The Ministry took the opposite position: social concerns, territorial priorities, fears, expectations and lived experience were treated as legitimate inputs for AI governance.\n\nSeveral mechanisms were used to lower barriers to participation. The 2019-2020 process included self-organized roundtables, allowing groups to convene their own discussions and submit inputs under common guidelines. The Ministry supported them with guiding questions, optional presentations by public servants, contact points, and a sponsorship mechanism that gave official recognition to independently organized discussions. When COVID-19 disrupted in-person engagement, the process moved online, deadlines were extended, and a participation manual was prepared to help people organize virtual roundtables.\n\nThe process also included Ministry-led regional roundtables and webinars. The regional roundtables brought territorial perspectives into a policy area often concentrated in Santiago and expert communities, while the webinars helped build a shared baseline of understanding about AI for people without technical backgrounds.\n\nThe update process continued and expanded this inclusive approach. The RAM process held six thematic discussions in different regions, with participants from academia, industry, the public sector and civil society, plus virtual expert sessions. These discussions used backcasting methods to help participants imagine possible AI futures for Chile and identify actions needed today. The final 2024 online consultation was open to individuals, legal entities and groups, promoted through the Ministry’s website and social media, and received input from all regions of Chile.\n\nNo peer-researcher model or multilingual translation process was used. Inclusion relied mainly on open access, regional outreach, self-organized participation, hybrid and online formats, public dissemination, structured guidance, and explicit recognition of non-expert knowledge.\n",
+      "project-title": "Chilean National AI Policy Participatory Design and Update",
+      "submitted-by": "Jose A. Guridi",
+      "why-is-this-project-important-to-include-in-the": "This project is important because it shows how a national AI policy in Latin America moved beyond expert consultation and created multiple channels for public, territorial and multi-sector participation. The process deliberately treated non-expert knowledge as relevant to AI governance: people’s fears, expectations, territorial priorities, labor concerns and social values were considered alongside technical expertise.\n\nThe case is also distinctive because participation was sustained across two policy cycles. The original 2019-2021 process included self-organized roundtables, regional roundtables, webinars and a public consultation, adapting rapidly to COVID-19. The 2023-2024 update then used UNESCO’s RAM process, regional thematic discussions, virtual expert sessions and a final online public consultation to update the policy’s governance and ethics agenda.\n\nIt is especially relevant for the case book because it illustrates participation under real institutional and political constraints: social unrest, pandemic disruption, expert resistance, limited resources and a change of government. Despite these challenges, the process helped make the policy more legitimate and resilient, allowing it to survive political transition and evolve into a policy of State.",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "supporting-participation-processes-using-nlp-in-constrained-resources-settings",
+        "chile-artificial-intelligence-readiness-assessment-report",
+        "informe-de-resultados-2024",
+        "webinars-ia"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Design and then update of the National AI Policy.",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "An independent evaluation"
+      ],
+      "involved-organisations": [
+        "unesco",
+        "foresight"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/",
+      "where-were-participants-from": [
+        "Arica y Parinacota; Tarapacá; Antofagasta; Atacama; Coquimbo; Valparaíso; Metropolitana de Santiago; Libertador General Bernardo O’Higgins; Maule; Ñuble; Biobío; La Araucanía; Los Ríos; Los Lagos; Aysén del General Carlos Ibáñez del Campo; Magallanes y de la Antártica Chilena",
+        "Chile",
+        "Northern macro-zone; Central macro-zone; Santiago; Center-south macrozone; Southern macrozone; Austral macro zone"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-ram-multi-stakeholder-thematic-discussion",
+        "data": {
+          "layout": "generic",
+          "title": "Chilean National AI Policy Participatory Design and Update-RAM multi-stakeholder thematic discussions",
+          "airtable_id": "869b3adb0e787dc1",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-ram-multi-stakeholder-thematic-discussion",
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Northern macro-zone; Central macro-zone; Santiago; Center-south macrozone; Southern macrozone; Austral macro zone",
+          "which-of-the-following-methods-were-used-to": [
+            "Future Workshop"
+          ],
+          "on-average-how-many-hours-did-each-participant": 3,
+          "name": "Chilean National AI Policy Participatory Design and Update-RAM multi-stakeholder thematic discussions",
+          "group-description": "RAM multi-stakeholder thematic discussions",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "additional-notes": "The RAM process included six thematic multi-stakeholder discussions held in June and July 2023 across six Chilean regions, with more than 200 in-person participants from academia, industry, the public sector and civil society, plus parallel virtual expert discussions with more than 100 experts. The sessions focused on the future of work, democracy, government, human-AI interaction in health/education/security, regulation, and the environment. Using a backcasting methodology, participants imagined possible AI futures for Chile toward 2050 and identified actions needed today to achieve desirable scenarios and avoid harmful ones. These discussions informed the RAM recommendations and supported the 2024 update of Chile’s National AI Policy, especially around ethics, regulation, governance, institutional capacity, labor impacts, data protection, public-sector AI, education and environmental sustainability.",
+          "how-many-people-took-part": 200,
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "recruitment-description": "Targeted stakeholders.",
+          "was-there-a-specific-target-population": "Invitations",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Hybrid"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables",
+        "data": {
+          "layout": "generic",
+          "title": "Chilean National AI Policy Participatory Design and Update-Self-convocated roundtables",
+          "airtable_id": "938fd470a3d81679",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Chile",
+          "which-of-the-following-methods-were-used-to": [
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "Chilean National AI Policy Participatory Design and Update-Self-convocated roundtables",
+          "group-description": "Self-convocated roundtables",
+          "additional-notes": "The self-organized roundtables involved approximately 1,300 participants across 70 roundtables. These were organized by actors from academia, industry, civil society and other stakeholder networks after an open call from the Ministry. Groups could convene their own discussions and submit inputs structured around the three policy axes. The Ministry supported the process by offering guidance, a participation manual, optional presentations from public servants, and a sponsorship mechanism that gave official recognition to citizen- and stakeholder-led deliberation.\n\nThe webinars played a capacity-building and outreach role. They helped create a shared baseline of understanding about AI by presenting concrete applications, risks and governance questions in different domains, from astronomy to privacy. This was especially important because the process aimed to move beyond expert-only discussion: the webinars made AI more accessible to broader publics, increased visibility of the policy process, and encouraged organizations and individuals to host or join self-organized roundtables. In total, 15 webinars reached more than 6,600 people.",
+          "how-many-people-took-part": 1300,
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "recruitment-description": "Advertised through social media and invitations to specific stakeholders.",
+          "was-there-a-specific-target-population": "There were no restrictions, all people could participate. ",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-draft-consultation",
+        "data": {
+          "layout": "generic",
+          "title": "Chilean National AI Policy Participatory Design and Update-Draft Consultation",
+          "airtable_id": "f3560390ee27d61c",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-draft-consultation",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Chile",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "Chilean National AI Policy Participatory Design and Update-Draft Consultation",
+          "group-description": "Draft Consultation",
+          "additional-notes": "The public consultation involved 209 respondents and was open online from 15 December 2020 to 27 January 2021. It invited individuals and organizations to review the draft National AI Policy, rate their agreement with its objective, principles and policy axes, and submit written comments. The consultation functioned as an accountability mechanism after the deliberative phase, allowing participants to assess and improve the draft. Respondents broadly supported the policy, with 87.2% agreeing or strongly agreeing with the general objective and more than 80% agreeing or strongly agreeing with the proposed axes and objectives. Their comments led to changes in the final policy, including stronger emphasis on talent development, data protection, inclusive AI, territorial deliberation, labor impacts, cybersecurity, gender equity and responsible public-sector adoption.",
+          "how-many-people-took-part": 209,
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "recruitment-description": "Advertising in social media and invitations to stakeholders.",
+          "was-there-a-specific-target-population": "No target population.",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-regional-tables",
+        "data": {
+          "layout": "generic",
+          "title": "Chilean National AI Policy Participatory Design and Update-Regional Tables",
+          "airtable_id": "fdf4ec75cf3185d0",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-regional-tables",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Arica y Parinacota; Tarapacá; Antofagasta; Atacama; Coquimbo; Valparaíso; Metropolitana de Santiago; Libertador General Bernardo O’Higgins; Maule; Ñuble; Biobío; La Araucanía; Los Ríos; Los Lagos; Aysén del General Carlos Ibáñez del Campo; Magallanes y de la Antártica Chilena",
+          "which-of-the-following-methods-were-used-to": [
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "Chilean National AI Policy Participatory Design and Update-Regional Tables",
+          "group-description": "Regional Tables",
+          "additional-notes": "The regional roundtables involved approximately 400 participants across 69 Ministry-led discussions. They brought together regional actors from academia, industry, the public sector and other backgrounds to discuss AI in relation to local realities. Participants reflected on what AI meant for their region, the barriers and opportunities for responsible development and adoption, and concrete policy actions the government should consider. These discussions helped surface territorial priorities, including digital literacy, data governance, local productive development, public-sector modernization, links between universities and industry, and concerns about work, privacy and inclusion.",
+          "how-many-people-took-part": 400,
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "recruitment-description": "Invitations through regional organizations and advertising in social media.",
+          "was-there-a-specific-target-population": "Participants from or related to the specific geographical regions.",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-final-public-consultation-for-the-2024-ai",
+        "data": {
+          "layout": "generic",
+          "title": "Chilean National AI Policy Participatory Design and Update-Final public consultation for the 2024 AI Policy update",
+          "airtable_id": "e9121b420284f3c2",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-final-public-consultation-for-the-2024-ai",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Chile",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Chilean National AI Policy Participatory Design and Update-Final public consultation for the 2024 AI Policy update",
+          "group-description": "Final public consultation for the 2024 AI Policy update",
+          "additional-notes": "The final public consultation for the 2024 update of Chile’s National AI Policy was an online consultation focused on Axis 3: Governance and Ethics. It was open from 15 January to 15 March 2024 and invited individuals, legal entities and groups to submit written observations through a Google Form. The process received input from 640 participants from all regions of Chile, including 96.1% individuals, 3.6% legal entities and 0.3% non-profit organizations or groups. It collected 5,760 agreement-level responses and around 2,214 complementary comments. The consultation informed the final update by strengthening sections on regulation, transparency, accountability, data protection, citizen participation, international cooperation, climate and environmental impacts, gender equality, inclusion and non-discrimination, labor impacts, children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation and digital rights.",
+          "how-many-people-took-part": 640,
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "recruitment-description": "Advertised via social media and invitations to stakeholders.",
+          "was-there-a-specific-target-population": "General public.",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "unesco",
+        "data": {
+          "layout": "organisation",
+          "title": "UNESCO",
+          "airtable_id": "50776231b6fb73f8",
+          "slug": "unesco",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "chilean-national-ai-policy-participatory-design-and-update",
+            "we-the-internet"
+          ],
+          "name": "UNESCO",
+          "funding-organisation-for": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "foresight",
+        "data": {
+          "layout": "organisation",
+          "title": "Foresight",
+          "airtable_id": "45fd5042860d0bd8",
+          "slug": "foresight",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Foresight",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ministry-of-science-technology-knowledge-and-innovation",
+        "data": {
+          "layout": "organisation",
+          "title": "Ministry of Science, Technology, Knowledge, and Innovation",
+          "airtable_id": "6f12a5e94888433f",
+          "slug": "ministry-of-science-technology-knowledge-and-innovation",
+          "role": [
+            "Lead"
+          ],
+          "name": "Ministry of Science, Technology, Knowledge, and Innovation",
+          "lead-organisation-for": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions",
+        "data": {
+          "layout": "generic",
+          "title": "Participants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].",
+          "airtable_id": "89c2ad22a4582c5e",
+          "slug": "participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Participants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks",
+        "data": {
+          "layout": "generic",
+          "title": "RAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.",
+          "airtable_id": "36e7df1e42bcc1fb",
+          "slug": "ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "RAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu",
+        "data": {
+          "layout": "generic",
+          "title": "Participants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].",
+          "airtable_id": "904be808b260be18",
+          "slug": "participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Participants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Participants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].",
+          "airtable_id": "58cefdc1baaddbdf",
+          "slug": "participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Participants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo",
+        "data": {
+          "layout": "generic",
+          "title": "RAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.",
+          "airtable_id": "3863b78fad17e23d",
+          "slug": "ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "RAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p",
+        "data": {
+          "layout": "generic",
+          "title": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.",
+          "airtable_id": "eaf66c1752f19929",
+          "slug": "regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon",
+        "data": {
+          "layout": "generic",
+          "title": "Participants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.",
+          "airtable_id": "62ca7088bf335861",
+          "slug": "participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "Participants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender",
+        "data": {
+          "layout": "generic",
+          "title": "2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.",
+          "airtable_id": "2869e228aa6a2edf",
+          "slug": "2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children",
+        "data": {
+          "layout": "generic",
+          "title": "2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.",
+          "airtable_id": "f60d44faabb87642",
+          "slug": "2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm",
+        "data": {
+          "layout": "generic",
+          "title": "2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.",
+          "airtable_id": "e9423a0b6857fe74",
+          "slug": "2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm",
+          "type": "Recommendation",
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "name": "2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "chilean-national-ai-policy-participatory-design-and-update"
+          ],
+          "layout": "generic",
+          "slug": "chilean-national-ai-policy-participatory-design-and-update-process",
+          "title": "Chilean National AI Policy Participatory Design and Update - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Chilean National AI Policy Participatory Design and Update-RAM multi-stakeholder thematic discussions",
+        "airtable_id": "869b3adb0e787dc1",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-ram-multi-stakeholder-thematic-discussion",
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Northern macro-zone; Central macro-zone; Santiago; Center-south macrozone; Southern macrozone; Austral macro zone",
+        "which-of-the-following-methods-were-used-to": [
+          "Future Workshop"
+        ],
+        "on-average-how-many-hours-did-each-participant": 3,
+        "name": "Chilean National AI Policy Participatory Design and Update-RAM multi-stakeholder thematic discussions",
+        "group-description": "RAM multi-stakeholder thematic discussions",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "additional-notes": "The RAM process included six thematic multi-stakeholder discussions held in June and July 2023 across six Chilean regions, with more than 200 in-person participants from academia, industry, the public sector and civil society, plus parallel virtual expert discussions with more than 100 experts. The sessions focused on the future of work, democracy, government, human-AI interaction in health/education/security, regulation, and the environment. Using a backcasting methodology, participants imagined possible AI futures for Chile toward 2050 and identified actions needed today to achieve desirable scenarios and avoid harmful ones. These discussions informed the RAM recommendations and supported the 2024 update of Chile’s National AI Policy, especially around ethics, regulation, governance, institutional capacity, labor impacts, data protection, public-sector AI, education and environmental sustainability.",
+        "how-many-people-took-part": 200,
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "recruitment-description": "Targeted stakeholders.",
+        "was-there-a-specific-target-population": "Invitations",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Hybrid"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Chilean National AI Policy Participatory Design and Update-Self-convocated roundtables",
+        "airtable_id": "938fd470a3d81679",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Chile",
+        "which-of-the-following-methods-were-used-to": [
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "Chilean National AI Policy Participatory Design and Update-Self-convocated roundtables",
+        "group-description": "Self-convocated roundtables",
+        "additional-notes": "The self-organized roundtables involved approximately 1,300 participants across 70 roundtables. These were organized by actors from academia, industry, civil society and other stakeholder networks after an open call from the Ministry. Groups could convene their own discussions and submit inputs structured around the three policy axes. The Ministry supported the process by offering guidance, a participation manual, optional presentations from public servants, and a sponsorship mechanism that gave official recognition to citizen- and stakeholder-led deliberation.\n\nThe webinars played a capacity-building and outreach role. They helped create a shared baseline of understanding about AI by presenting concrete applications, risks and governance questions in different domains, from astronomy to privacy. This was especially important because the process aimed to move beyond expert-only discussion: the webinars made AI more accessible to broader publics, increased visibility of the policy process, and encouraged organizations and individuals to host or join self-organized roundtables. In total, 15 webinars reached more than 6,600 people.",
+        "how-many-people-took-part": 1300,
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "recruitment-description": "Advertised through social media and invitations to specific stakeholders.",
+        "was-there-a-specific-target-population": "There were no restrictions, all people could participate. ",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Chilean National AI Policy Participatory Design and Update-Draft Consultation",
+        "airtable_id": "f3560390ee27d61c",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-draft-consultation",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Chile",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "Chilean National AI Policy Participatory Design and Update-Draft Consultation",
+        "group-description": "Draft Consultation",
+        "additional-notes": "The public consultation involved 209 respondents and was open online from 15 December 2020 to 27 January 2021. It invited individuals and organizations to review the draft National AI Policy, rate their agreement with its objective, principles and policy axes, and submit written comments. The consultation functioned as an accountability mechanism after the deliberative phase, allowing participants to assess and improve the draft. Respondents broadly supported the policy, with 87.2% agreeing or strongly agreeing with the general objective and more than 80% agreeing or strongly agreeing with the proposed axes and objectives. Their comments led to changes in the final policy, including stronger emphasis on talent development, data protection, inclusive AI, territorial deliberation, labor impacts, cybersecurity, gender equity and responsible public-sector adoption.",
+        "how-many-people-took-part": 209,
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "recruitment-description": "Advertising in social media and invitations to stakeholders.",
+        "was-there-a-specific-target-population": "No target population.",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Chilean National AI Policy Participatory Design and Update-Regional Tables",
+        "airtable_id": "fdf4ec75cf3185d0",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-regional-tables",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Arica y Parinacota; Tarapacá; Antofagasta; Atacama; Coquimbo; Valparaíso; Metropolitana de Santiago; Libertador General Bernardo O’Higgins; Maule; Ñuble; Biobío; La Araucanía; Los Ríos; Los Lagos; Aysén del General Carlos Ibáñez del Campo; Magallanes y de la Antártica Chilena",
+        "which-of-the-following-methods-were-used-to": [
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "Chilean National AI Policy Participatory Design and Update-Regional Tables",
+        "group-description": "Regional Tables",
+        "additional-notes": "The regional roundtables involved approximately 400 participants across 69 Ministry-led discussions. They brought together regional actors from academia, industry, the public sector and other backgrounds to discuss AI in relation to local realities. Participants reflected on what AI meant for their region, the barriers and opportunities for responsible development and adoption, and concrete policy actions the government should consider. These discussions helped surface territorial priorities, including digital literacy, data governance, local productive development, public-sector modernization, links between universities and industry, and concerns about work, privacy and inclusion.",
+        "how-many-people-took-part": 400,
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "recruitment-description": "Invitations through regional organizations and advertising in social media.",
+        "was-there-a-specific-target-population": "Participants from or related to the specific geographical regions.",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Chilean National AI Policy Participatory Design and Update-Final public consultation for the 2024 AI Policy update",
+        "airtable_id": "e9121b420284f3c2",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-final-public-consultation-for-the-2024-ai",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Chile",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Chilean National AI Policy Participatory Design and Update-Final public consultation for the 2024 AI Policy update",
+        "group-description": "Final public consultation for the 2024 AI Policy update",
+        "additional-notes": "The final public consultation for the 2024 update of Chile’s National AI Policy was an online consultation focused on Axis 3: Governance and Ethics. It was open from 15 January to 15 March 2024 and invited individuals, legal entities and groups to submit written observations through a Google Form. The process received input from 640 participants from all regions of Chile, including 96.1% individuals, 3.6% legal entities and 0.3% non-profit organizations or groups. It collected 5,760 agreement-level responses and around 2,214 complementary comments. The consultation informed the final update by strengthening sections on regulation, transparency, accountability, data protection, citizen participation, international cooperation, climate and environmental impacts, gender equality, inclusion and non-discrimination, labor impacts, children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation and digital rights.",
+        "how-many-people-took-part": 640,
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "recruitment-description": "Advertised via social media and invitations to stakeholders.",
+        "was-there-a-specific-target-population": "General public.",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "layout": "generic",
+        "slug": "chilean-national-ai-policy-participatory-design-and-update-process",
+        "title": "Chilean National AI Policy Participatory Design and Update - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "UNESCO",
+        "airtable_id": "50776231b6fb73f8",
+        "slug": "unesco",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "chilean-national-ai-policy-participatory-design-and-update",
+          "we-the-internet"
+        ],
+        "name": "UNESCO",
+        "funding-organisation-for": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Foresight",
+        "airtable_id": "45fd5042860d0bd8",
+        "slug": "foresight",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Foresight",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Ministry of Science, Technology, Knowledge, and Innovation",
+        "airtable_id": "6f12a5e94888433f",
+        "slug": "ministry-of-science-technology-knowledge-and-innovation",
+        "role": [
+          "Lead"
+        ],
+        "name": "Ministry of Science, Technology, Knowledge, and Innovation",
+        "lead-organisation-for": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Participants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].",
+        "airtable_id": "89c2ad22a4582c5e",
+        "slug": "participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Participants said AI should improve work rather than simply replace workers. In regional discussions, participants said the policy discourse should incorporate “la mejora y no pérdida de trabajo” [improvement and not job loss]. A public consultation respondent put it more sharply: “personas antes que máquinas” [people before machines].",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "RAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.",
+        "airtable_id": "36e7df1e42bcc1fb",
+        "slug": "ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "RAM participants saw AI as an opportunity for better public policy, but warned about democratic risks. In the 2023 RAM discussions, participants identified opportunities for AI to improve public services, broaden participation and detect corruption, while also raising concerns about misinformation, surveillance, loss of autonomy, opacity and explainability.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Participants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].",
+        "airtable_id": "904be808b260be18",
+        "slug": "participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Participants said privacy, consent and data governance must be central. Regional participants asked: “¿Quién resguarda la privacidad y el consentimiento de uso de los datos?” [Who safeguards privacy and consent for data use?]. They also proposed “Protocolos de uso de datos (consentimientos informados)” [data-use protocols and informed consent].",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Participants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].",
+        "airtable_id": "58cefdc1baaddbdf",
+        "slug": "participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Participants said AI policy requires public literacy, not only expert capacity. Regional participants called for “Alfabetización en IA” [AI literacy], “Cursos de alfabetización digital obligatorio en Educación Escolar” [mandatory digital literacy courses in school education], and “Introducir temas vinculados a IA a la población general” [introducing AI topics to the general population].",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "RAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.",
+        "airtable_id": "3863b78fad17e23d",
+        "slug": "ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "RAM participants said AI in health and education should complement human roles. Participants saw opportunities for personalized health and education and more efficient public services, but raised concerns about empathy, mental health, local bias, rural connectivity gaps and overreliance on automated systems.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.",
+        "airtable_id": "eaf66c1752f19929",
+        "slug": "regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Regional participants said AI should respond to territorial needs. In the Aysen regional roundtable, participants called for “Llevar la IA a la resolución de problemas relacionados al territorio” [bringing AI to solve territory-specific problems], including local production, agriculture, livestock, regional universities and public services.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Participants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.",
+        "airtable_id": "62ca7088bf335861",
+        "slug": "participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "Participants said Chile should build human capabilities alongside infrastructure. Consultation responses emphasized education, training, talent development and reskilling as core conditions for responsible AI adoption, rather than focusing only on technological infrastructure.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.",
+        "airtable_id": "2869e228aa6a2edf",
+        "slug": "2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "2024 consultation respondents said inclusion should go beyond gender alone. Comments supported gender equality but also pushed for a broader focus on inclusion and non-discrimination, including bias in datasets, unequal access to technology, and participation of diverse social groups in AI research and development.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.",
+        "airtable_id": "f60d44faabb87642",
+        "slug": "2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "2024 consultation respondents raised new concerns linked to generative AI. They highlighted children and adolescents, intellectual property, culture and heritage, cybersecurity, disinformation, digital violence and safe digital ecosystems as issues needing stronger treatment in the updated policy.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.",
+        "airtable_id": "e9423a0b6857fe74",
+        "slug": "2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm",
+        "type": "Recommendation",
+        "cases": [
+          "chilean-national-ai-policy-participatory-design-and-update"
+        ],
+        "name": "2024 consultation respondents asked for stronger governance, regulation and accountability. Their comments pushed the updated policy to strengthen transparency, accountability, audits, protection of personal data, human rights impact assessment, procurement standards and citizen participation in AI regulation.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ]
+  }
+}

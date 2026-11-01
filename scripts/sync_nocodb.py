@@ -60,6 +60,7 @@ R2_ACCESS_KEY_ID = os.getenv("R2_ACCESS_KEY_ID") or os.getenv("AWS_ACCESS_KEY_ID
 R2_SECRET_ACCESS_KEY = os.getenv("R2_SECRET_ACCESS_KEY") or os.getenv("AWS_SECRET_ACCESS_KEY")
 R2_BUCKET_NAME = os.getenv("R2_BUCKET_NAME")
 R2_PUBLIC_URL = os.getenv("R2_PUBLIC_URL")  # e.g. https://media.pave.pairs.site or https://cdn.pairs.site
+R2_JURISDICTION = os.getenv("R2_JURISDICTION", "").strip().lower()
 R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
 R2_PREFIX = os.getenv("R2_PREFIX", "attachments").strip("/")
 
@@ -234,14 +235,23 @@ class NocoDBClient:
             return self._request(v2_path)
 
 class R2StorageClient:
-    def __init__(self, account_id, access_key, secret_key, bucket_name, public_url, endpoint_url=None, prefix="attachments"):
+    def __init__(self, account_id, access_key, secret_key, bucket_name, public_url, endpoint_url=None, prefix="attachments", jurisdiction=None):
         if not boto3:
             raise ImportError("boto3 is required for Cloudflare R2 upload. Install with: pip install boto3")
         self.bucket = bucket_name
         self.public_url = public_url.rstrip("/") if public_url else ""
         self.prefix = prefix.strip("/") if prefix else ""
-        endpoint = endpoint_url or (f"https://{account_id}.r2.cloudflarestorage.com" if account_id else None)
-        if not endpoint:
+        
+        jur = (jurisdiction or R2_JURISDICTION or "").strip().lower()
+        if endpoint_url:
+            endpoint = endpoint_url
+        elif jur in ["eu", "eeur"]:
+            endpoint = f"https://{account_id}.eu.r2.cloudflarestorage.com"
+        elif jur in ["fedramp"]:
+            endpoint = f"https://{account_id}.fedramp.r2.cloudflarestorage.com"
+        elif account_id:
+            endpoint = f"https://{account_id}.r2.cloudflarestorage.com"
+        else:
             raise ValueError("Cloudflare R2 requires R2_ACCOUNT_ID (or R2_ENDPOINT_URL).")
 
         self.s3 = boto3.client(
@@ -250,8 +260,33 @@ class R2StorageClient:
             aws_access_key_id=access_key,
             aws_secret_access_key=secret_key,
             config=Config(signature_version="s3v4"),
-            region_name="auto"
+            region_name="eeur" if jur in ["eu", "eeur"] else "auto"
         )
+
+        # Automatic jurisdictional fallback: probe EU endpoint if global endpoint returns 404/NoSuchBucket
+        if not jur and not endpoint_url and account_id:
+            try:
+                self.s3.head_bucket(Bucket=self.bucket)
+            except ClientError as e:
+                code = str(e.response.get("Error", {}).get("Code", ""))
+                if code in ["404", "NoSuchBucket"]:
+                    eu_endpoint = f"https://{account_id}.eu.r2.cloudflarestorage.com"
+                    try:
+                        s3_eu = boto3.client(
+                            "s3",
+                            endpoint_url=eu_endpoint,
+                            aws_access_key_id=access_key,
+                            aws_secret_access_key=secret_key,
+                            config=Config(signature_version="s3v4"),
+                            region_name="auto"
+                        )
+                        s3_eu.head_bucket(Bucket=self.bucket)
+                        self.s3 = s3_eu
+                        print(f"  Note: Bucket '{self.bucket}' detected in EU jurisdiction. Using {eu_endpoint}")
+                    except Exception:
+                        pass
+            except Exception:
+                pass
 
     def object_exists(self, key):
         try:
@@ -626,6 +661,7 @@ def main():
     parser.add_argument("--schema-path", help="Path to schema_map.yml")
     parser.add_argument("--local-attachments", action="store_true", help="Store attachments locally in assets/attachments/ instead of Cloudflare R2")
     parser.add_argument("--r2-bucket", help="Override R2 bucket name")
+    parser.add_argument("--r2-jurisdiction", choices=["eu", "fedramp", "default"], help="Cloudflare R2 jurisdiction (e.g. eu)")
     parser.add_argument("--r2-public-url", help="Override R2 public URL (e.g. https://media.pave.pairs.site)")
     parser.add_argument("--upload-existing-attachments", action="store_true", help="Migrate all existing files from assets/attachments/ to Cloudflare R2")
     args = parser.parse_args()
@@ -650,7 +686,8 @@ def main():
                     bucket_name=bucket_name,
                     public_url=public_url,
                     endpoint_url=R2_ENDPOINT_URL,
-                    prefix=R2_PREFIX
+                    prefix=R2_PREFIX,
+                    jurisdiction=args.r2_jurisdiction or R2_JURISDICTION
                 )
                 print(f"Cloudflare R2 storage enabled: bucket '{bucket_name}', prefix '{R2_PREFIX}', public URL: {public_url or '(direct R2)'}")
             except Exception as e:

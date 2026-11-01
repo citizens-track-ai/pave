@@ -20,6 +20,7 @@ import json
 import yaml
 import hashlib
 import argparse
+import mimetypes
 from pathlib import Path
 
 # HTTP client with urllib fallback (no mandatory external requests dependency)
@@ -32,6 +33,16 @@ import urllib.request
 import urllib.error
 import urllib.parse
 
+# Cloudflare R2 S3 SDK
+try:
+    import boto3
+    from botocore.config import Config
+    from botocore.exceptions import ClientError
+except ImportError:
+    boto3 = None
+    Config = None
+    ClientError = Exception
+
 try:
     from dotenv import load_dotenv
     load_dotenv()
@@ -42,6 +53,15 @@ except ImportError:
 NOCODB_API_TOKEN = os.getenv("NOCODB_API_TOKEN") or os.getenv("NC_TOKEN") or os.getenv("NOCODB_TOKEN")
 NOCODB_BASE_ID = os.getenv("NOCODB_BASE_ID") or "p1t9vvz76dbkcv8"
 NOCODB_URL = os.getenv("NOCODB_URL") or "https://app.nocodb.com"
+
+# Cloudflare R2 Configuration (S3-compatible API)
+R2_ACCOUNT_ID = os.getenv("R2_ACCOUNT_ID") or os.getenv("CLOUDFLARE_ACCOUNT_ID")
+R2_ACCESS_KEY_ID = os.getenv("R2_ACCESS_KEY_ID") or os.getenv("AWS_ACCESS_KEY_ID")
+R2_SECRET_ACCESS_KEY = os.getenv("R2_SECRET_ACCESS_KEY") or os.getenv("AWS_SECRET_ACCESS_KEY")
+R2_BUCKET_NAME = os.getenv("R2_BUCKET_NAME")
+R2_PUBLIC_URL = os.getenv("R2_PUBLIC_URL")  # e.g. https://media.pave.pairs.site or https://cdn.pairs.site
+R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
+R2_PREFIX = os.getenv("R2_PREFIX", "attachments").strip("/")
 
 SCHEMA_PATH = Path("_data/schema_map_nocodb.yml")
 if not SCHEMA_PATH.exists():
@@ -67,7 +87,7 @@ FILTER_CURATION_DECISION_VALUES = ["Featured Full Case", "Full Case", "Mapping E
 
 FILTER_OPERATOR = "AND"
 
-GLOBAL_STATS = {"downloaded": 0, "cached": 0}
+GLOBAL_STATS = {"downloaded": 0, "uploaded": 0, "cached": 0}
 
 try:
     import anyascii
@@ -213,20 +233,115 @@ class NocoDBClient:
             v2_path = f"/api/v2/tables/{table_id}/records/{record_id}"
             return self._request(v2_path)
 
-def download_attachment(url, filename, perm_id, field_slug, suffix="", attachment_id=None):
-    """Download attachment file to assets/attachments/."""
-    ATTACHMENT_DIR.mkdir(parents=True, exist_ok=True)
+class R2StorageClient:
+    def __init__(self, account_id, access_key, secret_key, bucket_name, public_url, endpoint_url=None, prefix="attachments"):
+        if not boto3:
+            raise ImportError("boto3 is required for Cloudflare R2 upload. Install with: pip install boto3")
+        self.bucket = bucket_name
+        self.public_url = public_url.rstrip("/") if public_url else ""
+        self.prefix = prefix.strip("/") if prefix else ""
+        endpoint = endpoint_url or (f"https://{account_id}.r2.cloudflarestorage.com" if account_id else None)
+        if not endpoint:
+            raise ValueError("Cloudflare R2 requires R2_ACCOUNT_ID (or R2_ENDPOINT_URL).")
+
+        self.s3 = boto3.client(
+            "s3",
+            endpoint_url=endpoint,
+            aws_access_key_id=access_key,
+            aws_secret_access_key=secret_key,
+            config=Config(signature_version="s3v4"),
+            region_name="auto"
+        )
+
+    def object_exists(self, key):
+        try:
+            self.s3.head_object(Bucket=self.bucket, Key=key)
+            return True
+        except ClientError as e:
+            code = str(e.response.get("Error", {}).get("Code", ""))
+            if code in ["404", "NoSuchKey"]:
+                return False
+            return False
+        except Exception:
+            return False
+
+    def upload_file_from_url(self, url, key, filename):
+        content_type = mimetypes.guess_type(filename)[0] or "application/octet-stream"
+
+        if requests is not None:
+            resp = requests.get(url, stream=True, timeout=60)
+            resp.raise_for_status()
+            remote_ct = resp.headers.get("Content-Type")
+            if remote_ct and "octet-stream" not in remote_ct:
+                content_type = remote_ct.split(";")[0].strip()
+            self.s3.put_object(
+                Bucket=self.bucket,
+                Key=key,
+                Body=resp.content,
+                ContentType=content_type
+            )
+        else:
+            req = urllib.request.Request(url, headers={"User-Agent": "PAVE-Sync/1.0"})
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                data = resp.read()
+                remote_ct = resp.headers.get("Content-Type")
+                if remote_ct and "octet-stream" not in remote_ct:
+                    content_type = remote_ct.split(";")[0].strip()
+                self.s3.put_object(
+                    Bucket=self.bucket,
+                    Key=key,
+                    Body=data,
+                    ContentType=content_type
+                )
+
+    def upload_local_file(self, local_path, key):
+        content_type = mimetypes.guess_type(str(local_path))[0] or "application/octet-stream"
+        with open(local_path, "rb") as f:
+            self.s3.put_object(
+                Bucket=self.bucket,
+                Key=key,
+                Body=f.read(),
+                ContentType=content_type
+            )
+
+    def get_public_url(self, key):
+        if self.public_url:
+            return f"{self.public_url}/{key}"
+        return f"https://{self.bucket}.r2.cloudflarestorage.com/{key}"
+
+def process_attachment(url, filename, perm_id, field_slug, suffix="", attachment_id=None, r2_client=None):
+    """
+    Process attachment: uploads directly to Cloudflare R2 if configured,
+    or falls back to local assets/attachments/ if in local mode.
+    """
     ext = Path(filename).suffix
     if not ext and "?" in filename:
         ext = Path(filename.split("?")[0]).suffix
 
     clean_filename = re.sub(r'[^a-zA-Z0-9._-]', '_', filename)
     if attachment_id:
-        local_filename = f"{perm_id}_{field_slug}_{attachment_id}_{suffix}{ext}" if suffix else f"{perm_id}_{field_slug}_{attachment_id}{ext}"
+        file_stem = f"{perm_id}_{field_slug}_{attachment_id}_{suffix}{ext}" if suffix else f"{perm_id}_{field_slug}_{attachment_id}{ext}"
     else:
-        local_filename = f"{perm_id}_{field_slug}_{suffix}_{clean_filename}" if suffix else f"{perm_id}_{field_slug}_{clean_filename}"
+        file_stem = f"{perm_id}_{field_slug}_{suffix}_{clean_filename}" if suffix else f"{perm_id}_{field_slug}_{clean_filename}"
 
-    local_path = ATTACHMENT_DIR / local_filename
+    # Cloudflare R2 Mode
+    if r2_client:
+        r2_key = f"{r2_client.prefix}/{file_stem}" if r2_client.prefix else file_stem
+        public_url = r2_client.get_public_url(r2_key)
+
+        if r2_client.object_exists(r2_key):
+            return public_url, False
+
+        try:
+            r2_client.upload_file_from_url(url, r2_key, filename)
+            return public_url, True
+        except Exception as e:
+            print(f"    Warning: Failed to upload {filename} to Cloudflare R2: {e}")
+            return public_url, False
+
+    # Local storage fallback
+    ATTACHMENT_DIR.mkdir(parents=True, exist_ok=True)
+    local_path = ATTACHMENT_DIR / file_stem
     downloaded = False
 
     if not local_path.exists() and url:
@@ -249,7 +364,7 @@ def download_attachment(url, filename, perm_id, field_slug, suffix="", attachmen
     elif local_path.exists():
         downloaded = False
 
-    return f"/assets/attachments/{local_filename}", downloaded
+    return f"/assets/attachments/{file_stem}", downloaded
 
 def clean_markdown_to_plain_text(text):
     if not text:
@@ -351,7 +466,7 @@ def get_link_target_table_id(source_table_name, field_name, field_slug, field_in
 
     return None
 
-def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id):
+def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id, r2_client=None):
     """
     Resolve NocoDB fields into normalized YAML frontmatter dictionary based on schema map.
     """
@@ -410,15 +525,20 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, ref
                 if not att_url:
                     continue
 
-                local_url, is_new = download_attachment(att_url, att_name, perm_id, key_slug, attachment_id=att_id)
+                target_url, is_new = process_attachment(
+                    att_url, att_name, perm_id, key_slug, attachment_id=att_id, r2_client=r2_client
+                )
                 if is_new:
-                    GLOBAL_STATS["downloaded"] += 1
+                    if r2_client:
+                        GLOBAL_STATS["uploaded"] += 1
+                    else:
+                        GLOBAL_STATS["downloaded"] += 1
                 else:
                     GLOBAL_STATS["cached"] += 1
 
                 new_att = {
                     "id": att_id or hash_id(att_name),
-                    "url": local_url,
+                    "url": target_url,
                     "filename": att_name
                 }
                 for prop in ["width", "height", "size"]:
@@ -435,14 +555,19 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, ref
                         if isinstance(thumb, dict):
                             t_url = thumb.get("signedUrl") or thumb.get("url")
                             if t_url:
-                                t_local, t_is_new = download_attachment(t_url, att_name, perm_id, key_slug, suffix=size, attachment_id=att_id)
+                                t_target, t_is_new = process_attachment(
+                                    t_url, att_name, perm_id, key_slug, suffix=size, attachment_id=att_id, r2_client=r2_client
+                                )
                                 if t_is_new:
-                                    GLOBAL_STATS["downloaded"] += 1
+                                    if r2_client:
+                                        GLOBAL_STATS["uploaded"] += 1
+                                    else:
+                                        GLOBAL_STATS["downloaded"] += 1
                                     new_thumbs_count += 1
                                 else:
                                     GLOBAL_STATS["cached"] += 1
                                 new_thumbs[size] = {
-                                    "url": t_local,
+                                    "url": t_target,
                                     "width": thumb.get("width"),
                                     "height": thumb.get("height")
                                 }
@@ -451,7 +576,8 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, ref
 
                 if is_new or new_thumbs_count > 0:
                     thumb_info = f" (+ {new_thumbs_count} thumbnails)" if new_thumbs_count > 0 else ""
-                    print(f"    ↓ Downloaded attachment: {att_name}{thumb_info}")
+                    dest_info = "to Cloudflare R2" if r2_client else "attachment"
+                    print(f"    {'↑ Uploaded' if r2_client else '↓ Downloaded'} {dest_info}: {att_name}{thumb_info}")
 
                 local_attachments.append(new_att)
 
@@ -498,6 +624,10 @@ def main():
     parser.add_argument("--update-cases-only", action="store_true", help="Update case descriptions locally without network.")
     parser.add_argument("--records-cache", help="Optional path to pre-dumped NocoDB records JSON (offline mode)")
     parser.add_argument("--schema-path", help="Path to schema_map.yml")
+    parser.add_argument("--local-attachments", action="store_true", help="Store attachments locally in assets/attachments/ instead of Cloudflare R2")
+    parser.add_argument("--r2-bucket", help="Override R2 bucket name")
+    parser.add_argument("--r2-public-url", help="Override R2 public URL (e.g. https://media.pave.pairs.site)")
+    parser.add_argument("--upload-existing-attachments", action="store_true", help="Migrate all existing files from assets/attachments/ to Cloudflare R2")
     args = parser.parse_args()
 
     if args.update_cases_only:
@@ -505,6 +635,53 @@ def main():
         return
 
     schema_map = load_schema_map(args.schema_path)
+
+    # Initialize Cloudflare R2 client if configured
+    r2_client = None
+    if not args.local_attachments:
+        bucket_name = args.r2_bucket or R2_BUCKET_NAME
+        public_url = args.r2_public_url or R2_PUBLIC_URL
+        if R2_ACCOUNT_ID and R2_ACCESS_KEY_ID and R2_SECRET_ACCESS_KEY and bucket_name:
+            try:
+                r2_client = R2StorageClient(
+                    account_id=R2_ACCOUNT_ID,
+                    access_key=R2_ACCESS_KEY_ID,
+                    secret_key=R2_SECRET_ACCESS_KEY,
+                    bucket_name=bucket_name,
+                    public_url=public_url,
+                    endpoint_url=R2_ENDPOINT_URL,
+                    prefix=R2_PREFIX
+                )
+                print(f"Cloudflare R2 storage enabled: bucket '{bucket_name}', prefix '{R2_PREFIX}', public URL: {public_url or '(direct R2)'}")
+            except Exception as e:
+                print(f"Warning: Failed to initialize Cloudflare R2 client: {e}")
+                print("Falling back to local assets/attachments/ storage.")
+        else:
+            print("Note: Cloudflare R2 credentials not fully specified in .env.")
+            print("To enable R2, set R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET_NAME, and R2_PUBLIC_URL in .env.")
+            print("Defaulting to local assets/attachments/ storage (or pass --local-attachments).")
+
+    if args.upload_existing_attachments:
+        if not r2_client:
+            print("Error: Cloudflare R2 client is not configured. Provide R2 credentials in .env to upload.")
+            sys.exit(1)
+        if not ATTACHMENT_DIR.exists():
+            print(f"Directory {ATTACHMENT_DIR} does not exist.")
+            return
+        files = [f for f in ATTACHMENT_DIR.glob("*") if f.is_file()]
+        print(f"Migrating {len(files)} files from {ATTACHMENT_DIR} to Cloudflare R2...")
+        uploaded_count = 0
+        cached_count = 0
+        for f in files:
+            key = f"{r2_client.prefix}/{f.name}" if r2_client.prefix else f.name
+            if r2_client.object_exists(key):
+                cached_count += 1
+            else:
+                r2_client.upload_local_file(f, key)
+                uploaded_count += 1
+                print(f"  ↑ Uploaded: {f.name}")
+        print(f"Migration complete! {uploaded_count} uploaded, {cached_count} already existed in R2.")
+        return
 
     # Build field_slug_to_name for annotating frontmatter comments
     field_slug_to_name = {}
@@ -721,7 +898,7 @@ def main():
                 print(f"  [{idx}/{len(table_records_to_sync)}] {title}")
 
             final_data = resolve_record_fields(
-                fields, t_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id
+                fields, t_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id, r2_client=r2_client
             )
 
             layout = config["layout"]
@@ -774,8 +951,11 @@ def main():
 
     print(f"\nSync complete!")
     print(f"  Markdown files written: {total_written}")
-    if GLOBAL_STATS["downloaded"] > 0 or GLOBAL_STATS["cached"] > 0:
-        print(f"  Attachments: {GLOBAL_STATS['downloaded']} downloaded, {GLOBAL_STATS['cached']} already cached.")
+    if GLOBAL_STATS.get("uploaded", 0) > 0 or GLOBAL_STATS.get("downloaded", 0) > 0 or GLOBAL_STATS.get("cached", 0) > 0:
+        if r2_client:
+            print(f"  Cloudflare R2: {GLOBAL_STATS.get('uploaded', 0)} uploaded, {GLOBAL_STATS.get('cached', 0)} already in R2.")
+        else:
+            print(f"  Attachments (Local): {GLOBAL_STATS.get('downloaded', 0)} downloaded, {GLOBAL_STATS.get('cached', 0)} already cached.")
 
     # Run case aggregation compilation
     try:

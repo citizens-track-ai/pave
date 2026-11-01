@@ -87,7 +87,13 @@ def get_case_permalink_id(fields, record_id):
     - If 'AirTable ID' is present and non-empty, hash it (keeps exact historical permalinks).
     - If 'AirTable ID' is blank/null, hash the NocoDB record ID deterministically.
     """
-    airtable_id = fields.get("AirTable ID") or fields.get("airtable_id")
+    airtable_id = (
+        fields.get("AirTable ID")
+        or fields.get("Airtable ID")
+        or fields.get("airtable_id")
+        or fields.get("airtable-id")
+        or fields.get("AirtableID")
+    )
     if airtable_id and str(airtable_id).strip():
         return hash_id(str(airtable_id).strip())
     return hash_id(f"nc_{record_id}")
@@ -96,7 +102,12 @@ def get_record_permalink_id(table_name, fields, record_id):
     """Generate permalink identifier for any table."""
     if table_name == "Cases":
         return get_case_permalink_id(fields, record_id)
-    airtable_id = fields.get("AirTable ID") or fields.get("airtable_id")
+    airtable_id = (
+        fields.get("AirTable ID")
+        or fields.get("Airtable ID")
+        or fields.get("airtable_id")
+        or fields.get("airtable-id")
+    )
     if airtable_id and str(airtable_id).strip():
         return hash_id(str(airtable_id).strip())
     return hash_id(f"nc_{table_name.lower()}_{record_id}")
@@ -288,11 +299,45 @@ def get_record_title(fields, table_id, schema_map, record_id):
 
     return f"record-{record_id}"
 
-def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, active_ids_set):
+def get_link_target_table_id(source_table_name, field_name, field_slug, field_info, name_to_table_id):
+    """
+    Determine which table a link field points to based on field schema or PAVE relationships.
+    """
+    if field_info:
+        for opt_key in ["related_table_id", "fk_related_model_id", "colOptions"]:
+            val = field_info.get(opt_key)
+            if isinstance(val, str) and val in name_to_table_id.values():
+                return val
+            if isinstance(val, dict):
+                rel = val.get("fk_related_model_id") or val.get("related_table_id")
+                if rel and rel in name_to_table_id.values():
+                    return rel
+
+    fn_lower = (field_name or "").lower()
+    fs_lower = (field_slug or "").lower()
+    combined = f"{fn_lower} {fs_lower}"
+
+    if "organisation" in combined:
+        return name_to_table_id.get("Organisations")
+    if "location" in combined:
+        return name_to_table_id.get("Locations")
+    if "participant" in combined:
+        return name_to_table_id.get("Participants")
+    if "resource" in combined:
+        return name_to_table_id.get("Resources")
+    if "message" in combined:
+        return name_to_table_id.get("Messages")
+    if "case" in combined:
+        return name_to_table_id.get("Cases")
+
+    return None
+
+def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id):
     """
     Resolve NocoDB fields into normalized YAML frontmatter dictionary based on schema map.
     """
     t_info = schema_map.get(table_id, {})
+    t_name = t_info.get("name", "")
     table_fields = t_info.get("fields", {})
 
     # Create mapping: clean_field_name -> field_info
@@ -318,12 +363,18 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, act
         # Linked records
         if f_type in ["LinkToAnotherRecord", "multipleRecordLinks", "Links"]:
             linked_slugs = []
-            if isinstance(f_val, list):
+            target_t_id = get_link_target_table_id(
+                t_name, f_name, f_info.get("slug", ""), f_info, name_to_table_id
+            )
+            if target_t_id and isinstance(f_val, list):
                 for item in f_val:
-                    target_id = item.get("id") if isinstance(item, dict) else item
-                    if target_id and (active_ids_set is None or target_id in active_ids_set):
-                        if target_id in id_to_slug:
-                            linked_slugs.append(id_to_slug[target_id])
+                    raw_id = (item.get("id") or item.get("Id")) if isinstance(item, dict) else item
+                    if raw_id is not None:
+                        target_id_str = str(raw_id)
+                        if (target_t_id, target_id_str) in referenced_records:
+                            target_slug = id_to_slug.get((target_t_id, target_id_str))
+                            if target_slug:
+                                linked_slugs.append(target_slug)
             if linked_slugs:
                 resolved[key_slug] = linked_slugs
 
@@ -473,7 +524,11 @@ def main():
     if args.records_cache and Path(args.records_cache).exists():
         print(f"Loading table records from cache: {args.records_cache}...")
         with open(args.records_cache, "r", encoding="utf-8") as f:
-            all_tables_data = json.load(f)
+            raw_cache = json.load(f)
+            all_tables_data = {
+                t_id: {str(r_id): r_flds for r_id, r_flds in recs.items()}
+                for t_id, recs in raw_cache.items()
+            }
     else:
         if not NOCODB_API_TOKEN:
             print("Error: NOCODB_API_TOKEN (or NC_TOKEN) must be provided.")
@@ -493,11 +548,11 @@ def main():
             records = client.get_table_records(t_id)
             all_tables_data[t_id] = {}
             for r in records:
-                r_id = r.get("id") or r.get("id_fields", {}).get("Id")
+                r_id = r.get("id") or r.get("id_fields", {}).get("Id") or r.get("Id")
                 r_fields = r.get("fields") or r
-                all_tables_data[t_id][r_id] = r_fields
+                all_tables_data[t_id][str(r_id)] = r_fields
 
-    # Generate slugs and permalinks
+    # Generate slugs and permalinks (namespaced by table ID)
     case_table_id = name_to_table_id.get("Cases")
     id_to_slug = {}
     id_to_perm = {}
@@ -505,10 +560,10 @@ def main():
 
     for t_id, records in all_tables_data.items():
         t_name = schema_map.get(t_id, {}).get("name", "generic")
-        for rec_id, fields in records.items():
-            title = get_record_title(fields, t_id, schema_map, rec_id)
-            perm_id = get_record_permalink_id(t_name, fields, rec_id)
-            id_to_perm[rec_id] = perm_id
+        for rec_id_str, fields in records.items():
+            title = get_record_title(fields, t_id, schema_map, rec_id_str)
+            perm_id = get_record_permalink_id(t_name, fields, rec_id_str)
+            id_to_perm[(t_id, rec_id_str)] = perm_id
 
             base_slug = slugify(title)
             if not base_slug:
@@ -520,13 +575,12 @@ def main():
                 slug = f"{base_slug}-{counter}"
                 counter += 1
             used_slugs_by_table[t_id].add(slug)
-            id_to_slug[rec_id] = slug
+            id_to_slug[(t_id, rec_id_str)] = slug
 
     # Filter active cases
     active_case_ids = set()
     if case_table_id and case_table_id in all_tables_data:
-        for rec_id, fields in all_tables_data[case_table_id].items():
-            rec_id_str = str(rec_id)
+        for rec_id_str, fields in all_tables_data[case_table_id].items():
             # If target_case_ids specified, filter strictly to them
             if target_case_ids is not None:
                 if rec_id_str in target_case_ids:
@@ -561,41 +615,58 @@ def main():
 
     print(f"Identified {len(active_case_ids)} active case(s) to sync.")
 
-    # Expand referenced non-case records
-    referenced_ids = set(active_case_ids)
-    to_expand = list(active_case_ids)
+    # Expand referenced non-case records using (table_id, record_id) tuples
+    referenced_records = set((case_table_id, c_id) for c_id in active_case_ids)
+    to_expand = list(referenced_records)
 
     while to_expand:
-        curr_id = to_expand.pop()
-        curr_fields = None
-        for t_id, t_records in all_tables_data.items():
-            for r_id, r_flds in t_records.items():
-                if str(r_id) == str(curr_id):
-                    curr_fields = r_flds
-                    break
-            if curr_fields:
-                break
-
+        curr_t_id, curr_rec_id = to_expand.pop()
+        curr_fields = all_tables_data.get(curr_t_id, {}).get(curr_rec_id)
         if not curr_fields:
             continue
 
+        curr_t_info = schema_map.get(curr_t_id, {})
+        curr_t_name = curr_t_info.get("name", "")
+        table_fields = curr_t_info.get("fields", {})
+
+        clean_name_to_finfo = {}
+        for f_id, f_info in table_fields.items():
+            cname = f_info.get("name", "").strip().lower().replace("\ufeff", "")
+            clean_name_to_finfo[cname] = f_info
+
         for f_name, f_val in curr_fields.items():
-            if isinstance(f_val, list):
-                for item in f_val:
-                    target_id = item.get("id") if isinstance(item, dict) else item
-                    if target_id is not None:
-                        target_id_str = str(target_id)
-                        if target_id_str not in referenced_ids:
-                            # Don't expand into cases that are inactive
-                            is_case = False
-                            if case_table_id and case_table_id in all_tables_data:
-                                for c_id in all_tables_data[case_table_id].keys():
-                                    if str(c_id) == target_id_str:
-                                        is_case = True
-                                        break
-                            if not is_case:
-                                referenced_ids.add(target_id_str)
-                                to_expand.append(target_id_str)
+            if not isinstance(f_val, list):
+                continue
+
+            cname = f_name.strip().lower().replace("\ufeff", "")
+            f_info = clean_name_to_finfo.get(cname)
+            if not f_info or not f_info.get("sync"):
+                continue
+
+            f_type = f_info.get("type", "")
+            if f_type not in ["LinkToAnotherRecord", "multipleRecordLinks", "Links"]:
+                continue
+
+            target_t_id = get_link_target_table_id(
+                curr_t_name, f_name, f_info.get("slug", ""), f_info, name_to_table_id
+            )
+            if not target_t_id or target_t_id not in all_tables_data:
+                continue
+
+            for item in f_val:
+                raw_target_id = (item.get("id") or item.get("Id")) if isinstance(item, dict) else item
+                if raw_target_id is None:
+                    continue
+                target_id_str = str(raw_target_id)
+
+                if (target_t_id, target_id_str) not in referenced_records:
+                    # Don't expand into cases that are inactive
+                    if target_t_id == case_table_id:
+                        if target_id_str in active_case_ids:
+                            referenced_records.add((target_t_id, target_id_str))
+                    else:
+                        referenced_records.add((target_t_id, target_id_str))
+                        to_expand.append((target_t_id, target_id_str))
 
     # Process and write files
     total_written = 0
@@ -606,14 +677,14 @@ def main():
 
         config["dir"].mkdir(parents=True, exist_ok=True)
         
-        # If --clean is passed and full sync, remove old files
-        if args.clean and target_case_ids is None:
+        # When doing full sync (or if --clean), remove old files in the collection directory
+        if target_case_ids is None or args.clean:
             for f in config["dir"].glob("*.md"):
                 f.unlink()
 
         table_records_to_sync = [
-            (rec_id, fields) for rec_id, fields in all_tables_data[t_id].items()
-            if str(rec_id) in referenced_ids
+            (rec_id_str, fields) for rec_id_str, fields in all_tables_data[t_id].items()
+            if (t_id, rec_id_str) in referenced_records
         ]
 
         if not table_records_to_sync:
@@ -622,15 +693,17 @@ def main():
         print(f"\nProcessing {table_name} ({len(table_records_to_sync)} records)...")
 
         sync_count = 0
-        for idx, (rec_id, fields) in enumerate(table_records_to_sync, start=1):
-            perm_id = id_to_perm.get(rec_id) or get_record_permalink_id(table_name, fields, rec_id)
-            title = get_record_title(fields, t_id, schema_map, rec_id)
-            slug = id_to_slug.get(rec_id) or slugify(title)
+        for idx, (rec_id_str, fields) in enumerate(table_records_to_sync, start=1):
+            perm_id = id_to_perm.get((t_id, rec_id_str)) or get_record_permalink_id(table_name, fields, rec_id_str)
+            title = get_record_title(fields, t_id, schema_map, rec_id_str)
+            slug = id_to_slug.get((t_id, rec_id_str)) or slugify(title)
 
             if table_name == "Cases":
                 print(f"  [{idx}/{len(table_records_to_sync)}] {title}")
 
-            final_data = resolve_record_fields(fields, t_id, schema_map, perm_id, id_to_slug, referenced_ids)
+            final_data = resolve_record_fields(
+                fields, t_id, schema_map, perm_id, id_to_slug, referenced_records, name_to_table_id
+            )
 
             layout = config["layout"]
             redirects = [f"/c/{perm_id}/"] if table_name == "Cases" else None

@@ -67,6 +67,8 @@ FILTER_CURATION_DECISION_VALUES = ["Featured Full Case", "Full Case", "Mapping E
 
 FILTER_OPERATOR = "AND"
 
+GLOBAL_STATS = {"downloaded": 0, "cached": 0}
+
 def slugify(text):
     text = str(text or "").lower()
     text = re.sub(r'[^\w\s-]', '', text)
@@ -195,6 +197,7 @@ def download_attachment(url, filename, perm_id, field_slug, suffix="", attachmen
         local_filename = f"{perm_id}_{field_slug}_{suffix}_{clean_filename}" if suffix else f"{perm_id}_{field_slug}_{clean_filename}"
 
     local_path = ATTACHMENT_DIR / local_filename
+    downloaded = False
 
     if not local_path.exists() and url:
         try:
@@ -204,15 +207,19 @@ def download_attachment(url, filename, perm_id, field_slug, suffix="", attachmen
                     with open(local_path, "wb") as f:
                         for chunk in r.iter_content(4096):
                             f.write(chunk)
+                    downloaded = True
             else:
                 req = urllib.request.Request(url, headers={"User-Agent": "PAVE-Sync/1.0"})
                 with urllib.request.urlopen(req, timeout=30) as r:
                     with open(local_path, "wb") as f:
                         f.write(r.read())
+                    downloaded = True
         except Exception as e:
-            print(f"    Warning: Failed to download {url}: {e}")
+            print(f"    Warning: Failed to download {filename}: {e}")
+    elif local_path.exists():
+        downloaded = False
 
-    return f"/assets/attachments/{local_filename}"
+    return f"/assets/attachments/{local_filename}", downloaded
 
 def clean_markdown_to_plain_text(text):
     if not text:
@@ -333,7 +340,12 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, act
                 if not att_url:
                     continue
 
-                local_url = download_attachment(att_url, att_name, perm_id, key_slug, attachment_id=att_id)
+                local_url, is_new = download_attachment(att_url, att_name, perm_id, key_slug, attachment_id=att_id)
+                if is_new:
+                    GLOBAL_STATS["downloaded"] += 1
+                else:
+                    GLOBAL_STATS["cached"] += 1
+
                 new_att = {
                     "id": att_id or hash_id(att_name),
                     "url": local_url,
@@ -346,13 +358,19 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, act
                     new_att["type"] = att["mimetype"]
 
                 # Thumbnails
+                new_thumbs_count = 0
                 if "thumbnails" in att and isinstance(att["thumbnails"], dict):
                     new_thumbs = {}
                     for size, thumb in att["thumbnails"].items():
                         if isinstance(thumb, dict):
                             t_url = thumb.get("signedUrl") or thumb.get("url")
                             if t_url:
-                                t_local = download_attachment(t_url, att_name, perm_id, key_slug, suffix=size, attachment_id=att_id)
+                                t_local, t_is_new = download_attachment(t_url, att_name, perm_id, key_slug, suffix=size, attachment_id=att_id)
+                                if t_is_new:
+                                    GLOBAL_STATS["downloaded"] += 1
+                                    new_thumbs_count += 1
+                                else:
+                                    GLOBAL_STATS["cached"] += 1
                                 new_thumbs[size] = {
                                     "url": t_local,
                                     "width": thumb.get("width"),
@@ -360,6 +378,10 @@ def resolve_record_fields(fields, table_id, schema_map, perm_id, id_to_slug, act
                                 }
                     if new_thumbs:
                         new_att["thumbnails"] = new_thumbs
+
+                if is_new or new_thumbs_count > 0:
+                    thumb_info = f" (+ {new_thumbs_count} thumbnails)" if new_thumbs_count > 0 else ""
+                    print(f"    ↓ Downloaded attachment: {att_name}{thumb_info}")
 
                 local_attachments.append(new_att)
 
@@ -589,14 +611,24 @@ def main():
             for f in config["dir"].glob("*.md"):
                 f.unlink()
 
-        sync_count = 0
-        for rec_id, fields in all_tables_data[t_id].items():
-            if str(rec_id) not in referenced_ids:
-                continue
+        table_records_to_sync = [
+            (rec_id, fields) for rec_id, fields in all_tables_data[t_id].items()
+            if str(rec_id) in referenced_ids
+        ]
 
+        if not table_records_to_sync:
+            continue
+
+        print(f"\nProcessing {table_name} ({len(table_records_to_sync)} records)...")
+
+        sync_count = 0
+        for idx, (rec_id, fields) in enumerate(table_records_to_sync, start=1):
             perm_id = id_to_perm.get(rec_id) or get_record_permalink_id(table_name, fields, rec_id)
-            slug = id_to_slug.get(rec_id) or slugify(get_record_title(fields, t_id, schema_map, rec_id))
             title = get_record_title(fields, t_id, schema_map, rec_id)
+            slug = id_to_slug.get(rec_id) or slugify(title)
+
+            if table_name == "Cases":
+                print(f"  [{idx}/{len(table_records_to_sync)}] {title}")
 
             final_data = resolve_record_fields(fields, t_id, schema_map, perm_id, id_to_slug, referenced_ids)
 
@@ -627,14 +659,17 @@ def main():
             sync_count += 1
             total_written += 1
 
-        print(f"  Processed {sync_count} records for {table_name}.")
+        print(f"  Completed {sync_count} records for {table_name}.")
 
-    print(f"Sync complete! Total {total_written} markdown files written.")
+    print(f"\nSync complete!")
+    print(f"  Markdown files written: {total_written}")
+    if GLOBAL_STATS["downloaded"] > 0 or GLOBAL_STATS["cached"] > 0:
+        print(f"  Attachments: {GLOBAL_STATS['downloaded']} downloaded, {GLOBAL_STATS['cached']} already cached.")
 
     # Run case aggregation compilation
     try:
         from generate_cases_json import aggregate
-        print("Compiling aggregated cases JSON...")
+        print("\nCompiling aggregated cases JSON...")
         aggregate()
         print("Aggregation complete.")
     except Exception as e:

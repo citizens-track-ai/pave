@@ -1,423 +1,45 @@
-tblxVFG1lM7trGD5m:
-  name: Cases
-  primaryFieldId: fldQVZReHicFlY9Yp
-  fields:
-    fldQVZReHicFlY9Yp:
-      name: "\uFEFFProject Title"
-      type: singleLineText
-      sync: true
-      slug: project-title
-    fldZ0f5pRfDE7lIuk:
-      name: Preview
-      type: button
-      sync: false
-      slug: open-url
-      comment: Name changed from "Open URL" - field slug not updated yet
-    fldjqAHoLIaL3Aw5e:
-      name: Assigned to
-      type: singleCollaborator
-      sync: false
-      slug: assigned-to
-    fldyT0fI25iZQRBiH:
-      name: Curation decision
-      type: singleSelect
-      sync: true
-      slug: curation-decision
-      choices:
-      - Featured Full Case
-      - Full Case
-      - Mapping Entry
-      - Do not include
-    fldrM6RRk8easAxSq:
-      name: 'Workflow: Status'
-      type: singleSelect
-      sync: false
-      slug: workflow-status
-      choices:
-      - Nomination
-      - Submission
-      - Draft
-      - Completed
-      - Rejected
-      - Duplicate
-    fldCWTk5Acivt17EF:
-      name: Next Action
-      type: multipleSelects
-      sync: false
-      slug: next-action
-      choices:
-      - Invite to submit their own case
-      - Find contact details
-      - Complete case study research
-      - Peer-review
-      - Triage assessment
-      - Invited to submit
-      - Await submission
-      - PAIRS Case to Invite or Write Up
-      - 'Completed: Ready to publish'
-      - 'Low priority: Come back to'
-    fld20rG6I32pf879z:
-      name: Outreach E-mail
-      type: email
-      sync: false
-      slug: outreach-e-mail
-    fld3vJnaTCYHD9SGg:
-      name: Research Journal Notes
-      type: richText
-      sync: false
-      slug: research-journal-notes
-    fldfZyvSc72yWg4B6:
-      name: Case Location (Internal field)
-      type: singleLineText
-      sync: false
-      slug: case-location-internal-field
-    fldVXcw3fVYGdRRM9:
-      name: Submitted by
-      type: singleLineText
-      sync: true
-      slug: submitted-by
-    fldJTxxT0i74hH9tW:
-      name: Contact e-mail
-      type: email
-      sync: false
-      slug: contact-e-mail
-    fldmEzeNxnodJnfHB:
-      name: Submitter role
-      type: multipleSelects
-      sync: false
-      slug: submitter-role
-      choices:
-      - Commissioner
-      - Project leader
-      - Project team
-      - Participant
-      - Observer
-      - Other
-      - Not involved
-    fldNwWJty8hufq6t1:
-      name: Additional acknowledgements
-      type: singleLineText
-      sync: true
-      slug: additional-acknowledgements
-    fldM0ClT9Ik6FuNnJ:
-      name: Funding Organisations
-      type: multipleRecordLinks
-      sync: true
-      slug: funding-organisations
-      options:
-        linkedTableId: tblJCL1taIotM6y4Y
-    fldoCBwmPfW0Xrlpy:
-      name: How was the project initiated?
-      type: multipleSelects
-      sync: true
-      slug: how-was-the-project-initiated
-      choices:
-      - Commissioned
-      - Community Led
-      - Co-created
-      - Academic research
-      - Other
-    fldxJ934AvP0LGna0:
-      name: Involved organisations
-      type: multipleRecordLinks
-      sync: true
-      slug: involved-organisations
-      options:
-        linkedTableId: tblJCL1taIotM6y4Y
-    fld05RupsUvpbg8vU:
-      name: Lead organisations
-      type: multipleRecordLinks
-      sync: true
-      slug: lead-organisations
-      options:
-        linkedTableId: tblJCL1taIotM6y4Y
-    fldq3vKeaKBBdOY6a:
-      name: Geographic scope
-      type: multipleRecordLinks
-      sync: true
-      slug: geographic-scope
-      options:
-        linkedTableId: tblg0E17yrYVgCDOw
-    fldzgqKbADUHBkfxO:
-      name: Project URL
-      type: url
-      sync: true
-      slug: project-url
-    fld3WCMM9BTILD6m8:
-      name: Project status
-      type: singleSelect
-      sync: true
-      slug: project-status
-      choices:
-      - Planned
-      - In Progress
-      - Complete
-    fldKttntgUGpSigJs:
-      name: What year did the project start?
-      type: number
-      sync: true
-      slug: what-year-did-the-project-start
-    fldwgrONWjl5apN0a:
-      name: What year did the project conclude?
-      type: number
-      sync: true
-      slug: what-year-did-the-project-conclude
-    flddUvgeSB6VY4w9i:
-      name: Project goals
-      type: multipleSelects
-      sync: true
-      slug: project-goals
-      choices:
-      - 'Methods: Create re-usable participation tools & methods'
-      - 'Quantitative: Generate statistical evidence on public attitudes to AI'
-      - 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-      - 'Policy: Inform a policy-making process'
-      - 'Capacity: Build participant capacity to engage with AI'
-      - 'AI Development: Shape the development of AI tools'
-      - 'Audit: Review design or implementation of AI tools'
-      - 'Empowerment: Build community power with respect to AI'
-      - 'Evaluate: Check the quality of evidence or engagement processes'
-    fldEnara6Czm8ChkH:
-      name: What form of AI is the project about?
-      type: multipleSelects
-      sync: true
-      slug: what-form-of-ai-is-the-project-about
-      choices:
-      - Generative AI
-      - Predictive AI
-      - Specific AI system(s)
-      - AI in general
-      - Current issues
-      - Future issues
-    fldmmG9MGLAEewrOT:
-      name: Describe the subject matter in your own words (one line)
-      type: singleLineText
-      sync: true
-      slug: describe-the-subject-matter-in-your-own-words-one
-    fldhGyJhC2XIxyBlP:
-      name: All methods used in case
-      type: rollup
-      sync: false
-      slug: all-methods-used-in-case
-    fld0oykyuwbVPbW0H:
-      name: Provide a brief description of the project
-      type: richText
-      sync: true
-      slug: provide-a-brief-description-of-the-project
-    fld8UK4VG4qwQf4bA:
-      name: Headline findings
-      type: richText
-      sync: true
-      slug: headline-findings
-    fldEuGi25yjQf3asH:
-      name: Messages
-      type: multipleRecordLinks
-      sync: true
-      slug: messages
-      options:
-        linkedTableId: tblZ5YZLljxHXapOF
-    fldenspXfw7B7Odkr:
-      name: Was AI used to assist in summary generation?
-      type: multipleSelects
-      sync: false
-      slug: was-ai-used-to-assist-in-summary-generation
-      choices:
-      - The summary was written by hand
-      - AI was used in generating this summary
-      - The summary has been edited and checked for accuracy
-    fldAQhKPRBSYGsJwD:
-      name: Participants
-      type: multipleRecordLinks
-      sync: true
-      slug: participants
-      options:
-        linkedTableId: tblRGGoBamk2WGdUD
-    fldB1TUH1buE9uaFP:
-      name: Participation locations
-      type: multilineText
-      sync: true
-      slug: participation-locations
-    fldaSwQdG23BdcH4J:
-      name: Why is this project important to include in the case book?
-      type: multilineText
-      sync: true
-      slug: why-is-this-project-important-to-include-in-the
-    fldPOu99itaN5PMaK:
-      name: Inclusion efforts
-      type: richText
-      sync: true
-      slug: inclusion-efforts
-    fld3PwRR35QU6D1CK:
-      name: What limitations to the project should be noted?
-      type: richText
-      sync: true
-      slug: what-limitations-to-the-project-should-be-noted
-    fldx2fmatqG1K5Arm:
-      name: Which of the following resources are available for this project?
-      type: multipleSelects
-      sync: true
-      slug: which-of-the-following-resources-are-available
-      choices:
-      - A project report
-      - A project video
-      - An independent evaluation
-      - A research poster
-      - A method guide or toolkit
-    fldeQz7UtfY8zlyhv:
-      name: Supporting resources
-      type: multipleRecordLinks
-      sync: true
-      slug: supporting-resources
-      options:
-        linkedTableId: tblu6lFzOdgEQKGC4
-    fldvXxCnSclvssxyK:
-      name: Photos available?
-      type: multipleSelects
-      sync: false
-      slug: photos-available
-      choices:
-      - I have photos from this project to upload
-      - Photos may be available from this project - contact me later
-      - There are no photos available from this project
-    fldd4B6cpBOP3n3is:
-      name: Photos and images
-      type: multipleAttachments
-      sync: true
-      slug: photos-and-images
-    fldV2q24E34ccLyqd:
-      name: Target group
-      type: multilineText
-      sync: true
-      slug: target-group
-    fld1frtLRXSwQfxFH:
-      name: Record ID
-      type: formula
-      sync: false
-      slug: record-id
-    fld4ZpPx64LJRS1br:
-      name: Messages extracted for case
-      type: count
-      sync: false
-      slug: messages-extracted-for-case
-    fldI9y7Klo4V9og94:
-      name: Theme
-      type: multipleSelects
-      sync: true
-      slug: theme
-      choices:
-      - Education
-      - Healthcare
-      - Environment
-      - Social media
-      - Safety
-      - Work
-      - Youth
-      - Artificial Intelligence
-      - Infrastructure
-      - Language
-      - Identity
-      - Research
-      - Public Services
-      - Justice
-      - Privacy
-      - Culture
-      - Cities
-      - Internet governance
-    fld1OZQxueUn0wzfB:
-      name: E-mail Draft
-      type: formula
-      sync: false
-      slug: e-mail-draft
-    fldtDVsiQBcmomR4P:
-      name: Case sign off log
-      type: singleLineText
-      sync: false
-      slug: case-sign-off-log
-    fldnGSaj7zRScwJt8:
-      name: Editing link
-      type: button
-      sync: false
-      slug: editing-link
-    fldyTy9X5T9piyHAd:
-      name: Created
-      type: createdTime
-      sync: false
-      slug: created
-    fldu2BNJERB7Lc1rq:
-      name: Level of engagement
-      type: singleSelect
-      sync: true
-      slug: level-of-engagement
-      choices:
-      - Professional
-      - Community
-      - National
-      - Global
-    fldgY2iGGBic2LTMQ:
-      name: Generate Auto Summary
-      type: button
-      sync: false
-      slug: generate-auto-summary
-    fldO6aPwKndcHXQJn:
-      name: Auto-Summary
-      type: multilineText
-      sync: false
-      slug: auto-summary
-    fldgrmlTFHIgHExO6:
-      name: Method Image
-      type: multipleAttachments
-      sync: true
-      slug: method-image
-    fldT5uYeCBem2btX1:
-      name: Method image caption
-      type: singleLineText
-      sync: true
-      slug: method-image-caption
-tblJCL1taIotM6y4Y:
+mecsh2ykfxm0s2f:
   name: Organisations
-  primaryFieldId: fldUH8cT7KyUpg1wT
+  primaryFieldId: cqkqjxbtc9sjzuk
   fields:
-    fldUH8cT7KyUpg1wT:
+    cmnqi32xfshvtte:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    c4zxhjqg8cls0oz:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    c9muwy4br34k08p:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    c3a7h1n4y1vrtus:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    cdlduf2czysum27:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cqkqjxbtc9sjzuk:
       name: Name
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: name
-    fldYGUHxexgXk88fw:
-      name: Lead organisation for
-      type: multipleRecordLinks
-      sync: true
-      slug: lead-organisation-for
-      options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldnEvULtgnrqryUQ:
-      name: Funding organisation for
-      type: multipleRecordLinks
-      sync: true
-      slug: funding-organisation-for
-      options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldE09wBfEXIawc5T:
-      name: Involved organisation for
-      type: multipleRecordLinks
-      sync: true
-      slug: involved-organisation-for
-      options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldMPxskerPZgXyLV:
+    c68nspve2ypnur8:
       name: Website address
-      type: url
+      type: URL
       sync: true
       slug: website-address
-    fldjNFI2YXLQ2PapK:
-      name: Main Location
-      type: multipleRecordLinks
-      sync: true
-      slug: main-location
-      options:
-        linkedTableId: tblg0E17yrYVgCDOw
-    fldHOkeRYbBEc5Qev:
+    cwhtaz65osbz1ql:
       name: Organisation type
-      type: multipleSelects
+      type: MultiSelect
       sync: true
       slug: organisation-type
       choices:
@@ -426,84 +48,172 @@ tblJCL1taIotM6y4Y:
       - Public sector
       - Non-profit
       - Research
-    flddoGqidRIofZTI7:
+      - Individual Donor
+    c276douiwmwh0ic:
       name: Mission statement (DATA CLEANING NEEDED)
-      type: multilineText
+      type: LongText
       sync: true
       slug: mission-statement
       comment: Name changed from "Mission statement" - field slug not updated yet
-    fld2xaF90kx4CF3ZG:
+    cphletedc0u28n5:
       name: Logo
-      type: multipleAttachments
+      type: Attachment
       sync: false
       slug: logo
-    fldV839jg4QLZFIG2:
-      name: Open URL
-      type: button
-      sync: false
-      slug: open-url
-tblg0E17yrYVgCDOw:
+    clg2v7lqp0zld94:
+      name: Funding organisation for
+      type: LinkToAnotherRecord
+      sync: true
+      slug: funding-organisation-for
+      options:
+        related_table_id: m1e33iafsgoy4re
+    c4w0fnwu2yu2q6y:
+      name: Involved organisation for
+      type: LinkToAnotherRecord
+      sync: true
+      slug: involved-organisation-for
+      options:
+        related_table_id: m1e33iafsgoy4re
+    cvy3s5dxzqyyvgh:
+      name: Lead organisation for
+      type: LinkToAnotherRecord
+      sync: true
+      slug: lead-organisation-for
+      options:
+        related_table_id: m1e33iafsgoy4re
+    cxcwwaqmg6y6jnr:
+      name: Main Location
+      type: LinkToAnotherRecord
+      sync: true
+      slug: main-location
+      options:
+        related_table_id: m585w7nu1pegh83
+m585w7nu1pegh83:
   name: Locations
-  primaryFieldId: fldNDwfliTbwWYd4l
+  primaryFieldId: cl6q7v3s5wdrbtf
   fields:
-    fldNDwfliTbwWYd4l:
+    cdwx4j24uy6bhb7:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    c69ddpivt21y9f0:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    cyvrr42cckpskc3:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    c94sda6mkvth35r:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    ccm5mixrhmjto78:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cl6q7v3s5wdrbtf:
       name: Name
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: name
-    fldSwP1hLiQlRaB3E:
+    cqq51ds5s6rixmw:
+      name: Latitude
+      type: Decimal
+      sync: true
+      slug: latitude
+    c5hivs5torehe54:
+      name: Longitude
+      type: Decimal
+      sync: true
+      slug: longitude
+    cha2d8vtl242n8z:
+      name: Country Code
+      type: SingleLineText
+      sync: true
+      slug: country-code
+    cxqrun1snnu4lht:
       name: Cases
-      type: multipleRecordLinks
+      type: LinkToAnotherRecord
       sync: true
       slug: cases
       options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldAtfj6KrVsh8jHF:
-      name: Participants
-      type: multipleRecordLinks
-      sync: true
-      slug: participants
-      options:
-        linkedTableId: tblRGGoBamk2WGdUD
-    fldzvtgyrKNtzuKIL:
+        related_table_id: m1e33iafsgoy4re
+    cs8m2f0utlnfjsp:
       name: Organisations
-      type: multipleRecordLinks
+      type: LinkToAnotherRecord
       sync: true
       slug: organisations
       options:
-        linkedTableId: tblJCL1taIotM6y4Y
-    fldy0zqeilb2NSEOB:
-      name: Country Code
-      type: singleLineText
+        related_table_id: mecsh2ykfxm0s2f
+    crk482innr95npl:
+      name: Participants
+      type: LinkToAnotherRecord
       sync: true
-      slug: country-code
-    fldWtvMukYmq1IuWq:
-      name: Latitude
-      type: number
-      sync: true
-      slug: latitude
-    fldCdYZ8Ay6f6ulq1:
-      name: Longitude
-      type: number
-      sync: true
-      slug: longitude
-tblRGGoBamk2WGdUD:
+      slug: participants
+      options:
+        related_table_id: mtys2m273atfyd9
+mtys2m273atfyd9:
   name: Participants
-  primaryFieldId: fldHY0Cm0kPEMZ4Gg
+  primaryFieldId: czzyjymaftnk0vb
   fields:
-    fldHY0Cm0kPEMZ4Gg:
-      name: Name
-      type: formula
+    chvbxp9glk39p69:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    c8gs944wwqmxq5l:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    cutkjpmt4np4rnm:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    c0r92cq6gpl80o9:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    cr0kn4rekllzc4m:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cclq5jtw7kkjsc3:
+      name: How many people took part?
+      type: Decimal
       sync: true
-      slug: name
-    fldHpcL2p4OYtkkvv:
+      slug: how-many-people-took-part
+    ck80qva5my4zcqv:
+      name: On average, how many hours did each participant engage for?
+      type: Decimal
+      sync: true
+      slug: on-average-how-many-hours-did-each-participant
+    c8n8latvji8yofu:
+      name: Where did engagement take place?
+      type: MultiSelect
+      sync: true
+      slug: where-did-engagement-take-place
+      choices:
+      - Online
+      - Offline
+      - Hybrid
+    clrtwzsk380o53s:
       name: Group description
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: group-description
-    fld86CmkqMgbvMLP6:
+    cxdhb3lnyd4z92b:
       name: Recruitment method
-      type: singleSelect
+      type: SingleSelect
       sync: true
       slug: recruitment-method
       choices:
@@ -512,29 +222,24 @@ tblRGGoBamk2WGdUD:
       - Statistical sample
       - Peer recruitment (snowball)
       - Other
-    fldjmbTHKUAw4M2zQ:
+    czypcy1vkebn9ho:
       name: Recruitment description
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: recruitment-description
-    fldpvn1hM37AceKyM:
+    cwb7vrdjibhpbi0:
       name: Was there a specific target population?
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: was-there-a-specific-target-population
-    fldY5TPx3FCNnQ9Fv:
-      name: How many people took part?
-      type: number
+    c60e4o46hkua4lh:
+      name: Where were participants from?
+      type: SingleLineText
       sync: true
-      slug: how-many-people-took-part
-    fldDs16PFhLNn1Rag:
-      name: On average, how many hours did each participant engage for?
-      type: number
-      sync: true
-      slug: on-average-how-many-hours-did-each-participant
-    fldDUHAWPMbAqFNot:
+      slug: where-were-participants-from
+    cj6b2fa3kqcy2bj:
       name: Which of the following methods were used to engage participants?
-      type: multipleSelects
+      type: MultiSelect
       sync: true
       slug: which-of-the-following-methods-were-used-to
       choices:
@@ -567,70 +272,86 @@ tblRGGoBamk2WGdUD:
       - Scenario Workshop
       - Survey
       - Workers' Council
-    fldLU10Hiao77UniS:
+    ctfpx3crvwahwmm:
       name: Do any of the following apply?
-      type: multipleSelects
+      type: MultiSelect
       sync: true
       slug: do-any-of-the-following-apply
       choices:
       - There were trained facilitators involved
       - There was a learning phase for participants
       - Materials from the learning phase have been published
-    fldweSxXYJIXdml8C:
-      name: Where did engagement take place?
-      type: multipleSelects
-      sync: true
-      slug: where-did-engagement-take-place
-      choices:
-      - Online
-      - Offline
-      - Hybrid
-    fldA8Li5xJXokGrFY:
-      name: Where were participants from?
-      type: singleLineText
-      sync: true
-      slug: where-were-participants-from
-    fld0BFLjrsMUNnQAv:
-      name: Locations
-      type: multipleRecordLinks
-      sync: true
-      slug: locations
-      options:
-        linkedTableId: tblg0E17yrYVgCDOw
-    fldVSkZqFL1cykZ47:
+    ch88xfl13cgejjr:
       name: Additional notes
-      type: multilineText
+      type: LongText
       sync: true
       slug: additional-notes
-    fldbvRYPZaQe2mcdT:
+    cx8g29kh42rgkjk:
+      name: Created
+      type: DateTime
+      sync: false
+      slug: created
+    cl440n84ovf0nxu:
       name: Cases
-      type: multipleRecordLinks
+      type: LinkToAnotherRecord
       sync: true
       slug: cases
       options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldQp9mBT2YvutaBa:
-      name: 'Workflow: Status Rollup (from Cases)'
-      type: rollup
-      sync: false
-      slug: workflow-status-rollup-from-cases
-    fldmwWAn0dPLX03TI:
-      name: Created
-      type: createdTime
-      sync: false
-      slug: created
-tblu6lFzOdgEQKGC4:
-  name: Resources
-  primaryFieldId: fld174spfMr309suV
-  fields:
-    fld174spfMr309suV:
+        related_table_id: m1e33iafsgoy4re
+    cdbtgywt4pvvq3s:
+      name: Locations
+      type: LinkToAnotherRecord
+      sync: true
+      slug: locations
+      options:
+        related_table_id: m585w7nu1pegh83
+    czzyjymaftnk0vb:
       name: Title
-      type: singleLineText
+      type: Formula
+      sync: false
+      slug: title
+mm1j25f6w0s1hsn:
+  name: Resources
+  primaryFieldId: c6yutsekx15ybn7
+  fields:
+    c8255pykc5olba2:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    cs9hrh9t0tkx5k2:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    cfiqjva86340oat:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    cd60k3mp0bmhb29:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    ct48ljf9ttnzwat:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    c6yutsekx15ybn7:
+      name: Title
+      type: SingleLineText
       sync: true
       slug: title
-    fldzQYhMyANM5OvJP:
+    chpy7jv954qd7sp:
+      name: Attachments
+      type: Attachment
+      sync: true
+      slug: attachments
+    c12fjgfg3vviyjv:
       name: Select
-      type: singleSelect
+      type: SingleSelect
       sync: true
       slug: select
       choices:
@@ -645,106 +366,144 @@ tblu6lFzOdgEQKGC4:
       - Citation
       - Other
       - Academic paper or presentation
-    fldx5z1qUqdM71vbo:
-      name: Short description
-      type: singleLineText
-      sync: true
-      slug: short-description
-    fldHNs68Xt8bkJN3E:
+    cbrn10uez1knt4o:
       name: URL
-      type: url
+      type: URL
       sync: true
       slug: external_url
-    fldNl6UdLiRMpQYrc:
-      name: Attachments
-      type: multipleAttachments
-      sync: true
-      slug: attachments
-    fldEE4ZowgagMZMWJ:
+    czcyemszzpp6xb0:
       name: License
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: license
-    fldtxL20ZxJG2ZdTG:
-      name: Cases
-      type: multipleRecordLinks
+    cmdl345azakcp61:
+      name: Short description
+      type: SingleLineText
       sync: true
-      slug: cases
-      options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fldlhyHCoKJtoJDiP:
+      slug: short-description
+    cf39vvxh6tk5xi6:
       name: Featured Video / Resource
-      type: checkbox
+      type: Checkbox
       sync: true
       slug: featured-video-resource
-    flddEQ9B6cVeo4Uq2:
+    c316daqcely76xd:
       name: Video notes
-      type: singleLineText
+      type: SingleLineText
       sync: false
       slug: video-notes
-    fldwniS1BtpoK4E4t:
+    c51982v6o3zz8pf:
       name: StartAt
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: startat
       comment: Name changed from "Cut" - field slug not updated yet
-tbl3Id3C9tKcFcnKm:
+    cd7i3ulk36wvuhg:
+      name: Cases
+      type: LinkToAnotherRecord
+      sync: true
+      slug: cases
+      options:
+        related_table_id: m1e33iafsgoy4re
+m4y9rzqho5c9uew:
   name: Method Codelist
-  primaryFieldId: fldlR2XVxIybX907z
+  primaryFieldId: cq14pg7q0mmih18
   fields:
-    fldlR2XVxIybX907z:
+    cqej4s91axdrrg2:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    cb1b9d7u85le11p:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    ch48mi27elp3pkh:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    csn1qx68ikzdmgi:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    ctsxzd8ma24oy28:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cdxqd1c39l8sl4m:
       name: Name
-      type: multilineText
+      type: LongText
       sync: true
       slug: name
-    fldrugVIl98xJkA9c:
+    cyw9gynqxwec232:
       name: Notes
-      type: checkbox
+      type: Checkbox
       sync: true
       slug: notes
-    fld0buRoxqkfSQmpb:
-      name: description
-      type: multilineText
-      sync: true
-      slug: description
-    fldbr9FVlpzodzDnZ:
+    cq14pg7q0mmih18:
       name: Assignee
-      type: singleLineText
+      type: SingleLineText
       sync: true
       slug: assignee
-tblZ5YZLljxHXapOF:
+    c6lsz31jfmnd3rg:
+      name: description
+      type: LongText
+      sync: true
+      slug: description
+mujfx489gv4v1co:
   name: Messages
-  primaryFieldId: fldyrLCrggwZqFZmS
+  primaryFieldId: c1117bwggi2l47y
   fields:
-    fldyrLCrggwZqFZmS:
+    cuuccqhg33cvt27:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    cva36y9ozai08zg:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    c11mflsqp95179g:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    cuakiv4pfl6i3cp:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    ccj90pfh89ubzq4:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cyez9n001u3t2m3:
       name: Name
-      type: multilineText
+      type: LongText
       sync: true
       slug: name
-    fldo3jzKvZqYeXvYi:
-      name: Additional Credit Line
-      type: singleLineText
-      sync: true
-      slug: additional-credit-line
-    fld9WcxhWfobqkI72:
+    ce6ypvfm5u1rpj6:
       name: Type
-      type: singleSelect
+      type: SingleSelect
       sync: true
       slug: type
       choices:
       - Recommendation
       - Issue
       - Quote
-    fldCuzVkCPc37vZiY:
-      name: Cases
-      type: multipleRecordLinks
+    c1117bwggi2l47y:
+      name: Additional Credit Line
+      type: SingleLineText
       sync: true
-      slug: cases
-      options:
-        linkedTableId: tblxVFG1lM7trGD5m
-    fld5MhXGTJTxJlDBl:
+      slug: additional-credit-line
+    chzgs9l5s42pnpk:
       name: Featured (Theme)
-      type: multipleSelects
+      type: MultiSelect
       sync: true
       slug: featured
       choices:
@@ -758,3 +517,389 @@ tblZ5YZLljxHXapOF:
       - Safety
       - Education
       - AI development
+    c57k271gilhxa29:
+      name: Cases
+      type: LinkToAnotherRecord
+      sync: true
+      slug: cases
+      options:
+        related_table_id: m1e33iafsgoy4re
+m1e33iafsgoy4re:
+  name: Cases
+  primaryFieldId: cth5sqxxjmdukkm
+  fields:
+    c7gnpxx1by75qa2:
+      name: Id
+      type: ID
+      sync: false
+      slug: id
+    cghzq87jdk3lv2p:
+      name: CreatedAt
+      type: CreatedTime
+      sync: false
+      slug: createdat
+    cvppztqpewke97v:
+      name: UpdatedAt
+      type: LastModifiedTime
+      sync: false
+      slug: updatedat
+    cscppjogtk5jg1w:
+      name: ncRecordId
+      type: SingleLineText
+      sync: false
+      slug: ncrecordid
+    cpvrfwzpksu4izv:
+      name: ncRecordHash
+      type: SingleLineText
+      sync: false
+      slug: ncrecordhash
+    cth5sqxxjmdukkm:
+      name: Project Title
+      type: SingleLineText
+      sync: true
+      slug: project-title
+    c25htvd9z7984fw:
+      name: Contact e-mail
+      type: Email
+      sync: false
+      slug: contact-e-mail
+    ckho3plzj1s7a0x:
+      name: Headline findings
+      type: LongText
+      sync: true
+      slug: headline-findings
+    cv0j55urcc7qc4t:
+      name: How was the project initiated?
+      type: MultiSelect
+      sync: true
+      slug: how-was-the-project-initiated
+      choices:
+      - Commissioned
+      - Community Led
+      - Co-created
+      - Academic research
+      - Other
+    cuziaddy8kt8iqq:
+      name: Participation locations
+      type: LongText
+      sync: true
+      slug: participation-locations
+    clzg76lhhtaw1ui:
+      name: Project URL
+      type: URL
+      sync: true
+      slug: project-url
+    c5lszm03eo9j6xc:
+      name: What year did the project start?
+      type: Number
+      sync: true
+      slug: what-year-did-the-project-start
+    cjv9q8y54k49blr:
+      name: Project goals
+      type: MultiSelect
+      sync: true
+      slug: project-goals
+      choices:
+      - 'Methods: Create re-usable participation tools & methods'
+      - 'Quantitative: Generate statistical evidence on public attitudes to AI'
+      - 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+      - 'Policy: Inform a policy-making process'
+      - 'Capacity: Build participant capacity to engage with AI'
+      - 'AI Development: Shape the development of AI tools'
+      - 'Audit: Review design or implementation of AI tools'
+      - 'Empowerment: Build community power with respect to AI'
+      - 'Evaluate: Check the quality of evidence or engagement processes'
+    c53azieq3jktkug:
+      name: Provide a brief description of the project
+      type: LongText
+      sync: true
+      slug: provide-a-brief-description-of-the-project
+    czp4p3u91facz7t:
+      name: Submitted by
+      type: SingleLineText
+      sync: true
+      slug: submitted-by
+    cblgdml8bx8my26:
+      name: Submitter role
+      type: MultiSelect
+      sync: false
+      slug: submitter-role
+      choices:
+      - Commissioner
+      - Project leader
+      - Project team
+      - Participant
+      - Observer
+      - Other
+      - Not involved
+    ckkmwfrywkprtr6:
+      name: Target group
+      type: LongText
+      sync: true
+      slug: target-group
+    c5q36qp64f3ukdw:
+      name: Why is this project important to include in the case book?
+      type: LongText
+      sync: true
+      slug: why-is-this-project-important-to-include-in-the
+    cq5swskfvb2o3al:
+      name: What year did the project conclude?
+      type: Number
+      sync: true
+      slug: what-year-did-the-project-conclude
+    cbjkrq2vdqzzzab:
+      name: 'Workflow: Status'
+      type: SingleSelect
+      sync: false
+      slug: workflow-status
+      choices:
+      - Nomination
+      - Submission
+      - Draft
+      - Completed
+      - Rejected
+      - Duplicate
+    cx4uxmcr21x7gdf:
+      name: What form of AI is the project about?
+      type: MultiSelect
+      sync: true
+      slug: what-form-of-ai-is-the-project-about
+      choices:
+      - Generative AI
+      - Predictive AI
+      - Specific AI system(s)
+      - AI in general
+      - Current issues
+      - Future issues
+    czt5nob1s4ki2vz:
+      name: Was AI used to assist in summary generation?
+      type: MultiSelect
+      sync: false
+      slug: was-ai-used-to-assist-in-summary-generation
+      choices:
+      - The summary was written by hand
+      - AI was used in generating this summary
+      - The summary has been edited and checked for accuracy
+    czjfu6u1tq78lux:
+      name: Photos and images
+      type: Attachment
+      sync: true
+      slug: photos-and-images
+    cbxhvqqz0hyritc:
+      name: Additional acknowledgements
+      type: SingleLineText
+      sync: true
+      slug: additional-acknowledgements
+    cyw46c9wovrhrqq:
+      name: Describe the subject matter in your own words (one line)
+      type: SingleLineText
+      sync: true
+      slug: describe-the-subject-matter-in-your-own-words-one
+    c92rhvwj8m8b1uh:
+      name: Which of the following resources are available for this project?
+      type: MultiSelect
+      sync: true
+      slug: which-of-the-following-resources-are-available
+      choices:
+      - A project report
+      - A project video
+      - An independent evaluation
+      - A research poster
+      - A method guide or toolkit
+    c0l1pact6lgg1l3:
+      name: Photos available?
+      type: MultiSelect
+      sync: false
+      slug: photos-available
+      choices:
+      - I have photos from this project to upload
+      - Photos may be available from this project - contact me later
+      - There are no photos available from this project
+    co5yg7zf4w8t5an:
+      name: Assigned to
+      type: User
+      sync: false
+      slug: assigned-to
+    ci4tsuus4h63y9p:
+      name: Inclusion efforts
+      type: LongText
+      sync: true
+      slug: inclusion-efforts
+    cbjiqt7ng01w7up:
+      name: What limitations to the project should be noted?
+      type: LongText
+      sync: true
+      slug: what-limitations-to-the-project-should-be-noted
+    crfskvt5gfqvbmk:
+      name: Next Action
+      type: MultiSelect
+      sync: false
+      slug: next-action
+      choices:
+      - Invite to submit their own case
+      - Find contact details
+      - Complete case study research
+      - Peer-review
+      - Triage assessment
+      - Invited to submit
+      - Await submission
+      - PAIRS Case to Invite or Write Up
+      - 'Completed: Ready to publish'
+      - 'Low priority: Come back to'
+    c08pz0l1utbpfu0:
+      name: Outreach E-mail
+      type: Email
+      sync: false
+      slug: outreach-e-mail
+    ckqlbjuo3j3ff1v:
+      name: Research Journal Notes
+      type: LongText
+      sync: false
+      slug: research-journal-notes
+    ctz220ss4ll50mp:
+      name: Curation decision
+      type: SingleSelect
+      sync: true
+      slug: curation-decision
+      choices:
+      - Featured Full Case
+      - Full Case
+      - Mapping Entry
+      - Do not include
+    clnc9o6jnu3fxst:
+      name: Project status
+      type: SingleSelect
+      sync: true
+      slug: project-status
+      choices:
+      - Planned
+      - In Progress
+      - Complete
+    cp4gkqdt5smx503:
+      name: Created
+      type: DateTime
+      sync: false
+      slug: created
+    cwq0f4ez44vf3ft:
+      name: Case Location (Internal field)
+      type: SingleLineText
+      sync: false
+      slug: case-location-internal-field
+    cffjfrb7spc6gf1:
+      name: Theme
+      type: MultiSelect
+      sync: true
+      slug: theme
+      choices:
+      - Education
+      - Healthcare
+      - Environment
+      - Social media
+      - Safety
+      - Work
+      - Youth
+      - Artificial Intelligence
+      - Infrastructure
+      - Language
+      - Identity
+      - Research
+      - Public Services
+      - Justice
+      - Privacy
+      - Culture
+      - Cities
+      - Internet governance
+    c31axgot20sgto2:
+      name: Level of engagement
+      type: SingleSelect
+      sync: true
+      slug: level-of-engagement
+      choices:
+      - Professional
+      - Community
+      - National
+      - Global
+    c7xjh0eo76lnm2u:
+      name: Auto-Summary
+      type: LongText
+      sync: false
+      slug: auto-summary
+    cdpnov2t722iein:
+      name: Case sign off log
+      type: SingleLineText
+      sync: false
+      slug: case-sign-off-log
+    chy02gfwyc8nomc:
+      name: Method Image
+      type: Attachment
+      sync: true
+      slug: method-image
+    c4mbzgiy5ytwtyb:
+      name: Method image caption
+      type: SingleLineText
+      sync: true
+      slug: method-image-caption
+    ctry6dyg5238w16:
+      name: Funding Organisations
+      type: LinkToAnotherRecord
+      sync: true
+      slug: funding-organisations
+      options:
+        related_table_id: mecsh2ykfxm0s2f
+    cjgs1ukudtfjqaf:
+      name: Geographic scope
+      type: LinkToAnotherRecord
+      sync: true
+      slug: geographic-scope
+      options:
+        related_table_id: m585w7nu1pegh83
+    crlcp2kthfjwijy:
+      name: Involved organisations
+      type: LinkToAnotherRecord
+      sync: true
+      slug: involved-organisations
+      options:
+        related_table_id: mecsh2ykfxm0s2f
+    cfsr6shftjp5rh8:
+      name: Lead organisations
+      type: LinkToAnotherRecord
+      sync: true
+      slug: lead-organisations
+      options:
+        related_table_id: mecsh2ykfxm0s2f
+    clfmrd6qe6r4l6w:
+      name: Participants
+      type: LinkToAnotherRecord
+      sync: true
+      slug: participants
+      options:
+        related_table_id: mtys2m273atfyd9
+    c3ph7cav2ieep3q:
+      name: Supporting resources
+      type: LinkToAnotherRecord
+      sync: true
+      slug: supporting-resources
+      options:
+        related_table_id: mm1j25f6w0s1hsn
+    cgcjd052mayfjgo:
+      name: Messages
+      type: LinkToAnotherRecord
+      sync: true
+      slug: messages
+      options:
+        related_table_id: mujfx489gv4v1co
+    cbazstmc65mq4ev:
+      name: EditKey
+      type: SingleLineText
+      sync: false
+      slug: editkey
+    cy7qro2mpc42use:
+      name: Created At
+      type: CreatedTime
+      sync: false
+      slug: created-at
+    c8adfqx76vn2t1s:
+      name: AirTable ID
+      type: SingleLineText
+      sync: false
+      slug: airtable-id

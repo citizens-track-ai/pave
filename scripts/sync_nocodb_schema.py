@@ -62,21 +62,55 @@ def _http_get_json(url, token):
     return None
 
 def fetch_nocodb_tables(base_url, base_id, token):
-    """Fetch tables and their field schemas from NocoDB REST API."""
+    """Fetch tables and their full field schemas from NocoDB REST API."""
     candidates = [
         f"{base_url.rstrip('/')}/api/v2/meta/bases/{base_id}/tables",
         f"{base_url.rstrip('/')}/api/v3/meta/bases/{base_id}/tables",
         f"{base_url.rstrip('/')}/api/v1/db/meta/projects/{base_id}/tables"
     ]
+    tables_list = None
     for url in candidates:
         try:
             data = _http_get_json(url, token)
             if data:
-                return data.get("list") or data.get("tables") or data
-        except Exception as e:
+                tables_list = data.get("list") or data.get("tables") or (data if isinstance(data, list) else None)
+                if tables_list:
+                    break
+        except Exception:
             continue
 
-    raise RuntimeError(f"Failed to fetch NocoDB schema. Check your NOCODB_API_TOKEN and NOCODB_BASE_ID.")
+    if not tables_list:
+        raise RuntimeError(f"Failed to fetch NocoDB tables list. Check your NC_TOKEN/NOCODB_API_TOKEN and NOCODB_BASE_ID.")
+
+    populated_tables = []
+    for t in tables_list:
+        t_id = t.get("id")
+        t_name = t.get("title") or t.get("name")
+        # If table already has fields/columns, keep it
+        if t.get("fields") or t.get("columns"):
+            populated_tables.append(t)
+            continue
+
+        # In NocoDB, table list does not include column schemas.
+        # Fetch detailed table schema containing fields.
+        table_detail = None
+        for detail_url in [
+            f"{base_url.rstrip('/')}/api/v2/meta/tables/{t_id}",
+            f"{base_url.rstrip('/')}/api/v3/meta/bases/{base_id}/tables/{t_id}"
+        ]:
+            try:
+                table_detail = _http_get_json(detail_url, token)
+                if table_detail and (table_detail.get("fields") or table_detail.get("columns")):
+                    break
+            except Exception:
+                continue
+
+        if table_detail:
+            populated_tables.append(table_detail)
+        else:
+            populated_tables.append(t)
+
+    return populated_tables
 
 def build_schema_map(tables, existing_schema, default_sync=False, reset_all=None):
     """Build a unified schema map preserving existing sync flags and field slugs."""
@@ -98,6 +132,12 @@ def build_schema_map(tables, existing_schema, default_sync=False, reset_all=None
 
         existing_table = existing_schema.get(t_id, {})
         fields = table.get("fields") or table.get("columns") or []
+
+        # Safeguard: if API returns 0 fields but we have existing fields, retain them!
+        if not fields and existing_table.get("fields"):
+            print(f"  Warning: No fields returned for table '{t_name}'. Retaining existing schema fields.")
+            new_schema[t_id] = existing_table
+            continue
 
         primary_field_id = table.get("display_field_id")
         if not primary_field_id:
@@ -200,14 +240,20 @@ def main():
     default_sync_bool = (args.default_sync == "on")
     reset_all_bool = (args.reset_all == "on") if args.reset_all else None
 
-    # Load existing schema map if present (check output_path, fallback to DEFAULT_SCHEMA_PATH)
+    # Load existing schema map from all candidate files to preserve slugs and sync flags
     existing_schema = {}
-    if output_path.exists():
-        with open(output_path, "r", encoding="utf-8") as f:
-            existing_schema = yaml.safe_load(f) or {}
-    elif DEFAULT_SCHEMA_PATH.exists():
-        with open(DEFAULT_SCHEMA_PATH, "r", encoding="utf-8") as f:
-            existing_schema = yaml.safe_load(f) or {}
+    for candidate_path in [Path("_data/schema_map_nocodb.yml"), output_path, DEFAULT_SCHEMA_PATH]:
+        if candidate_path.exists():
+            try:
+                with open(candidate_path, "r", encoding="utf-8") as f:
+                    loaded = yaml.safe_load(f) or {}
+                    for t_id, t_info in loaded.items():
+                        curr_cnt = len(existing_schema.get(t_id, {}).get("fields", {}))
+                        new_cnt = len(t_info.get("fields", {}))
+                        if t_id not in existing_schema or new_cnt > curr_cnt:
+                            existing_schema[t_id] = t_info
+            except Exception:
+                pass
 
     tables = None
     if args.schema_cache and Path(args.schema_cache).exists():

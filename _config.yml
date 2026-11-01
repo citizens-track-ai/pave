@@ -35,20 +35,21 @@ include:
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 collections:
   cases:
     output: true
   organisations:
-    output: true
+    output: false
   participants:
-    output: true
+    output: false
   resources:
-    output: true
+    output: false
   locations:
-    output: true
+    output: false
   messages:
-    output: true
+    output: false
 
 sass:
   quiet_deps: true

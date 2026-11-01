@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+description: "Privacy policy for the Public AI Voice and Engagement (PAVE) Case Book, outlining how data submissions, research records, and analytics are managed."
 permalink: /privacy-policy/
 menus: [footer]
 ---

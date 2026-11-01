@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Get involved
+description: "Get involved with the PAVE project by submitting your participatory AI case study, collaborating with researchers, or joining governance dialogues."
 permalink: /get-involved/
 menus: [header]
 menu_order: 4

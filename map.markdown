@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Map
+description: "Interactive global map of public AI voice and participatory engagement initiatives, visualising projects and democratic deliberations worldwide."
 permalink: /map/
 menus: [header]
 menu_order: 2

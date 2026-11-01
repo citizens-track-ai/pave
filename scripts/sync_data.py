@@ -159,10 +159,65 @@ def resolve_fields(data, schema_map, current_table_id, rec_id, id_to_slug, synce
             resolved[key_name] = value
     return resolved
 
+def clean_markdown_to_plain_text(text):
+    if not text:
+        return ""
+    text = str(text)
+    # Remove markdown links [text](url) -> text
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    # Remove images ![alt](url)
+    text = re.sub(r'!\[([^\]]*)\]\([^)]+\)', '', text)
+    # Remove bold, italics, code: **, *, __, _, `
+    text = re.sub(r'[*_`#>]', '', text)
+    # Collapse multiple whitespace/newlines to single space
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+def truncate_text(text, max_length=160):
+    if not text or len(text) <= max_length:
+        return text
+    truncated = text[:max_length].rsplit(' ', 1)[0]
+    return truncated.rstrip('.,;:') + '...'
+
+def derive_case_description(data, max_length=160):
+    """
+    Extract a concise plain-text description for a case study from either
+    'describe-the-subject-matter-in-your-own-words-one' or
+    'provide-a-brief-description-of-the-project'.
+    """
+    subject = clean_markdown_to_plain_text(data.get("describe-the-subject-matter-in-your-own-words-one"))
+    if subject:
+        if len(subject) <= max_length:
+            return subject
+        truncated = subject[:max_length].rsplit(' ', 1)[0]
+        return truncated.rstrip('.,;:') + '...'
+
+    brief = clean_markdown_to_plain_text(data.get("provide-a-brief-description-of-the-project"))
+    if brief:
+        if len(brief) <= max_length:
+            return brief
+        truncated = brief[:max_length].rsplit(' ', 1)[0]
+        return truncated.rstrip('.,;:') + '...'
+
+    # Fallback to project title and theme if available
+    title = clean_markdown_to_plain_text(data.get("title") or data.get("project-title"))
+    if title:
+        theme = data.get("theme")
+        if isinstance(theme, list) and theme:
+            theme_str = f" in {clean_markdown_to_plain_text(theme[0])}"
+        elif isinstance(theme, str) and theme:
+            theme_str = f" in {clean_markdown_to_plain_text(theme)}"
+        else:
+            theme_str = ""
+        fallback = f"Case study on {title}{theme_str}, exploring public voice and participatory engagement in AI governance."
+        return truncate_text(fallback, max_length)
+
+    return None
+
 def annotate_yaml(yaml_str, field_map):
     lines = yaml_str.splitlines()
     new_lines = []
-    skip_keys = {"layout", "title", "airtable_id", "slug", "redirect_from"}
+    skip_keys = {"layout", "title", "description", "airtable_id", "slug", "redirect_from"}
     for line in lines:
         # Match "some-key:" or "  some-key:" or "- some-key:"
         match = re.search(r'^(\s*)(?:-\s+)?([a-zA-Z0-9_-]+):', line)
@@ -174,9 +229,54 @@ def annotate_yaml(yaml_str, field_map):
         new_lines.append(line)
     return "\n".join(new_lines)
 
+def update_existing_cases():
+    schema_map = load_schema_map()
+    field_slug_to_name = {}
+    for t_data in schema_map.values():
+        for f_id, f_info in t_data.get("fields", {}).items():
+            slug = f_info.get("slug")
+            if slug:
+                field_slug_to_name[slug] = f_info["name"]
+            else:
+                field_slug_to_name[f_id] = f_info["name"]
+                
+    cases_dir = Path("_cases")
+    if not cases_dir.exists():
+        print(f"Directory {cases_dir} does not exist.")
+        return
+
+    count = 0
+    for case_file in sorted(cases_dir.glob("*.md")):
+        content = case_file.read_text(encoding="utf-8")
+        if not content.startswith("---"):
+            continue
+        parts = content.split("---", 2)
+        if len(parts) < 3:
+            continue
+        fm_raw = parts[1]
+        data = yaml.safe_load(fm_raw) or {}
+        case_desc = derive_case_description(data)
+        if case_desc:
+            new_fm = {}
+            for k, v in data.items():
+                new_fm[k] = v
+                if k == "title":
+                    new_fm["description"] = case_desc
+            if "description" not in new_fm:
+                new_fm["description"] = case_desc
+            fm_yaml = yaml.dump(new_fm, sort_keys=False)
+            case_file.write_text(f"---\n{annotate_yaml(fm_yaml, field_slug_to_name)}\n---\n", encoding="utf-8")
+            count += 1
+    print(f"Updated description in {count} case files.")
+
 def main():
     # Parse command line arguments
     parser = argparse.ArgumentParser(description="Sync Airtable data to markdown files with filter options.")
+    parser.add_argument(
+        "--update-cases-only",
+        action="store_true",
+        help="Update description field in existing _cases/*.md files without contacting Airtable."
+    )
     parser.add_argument(
         "--workflow-status", 
         help="Comma-separated list of workflow status values to filter by (default: Completed). Use 'none' or '' to disable."
@@ -192,6 +292,10 @@ def main():
         help=f"Logical operator to combine filters when both are active (default: {FILTER_OPERATOR})"
     )
     args = parser.parse_args()
+
+    if args.update_cases_only:
+        update_existing_cases()
+        return
 
     # Determine workflow status values to filter by
     if args.workflow_status is not None:
@@ -368,12 +472,15 @@ def main():
             if table_name == "Cases":
                 layout = "case"
                 redirects = [f"/c/{hash_id(rec_id)}/"]
+                case_desc = derive_case_description(final_data)
             elif table_name == "Organisations":
                 layout = "organisation"
                 redirects = None
+                case_desc = None
             else:
                 layout = "generic"
                 redirects = None
+                case_desc = None
             
             front_matter = {
                 "layout": layout,
@@ -383,7 +490,11 @@ def main():
             }
             if redirects:
                 front_matter["redirect_from"] = redirects
+            if case_desc:
+                front_matter["description"] = case_desc
             front_matter.update(final_data)
+            if case_desc:
+                front_matter["description"] = case_desc
             
             file_path = config["dir"] / f"{slug}.md"
             with open(file_path, "w") as f:

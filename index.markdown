@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome to the Public AI Voice and Engagement (PAVE) Case Book
+description: "Explore the Public AI Voice and Engagement (PAVE) Case Book, cataloguing global participatory initiatives, citizen assemblies, and public voice projects shaping AI governance."
 ---
 
 {% comment %}

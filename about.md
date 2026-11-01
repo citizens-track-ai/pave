@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "Learn about the PAVE Case Book project, its mission to inform inclusive practice, amplify public voices on AI, and inspire participatory AI governance."
 permalink: /about/
 menus: [header]
 menu_order: 5

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tools
+description: "Explore interactive tools and presentations from the PAVE Case Book, designed to showcase public recommendations and citizen perspectives on AI."
 permalink: /tools/
 menus: [header]
 menu_order: 3

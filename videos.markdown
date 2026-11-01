@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Videos
+description: "Watch featured videos and multimedia resources documenting participatory AI workshops, public deliberations, and citizen perspectives."
 show_banner: false
 permalink: /videos/
 menus: []

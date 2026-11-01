@@ -1,9 +1,3 @@
-<!-- Import Leaflet Mapping Library for Case Mini Maps -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
 <article class="case-study-page page-nav-transition-container">
 
   <!-- Case Header Banner (Green background with dot pattern) -->
@@ -196,9 +190,9 @@
               <div class="gallery-scroll-track" id="gallery-track">
                 {% for photo in page.photos-and-images %}
                 {% assign img_url = photo.url | relative_url %}
-                <button class="gallery-thumb-btn" data-full="{{ img_url }}" data-caption="{{ photo.filename | escape }}"
-                  aria-label="View photo: {{ photo.filename | escape }}">
-                  <img src="{{ img_url }}" alt="{{ photo.filename | escape }}" class="gallery-thumb" loading="lazy">
+                <button class="gallery-thumb-btn" data-full="{{ img_url }}" data-caption="Photo {{ forloop.index }} from {{ page.title | escape }}"
+                  aria-label="View photo {{ forloop.index }} from {{ page.title | escape }}">
+                  <img src="{{ img_url }}" alt="Photo {{ forloop.index }} from {{ page.title | escape }}" class="gallery-thumb" loading="lazy">
                 </button>
                 {% endfor %}
               </div>
@@ -299,14 +293,14 @@
                   between {{ min_hours }} and {{ max_hours }} hours. {% endif %} {% endif %} {% endif %} </p>
                   {% endif %}
 
-                  <h3>Participant cohorts</h3>
+                  <h2>Participant cohorts</h2>
                   {% if page.participants %}
                   <div class="cohorts-list">
                     {% for slug in page.participants %}
                     {% assign item = site.participants | where: "slug", slug | first %}
                     {% if item %}
                     <div class="cohort-card">
-                      <h4>{{ item.group-description }}</h4>
+                      <h3>{{ item.group-description }}</h3>
                       <table class="cohort-table">
                         {% if item.recruitment-method %}
                         <tr>
@@ -382,7 +376,7 @@
 
                   {% if page.inclusion-efforts %}
                   <div class="inclusion-efforts-section">
-                    <h3>Inclusion efforts</h3>
+                    <h2>Inclusion efforts</h2>
                     <div class="tab-rich-content">
                       {% include case/read_more_text.html text=page.inclusion-efforts id="inclusion" %}
                     </div>
@@ -391,7 +385,7 @@
 
                   {% if page.what-limitations-to-the-project-should-be-noted %}
                   <div class="limitations-section">
-                    <h3>Learning and limitations</h3>
+                    <h2>Learning and limitations</h2>
                     <div class="tab-rich-content">
                       {% include case/read_more_text.html text=page.what-limitations-to-the-project-should-be-noted
                       id="limitations" %}
@@ -409,11 +403,11 @@
             </div>
 
             <div class="organisers-card">
-              <h3>Organisers</h3>
+              <h2>Organisers</h2>
 
               {% if page.lead-organisations %}
               <div class="org-group">
-                <h5>Led by</h5>
+                <h3>Led by</h3>
                 <ul class="org-list">
                   {% for slug in page.lead-organisations %}
                   {% assign item = site.organisations | where: "slug", slug | first %}
@@ -430,7 +424,7 @@
 
               {% if page.funding-organisations %}
               <div class="org-group">
-                <h5>Funded by</h5>
+                <h3>Funded by</h3>
                 <ul class="org-list">
                   {% for slug in page.funding-organisations %}
                   {% assign item = site.organisations | where: "slug", slug | first %}
@@ -447,7 +441,7 @@
 
               {% if page.involved-organisations %}
               <div class="org-group">
-                <h5>Also involved</h5>
+                <h3>Also involved</h3>
                 <ul class="org-list">
                   {% for slug in page.involved-organisations %}
                   {% assign item = site.organisations | where: "slug", slug | first %}
@@ -465,10 +459,10 @@
               <div class="locations-section-wrapper"
                 style="margin-top: 1.5rem; border-top: 1px solid rgba(73, 106, 64, 0.15); padding-top: 1.5rem;">
                 <div class="locations-summary-card">
-                  <h3>Locations</h3>
+                  <h2>Locations</h2>
 
                   <div class="locations-section">
-                    <h5>Participant locations</h5>
+                    <h3>Participant locations</h3>
                     <ul class="locations-bullet-list">
                       {% assign displayed_locs = "" | split: "" %}
                       {% if page.participants %}
@@ -494,7 +488,7 @@
                   </div>
 
                   <div class="locations-section" style="margin-top: 1rem;">
-                    <h5>Organiser locations</h5>
+                    <h3>Organiser locations</h3>
                     <ul class="locations-bullet-list">
                       {% assign displayed_org_locs = "" | split: "" %}
                       {% assign org_slugs = "" | split: "" %}
@@ -546,7 +540,7 @@
         <div class="tab-two-columns">
           <!-- Left Column: Key outcomes list -->
           <div class="tab-left-col">
-            <h3>Key outcomes</h3>
+            <h2>Key outcomes</h2>
 
 
 
@@ -645,7 +639,7 @@
           <!-- Right Column: Supporting Resources -->
           <div class="tab-right-col">
             <div class="resources-card">
-              <h3>Resources</h3>
+              <h2>Resources</h2>
               {% if page.supporting-resources %}
               <ul class="resources-list-items">
                 {% for slug in page.supporting-resources %}
@@ -685,7 +679,7 @@
 
       <!-- Learn More Section -->
       <div class="case-learn-more-section">
-        <h3 class="learn-more-title">Learn more</h3>
+        <h2 class="learn-more-title">Learn more</h2>
         <div class="learn-more-links">
           <button class="learn-more-btn" data-tab="tab-what">About the project</button>
           <button class="learn-more-btn" data-tab="tab-who">Who & where</button>
@@ -723,7 +717,7 @@
 
       {% if page.redirect_from %}
       <div class="case-permalink-statement">
-        <strong>Permalink:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ page.redirect_from | first }}">{{ site.url }}{{ site.baseurl }}{{ page.redirect_from | first }}</a>
+        <strong>Permalink:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ page.redirect_from | first }}" rel="nofollow">{{ site.url }}{{ site.baseurl }}{{ page.redirect_from | first }}</a>
       </div>
       {% endif %}
 

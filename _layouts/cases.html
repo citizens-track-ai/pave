@@ -93,10 +93,6 @@ layout: default
       data-goals="{{ case.project-goals | join: '||' | downcase }}"
       data-locations="{{ unique_locations | join: '||' | downcase }}">
 
-      <!-- Click overlay -->
-      <a href="{{ case.url | relative_url }}" class="card-link-wrapper"
-        aria-label="Read case study: {{ case.title | escape }}"></a>
-
       <div class="card-header-section">
         <div class="card-header-text">
           <div class="card-meta-line">
@@ -119,9 +115,9 @@ layout: default
             </span>
           </div>
 
-          <h3 class="card-title">
+          <h2 class="card-title">
             <a href="{{ case.url | relative_url }}">{{ case.title | escape }}</a>
-          </h3>
+          </h2>
         </div>
 
         {% if thumb_url %}

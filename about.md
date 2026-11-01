@@ -11,7 +11,7 @@ menu_order: 5
 
 (Please check links/resources to identify appropriate citations for individual cases.)
 
-# **Focus**
+## **Focus**
 
 In creating this case book, collating examples of AI-focussed public **voice** and **participatory engagement** activities, we have a number of goals:
 
@@ -29,7 +29,7 @@ In creating this case book, collating examples of AI-focussed public **voice** a
 
 The case book is a living project. The first release was prepared for the 2026 UN Global Dialogue on AI Governance. We are exploring ways to continue to maintain the case book in the year ahead, and continue to iterate to become a more inclusive resource, with an emphasis on places and communities that are traditionally underrepresented.
 
-# Case Book Methodology
+## Case Book Methodology
 
 The case book contains three kinds of entry:
 
@@ -50,7 +50,7 @@ In order to recognise the diversity of participatory practice around the world, 
 
 The case book does not seek to be a comprehensive dataset of all possible participatory processes, and so our curation decisions are also guided by showcasing the **geographic**, **methodological** and **thematic** diversity of participatory AI, and paying particular attention to processes that demonstrate attention on **inclusive practice**. 
 
-# Case Book Team
+## Case Book Team
 
 The first edition of the case book has been prepared by an editorial team including:
 

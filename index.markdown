@@ -2,6 +2,7 @@
 layout: page
 title: Welcome to the Public AI Voice and Engagement (PAVE) Case Book
 description: "Explore the Public AI Voice and Engagement (PAVE) Case Book, cataloguing global participatory initiatives, citizen assemblies, and public voice projects shaping AI governance."
+show_banner: false
 ---
 
 {% comment %}
@@ -360,19 +361,19 @@ description: "Explore the Public AI Voice and Engagement (PAVE) Case Book, catal
       <!-- Stats Count-up Grid -->
       <div class="stats-grid">
         <div class="stat-card" data-target="{{ total_cases }}">
-          <div class="stat-number">0</div>
+          <div class="stat-number">{{ total_cases }}</div>
           <div class="stat-label">Case Studies</div>
         </div>
         <div class="stat-card" data-target="{{ total_participants }}">
-          <div class="stat-number">0</div>
+          <div class="stat-number">{{ total_participants }}</div>
           <div class="stat-label">Total Participants</div>
         </div>
         <div class="stat-card" data-target="{{ total_hours }}">
-          <div class="stat-number">0</div>
+          <div class="stat-number">{{ total_hours }}</div>
           <div class="stat-label">Hours of input</div>
         </div>
         <div class="stat-card" data-target="{{ total_countries_count }}">
-          <div class="stat-number">0</div>
+          <div class="stat-number">{{ total_countries_count }}</div>
           <div class="stat-label">Countries</div>
         </div>
       </div>

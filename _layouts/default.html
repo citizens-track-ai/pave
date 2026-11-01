@@ -8,7 +8,7 @@
     {%- include header.html -%}
 
     {%- assign show_banner = false -%}
-    {%- if page.title and page.layout != "case" and page.layout != "cases" and page.layout != "home" and page.show_banner != false -%}
+    {%- if page.title and page.layout != "case" and page.layout != "cases" and page.layout != "home" and page.layout != "post" and page.show_banner != false -%}
       {%- assign show_banner = true -%}
     {%- endif -%}
 

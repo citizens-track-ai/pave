@@ -4,16 +4,10 @@ title: Videos
 description: "Watch featured videos and multimedia resources documenting participatory AI workshops, public deliberations, and citizen perspectives."
 show_banner: false
 permalink: /videos/
+leaflet: true
+qrcode: true
 menus: []
 ---
-
-<!-- Import Modern Premium Fonts and Libraries -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 
 <div class="video-playlist-layout">
   
@@ -127,12 +121,12 @@ menus: []
 
       <!-- Featured Section -->
       <div class="video-grid-category">
-        <h3 class="category-title featured-header">
+        <h2 class="category-title featured-header">
           <svg viewBox="0 0 24 24" fill="currentColor" class="star-icon">
             <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
           </svg>
           Featured Videos
-        </h3>
+        </h2>
         <div class="video-grid" id="featured-grid">
           {% for res in site.resources %}
             {% if res.select == "Video" and res.featured-video-resource == true %}
@@ -144,7 +138,7 @@ menus: []
 
       <!-- Others Section -->
       <div class="video-grid-category">
-        <h3 class="category-title">Other Videos</h3>
+        <h2 class="category-title">Other Videos</h2>
         <div class="video-grid" id="others-grid">
           {% for res in site.resources %}
             {% if res.select == "Video" and res.featured-video-resource != true %}

@@ -62,7 +62,7 @@
           {% assign item = site.participants | where: "slug", slug | first %}
           {% if item %}
           <div class="print-cohort-entry">
-            <h4 class="print-cohort-name">{{ item.group-description }}</h4>
+            <h3 class="print-cohort-name">{{ item.group-description }}</h3>
             <p class="print-cohort-details">
               {% if item.how-many-people-took-part %}<strong>Group size:</strong> {{ item.how-many-people-took-part }}
               people.{% endif %}
@@ -179,7 +179,7 @@
       {% for photo in page.photos-and-images limit: 3 %}
       {% assign img_url = photo.url | relative_url %}
       <div class="print-photo-wrapper">
-        <img src="{{ img_url }}" alt="{{ photo.filename | escape }}" class="print-photo" />
+        <img src="{{ img_url }}" alt="Photo {{ forloop.index }} from {{ page.title | escape }}" class="print-photo" />
       </div>
       {% endfor %}
     </div>

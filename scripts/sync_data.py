@@ -50,9 +50,28 @@ FILTER_CURATION_DECISION_VALUES = ["Featured Full Case", "Full Case", "Mapping E
 # Logical operator to combine filters when both are active: "AND" or "OR"
 FILTER_OPERATOR = "AND"
 
-def slugify(text):
-    text = str(text).lower()
+try:
+    import anyascii
+    def transliterate(text):
+        return anyascii.anyascii(str(text or ""))
+except ImportError:
+    import unicodedata
+    def transliterate(text):
+        return unicodedata.normalize('NFKD', str(text or "")).encode('ascii', 'ignore').decode('utf-8')
+
+def raw_slugify(text):
+    """Generate slug without transliteration to preserve original characters for redirects."""
+    text = str(text or "").lower()
     text = re.sub(r'[^\w\s-]', '', text)
+    text = re.sub(r'[\s_-]+', '-', text)
+    text = text.strip('-')
+    return text[:100].rstrip('-')
+
+def slugify(text):
+    """Generate universal transliterated ASCII slug."""
+    text = transliterate(str(text or ""))
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
     text = re.sub(r'[\s_-]+', '-', text)
     text = text.strip('-')
     return text[:100].rstrip('-')
@@ -472,6 +491,23 @@ def main():
             if table_name == "Cases":
                 layout = "case"
                 redirects = [f"/c/{hash_id(rec_id)}/"]
+                raw_slug = raw_slugify(title)
+                if raw_slug and raw_slug != slug:
+                    quoted = urllib.parse.quote(raw_slug)
+                    candidate_redirects = [
+                        f"/cases/{raw_slug}.html",
+                        f"/cases/{raw_slug}/",
+                        f"/cases/{raw_slug}",
+                    ]
+                    if quoted != raw_slug:
+                        candidate_redirects.extend([
+                            f"/cases/{quoted}.html",
+                            f"/cases/{quoted}/",
+                            f"/cases/{quoted}",
+                        ])
+                    for r_path in candidate_redirects:
+                        if r_path not in redirects:
+                            redirects.append(r_path)
                 case_desc = derive_case_description(final_data)
             elif table_name == "Organisations":
                 layout = "organisation"

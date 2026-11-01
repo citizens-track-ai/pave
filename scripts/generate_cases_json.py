@@ -2,11 +2,14 @@
 import os
 import yaml
 import json
-import pycountry_convert as pc
+try:
+    import pycountry_convert as pc
+except ImportError:
+    pc = None
 from pathlib import Path
 
 # Paths
-BASE_DIR = Path("/Users/admin/Documents/ConnectedByData/CitizensTrack/PAVE")
+BASE_DIR = Path(__file__).resolve().parent.parent
 CASES_DIR = BASE_DIR / "_cases"
 PARTICIPANTS_DIR = BASE_DIR / "_participants"
 LOCATIONS_DIR = BASE_DIR / "_locations"
@@ -41,7 +44,7 @@ def clean_float(val):
         return 0.0
 
 def get_continent(country_code):
-    if not country_code:
+    if not country_code or not pc:
         return None
     code_upper = str(country_code).upper().strip()
     try:

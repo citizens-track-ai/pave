@@ -27,6 +27,28 @@ COUNTRY_CODE_FIELD_ID = "fldy0zqeilb2NSEOB"
 LATITUDE_FIELD_ID = "fldWtvMukYmq1IuWq"
 LONGITUDE_FIELD_ID = "fldCdYZ8Ay6f6ulq1"
 
+# Conceptual, global, or non-geographic locations that should not be assigned map coordinates
+IGNORED_LOCATIONS = {
+    "global",
+    "worldwide",
+    "international",
+    "online",
+    "various",
+    "remote",
+    "virtual",
+    "n/a",
+    "none",
+}
+
+# Aliases to map abbreviated or informal place names to queries Nominatim understands
+LOCATION_ALIASES = {
+    "antigua & deps": "Antigua and Barbuda",
+    "antigua and deps": "Antigua and Barbuda",
+    "usa": "United States",
+    "uk": "United Kingdom",
+    "uae": "United Arab Emirates",
+}
+
 headers = {
     'User-Agent': 'PAVE-Airtable-Geocoder/1.0 (connectedbydata.org)'
 }
@@ -95,9 +117,20 @@ def main():
     for idx, r in enumerate(missing_records):
         rec_id = r["id"]
         name = r["name"]
-        
+        clean_name = name.strip().lower()
+
+        # Skip conceptual / non-geographic scopes
+        if clean_name in IGNORED_LOCATIONS:
+            print(f"  Skipping non-geographic/conceptual location '{name}'.")
+            continue
+
+        # Check for name aliases
+        query_name = LOCATION_ALIASES.get(clean_name, name)
+        if query_name != name:
+            print(f"  Using alias '{query_name}' for '{name}'...")
+
         # Geocode the location
-        geocoded = geocode_location(name)
+        geocoded = geocode_location(query_name)
         if geocoded:
             lat, lng, country_code = geocoded
             

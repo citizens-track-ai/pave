@@ -135,7 +135,7 @@ menus: []
         <div class="video-grid" id="featured-grid">
           {% for res in site.resources %}
             {% if res.select == "Video" and res.featured-video-resource == true %}
-              {% include_relative video_card_template.html res=res %}
+              {% include video_card_template.html res=res %}
             {% endif %}
           {% endfor %}
         </div>
@@ -147,7 +147,7 @@ menus: []
         <div class="video-grid" id="others-grid">
           {% for res in site.resources %}
             {% if res.select == "Video" and res.featured-video-resource != true %}
-              {% include_relative video_card_template.html res=res %}
+              {% include video_card_template.html res=res %}
             {% endif %}
           {% endfor %}
         </div>

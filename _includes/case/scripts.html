@@ -1,7 +1,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     // 1. Tab Swapping Logic
-    const tabButtons = document.querySelectorAll('.tab-btn');
+    const tabButtons = document.querySelectorAll('button.tab-btn[data-target]');
     const contentPanels = document.querySelectorAll('.tab-content-panel');
 
     tabButtons.forEach(button => {
@@ -37,71 +37,7 @@
 
     // 3. Mini Map Loader
     var mapMarkers = [
-      // Lead Organisations
-      {% if page['lead-organisations'] %}
-        {% for org_slug in page['lead-organisations'] %}
-  {% assign org = site.organisations | where: "slug", org_slug | first %}
-  {% if org and org['main-location'] %}
-  {% for loc_slug in org['main-location'] %}
-  {% assign loc = site.locations | where: "slug", loc_slug | first %}
-  {% if loc and loc.latitude and loc.longitude %}
-  {
-    lat: parseFloat("{{ loc.latitude }}"),
-    lng: parseFloat("{{ loc.longitude }}"),
-    title: "{{ org.title | escape }} (Lead)",
-      color: "#496a40",
-        radius: 7,
-          weight: 2
-  },
-  {% endif %}
-  {% endfor %}
-  {% endif %}
-  {% endfor %}
-  {% endif %}
-
-  // Involved Organisations
-  {% if page['involved-organisations'] %}
-  {% for org_slug in page['involved-organisations'] %}
-  {% assign org = site.organisations | where: "slug", org_slug | first %}
-  {% if org and org['main-location'] %}
-  {% for loc_slug in org['main-location'] %}
-  {% assign loc = site.locations | where: "slug", loc_slug | first %}
-  {% if loc and loc.latitude and loc.longitude %}
-  {
-    lat: parseFloat("{{ loc.latitude }}"),
-    lng: parseFloat("{{ loc.longitude }}"),
-    title: "{{ org.title | escape }} (Involved)",
-      color: "#8fa68b",
-        radius: 4.5,
-          weight: 1.5
-  },
-  {% endif %}
-  {% endfor %}
-  {% endif %}
-  {% endfor %}
-  {% endif %}
-
-  // Participants
-  {% if page.participants %}
-  {% for part_slug in page.participants %}
-  {% assign part = site.participants | where: "slug", part_slug | first %}
-  {% if part and part.locations %}
-  {% for loc_slug in part.locations %}
-  {% assign loc = site.locations | where: "slug", loc_slug | first %}
-  {% if loc and loc.latitude and loc.longitude %}
-  {
-    lat: parseFloat("{{ loc.latitude }}"),
-    lng: parseFloat("{{ loc.longitude }}"),
-    title: "{{ part.title | escape }} (Participants)",
-      color: "#e67e22",
-        radius: 5.5,
-          weight: 1.5
-  },
-  {% endif %}
-  {% endfor %}
-  {% endif %}
-  {% endfor %}
-  {% endif %}
+      {% include case/map_markers.js %}
     ];
 
   const mapContainer = document.getElementById('case-mini-map');
@@ -142,44 +78,7 @@
     mapContainer.parentElement.innerHTML = "<div class='locations-summary-card' style='height: 100%; display: flex; align-items: center; justify-content: center; color: #7a9476; font-style: italic;'>No map data available for this case.</div>";
   }
 
-  // Initialize Printable Mini Map
-  const printMapContainer = document.getElementById('print-mini-map');
-  if (printMapContainer && mapMarkers.length > 0) {
-    window.printMiniMap = L.map('print-mini-map', {
-      zoomControl: false,
-      attributionControl: false,
-      dragging: false,
-      scrollWheelZoom: false,
-      doubleClickZoom: false,
-      boxZoom: false,
-      keyboard: false
-    }).setView([20, 0], 2);
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_4qtr_1_72e49fe987375b3637f246b7', {
-      maxZoom: 20
-    }).addTo(window.printMiniMap);
-
-    window.printMapBounds = L.latLngBounds();
-
-    mapMarkers.forEach(function (m) {
-      L.circleMarker([m.lat, m.lng], {
-        radius: Math.max(3, m.radius - 1.5),
-        fillColor: m.color,
-        color: "#ffffff",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.85
-      }).addTo(window.printMiniMap);
-      window.printMapBounds.extend([m.lat, m.lng]);
-    });
-
-    setTimeout(function () {
-      window.printMiniMap.invalidateSize();
-      window.printMiniMap.fitBounds(window.printMapBounds, { padding: [10, 10], maxZoom: 10 });
-    }, 250);
-  } else if (printMapContainer) {
-    printMapContainer.style.display = 'none';
-  }
   // 4. Gallery scroll & lightbox
   const galleryTrack = document.getElementById('gallery-track');
   const galleryPrev = document.getElementById('gallery-prev');
@@ -276,109 +175,7 @@
     });
   });
 
-  // 7. Print Draft Preview Logic
-  const triggerPrintBtn = document.getElementById('trigger-print-preview-btn');
-  const closePrintBtn = document.getElementById('print-cancel-btn');
-  const printNowBtn = document.getElementById('print-now-btn');
-  const fontIncreaseBtn = document.getElementById('print-font-increase');
-  const fontDecreaseBtn = document.getElementById('print-font-decrease');
-  const printContainer = document.getElementById('print-draft-container');
-
-  const overflowPairs = [
-    { box: 'print-box-what', indicator: 'print-box-what-more' },
-    { box: 'print-box-inclusion', indicator: 'print-box-inclusion-more' },
-    { box: 'print-box-limitations', indicator: 'print-box-limitations-more' }
-  ];
-
-  function checkOverflow(boxId, indicatorId) {
-    const box = document.getElementById(boxId);
-    const indicator = document.getElementById(indicatorId);
-    if (box && indicator) {
-      const isOverflowing = box.scrollHeight > box.clientHeight + 2;
-      if (isOverflowing) {
-        indicator.classList.add('visible');
-      } else {
-        indicator.classList.remove('visible');
-      }
-    }
-  }
-
-  // Define global check runner so print resize triggers can access it
-  window.runAllOverflowChecks = function () {
-    overflowPairs.forEach(p => checkOverflow(p.box, p.indicator));
-  };
-
-  function initOverflowCheckers() {
-    overflowPairs.forEach(p => {
-      const boxEl = document.getElementById(p.box);
-      if (boxEl) {
-        checkOverflow(p.box, p.indicator);
-        boxEl.addEventListener('input', () => checkOverflow(p.box, p.indicator));
-        boxEl.addEventListener('keyup', () => checkOverflow(p.box, p.indicator));
-        boxEl.addEventListener('mouseup', () => checkOverflow(p.box, p.indicator));
-        boxEl.addEventListener('blur', () => checkOverflow(p.box, p.indicator));
-        boxEl.addEventListener('paste', () => {
-          setTimeout(() => checkOverflow(p.box, p.indicator), 50);
-        });
-      }
-    });
-  }
-
-  if (triggerPrintBtn) {
-    triggerPrintBtn.addEventListener('click', function () {
-      const qrImg = document.getElementById('print-qr-code-img');
-      if (qrImg && (!qrImg.getAttribute('src') || qrImg.getAttribute('src') === '')) {
-        const pageUrl = qrImg.getAttribute('data-url') || window.location.href;
-        qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(pageUrl)}`;
-      }
-      document.body.classList.add('print-mode-active');
-      window.scrollTo(0, 0);
-
-      // Resize the print mini-map once container is visible
-      if (window.printMiniMap && window.printMapBounds) {
-        setTimeout(function () {
-          window.printMiniMap.invalidateSize();
-          window.printMiniMap.fitBounds(window.printMapBounds, { padding: [10, 10], maxZoom: 10 });
-        }, 100);
-      }
-
-      // Initialize overflow checkers once containers are visible
-      setTimeout(function () {
-        initOverflowCheckers();
-      }, 150);
-    });
-  }
-
-  if (closePrintBtn) {
-    closePrintBtn.addEventListener('click', function () {
-      document.body.classList.remove('print-mode-active');
-    });
-  }
-
-  if (printNowBtn) {
-    printNowBtn.addEventListener('click', function () {
-      window.print();
-    });
-  }
-
-  let printBaseSizeVal = 10.0;
-  if (fontIncreaseBtn && printContainer) {
-    fontIncreaseBtn.addEventListener('click', function () {
-      printBaseSizeVal += 0.5;
-      printContainer.style.setProperty('--print-base-size', `${printBaseSizeVal}pt`);
-      setTimeout(window.runAllOverflowChecks, 50);
-    });
-  }
-
-  if (fontDecreaseBtn && printContainer) {
-    fontDecreaseBtn.addEventListener('click', function () {
-      printBaseSizeVal -= 0.5;
-      printContainer.style.setProperty('--print-base-size', `${printBaseSizeVal}pt`);
-      setTimeout(window.runAllOverflowChecks, 50);
-    });
-  }
-
-  // 8. Read More Toggle Logic
+  // 7. Read More Toggle Logic
   const readMoreTriggers = document.querySelectorAll('.read-more-trigger');
   readMoreTriggers.forEach(trigger => {
     trigger.addEventListener('click', function () {

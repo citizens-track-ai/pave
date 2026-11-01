@@ -1,0 +1,127 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // 1. Initialize Map Markers
+    var mapMarkers = [
+      {% include case/map_markers.js %}
+    ];
+
+    // 2. Initialize Printable Mini Map
+    const printMapContainer = document.getElementById('print-mini-map');
+    if (printMapContainer && mapMarkers.length > 0) {
+      window.printMiniMap = L.map('print-mini-map', {
+        zoomControl: false,
+        attributionControl: false,
+        scrollWheelZoom: false,
+        dragging: false,
+        touchZoom: false,
+        doubleClickZoom: false,
+        boxZoom: false,
+        keyboard: false
+      }).setView([20, 0], 2);
+
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_4qtr_1_72e49fe987375b3637f246b7', {
+        maxZoom: 20
+      }).addTo(window.printMiniMap);
+
+      window.printMapBounds = L.latLngBounds();
+
+      mapMarkers.forEach(function (m) {
+        L.circleMarker([m.lat, m.lng], {
+          radius: m.radius * 0.85,
+          fillColor: m.color,
+          color: "#ffffff",
+          weight: m.weight,
+          opacity: 1,
+          fillOpacity: 0.85
+        }).addTo(window.printMiniMap);
+        window.printMapBounds.extend([m.lat, m.lng]);
+      });
+
+      setTimeout(function () {
+        window.printMiniMap.invalidateSize();
+        window.printMiniMap.fitBounds(window.printMapBounds, { padding: [10, 10], maxZoom: 10 });
+      }, 150);
+    } else if (printMapContainer) {
+      printMapContainer.style.display = 'none';
+    }
+
+    // 3. Initialize QR Code pointing to digital case study
+    const qrImg = document.getElementById('print-qr-code-img');
+    if (qrImg) {
+      const pageUrl = qrImg.getAttribute('data-url') || window.location.href.replace('-print.html', '.html');
+      qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${encodeURIComponent(pageUrl)}`;
+    }
+
+    // 4. Print Controls & Overflow Checks
+    const printNowBtn = document.getElementById('print-now-btn');
+    const fontIncreaseBtn = document.getElementById('print-font-increase');
+    const fontDecreaseBtn = document.getElementById('print-font-decrease');
+    const printContainer = document.getElementById('print-draft-container');
+
+    const overflowPairs = [
+      { box: 'print-box-what', indicator: 'print-box-what-more' },
+      { box: 'print-box-inclusion', indicator: 'print-box-inclusion-more' },
+      { box: 'print-box-limitations', indicator: 'print-box-limitations-more' }
+    ];
+
+    function checkOverflow(boxId, indicatorId) {
+      const box = document.getElementById(boxId);
+      const indicator = document.getElementById(indicatorId);
+      if (box && indicator) {
+        const isOverflowing = box.scrollHeight > box.clientHeight + 2;
+        if (isOverflowing) {
+          indicator.classList.add('visible');
+        } else {
+          indicator.classList.remove('visible');
+        }
+      }
+    }
+
+    window.runAllOverflowChecks = function () {
+      overflowPairs.forEach(p => checkOverflow(p.box, p.indicator));
+    };
+
+    function initOverflowCheckers() {
+      overflowPairs.forEach(p => {
+        const boxEl = document.getElementById(p.box);
+        if (boxEl) {
+          checkOverflow(p.box, p.indicator);
+          boxEl.addEventListener('input', () => checkOverflow(p.box, p.indicator));
+          boxEl.addEventListener('keyup', () => checkOverflow(p.box, p.indicator));
+          boxEl.addEventListener('mouseup', () => checkOverflow(p.box, p.indicator));
+          boxEl.addEventListener('blur', () => checkOverflow(p.box, p.indicator));
+          boxEl.addEventListener('paste', () => {
+            setTimeout(() => checkOverflow(p.box, p.indicator), 50);
+          });
+        }
+      });
+    }
+
+    setTimeout(function () {
+      initOverflowCheckers();
+    }, 150);
+
+    if (printNowBtn) {
+      printNowBtn.addEventListener('click', function () {
+        window.print();
+      });
+    }
+
+    let printBaseSizeVal = 10.0;
+    if (fontIncreaseBtn && printContainer) {
+      fontIncreaseBtn.addEventListener('click', function () {
+        printBaseSizeVal += 0.5;
+        printContainer.style.setProperty('--print-base-size', `${printBaseSizeVal}pt`);
+        setTimeout(window.runAllOverflowChecks, 50);
+      });
+    }
+
+    if (fontDecreaseBtn && printContainer) {
+      fontDecreaseBtn.addEventListener('click', function () {
+        printBaseSizeVal -= 0.5;
+        printContainer.style.setProperty('--print-base-size', `${printBaseSizeVal}pt`);
+        setTimeout(window.runAllOverflowChecks, 50);
+      });
+    }
+  });
+</script>

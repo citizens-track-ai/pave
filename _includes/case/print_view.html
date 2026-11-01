@@ -5,7 +5,7 @@
     <button id="print-now-btn" class="print-ctrl-btn btn-primary-print">Print Draft</button>
     <button id="print-font-increase" class="print-ctrl-btn btn-sec-print">A+</button>
     <button id="print-font-decrease" class="print-ctrl-btn btn-sec-print">A-</button>
-    <button id="print-cancel-btn" class="print-ctrl-btn btn-danger-print">Close Preview</button>
+    <a href="{{ page.canonical_url | default: page.url | replace: '-print.html', '.html' | relative_url }}" id="print-cancel-btn" class="print-ctrl-btn btn-danger-print" style="text-decoration:none;">Back to Case</a>
   </div>
 </div>
 
@@ -29,7 +29,7 @@
         {% endif %}
       </div>
       <div class="print-qr-code-box">
-        <img id="print-qr-code-img" src="" data-url="{{ page.url | absolute_url }}"
+        <img id="print-qr-code-img" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E" data-url="{{ site.url }}{{ page.canonical_url | default: page.url | replace: '-print.html', '.html' }}"
           alt="QR Code Link to Digital Case Study" />
         <span class="print-qr-label">Scan to view digital case</span>
       </div>
@@ -273,12 +273,3 @@
 
 </div>
 
-<!-- Lightbox Overlay -->
-<div class="lightbox-overlay" id="lightbox" role="dialog" aria-modal="true" aria-label="Image lightbox"
-  style="display:none;">
-  <button class="lightbox-close" id="lightbox-close" aria-label="Close lightbox">✕</button>
-  <div class="lightbox-content">
-    <img src="" alt="" id="lightbox-img" class="lightbox-img">
-    <p class="lightbox-caption" id="lightbox-caption"></p>
-  </div>
-</div>

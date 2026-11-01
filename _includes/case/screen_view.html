@@ -22,10 +22,10 @@
         <button class="tab-btn active" role="tab" aria-selected="true" data-target="tab-what">What</button>
         <button class="tab-btn" role="tab" aria-selected="false" data-target="tab-who">Who & where</button>
         <button class="tab-btn" role="tab" aria-selected="false" data-target="tab-outcomes">Resources and recommendations</button>
-        <button id="trigger-print-preview-btn" class="tab-btn print-trigger-tab-btn"
-          style="background-color: #496a40; margin-left: auto; border-radius: 12px 12px 0 0;">
+        <a href="{{ page.url | replace: '.html', '-print.html' | relative_url }}" class="print-draft-link"
+          target="_blank" rel="noopener">
           📄 Print Draft
-        </button>
+        </a>
       </div>
     </div>
   </header>
@@ -730,3 +730,13 @@
     </div>
   </div>
 </article>
+
+<!-- Lightbox Overlay for Image Gallery -->
+<div class="lightbox-overlay" id="lightbox" role="dialog" aria-modal="true" aria-label="Image lightbox"
+  style="display:none;">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Close lightbox">✕</button>
+  <div class="lightbox-content">
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E" alt="" id="lightbox-img" class="lightbox-img">
+    <p class="lightbox-caption" id="lightbox-caption"></p>
+  </div>
+</div>

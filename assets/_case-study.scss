@@ -105,6 +105,36 @@
     box-shadow: none;
   }
 
+  .print-draft-link {
+    background-color: #496a40;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border: none;
+    border-radius: 12px 12px 0 0;
+    padding: 0.85rem 2rem;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: inset 0 -2px 5px rgba(0, 0, 0, 0.05);
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+
+    &:hover,
+    &:focus {
+      background-color: #375030;
+      color: #ffffff !important;
+      text-decoration: none !important;
+    }
+
+    &:visited {
+      color: #ffffff !important;
+    }
+  }
+
   /* Content Panel Box - Breakout full-width */
   .tab-contents-container {
     background-color: #ffffff;

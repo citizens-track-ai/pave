@@ -5,5 +5,7 @@ sitemap: false
 User-agent: *
 Disallow: /messages/run/
 Disallow: /c/
+Disallow: /cases/*-print.html
+Disallow: /*-print.html
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}

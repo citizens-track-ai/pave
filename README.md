@@ -2,7 +2,7 @@
 
 The **Participatory AI Casebook (PAVE)** documents global participatory approaches to artificial intelligence governance, research, and deployment.
 
-- **Live Site**: [https://pave.pairs.site](https://pave.pairs.site)
+- **Live Site**: [https://pavecasebook.org](https://pave.pairs.site)
 - **CDN Media**: [https://cdn.pavecasebook.org](https://cdn.pavecasebook.org)
 
 ---

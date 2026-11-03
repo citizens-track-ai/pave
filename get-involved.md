@@ -183,8 +183,25 @@ menu_order: 4
     </div>
   </div>
 
-  <!-- Card 2: Explore participatory AI with PAIRS -->
+
+  <!-- Card 4: Contribute case studies -->
   <div class="involved-card">
+    <div>
+      <div class="involved-card-header">
+        <h2>Contribute Case Studies</h2>
+      </div>
+      <p>Have you been involved in running a participatory process focussed on AI?</p>
+      <p>We're crowdsourcing new submissions to the case book, and expanding existing entries. Tell us about a new case by filling in the submission form, or get in touch if you can add detail to an existing case.</p>
+    </div>
+    <div class="involved-btn-group">
+      <a href="https://form.pavecasebook.org" target="_blank" class="involved-btn-link">Submit a case study</a>
+      <a href="mailto:pave@pairs.site" class="involved-btn-link involved-btn-secondary">Get in touch via email</a>
+    </div>
+  </div>
+</div>
+
+ <!-- Card 4: Explore participatory AI with PAIRS -->
+<div class="involved-card">
     <div>
       <div class="involved-card-header">
         <h2>Explore with PAIRS</h2>
@@ -198,6 +215,7 @@ menu_order: 4
       <a href="https://site.us18.list-manage.com/subscribe?u=b32e89a4c494679851cd59767&id=bb85bf6e23" target="_blank" class="involved-btn-link involved-btn-secondary">Sign-up to the mailing list</a>
     </div>
   </div>
+
 
   <!-- Card 3: Organise a community assembly -->
   <div class="involved-card">
@@ -215,20 +233,4 @@ menu_order: 4
       <a href="https://assemblis.org/" target="_blank" class="involved-btn-link involved-btn-secondary">Register on Assemblis</a>
     </div>
   </div>
-
-  <!-- Card 4: Contribute case studies -->
-  <div class="involved-card">
-    <div>
-      <div class="involved-card-header">
-        <h2>Contribute Case Studies</h2>
-      </div>
-      <p>Have you been involved in running a participatory process focussed on AI?</p>
-      <p>We're crowdsourcing new submissions to the case book, and expanding existing entries. Tell us about a new case by filling in the submission form, or get in touch if you can add detail to an existing case.</p>
-    </div>
-    <div class="involved-btn-group">
-      <a href="https://forms.fillout.com/t/u7vQQNPRhpus" target="_blank" class="involved-btn-link">Submit a case study</a>
-      <a href="mailto:pave@pairs.site" class="involved-btn-link involved-btn-secondary">Get in touch via email</a>
-    </div>
-  </div>
-</div>
 

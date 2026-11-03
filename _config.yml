@@ -23,7 +23,7 @@ email: pairs@pairs.site
 description: >- # this means to ignore newlines until "baseurl:"
   Towards a Citizens Track on AI Governance
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pave.pairs.site" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.pavecasebook.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 cartodb_api_key: "cb1_4qtr_1_72e49fe987375b3637f246b7"

@@ -59,7 +59,7 @@ R2_ACCOUNT_ID = os.getenv("R2_ACCOUNT_ID") or os.getenv("CLOUDFLARE_ACCOUNT_ID")
 R2_ACCESS_KEY_ID = os.getenv("R2_ACCESS_KEY_ID") or os.getenv("AWS_ACCESS_KEY_ID")
 R2_SECRET_ACCESS_KEY = os.getenv("R2_SECRET_ACCESS_KEY") or os.getenv("AWS_SECRET_ACCESS_KEY")
 R2_BUCKET_NAME = os.getenv("R2_BUCKET_NAME")
-R2_PUBLIC_URL = os.getenv("R2_PUBLIC_URL")  # e.g. https://media.pave.pairs.site or https://cdn.pairs.site
+R2_PUBLIC_URL = os.getenv("R2_PUBLIC_URL")  # e.g. https://cdn.pavecasebook.org
 R2_JURISDICTION = os.getenv("R2_JURISDICTION", "").strip().lower()
 R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
 R2_PREFIX = os.getenv("R2_PREFIX", "attachments").strip("/")
@@ -662,7 +662,7 @@ def main():
     parser.add_argument("--local-attachments", action="store_true", help="Store attachments locally in assets/attachments/ instead of Cloudflare R2")
     parser.add_argument("--r2-bucket", help="Override R2 bucket name")
     parser.add_argument("--r2-jurisdiction", choices=["eu", "fedramp", "default"], help="Cloudflare R2 jurisdiction (e.g. eu)")
-    parser.add_argument("--r2-public-url", help="Override R2 public URL (e.g. https://media.pave.pairs.site)")
+    parser.add_argument("--r2-public-url", help="Override R2 public URL (e.g. https://cdn.pavecasebook.org)")
     parser.add_argument("--upload-existing-attachments", action="store_true", help="Migrate all existing files from assets/attachments/ to Cloudflare R2")
     args = parser.parse_args()
 

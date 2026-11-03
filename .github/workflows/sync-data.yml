@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   sync:
+    if: false
     runs-on: ubuntu-latest
     environment: Actions  
     env:

@@ -2,6 +2,10 @@
 layout: null
 sitemap: false
 ---
+{% if jekyll.environment == "staging" -%}
+User-agent: *
+Disallow: /
+{% else -%}
 User-agent: *
 Disallow: /messages/run/
 Disallow: /c/
@@ -9,3 +13,4 @@ Disallow: /cases/*-print.html
 Disallow: /*-print.html
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}
+{% endif -%}

@@ -33,7 +33,7 @@ jobs:
           bundle exec jekyll build
           rm -f _site/.htaccess
         env:
-          JEKYLL_ENV: production
+          JEKYLL_ENV: staging
 
       - name: Setup SSH Key
         env:

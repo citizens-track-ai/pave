@@ -1,0 +1,744 @@
+{
+  "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India",
+    "airtable_id": "9b2387f71c689d2a",
+    "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india",
+    "redirect_from": [
+      "/c/9b2387f71c689d2a/"
+    ],
+    "lead-organisations": [
+      "digital-futures-lab"
+    ],
+    "provide-a-brief-description-of-the-project": "'Human in the Loop' is a participatory foresight and storytelling public engagement project examining the near-future risks and unintended consequences of Generative AI (Gen AI) in India. \n\nIn 2024, much of the discourse on Gen AI governance often overlooked the longer-term societal consequences of technological and policy choices. ‘Human in the Loop’ sought to bridge this gap by exploring plausible futures and encouraging reflection on the futures society should actively pursue.\n\nForesight entails a set of methods that allow for a structured way of thinking through the opportunities and challenges with current trends and phenomena and the impacts of these over the long term. Based on the research question, ‘What are the likely unintended impacts of Gen AI in critical social sectors in India?’ Digital Futures Lab (DFL) identified 40+ signals of change from news articles, social media, and research papers. We extrapolated what these signals indicated about our future when viewed in combination rather than in tandem. \n\nThe second part of our foresight process was undertaken as a collective exercise with our expert network for the project. Using the most relevant signals from the database, we convened  a larger group of practitioners from India’s social impact sector, research, and tech4good spaces to use a structured consequence-mapping process to map the potential first-, second- and third-order consequences of a Gen AI use case in a given sector. We divided them into smaller groups and assigned each group a sector and a potential Gen AI use case, indicating future prevalence. This structured approach helped us logically connect short-term technological developments to their broader long-term societal impacts across sectors such as healthcare, the judiciary, and local governance. It also helped surface anomalous or serendipitous risks and opportunities that formed the foundation of stories built out in ‘Human in the Loop’.\n\nTo broaden participation beyond expert communities, we issued an open call for stories, inviting public reflections on how Gen AI might shape everyday life. We received 38 submissions and shortlisted 14 that can be read on the project’s microsite. 2 submissions from our open call were fleshed out into stories that made it into our larger anthology.\n\nWe chose illustrative storytelling, not as a fancy flourish, but as a necessary reframe. Stories bring nuance in an engaging, tangible way that traditional policy reports and long white papers might not, for various audiences. We worked closely with artists from Quicksand Design Studio for each story, to ensure that the provocations and insights from our research portrayed the technologies’ tipping points and resolutions. \n\nThe final result: a six-story speculative fiction anthology covering the near-future consequences of Gen AI on agriculture, judiciary, healthcare, interpersonal relationships, cultural production and the environment. \n\nThe project was disseminated through a public engagement strategy that combined online publication, exhibitions, panel discussions and conference presentations. We conducted a virtual panel series open to the public and showcased at events in India, including FOSS United 2025, Manotsava (India’s largest mental health festival) and Agami’s Justicemakers’ Mela (a gathering of justice changemakers in India), engaging audiences ranging from students and educators to technologists, artists and legal practitioners. We were also shortlisted for Global Gathering 2025 and RightsCon 2026. \n\nIn an age when technology is evolving faster than our ethical, social, and ecological frameworks can keep pace, 'Human in the Loop' offers a means to explore its potential societal implications and trade-offs. The project aimed to foster public imagination and dialogue around futures that centre human dignity, planetary stewardship and equitable technological progress.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "Complete",
+    "headline-findings": "1. 'Human in the Loop' demonstrates that both experts (foresight workshop) and the larger public (open call) share a similar set of concerns about the trajectory of AI innovation and its potential consequences. The overarching sense is that 'business as usual' scenarios for AI innovation, development and deployment will not work for society at large. Approaches to AI evaluations and research on societal impacts, therefore, need to look beyond the benefits and harms of specific applications at an individual level and expand to include strategic and inclusive second- and third-order thinking around unintended consequences.\n\n1. Question what AI optimises for: Efficiency and profit maximisation are not neutral goals. They promote specific outcomes such as profits, while marginalising others, such as diversity. We must be explicit about whose values agentic AI systems are built to serve and which values should remain under human oversight. In addition to questioning what AI optimises for, it is essential to note that not every decision needs to be optimised. Some areas of life benefit from inefficiency, variation, creativity and human judgment.\n\n1. Features of AI tools must be built collaboratively with the relevant end-users. Without efforts to engage with them, top-down technology design and development processes are likely to be ineffective and may even contribute to new harms and risks.\n\n1. Test and monitor the impact of GenAI tools early, continuously and widely. AI interventions should be piloted and validated in real-world settings, with built-in mechanisms for continuous evaluation and regular updates, especially when used at scale. \n\n1. Technologies built to reduce friction can deepen dependency — at a cost: many companion AI products today are designed with commercial incentives to retain users, not necessarily to help them move toward autonomy or healthier relationships. When systems are built to optimise for seamless engagement and happiness, they risk stripping away the small frictions and challenges that help people develop healthy habits, resilience, and interpersonal skills. Instead, they can keep users locked in cycles of passive or active dependency. The success of this kind of technology should be measured not by how much time users spend with a tool but, instead, by how well the tool aids them in (re)connecting with people, themselves and their environments offline. \n\n1. Guardrails and transparency are non-negotiable when technology mediates care, i.e. in companion AI. Friction should be added deliberately, such as prompts that pause long, intense conversations or encourage reaching out to trusted people. At a systemic level, third-party oversight bodies should be established to audit these systems, and governments must regulate companion AI like other sensitive health technologies — including age-appropriate defaults, emergency handoff pathways, and independent safety reviews before deployment at scale.\n\n1. Evaluate the trajectory of AI innovation, weighing the environmental impacts of relentless AI development and upkeep. This means taking into consideration the material realities of data and AI infrastructures, particularly their effects on surrounding human communities and species. It also means re-examining the ‘luxury’ of seamlessness and convenience that Gen AI will make possible, and perhaps relinquishing the hold it has on us to slow the toll that developing, deploying, and running AI is taking on our planet.\n",
+    "participants": [
+      "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop",
+      "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-online-open-call"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Future issues",
+      "Current issues"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "rohini-nilekani-philanthropies"
+    ],
+    "additional-acknowledgements": "Sasha John",
+    "inclusion-efforts": "\n",
+    "project-title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India",
+    "submitted-by": "Dr Urvashi Aneja",
+    "why-is-this-project-important-to-include-in-the": "'Human in the Loop' is an important case study because it demonstrates how public engagement on AI can move beyond consultation on existing technologies to collective reflection on possible futures. While many AI governance discussions focus on immediate risks, technical safeguards, or expert-led policy processes, this project used participatory foresight and storytelling to engage people with the longer-term societal implications of Generative AI (Gen AI) and to surface perspectives that are often absent from governance debates.\n\nA key contribution of the project is its use of consequence mapping as a public engagement method. Rather than asking participants what they think about AI in the abstract, the project invited them to explore how specific AI applications might shape critical sectors such as healthcare, justice, local governance and agriculture over time. By mapping first-, second- and third-order consequences, participants were able to connect near-term technological developments with broader social, economic and environmental outcomes. This approach encouraged systems thinking and enabled discussion of risks and opportunities that may not yet be visible through present-day evidence alone.\nThe project also sought to broaden participation beyond technical and policy experts. While expert practitioners from India's social impact, research and technology sectors played an important role in the foresight process, 'Human in the Loop' complemented this with an open call for stories that invited members of the public to share their own visions, concerns and aspirations regarding AI-enabled futures. This created opportunities for perspectives rooted in lived experience to inform the project alongside expert analysis.\n\nAnother distinctive feature is the use of speculative storytelling and illustration as engagement tools. AI governance discussions are often inaccessible to non-specialist audiences because they rely on technical language, policy frameworks or abstract concepts. By translating research findings and foresight exercises into stories, the project made complex governance questions tangible and relatable. Storytelling enabled participants and audiences to engage with questions of power, agency, equity, environmental sustainability and human wellbeing through narratives grounded in everyday life.\n\nThe project is also notable for its engagement strategy. The stories were shared through a publicly accessible digital platform and exhibited at conferences, festivals and public events, reaching audiences that do not typically participate in AI governance processes, including students, educators, artists, parents, developers and civil society practitioners. This demonstrates how creative and cultural formats can expand participation in conversations about emerging technologies beyond traditional policy spaces.\n\nFinally, 'Human in the Loop' offers an example from India, a context that remains underrepresented in global AI governance discussions despite being home to one of the world's largest and most diverse populations of technology users. The project highlights the value of locally grounded, participatory approaches to imagining AI futures and demonstrates how public engagement can help shape governance conversations that are attentive to social realities, development priorities and cultural contexts in the Global South.\n\nTaken together, the project illustrates how participatory foresight, storytelling and public imagination can complement more conventional approaches to AI governance. It provides a practical example of how diverse publics can engage in meaningful reflection on the futures that AI may create and the futures that societies may wish to pursue.",
+    "photos-and-images": [
+      {
+        "id": "attgi5uAhXLgyFjq4",
+        "width": 4032,
+        "height": 3024,
+        "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4.jpg",
+        "filename": "EDBFA975-2248-4BE2-BF93-FCA0CD6F1F90.jpg",
+        "size": 2838004,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attxJUNnmEATtgJQX",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX.jpg",
+        "filename": "IMG_2242 (1).jpg",
+        "size": 3958854,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_small.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_large.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_full.jpg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWGF8mJYUJl02sy",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy.jpg",
+        "filename": "IMG_2225 (1).jpg",
+        "size": 2499445,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_small.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_large.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_full.jpg",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attdyiD3NfuewvkGe",
+        "width": 4080,
+        "height": 2296,
+        "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe.jpg",
+        "filename": "4de766cf-8c45-4161-ae1c-c042a956c797 (1).jpg",
+        "size": 980870,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_large.jpg",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_full.jpg",
+            "width": 3000,
+            "height": 1688
+          }
+        }
+      },
+      {
+        "id": "attOmQp2sliwgazte",
+        "width": 2517,
+        "height": 1678,
+        "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte.jpg",
+        "filename": "MNTSV Exp1-367.jpg",
+        "size": 699801,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_full.jpg",
+            "width": 2517,
+            "height": 1678
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "AI Development: Shape the development of AI tools"
+    ],
+    "supporting-resources": [
+      "human-in-the-loop-digital-anthology"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Exploring the near-future and unintended consequences of Generative AI in critical sectors in India",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2024,
+    "involved-organisations": [
+      "quicksand-design-studio"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://loop.digitalfutureslab.in/",
+    "locations": [
+      "india"
+    ],
+    "where-were-participants-from": [
+      "Urban and semi-urban India"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india",
+    "data": {
+      "layout": "case",
+      "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India",
+      "airtable_id": "9b2387f71c689d2a",
+      "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india",
+      "redirect_from": [
+        "/c/9b2387f71c689d2a/"
+      ],
+      "lead-organisations": [
+        "digital-futures-lab"
+      ],
+      "provide-a-brief-description-of-the-project": "'Human in the Loop' is a participatory foresight and storytelling public engagement project examining the near-future risks and unintended consequences of Generative AI (Gen AI) in India. \n\nIn 2024, much of the discourse on Gen AI governance often overlooked the longer-term societal consequences of technological and policy choices. ‘Human in the Loop’ sought to bridge this gap by exploring plausible futures and encouraging reflection on the futures society should actively pursue.\n\nForesight entails a set of methods that allow for a structured way of thinking through the opportunities and challenges with current trends and phenomena and the impacts of these over the long term. Based on the research question, ‘What are the likely unintended impacts of Gen AI in critical social sectors in India?’ Digital Futures Lab (DFL) identified 40+ signals of change from news articles, social media, and research papers. We extrapolated what these signals indicated about our future when viewed in combination rather than in tandem. \n\nThe second part of our foresight process was undertaken as a collective exercise with our expert network for the project. Using the most relevant signals from the database, we convened  a larger group of practitioners from India’s social impact sector, research, and tech4good spaces to use a structured consequence-mapping process to map the potential first-, second- and third-order consequences of a Gen AI use case in a given sector. We divided them into smaller groups and assigned each group a sector and a potential Gen AI use case, indicating future prevalence. This structured approach helped us logically connect short-term technological developments to their broader long-term societal impacts across sectors such as healthcare, the judiciary, and local governance. It also helped surface anomalous or serendipitous risks and opportunities that formed the foundation of stories built out in ‘Human in the Loop’.\n\nTo broaden participation beyond expert communities, we issued an open call for stories, inviting public reflections on how Gen AI might shape everyday life. We received 38 submissions and shortlisted 14 that can be read on the project’s microsite. 2 submissions from our open call were fleshed out into stories that made it into our larger anthology.\n\nWe chose illustrative storytelling, not as a fancy flourish, but as a necessary reframe. Stories bring nuance in an engaging, tangible way that traditional policy reports and long white papers might not, for various audiences. We worked closely with artists from Quicksand Design Studio for each story, to ensure that the provocations and insights from our research portrayed the technologies’ tipping points and resolutions. \n\nThe final result: a six-story speculative fiction anthology covering the near-future consequences of Gen AI on agriculture, judiciary, healthcare, interpersonal relationships, cultural production and the environment. \n\nThe project was disseminated through a public engagement strategy that combined online publication, exhibitions, panel discussions and conference presentations. We conducted a virtual panel series open to the public and showcased at events in India, including FOSS United 2025, Manotsava (India’s largest mental health festival) and Agami’s Justicemakers’ Mela (a gathering of justice changemakers in India), engaging audiences ranging from students and educators to technologists, artists and legal practitioners. We were also shortlisted for Global Gathering 2025 and RightsCon 2026. \n\nIn an age when technology is evolving faster than our ethical, social, and ecological frameworks can keep pace, 'Human in the Loop' offers a means to explore its potential societal implications and trade-offs. The project aimed to foster public imagination and dialogue around futures that centre human dignity, planetary stewardship and equitable technological progress.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "Complete",
+      "headline-findings": "1. 'Human in the Loop' demonstrates that both experts (foresight workshop) and the larger public (open call) share a similar set of concerns about the trajectory of AI innovation and its potential consequences. The overarching sense is that 'business as usual' scenarios for AI innovation, development and deployment will not work for society at large. Approaches to AI evaluations and research on societal impacts, therefore, need to look beyond the benefits and harms of specific applications at an individual level and expand to include strategic and inclusive second- and third-order thinking around unintended consequences.\n\n1. Question what AI optimises for: Efficiency and profit maximisation are not neutral goals. They promote specific outcomes such as profits, while marginalising others, such as diversity. We must be explicit about whose values agentic AI systems are built to serve and which values should remain under human oversight. In addition to questioning what AI optimises for, it is essential to note that not every decision needs to be optimised. Some areas of life benefit from inefficiency, variation, creativity and human judgment.\n\n1. Features of AI tools must be built collaboratively with the relevant end-users. Without efforts to engage with them, top-down technology design and development processes are likely to be ineffective and may even contribute to new harms and risks.\n\n1. Test and monitor the impact of GenAI tools early, continuously and widely. AI interventions should be piloted and validated in real-world settings, with built-in mechanisms for continuous evaluation and regular updates, especially when used at scale. \n\n1. Technologies built to reduce friction can deepen dependency — at a cost: many companion AI products today are designed with commercial incentives to retain users, not necessarily to help them move toward autonomy or healthier relationships. When systems are built to optimise for seamless engagement and happiness, they risk stripping away the small frictions and challenges that help people develop healthy habits, resilience, and interpersonal skills. Instead, they can keep users locked in cycles of passive or active dependency. The success of this kind of technology should be measured not by how much time users spend with a tool but, instead, by how well the tool aids them in (re)connecting with people, themselves and their environments offline. \n\n1. Guardrails and transparency are non-negotiable when technology mediates care, i.e. in companion AI. Friction should be added deliberately, such as prompts that pause long, intense conversations or encourage reaching out to trusted people. At a systemic level, third-party oversight bodies should be established to audit these systems, and governments must regulate companion AI like other sensitive health technologies — including age-appropriate defaults, emergency handoff pathways, and independent safety reviews before deployment at scale.\n\n1. Evaluate the trajectory of AI innovation, weighing the environmental impacts of relentless AI development and upkeep. This means taking into consideration the material realities of data and AI infrastructures, particularly their effects on surrounding human communities and species. It also means re-examining the ‘luxury’ of seamlessness and convenience that Gen AI will make possible, and perhaps relinquishing the hold it has on us to slow the toll that developing, deploying, and running AI is taking on our planet.\n",
+      "participants": [
+        "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop",
+        "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-online-open-call"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Future issues",
+        "Current issues"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "rohini-nilekani-philanthropies"
+      ],
+      "additional-acknowledgements": "Sasha John",
+      "inclusion-efforts": "\n",
+      "project-title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India",
+      "submitted-by": "Dr Urvashi Aneja",
+      "why-is-this-project-important-to-include-in-the": "'Human in the Loop' is an important case study because it demonstrates how public engagement on AI can move beyond consultation on existing technologies to collective reflection on possible futures. While many AI governance discussions focus on immediate risks, technical safeguards, or expert-led policy processes, this project used participatory foresight and storytelling to engage people with the longer-term societal implications of Generative AI (Gen AI) and to surface perspectives that are often absent from governance debates.\n\nA key contribution of the project is its use of consequence mapping as a public engagement method. Rather than asking participants what they think about AI in the abstract, the project invited them to explore how specific AI applications might shape critical sectors such as healthcare, justice, local governance and agriculture over time. By mapping first-, second- and third-order consequences, participants were able to connect near-term technological developments with broader social, economic and environmental outcomes. This approach encouraged systems thinking and enabled discussion of risks and opportunities that may not yet be visible through present-day evidence alone.\nThe project also sought to broaden participation beyond technical and policy experts. While expert practitioners from India's social impact, research and technology sectors played an important role in the foresight process, 'Human in the Loop' complemented this with an open call for stories that invited members of the public to share their own visions, concerns and aspirations regarding AI-enabled futures. This created opportunities for perspectives rooted in lived experience to inform the project alongside expert analysis.\n\nAnother distinctive feature is the use of speculative storytelling and illustration as engagement tools. AI governance discussions are often inaccessible to non-specialist audiences because they rely on technical language, policy frameworks or abstract concepts. By translating research findings and foresight exercises into stories, the project made complex governance questions tangible and relatable. Storytelling enabled participants and audiences to engage with questions of power, agency, equity, environmental sustainability and human wellbeing through narratives grounded in everyday life.\n\nThe project is also notable for its engagement strategy. The stories were shared through a publicly accessible digital platform and exhibited at conferences, festivals and public events, reaching audiences that do not typically participate in AI governance processes, including students, educators, artists, parents, developers and civil society practitioners. This demonstrates how creative and cultural formats can expand participation in conversations about emerging technologies beyond traditional policy spaces.\n\nFinally, 'Human in the Loop' offers an example from India, a context that remains underrepresented in global AI governance discussions despite being home to one of the world's largest and most diverse populations of technology users. The project highlights the value of locally grounded, participatory approaches to imagining AI futures and demonstrates how public engagement can help shape governance conversations that are attentive to social realities, development priorities and cultural contexts in the Global South.\n\nTaken together, the project illustrates how participatory foresight, storytelling and public imagination can complement more conventional approaches to AI governance. It provides a practical example of how diverse publics can engage in meaningful reflection on the futures that AI may create and the futures that societies may wish to pursue.",
+      "photos-and-images": [
+        {
+          "id": "attgi5uAhXLgyFjq4",
+          "width": 4032,
+          "height": 3024,
+          "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4.jpg",
+          "filename": "EDBFA975-2248-4BE2-BF93-FCA0CD6F1F90.jpg",
+          "size": 2838004,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attgi5uAhXLgyFjq4_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attxJUNnmEATtgJQX",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX.jpg",
+          "filename": "IMG_2242 (1).jpg",
+          "size": 3958854,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_small.jpg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_large.jpg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attxJUNnmEATtgJQX_full.jpg",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attWGF8mJYUJl02sy",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy.jpg",
+          "filename": "IMG_2225 (1).jpg",
+          "size": 2499445,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_small.jpg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_large.jpg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attWGF8mJYUJl02sy_full.jpg",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attdyiD3NfuewvkGe",
+          "width": 4080,
+          "height": 2296,
+          "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe.jpg",
+          "filename": "4de766cf-8c45-4161-ae1c-c042a956c797 (1).jpg",
+          "size": 980870,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_large.jpg",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attdyiD3NfuewvkGe_full.jpg",
+              "width": 3000,
+              "height": 1688
+            }
+          }
+        },
+        {
+          "id": "attOmQp2sliwgazte",
+          "width": 2517,
+          "height": 1678,
+          "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte.jpg",
+          "filename": "MNTSV Exp1-367.jpg",
+          "size": 699801,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/9b2387f71c689d2a_fldd4B6cpBOP3n3is_attOmQp2sliwgazte_full.jpg",
+              "width": 2517,
+              "height": 1678
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "AI Development: Shape the development of AI tools"
+      ],
+      "supporting-resources": [
+        "human-in-the-loop-digital-anthology"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Exploring the near-future and unintended consequences of Generative AI in critical sectors in India",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2024,
+      "involved-organisations": [
+        "quicksand-design-studio"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://loop.digitalfutureslab.in/",
+      "locations": [
+        "india"
+      ],
+      "where-were-participants-from": [
+        "Urban and semi-urban India"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-online-open-call",
+        "data": {
+          "layout": "generic",
+          "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Online open call",
+          "airtable_id": "0d2665dcf478bcb3",
+          "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-online-open-call",
+          "locations": [
+            "india"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Urban and semi-urban India",
+          "which-of-the-following-methods-were-used-to": [
+            "Crowdsourcing"
+          ],
+          "name": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Online open call",
+          "group-description": "Online open call",
+          "additional-notes": "Of the 40 submissions we received on the open call, we shortlisted 14 to be showcased on the Human in the Loop microsite. ",
+          "how-many-people-took-part": 40,
+          "cases": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "recruitment-description": "Advertised for open call submissions on DFL's social media, newsletter, mailing groups and through partner networks",
+          "was-there-a-specific-target-population": "No",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop",
+        "data": {
+          "layout": "generic",
+          "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Foresight workshop participants",
+          "airtable_id": "737293d3ddcd622f",
+          "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop",
+          "locations": [
+            "india"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Urban and semi-urban India",
+          "which-of-the-following-methods-were-used-to": [
+            "Scenario Workshop",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 12,
+          "name": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Foresight workshop participants",
+          "group-description": "Foresight workshop participants",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "Participants were first introduced to the project and to foresight as a methodology before being presented with insights from the horizon-scanning exercise. Based on the larger group's validation and discussion of these insights, they were split into smaller groups that collaborated to map out specific scenarios related to a GenAI use case in a specific sector. ",
+          "how-many-people-took-part": 15,
+          "cases": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "recruitment-description": "Digital Futures Lab invited each participant based on their on-ground expertise and years of experience via email; we ensured gender parity by inviting a similar number of men and women from both research and technical backgrounds.",
+          "was-there-a-specific-target-population": "Domain experts, practitioners, researchers ",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "rohini-nilekani-philanthropies",
+        "data": {
+          "layout": "organisation",
+          "title": "Rohini Nilekani Philanthropies",
+          "airtable_id": "8e98796289ef6616",
+          "slug": "rohini-nilekani-philanthropies",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://rohininilekaniphilanthropies.org/",
+          "name": "Rohini Nilekani Philanthropies",
+          "main-location": [
+            "india"
+          ],
+          "funding-organisation-for": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "digital-futures-lab",
+        "data": {
+          "layout": "organisation",
+          "title": "Digital Futures Lab",
+          "airtable_id": "a09d0fdc1097cb6b",
+          "slug": "digital-futures-lab",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research",
+            "Non-profit"
+          ],
+          "website-address": "https://digitalfutureslab.in/",
+          "name": "Digital Futures Lab",
+          "lead-organisation-for": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "main-location": [
+            "india"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "quicksand-design-studio",
+        "data": {
+          "layout": "organisation",
+          "title": "Quicksand Design Studio",
+          "airtable_id": "feb30f92988ba4d6",
+          "slug": "quicksand-design-studio",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://quicksand.co.in/",
+          "name": "Quicksand Design Studio",
+          "main-location": [
+            "india"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+          ],
+          "layout": "generic",
+          "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-process",
+          "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Future issues",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Online open call",
+        "airtable_id": "0d2665dcf478bcb3",
+        "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-online-open-call",
+        "locations": [
+          "india"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Urban and semi-urban India",
+        "which-of-the-following-methods-were-used-to": [
+          "Crowdsourcing"
+        ],
+        "name": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Online open call",
+        "group-description": "Online open call",
+        "additional-notes": "Of the 40 submissions we received on the open call, we shortlisted 14 to be showcased on the Human in the Loop microsite. ",
+        "how-many-people-took-part": 40,
+        "cases": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "recruitment-description": "Advertised for open call submissions on DFL's social media, newsletter, mailing groups and through partner networks",
+        "was-there-a-specific-target-population": "No",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Foresight workshop participants",
+        "airtable_id": "737293d3ddcd622f",
+        "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop",
+        "locations": [
+          "india"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Urban and semi-urban India",
+        "which-of-the-following-methods-were-used-to": [
+          "Scenario Workshop",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 12,
+        "name": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Foresight workshop participants",
+        "group-description": "Foresight workshop participants",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "Participants were first introduced to the project and to foresight as a methodology before being presented with insights from the horizon-scanning exercise. Based on the larger group's validation and discussion of these insights, they were split into smaller groups that collaborated to map out specific scenarios related to a GenAI use case in a specific sector. ",
+        "how-many-people-took-part": 15,
+        "cases": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "recruitment-description": "Digital Futures Lab invited each participant based on their on-ground expertise and years of experience via email; we ensured gender parity by inviting a similar number of men and women from both research and technical backgrounds.",
+        "was-there-a-specific-target-population": "Domain experts, practitioners, researchers ",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "layout": "generic",
+        "slug": "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-process",
+        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Rohini Nilekani Philanthropies",
+        "airtable_id": "8e98796289ef6616",
+        "slug": "rohini-nilekani-philanthropies",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://rohininilekaniphilanthropies.org/",
+        "name": "Rohini Nilekani Philanthropies",
+        "main-location": [
+          "india"
+        ],
+        "funding-organisation-for": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Digital Futures Lab",
+        "airtable_id": "a09d0fdc1097cb6b",
+        "slug": "digital-futures-lab",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research",
+          "Non-profit"
+        ],
+        "website-address": "https://digitalfutureslab.in/",
+        "name": "Digital Futures Lab",
+        "lead-organisation-for": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "main-location": [
+          "india"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Quicksand Design Studio",
+        "airtable_id": "feb30f92988ba4d6",
+        "slug": "quicksand-design-studio",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://quicksand.co.in/",
+        "name": "Quicksand Design Studio",
+        "main-location": [
+          "india"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Future issues",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

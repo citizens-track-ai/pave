@@ -1,0 +1,1371 @@
+{
+  "slug": "a-framework-for-national-dialogues-on-frontier-technologies",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "A Framework for National Dialogues on Frontier Technologies",
+    "airtable_id": "251e9b19dec9b011",
+    "slug": "a-framework-for-national-dialogues-on-frontier-technologies",
+    "redirect_from": [
+      "/c/251e9b19dec9b011/"
+    ],
+    "lead-organisations": [
+      "undp-accelerator-labs",
+      "columbia-universitys-school-of-international-and-public-affairs"
+    ],
+    "provide-a-brief-description-of-the-project": "**The UNDP Accelerator Labs worked with Columbia University’s School of International and Public Affairs (SIPA) to create a Framework for Conducting National Dialogues on Frontier Technologies. The project aimed to provide tried-and-tested guidance for carrying out conversations in order to create space for new dialogues and ultimately diversify inputs to global conversations on technologies including AI.**\n\nThe framework was piloted in Morocco and Paraguay during the month of March 2024. 200 persons were interviewed across 50 individual consultations and four different modalities: in-person workshops, virtual workshops, online surveys, and street interviews. \n\nThe Framework proposes a way to anchor conversations around participants' recent technological interactions to avoid getting lost in abstraction. By avoiding questions like “how can AI be deployed in an ethical manner?” or “how is AI going to change the nature of work?” that beg specification of what is meant by AI and who is likely to be impacted, and instead structuring conversations around grounded technological experiences, it aims to support more situated, inclusive and insightful conversations.\n\nThis responds to the challenge that advanced technologies often go unseen. They can be embedded in complex systems, and their implications and importance go unrecognized, even by those who use these systems. The infrastructure they require and the means through which they are deployed also vary across locations and sectors.\n\nThe project discovered that each approach had strengths and weaknesses, particularly on axes of accessibility and conversation depth, with a mixed modalities approach more likely to foster a broad and inclusive consultation program. \n",
+    "what-limitations-to-the-project-should-be-noted": "**Diversity of methods was privileged over representativity of results, as the idea was to refine our Framework.**\n\n**From the authors' Project Report:**\n> \n> Our time in Morocco provided valuable insight into hosting consultations and contributed to the strengthening of the Framework and recommendations made.\n> \n> **Clear communications: **\n> \n> Close collaboration and communication with partners are essential for the success of consultations. This collaboration ensures alignment of objectives, shapes participants' expectations, and allows for a more tailored approach to engagement. Partners' deep understanding of the local context and community dynamics provides invaluable insights for designing meaningful dialogues. Open communication fosters trust and mutual respect, enabling us to navigate challenges and adapt our approach as needed, ensuring that the consultations are relevant, engaging, and beneficial for all involved parties.\n> \n> **Co-creation:**\n> \n> It would be beneficial to foster closer collaboration with the local Accelerator Labs before the trip. This would help allow a clearer understanding of the stakeholders involved in the consultations, allowing for better preparation and tailored approaches. Furthermore, allocating more time prior to the consultation for co-creation would be beneficial. This proactive approach would enable facilitators to\n> anticipate potential challenges in the dialogue's implementation, providing ample time to secure additional support like translators or notetakers to assist during the consultations.\n> \n> **Working with partners: **\n> \n> Good communication with partners about the purpose of the consultation is essential, but not always sufficient during the preparatory stages. Different entities have different interests and agendas. Working together requires aligning objectives early on, meeting all partners’ priorities in the middle, and spending the necessary time on designing the agenda, messaging, and tone of the consultation correctly. This consideration has been emphasized in our Framework, focusing on effectively socializing the need for consultations to avoid any priming effects that might influence participants’ expectations or responses.\n> \n> **Selecting consultation modalities: **\n> \n> Each consultation modality has benefits and drawbacks, many of which are contingent on the number of people and space limitations. We planned for focus groups which work best with small groups of people who share similar backgrounds and knowledge levels. In order to get enough participants, higher numbers of invitations were sent out. We were fortunate to get higher than expected participation based on those invitations, which resulted in rooms that had in the range of 15 to 30 people. These were effectively closer to “town halls” than focus groups, which affected the dynamics of the consultation. This highlighted the importance of tailoring consultation methodology to the participants, and choosing the right space, both for quality of responses as well as ease for the facilitator. New recommendations in the Framework address the appropriate times to use different\n> modalities, and resources to allow facilitators to adapt. \n> \n> **Managing participants: **\n> \n> During consultations, facilitators have the difficult task of keeping the conversation focused and balancing the voices in the room, particularly when stronger voices threaten to overpower weaker ones. Facilitators should be aware of existing cultural power\n> structures that have made it into the room and can influence who is given more time and space to speak. In Morocco, gender as well as age dynamics were clear in the consultation. For consultations to be inclusive, it’s important for all participants to be able to share freely. Smaller group sizes could be more manageable for facilitators, allowing for better capture of sentiments and more balanced participation. New recommendations in our Framework offer strategies for facilitators to achieve this balance, both during the consultation and in the preparatory phase. By intentionally forming smaller, more diverse groups, we can create an environment where participants feel more comfortable sharing, ensuring a richer and more inclusive dialogue.\n> \n> **Adjusting questions: **\n> \n> These preliminary consultations allowed us to observe how questions were interpreted by participants and pointed to where adjustments needed to be made. In some cases, this meant adjusting wording to make questions more straightforward or to keep the\n> sequence from feeling repetitive. Given that our consultations also took place in up to three languages, sometimes all in the same conversation or even sentence, our time in Morocco also highlighted the role that translation can play in facilitating consultations. Expanding\n> the question list and adding notes on intention allows facilitators more agency in selecting questions, ensuring better flow of conversation, and mitigating confusion of participants. This approach also allows for facilitators to probe deeper into responses offered, which helps to mitigate priming effects of socializing or address mirrored responses from participants based on what they have heard and not\n> first-hand experience.\n> \n> **Travel considerations: **\n> \n> Travel and logistical considerations should always be carefully planned, especially when aiming\n> to implement dialogues in rural areas. In the case of Morocco, combining travel challenges with Ramadan proved to be particularly difficult. For future consultations, it might be more practical to plan our consultations in a way that does not disrupt the debriefing process each day. This could involve scheduling shorter trips or ensuring accommodations that allow for necessary daily reflections and adjustments.\n\n> **Methodology amendments from the trip**\n> Over the course of the week, we revised the Framework five times, incorporating insights generated during consultations that identified\n> issues with the current version. The consultations revealed that the internal logic of the mechanism to determine a person’s familiarity with\n> AI worked well. However, beginning a conversation with ‘have you heard about AI?’ was less effective in street consultations and focus groups with experts (two extremes of knowledge about AI). While in the first case, respondents were not able to provide an answer at all, in the second case respondents provided excessively long answers, often out of the scope of this consultation. To set the context for the following consultation in both cases, concrete examples of AI proxies were introduced to participants. This turned out\n> to be an effective method to correct a difficult start into a consultation.\n\n> **Reflections**\n> \n> This section is primarily borne out of our experience during the piloting\n> phase in Morocco and Paraguay.\n> \n> **Socializing the need for a consultation**\n> \n> Given the rapid advancement and deployment of technology in recent years, for many it will seem natural that these consultations be\n> conducted. Others may have questions about the purpose of them, how meaningful they will be able to be, or even whether there is a need for them in the first place. Questions and hesitancies may come from local UN staff, governments, partner organizations, or participants. The\n> effectiveness of consultations, and quality of the data collected, may be impacted without buy-in from everyone involved. This makes socializing the consultations a crucial step in a successful consultation process.\n> \n> As we’ve outlined in sections above, meaningful conversation on our digital future has failed to reach everyone who stands to be impacted.\n> This has left far too many people around the world without a voice. But even without a voice, those individuals stand to lose or gain from\n> decisions made at key part of the tech development and regulation cycle, including decisions regarding data governance and privacy protections, environmental concerns, ethical guardrails, language functionality, and meeting user needs.\n> \n> Wording used in invitations and information campaigns before consultations have the potential to prime the consultation process in the\n> participants minds, influencing the answers that are given. This means that care should be taken to keep all language about the consultation as tech-agnostic as possible, from start to finish. By being clear and unbiased in the language around consultations, expectations will be clear on both sides and the responses received will be as robust and authentic as possible.\n> \n> In order to engage a wide-reaching and diverse audience, it may also be necessary to work with a number of external partners in civil society, government, or the private sector. These partners may have their own perspectives and embedded ideas about frontier technologies, which may come across during consultation, or during the socialization process.\n> \n> This may come in the form of government partners who have active wide-reaching technology initiatives in progress, or from private sector\n> partners in the tech industry that are interested in focusing on the positive messages about their products. This has the potential to bias\n> participant responses which compromises the data collection process and any potential findings.\n> \n> While it is understandable that facilitators would not want to compromise important partnerships, they also have a moral and ethical obligation to both participants and the rest of the UN facilitators to keep data collection as unbiased as possible. Whenever possible, unbiased partners should be prioritized. When working with biased partners is unavoidable, the potential bias should be noted in data collection. When entering into any partnership, UN consultation implementers should engage in intentional conversation with partners about how the consultations should be marketed to participants.\n> \n> Participants may also come in with strong ideas about tech, both positive or negative, that they have picked up from media, friends, or other\n> sources. While these perceptions are important to hear, they are also important to interrogate during consultations. Before consultations, it is important to be aware of the political landscape around tech in the country, including what narratives participants are likely to have heard or picked up in the country. This can include doing topic analysis on social media or news reporting before the consultations. By doing so,\n> facilitators are able to prepare questions that ask participants to go deeper into specific areas that are likely to be mentioned. This will ensure that consultations go beyond surface level and produce meaningful sentiment data that are reflective of each individual participant’s\n> perspectives.\n> \n> It’s important to note that while the UN plays a crucial role in these conversations, the organization itself has a distinct positionality. Hence,\n> participants of consultations may feel obligated to engage or give specific “correct” answers which they believe the UN would like to hear. Acknowledging the potential biases in responses and emphasizing the voluntary nature of the consultations can help alleviate this, as can encouraging participants to ask questions before or after the consultation about their purpose.\n",
+    "project-status": "Complete",
+    "headline-findings": "Key findings from consultations in Morocco include:\n\n•\tMaintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. \n•\tResponsibility: We noted that when asked about “something going wrong” with AI, responses immediately focused on misuse of the technology, with little to no mention of AI hallucination or other malfunction. When mentioned, tech malfunction examples were often about non-AI based tech. Throughout the consultations, developers were often mentioned to be responsible for AI. However, there was also a strong sentiment that the responsibility for mitigating local risks of AI fell largely on Moroccans. The reasons behind this sentiment differed: some felt that developers had already done what they could to mitigate risk, while others believed that technology makers were solely interested in profit and disregarded the risks. Trust in developers was stronger among people who were avid users of AI, or who worked in AI development. Parents and teachers were among the other groups of people mentioned as holding responsibility over AI use.\n•\tStrong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. \n\nKey findings from consultations in Paraguay include: \n\n•\tPeople consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.\n•\tIncreasing levels of education among participants also correlated with increasing positive sentiments, decreasing negative sentiments, and decreasing sentiments of uncertainty regarding the impacts of the technology. Similarly, being male was associated with a slightly higher sentiment.\n•\tConcerns about a lack of localization of technology were mentioned in several expert interviews. Technology is frequently directly translated from the Global North without adequate consideration of its applicability within local contexts, perpetuating a broader colonial legacy of resource extraction. Paraguay is a bilingual country with 70% of the population speaking both Spanish and Guarani. Guarani is mostly a spoken language, resulting in a scarcity of digital text which can be used for training datasets, an important component of building AI models. Given that Guarani is more prominent among the less digitally connected people, the prominence of language skills intersects to create the potential for compounding dysconnectivity.\n",
+    "participants": [
+      "a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists",
+      "a-framework-for-national-dialogues-on-frontier-technologies-association-that-brings-together-stakeho",
+      "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-students",
+      "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-heads-of-the-ngos",
+      "a-framework-for-national-dialogues-on-frontier-technologies-union-for-educators-in-morocco-marginali",
+      "a-framework-for-national-dialogues-on-frontier-technologies-ngo-dedicated-to-the-economic-and-social",
+      "a-framework-for-national-dialogues-on-frontier-technologies-in-person-focus-group",
+      "a-framework-for-national-dialogues-on-frontier-technologies-online-focus-group",
+      "a-framework-for-national-dialogues-on-frontier-technologies-online-surveys",
+      "a-framework-for-national-dialogues-on-frontier-technologies-street-consultations"
+    ],
+    "participation-locations": "Morocco, Paraguay",
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "messages": [
+      "maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va",
+      "strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the",
+      "people-consulted-in-the-corporate-zone-of-asuncionpresumably-a-more-affluent-demographicwere-general"
+    ],
+    "theme": [
+      "Artificial Intelligence",
+      "Public Services"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "qatar-fund-for-development-qffd",
+      "german-federal-ministry-of-economic-cooperation-and-development-bmz"
+    ],
+    "additional-acknowledgements": "Ahmed Al Qutaini, Akmaral Bekbossynova, Gloria Gerhardt, Medhavi Hassija, Josephine Hebling, Sharif Kazemi, Zhengzhou (Steve) Li, Liv Newkirk, Amy Utomo, Dr. Savita Bailur",
+    "inclusion-efforts": "We conducted consultations with women and men from diverse socio-economic and cultural backgrounds with varying degrees of technical knowledge: \n\nIn Morocco we spoke to 119 individuals, including members of grassroots organizations, marginalized youth, students, activists, unions, NGOs, and civil servants in three languages (Arabic, French and English).\n\nIn Paraguay, we engaged with 88 individuals, including civil servants, actors of the private sector, academics, AI experts, and farmers in rural settings mostly in Spanish, although knowledge of Guarani was needed to interpret some of the answers. \n",
+    "project-title": "A Framework for National Dialogues on Frontier Technologies",
+    "submitted-by": "Jeremy Boy",
+    "why-is-this-project-important-to-include-in-the": "Our Consultation Framework proposes a way to anchor conversations around participants' recent technological interactions to avoid getting lost in abstraction. Indeed, discussions on frontier technologies, such as AI, tend to be abstract. Questions like “how can AI be deployed in an ethical manner?” or “how is AI going to change the nature of work?” beg specification of what is meant by AI and who is likely to be impacted. To make things more complicated, advanced technologies sometimes go unseen. They can be embedded in complex systems, and their implications and importance go unrecognized, even by those who use these systems. The infrastructure they require and the means through which they are deployed also vary across locations and sectors.\n\nTo address these challenges, our Framework offers a flexible foundation for structuring consultations, rather than a prescriptive checklist of action items. The recommendations it provides should be adapted for specific frontier technologies (like AI or bioengineering), national contexts, or technological maturity, to ensure situated, inclusive and insightful conversations. We hope that supporting these kinds of consultations will create space for new dialogues and ultimately diversify inputs to global conversations on these technologies.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "a-framework-for-national-dialogues-on-frontier-technologies-understanding-global-south-perspectives",
+      "a-framework-for-national-dialogues-on-frontier-technologies-background-report"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Frontier technologies, such as Artificial Intelligence (AI), blockchain, the metaverse, 3D printing or brain-computer-interfaces.",
+    "how-was-the-project-initiated": [
+      "Other"
+    ],
+    "geographic-scope": [
+      "morocco",
+      "paraguay"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "undp-paraguay",
+      "undp-morocco"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.undp.org/acceleratorlabs/publications/framework-frontier-tech",
+    "locations": [
+      "morocco",
+      "paraguay"
+    ],
+    "where-were-participants-from": [
+      "Asunción",
+      "Berkane",
+      "Oujda",
+      "Paraguay",
+      "Rabat",
+      "Salé"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "a-framework-for-national-dialogues-on-frontier-technologies",
+    "data": {
+      "layout": "case",
+      "title": "A Framework for National Dialogues on Frontier Technologies",
+      "airtable_id": "251e9b19dec9b011",
+      "slug": "a-framework-for-national-dialogues-on-frontier-technologies",
+      "redirect_from": [
+        "/c/251e9b19dec9b011/"
+      ],
+      "lead-organisations": [
+        "undp-accelerator-labs",
+        "columbia-universitys-school-of-international-and-public-affairs"
+      ],
+      "provide-a-brief-description-of-the-project": "**The UNDP Accelerator Labs worked with Columbia University’s School of International and Public Affairs (SIPA) to create a Framework for Conducting National Dialogues on Frontier Technologies. The project aimed to provide tried-and-tested guidance for carrying out conversations in order to create space for new dialogues and ultimately diversify inputs to global conversations on technologies including AI.**\n\nThe framework was piloted in Morocco and Paraguay during the month of March 2024. 200 persons were interviewed across 50 individual consultations and four different modalities: in-person workshops, virtual workshops, online surveys, and street interviews. \n\nThe Framework proposes a way to anchor conversations around participants' recent technological interactions to avoid getting lost in abstraction. By avoiding questions like “how can AI be deployed in an ethical manner?” or “how is AI going to change the nature of work?” that beg specification of what is meant by AI and who is likely to be impacted, and instead structuring conversations around grounded technological experiences, it aims to support more situated, inclusive and insightful conversations.\n\nThis responds to the challenge that advanced technologies often go unseen. They can be embedded in complex systems, and their implications and importance go unrecognized, even by those who use these systems. The infrastructure they require and the means through which they are deployed also vary across locations and sectors.\n\nThe project discovered that each approach had strengths and weaknesses, particularly on axes of accessibility and conversation depth, with a mixed modalities approach more likely to foster a broad and inclusive consultation program. \n",
+      "what-limitations-to-the-project-should-be-noted": "**Diversity of methods was privileged over representativity of results, as the idea was to refine our Framework.**\n\n**From the authors' Project Report:**\n> \n> Our time in Morocco provided valuable insight into hosting consultations and contributed to the strengthening of the Framework and recommendations made.\n> \n> **Clear communications: **\n> \n> Close collaboration and communication with partners are essential for the success of consultations. This collaboration ensures alignment of objectives, shapes participants' expectations, and allows for a more tailored approach to engagement. Partners' deep understanding of the local context and community dynamics provides invaluable insights for designing meaningful dialogues. Open communication fosters trust and mutual respect, enabling us to navigate challenges and adapt our approach as needed, ensuring that the consultations are relevant, engaging, and beneficial for all involved parties.\n> \n> **Co-creation:**\n> \n> It would be beneficial to foster closer collaboration with the local Accelerator Labs before the trip. This would help allow a clearer understanding of the stakeholders involved in the consultations, allowing for better preparation and tailored approaches. Furthermore, allocating more time prior to the consultation for co-creation would be beneficial. This proactive approach would enable facilitators to\n> anticipate potential challenges in the dialogue's implementation, providing ample time to secure additional support like translators or notetakers to assist during the consultations.\n> \n> **Working with partners: **\n> \n> Good communication with partners about the purpose of the consultation is essential, but not always sufficient during the preparatory stages. Different entities have different interests and agendas. Working together requires aligning objectives early on, meeting all partners’ priorities in the middle, and spending the necessary time on designing the agenda, messaging, and tone of the consultation correctly. This consideration has been emphasized in our Framework, focusing on effectively socializing the need for consultations to avoid any priming effects that might influence participants’ expectations or responses.\n> \n> **Selecting consultation modalities: **\n> \n> Each consultation modality has benefits and drawbacks, many of which are contingent on the number of people and space limitations. We planned for focus groups which work best with small groups of people who share similar backgrounds and knowledge levels. In order to get enough participants, higher numbers of invitations were sent out. We were fortunate to get higher than expected participation based on those invitations, which resulted in rooms that had in the range of 15 to 30 people. These were effectively closer to “town halls” than focus groups, which affected the dynamics of the consultation. This highlighted the importance of tailoring consultation methodology to the participants, and choosing the right space, both for quality of responses as well as ease for the facilitator. New recommendations in the Framework address the appropriate times to use different\n> modalities, and resources to allow facilitators to adapt. \n> \n> **Managing participants: **\n> \n> During consultations, facilitators have the difficult task of keeping the conversation focused and balancing the voices in the room, particularly when stronger voices threaten to overpower weaker ones. Facilitators should be aware of existing cultural power\n> structures that have made it into the room and can influence who is given more time and space to speak. In Morocco, gender as well as age dynamics were clear in the consultation. For consultations to be inclusive, it’s important for all participants to be able to share freely. Smaller group sizes could be more manageable for facilitators, allowing for better capture of sentiments and more balanced participation. New recommendations in our Framework offer strategies for facilitators to achieve this balance, both during the consultation and in the preparatory phase. By intentionally forming smaller, more diverse groups, we can create an environment where participants feel more comfortable sharing, ensuring a richer and more inclusive dialogue.\n> \n> **Adjusting questions: **\n> \n> These preliminary consultations allowed us to observe how questions were interpreted by participants and pointed to where adjustments needed to be made. In some cases, this meant adjusting wording to make questions more straightforward or to keep the\n> sequence from feeling repetitive. Given that our consultations also took place in up to three languages, sometimes all in the same conversation or even sentence, our time in Morocco also highlighted the role that translation can play in facilitating consultations. Expanding\n> the question list and adding notes on intention allows facilitators more agency in selecting questions, ensuring better flow of conversation, and mitigating confusion of participants. This approach also allows for facilitators to probe deeper into responses offered, which helps to mitigate priming effects of socializing or address mirrored responses from participants based on what they have heard and not\n> first-hand experience.\n> \n> **Travel considerations: **\n> \n> Travel and logistical considerations should always be carefully planned, especially when aiming\n> to implement dialogues in rural areas. In the case of Morocco, combining travel challenges with Ramadan proved to be particularly difficult. For future consultations, it might be more practical to plan our consultations in a way that does not disrupt the debriefing process each day. This could involve scheduling shorter trips or ensuring accommodations that allow for necessary daily reflections and adjustments.\n\n> **Methodology amendments from the trip**\n> Over the course of the week, we revised the Framework five times, incorporating insights generated during consultations that identified\n> issues with the current version. The consultations revealed that the internal logic of the mechanism to determine a person’s familiarity with\n> AI worked well. However, beginning a conversation with ‘have you heard about AI?’ was less effective in street consultations and focus groups with experts (two extremes of knowledge about AI). While in the first case, respondents were not able to provide an answer at all, in the second case respondents provided excessively long answers, often out of the scope of this consultation. To set the context for the following consultation in both cases, concrete examples of AI proxies were introduced to participants. This turned out\n> to be an effective method to correct a difficult start into a consultation.\n\n> **Reflections**\n> \n> This section is primarily borne out of our experience during the piloting\n> phase in Morocco and Paraguay.\n> \n> **Socializing the need for a consultation**\n> \n> Given the rapid advancement and deployment of technology in recent years, for many it will seem natural that these consultations be\n> conducted. Others may have questions about the purpose of them, how meaningful they will be able to be, or even whether there is a need for them in the first place. Questions and hesitancies may come from local UN staff, governments, partner organizations, or participants. The\n> effectiveness of consultations, and quality of the data collected, may be impacted without buy-in from everyone involved. This makes socializing the consultations a crucial step in a successful consultation process.\n> \n> As we’ve outlined in sections above, meaningful conversation on our digital future has failed to reach everyone who stands to be impacted.\n> This has left far too many people around the world without a voice. But even without a voice, those individuals stand to lose or gain from\n> decisions made at key part of the tech development and regulation cycle, including decisions regarding data governance and privacy protections, environmental concerns, ethical guardrails, language functionality, and meeting user needs.\n> \n> Wording used in invitations and information campaigns before consultations have the potential to prime the consultation process in the\n> participants minds, influencing the answers that are given. This means that care should be taken to keep all language about the consultation as tech-agnostic as possible, from start to finish. By being clear and unbiased in the language around consultations, expectations will be clear on both sides and the responses received will be as robust and authentic as possible.\n> \n> In order to engage a wide-reaching and diverse audience, it may also be necessary to work with a number of external partners in civil society, government, or the private sector. These partners may have their own perspectives and embedded ideas about frontier technologies, which may come across during consultation, or during the socialization process.\n> \n> This may come in the form of government partners who have active wide-reaching technology initiatives in progress, or from private sector\n> partners in the tech industry that are interested in focusing on the positive messages about their products. This has the potential to bias\n> participant responses which compromises the data collection process and any potential findings.\n> \n> While it is understandable that facilitators would not want to compromise important partnerships, they also have a moral and ethical obligation to both participants and the rest of the UN facilitators to keep data collection as unbiased as possible. Whenever possible, unbiased partners should be prioritized. When working with biased partners is unavoidable, the potential bias should be noted in data collection. When entering into any partnership, UN consultation implementers should engage in intentional conversation with partners about how the consultations should be marketed to participants.\n> \n> Participants may also come in with strong ideas about tech, both positive or negative, that they have picked up from media, friends, or other\n> sources. While these perceptions are important to hear, they are also important to interrogate during consultations. Before consultations, it is important to be aware of the political landscape around tech in the country, including what narratives participants are likely to have heard or picked up in the country. This can include doing topic analysis on social media or news reporting before the consultations. By doing so,\n> facilitators are able to prepare questions that ask participants to go deeper into specific areas that are likely to be mentioned. This will ensure that consultations go beyond surface level and produce meaningful sentiment data that are reflective of each individual participant’s\n> perspectives.\n> \n> It’s important to note that while the UN plays a crucial role in these conversations, the organization itself has a distinct positionality. Hence,\n> participants of consultations may feel obligated to engage or give specific “correct” answers which they believe the UN would like to hear. Acknowledging the potential biases in responses and emphasizing the voluntary nature of the consultations can help alleviate this, as can encouraging participants to ask questions before or after the consultation about their purpose.\n",
+      "project-status": "Complete",
+      "headline-findings": "Key findings from consultations in Morocco include:\n\n•\tMaintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. \n•\tResponsibility: We noted that when asked about “something going wrong” with AI, responses immediately focused on misuse of the technology, with little to no mention of AI hallucination or other malfunction. When mentioned, tech malfunction examples were often about non-AI based tech. Throughout the consultations, developers were often mentioned to be responsible for AI. However, there was also a strong sentiment that the responsibility for mitigating local risks of AI fell largely on Moroccans. The reasons behind this sentiment differed: some felt that developers had already done what they could to mitigate risk, while others believed that technology makers were solely interested in profit and disregarded the risks. Trust in developers was stronger among people who were avid users of AI, or who worked in AI development. Parents and teachers were among the other groups of people mentioned as holding responsibility over AI use.\n•\tStrong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. \n\nKey findings from consultations in Paraguay include: \n\n•\tPeople consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.\n•\tIncreasing levels of education among participants also correlated with increasing positive sentiments, decreasing negative sentiments, and decreasing sentiments of uncertainty regarding the impacts of the technology. Similarly, being male was associated with a slightly higher sentiment.\n•\tConcerns about a lack of localization of technology were mentioned in several expert interviews. Technology is frequently directly translated from the Global North without adequate consideration of its applicability within local contexts, perpetuating a broader colonial legacy of resource extraction. Paraguay is a bilingual country with 70% of the population speaking both Spanish and Guarani. Guarani is mostly a spoken language, resulting in a scarcity of digital text which can be used for training datasets, an important component of building AI models. Given that Guarani is more prominent among the less digitally connected people, the prominence of language skills intersects to create the potential for compounding dysconnectivity.\n",
+      "participants": [
+        "a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists",
+        "a-framework-for-national-dialogues-on-frontier-technologies-association-that-brings-together-stakeho",
+        "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-students",
+        "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-heads-of-the-ngos",
+        "a-framework-for-national-dialogues-on-frontier-technologies-union-for-educators-in-morocco-marginali",
+        "a-framework-for-national-dialogues-on-frontier-technologies-ngo-dedicated-to-the-economic-and-social",
+        "a-framework-for-national-dialogues-on-frontier-technologies-in-person-focus-group",
+        "a-framework-for-national-dialogues-on-frontier-technologies-online-focus-group",
+        "a-framework-for-national-dialogues-on-frontier-technologies-online-surveys",
+        "a-framework-for-national-dialogues-on-frontier-technologies-street-consultations"
+      ],
+      "participation-locations": "Morocco, Paraguay",
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "messages": [
+        "maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va",
+        "strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the",
+        "people-consulted-in-the-corporate-zone-of-asuncionpresumably-a-more-affluent-demographicwere-general"
+      ],
+      "theme": [
+        "Artificial Intelligence",
+        "Public Services"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "qatar-fund-for-development-qffd",
+        "german-federal-ministry-of-economic-cooperation-and-development-bmz"
+      ],
+      "additional-acknowledgements": "Ahmed Al Qutaini, Akmaral Bekbossynova, Gloria Gerhardt, Medhavi Hassija, Josephine Hebling, Sharif Kazemi, Zhengzhou (Steve) Li, Liv Newkirk, Amy Utomo, Dr. Savita Bailur",
+      "inclusion-efforts": "We conducted consultations with women and men from diverse socio-economic and cultural backgrounds with varying degrees of technical knowledge: \n\nIn Morocco we spoke to 119 individuals, including members of grassroots organizations, marginalized youth, students, activists, unions, NGOs, and civil servants in three languages (Arabic, French and English).\n\nIn Paraguay, we engaged with 88 individuals, including civil servants, actors of the private sector, academics, AI experts, and farmers in rural settings mostly in Spanish, although knowledge of Guarani was needed to interpret some of the answers. \n",
+      "project-title": "A Framework for National Dialogues on Frontier Technologies",
+      "submitted-by": "Jeremy Boy",
+      "why-is-this-project-important-to-include-in-the": "Our Consultation Framework proposes a way to anchor conversations around participants' recent technological interactions to avoid getting lost in abstraction. Indeed, discussions on frontier technologies, such as AI, tend to be abstract. Questions like “how can AI be deployed in an ethical manner?” or “how is AI going to change the nature of work?” beg specification of what is meant by AI and who is likely to be impacted. To make things more complicated, advanced technologies sometimes go unseen. They can be embedded in complex systems, and their implications and importance go unrecognized, even by those who use these systems. The infrastructure they require and the means through which they are deployed also vary across locations and sectors.\n\nTo address these challenges, our Framework offers a flexible foundation for structuring consultations, rather than a prescriptive checklist of action items. The recommendations it provides should be adapted for specific frontier technologies (like AI or bioengineering), national contexts, or technological maturity, to ensure situated, inclusive and insightful conversations. We hope that supporting these kinds of consultations will create space for new dialogues and ultimately diversify inputs to global conversations on these technologies.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "a-framework-for-national-dialogues-on-frontier-technologies-understanding-global-south-perspectives",
+        "a-framework-for-national-dialogues-on-frontier-technologies-background-report"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Frontier technologies, such as Artificial Intelligence (AI), blockchain, the metaverse, 3D printing or brain-computer-interfaces.",
+      "how-was-the-project-initiated": [
+        "Other"
+      ],
+      "geographic-scope": [
+        "morocco",
+        "paraguay"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "undp-paraguay",
+        "undp-morocco"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.undp.org/acceleratorlabs/publications/framework-frontier-tech",
+      "locations": [
+        "morocco",
+        "paraguay"
+      ],
+      "where-were-participants-from": [
+        "Asunción",
+        "Berkane",
+        "Oujda",
+        "Paraguay",
+        "Rabat",
+        "Salé"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-focus-group",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Online focus group",
+          "airtable_id": "7346fdab5d231821",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-focus-group",
+          "locations": [
+            "paraguay"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Paraguay",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Online focus group",
+          "group-description": "Online focus group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 15,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay.",
+          "was-there-a-specific-target-population": "Online focus groups were conducted in two instances, one with the private sector and another with academics and activists engaged in the local AI landscape.",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-street-consultations",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Street consultations",
+          "airtable_id": "c40aa05a5b3a80de",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-street-consultations",
+          "locations": [
+            "paraguay"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Paraguay",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.3,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Street consultations",
+          "group-description": "Street consultations",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 41,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay",
+          "was-there-a-specific-target-population": "Street consultations were conducted on separate days in locations with different socio-economic characteristics to act as a proxy for the participants’ income.",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-in-person-focus-group",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-In-person focus group",
+          "airtable_id": "21a3b1bf758f7aaa",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-in-person-focus-group",
+          "locations": [
+            "paraguay"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Asunción",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "A Framework for National Dialogues on Frontier Technologies-In-person focus group",
+          "group-description": "In-person focus group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 6,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay.",
+          "was-there-a-specific-target-population": "Public sector civil servants from the Paraguayan ministry of information technology and communication (MITIC)",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Association Positive, Students, Activists, Public Servants",
+          "airtable_id": "ed3534e901b6c0c8",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Berkane",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Association Positive, Students, Activists, Public Servants",
+          "group-description": "Association Positive, Students, Activists, Public Servants",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 16,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done through a local partner organization: Majal Berkane.",
+          "was-there-a-specific-target-population": "Association Positive, Students, Activists, Public Servants",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-that-brings-together-stakeho",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+          "airtable_id": "82fe23c07c4871e4",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-that-brings-together-stakeho",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Oujda",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+          "group-description": "Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 29,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done through a local partner organization: Cluster Valbiom Maroc",
+          "was-there-a-specific-target-population": "Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-surveys",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Online surveys",
+          "airtable_id": "194f473a936a05c0",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-surveys",
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Paraguay",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.25,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Online surveys",
+          "group-description": "Online surveys",
+          "how-many-people-took-part": 26,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done via Whatsapp.",
+          "was-there-a-specific-target-population": "Online surveys were distributed across multiple WhatsApp group chats.",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-heads-of-the-ngos",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (heads of the NGOs)",
+          "airtable_id": "c2469bab9e06ea98",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-heads-of-the-ngos",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Salé",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (heads of the NGOs)",
+          "group-description": "Grassroots org (heads of the NGOs)",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 17,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done through a local partner organization: Association Amal Salé",
+          "was-there-a-specific-target-population": "Grassroots org (heads of the NGOs)",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-ngo-dedicated-to-the-economic-and-social",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-NGO dedicated to the economic and social inclusion of marginalized groups",
+          "airtable_id": "4db9dca75e7f1f29",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-ngo-dedicated-to-the-economic-and-social",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Rabat",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-NGO dedicated to the economic and social inclusion of marginalized groups",
+          "group-description": "NGO dedicated to the economic and social inclusion of marginalized groups",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 12,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Ababou Foundation",
+          "was-there-a-specific-target-population": "NGO dedicated to the economic and social inclusion of marginalized groups",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-union-for-educators-in-morocco-marginali",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+          "airtable_id": "2d2117ebef3b2397",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-union-for-educators-in-morocco-marginali",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Rabat",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+          "group-description": "Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 21,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done through a local partner organization: Corps Marocain pour Education et Développement",
+          "was-there-a-specific-target-population": "Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-students",
+        "data": {
+          "layout": "generic",
+          "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (Students)",
+          "airtable_id": "e770ed6ba5a277cd",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-students",
+          "locations": [
+            "morocco"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Salé",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (Students)",
+          "group-description": "Grassroots org (Students)",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 24,
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "recruitment-description": "Recruitment was done through a local partner organization: Association Amal Salé",
+          "was-there-a-specific-target-population": "Grassroots org (Students)",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "qatar-fund-for-development-qffd",
+        "data": {
+          "layout": "organisation",
+          "title": "Qatar Fund For Development (QFFD)",
+          "airtable_id": "c1679c160faeb973",
+          "slug": "qatar-fund-for-development-qffd",
+          "role": [
+            "Funder"
+          ],
+          "name": "Qatar Fund For Development (QFFD)",
+          "funding-organisation-for": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "undp-accelerator-labs",
+        "data": {
+          "layout": "organisation",
+          "title": "UNDP Accelerator Labs",
+          "airtable_id": "c22d22b6149ac4cc",
+          "slug": "undp-accelerator-labs",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://acceleratorlabs.undp.org/",
+          "name": "UNDP Accelerator Labs",
+          "lead-organisation-for": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "undp-paraguay",
+        "data": {
+          "layout": "organisation",
+          "title": "UNDP Paraguay",
+          "airtable_id": "48fc9fc95dcf29d4",
+          "slug": "undp-paraguay",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "name": "UNDP Paraguay",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "undp-morocco",
+        "data": {
+          "layout": "organisation",
+          "title": "UNDP Morocco",
+          "airtable_id": "d73df58790392020",
+          "slug": "undp-morocco",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "name": "UNDP Morocco",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "columbia-universitys-school-of-international-and-public-affairs",
+        "data": {
+          "layout": "organisation",
+          "title": "Columbia University’s School of International and Public Affairs",
+          "airtable_id": "e251e6c6f12e3f1f",
+          "slug": "columbia-universitys-school-of-international-and-public-affairs",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.sipa.columbia.edu/",
+          "name": "Columbia University’s School of International and Public Affairs",
+          "lead-organisation-for": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "main-location": [
+            "new-york-new-york-usa"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "german-federal-ministry-of-economic-cooperation-and-development-bmz",
+        "data": {
+          "layout": "organisation",
+          "title": "German Federal Ministry of Economic Cooperation and Development (BMZ)",
+          "airtable_id": "c5a6fa51c94f5cef",
+          "slug": "german-federal-ministry-of-economic-cooperation-and-development-bmz",
+          "role": [
+            "Funder"
+          ],
+          "name": "German Federal Ministry of Economic Cooperation and Development (BMZ)",
+          "funding-organisation-for": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the",
+        "data": {
+          "layout": "generic",
+          "title": "Strong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. ",
+          "airtable_id": "332a888969138567",
+          "slug": "strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the",
+          "type": "Issue",
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "name": "Strong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "people-consulted-in-the-corporate-zone-of-asuncionpresumably-a-more-affluent-demographicwere-general",
+        "data": {
+          "layout": "generic",
+          "title": "People consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.",
+          "airtable_id": "8b9bcdc3e24f7f50",
+          "slug": "people-consulted-in-the-corporate-zone-of-asuncionpresumably-a-more-affluent-demographicwere-general",
+          "type": "Issue",
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "name": "People consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va",
+        "data": {
+          "layout": "generic",
+          "title": "Maintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. ",
+          "airtable_id": "b42436c7e6178d7b",
+          "slug": "maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "name": "Maintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. ",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "layout": "generic",
+          "slug": "a-framework-for-national-dialogues-on-frontier-technologies-process",
+          "title": "A Framework for National Dialogues on Frontier Technologies - Process",
+          "theme": [
+            "Artificial Intelligence",
+            "Public Services"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Online focus group",
+        "airtable_id": "7346fdab5d231821",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-focus-group",
+        "locations": [
+          "paraguay"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Paraguay",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Online focus group",
+        "group-description": "Online focus group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 15,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay.",
+        "was-there-a-specific-target-population": "Online focus groups were conducted in two instances, one with the private sector and another with academics and activists engaged in the local AI landscape.",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Street consultations",
+        "airtable_id": "c40aa05a5b3a80de",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-street-consultations",
+        "locations": [
+          "paraguay"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Paraguay",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.3,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Street consultations",
+        "group-description": "Street consultations",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 41,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay",
+        "was-there-a-specific-target-population": "Street consultations were conducted on separate days in locations with different socio-economic characteristics to act as a proxy for the participants’ income.",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-In-person focus group",
+        "airtable_id": "21a3b1bf758f7aaa",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-in-person-focus-group",
+        "locations": [
+          "paraguay"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Asunción",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "A Framework for National Dialogues on Frontier Technologies-In-person focus group",
+        "group-description": "In-person focus group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 6,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done by the UNDP Accelerator Lab in Paraguay.",
+        "was-there-a-specific-target-population": "Public sector civil servants from the Paraguayan ministry of information technology and communication (MITIC)",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Association Positive, Students, Activists, Public Servants",
+        "airtable_id": "ed3534e901b6c0c8",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Berkane",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Association Positive, Students, Activists, Public Servants",
+        "group-description": "Association Positive, Students, Activists, Public Servants",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 16,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done through a local partner organization: Majal Berkane.",
+        "was-there-a-specific-target-population": "Association Positive, Students, Activists, Public Servants",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+        "airtable_id": "82fe23c07c4871e4",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-association-that-brings-together-stakeho",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Oujda",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+        "group-description": "Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 29,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done through a local partner organization: Cluster Valbiom Maroc",
+        "was-there-a-specific-target-population": "Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Online surveys",
+        "airtable_id": "194f473a936a05c0",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-online-surveys",
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Paraguay",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.25,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Online surveys",
+        "group-description": "Online surveys",
+        "how-many-people-took-part": 26,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done via Whatsapp.",
+        "was-there-a-specific-target-population": "Online surveys were distributed across multiple WhatsApp group chats.",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (heads of the NGOs)",
+        "airtable_id": "c2469bab9e06ea98",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-heads-of-the-ngos",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Salé",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (heads of the NGOs)",
+        "group-description": "Grassroots org (heads of the NGOs)",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 17,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done through a local partner organization: Association Amal Salé",
+        "was-there-a-specific-target-population": "Grassroots org (heads of the NGOs)",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-NGO dedicated to the economic and social inclusion of marginalized groups",
+        "airtable_id": "4db9dca75e7f1f29",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-ngo-dedicated-to-the-economic-and-social",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Rabat",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-NGO dedicated to the economic and social inclusion of marginalized groups",
+        "group-description": "NGO dedicated to the economic and social inclusion of marginalized groups",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 12,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Ababou Foundation",
+        "was-there-a-specific-target-population": "NGO dedicated to the economic and social inclusion of marginalized groups",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+        "airtable_id": "2d2117ebef3b2397",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-union-for-educators-in-morocco-marginali",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Rabat",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+        "group-description": "Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 21,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done through a local partner organization: Corps Marocain pour Education et Développement",
+        "was-there-a-specific-target-population": "Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (Students)",
+        "airtable_id": "e770ed6ba5a277cd",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-grassroots-org-students",
+        "locations": [
+          "morocco"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Salé",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (Students)",
+        "group-description": "Grassroots org (Students)",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 24,
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "recruitment-description": "Recruitment was done through a local partner organization: Association Amal Salé",
+        "was-there-a-specific-target-population": "Grassroots org (Students)",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "layout": "generic",
+        "slug": "a-framework-for-national-dialogues-on-frontier-technologies-process",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Process",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Qatar Fund For Development (QFFD)",
+        "airtable_id": "c1679c160faeb973",
+        "slug": "qatar-fund-for-development-qffd",
+        "role": [
+          "Funder"
+        ],
+        "name": "Qatar Fund For Development (QFFD)",
+        "funding-organisation-for": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UNDP Accelerator Labs",
+        "airtable_id": "c22d22b6149ac4cc",
+        "slug": "undp-accelerator-labs",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://acceleratorlabs.undp.org/",
+        "name": "UNDP Accelerator Labs",
+        "lead-organisation-for": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UNDP Paraguay",
+        "airtable_id": "48fc9fc95dcf29d4",
+        "slug": "undp-paraguay",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "name": "UNDP Paraguay",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UNDP Morocco",
+        "airtable_id": "d73df58790392020",
+        "slug": "undp-morocco",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "name": "UNDP Morocco",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Columbia University’s School of International and Public Affairs",
+        "airtable_id": "e251e6c6f12e3f1f",
+        "slug": "columbia-universitys-school-of-international-and-public-affairs",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.sipa.columbia.edu/",
+        "name": "Columbia University’s School of International and Public Affairs",
+        "lead-organisation-for": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "main-location": [
+          "new-york-new-york-usa"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "German Federal Ministry of Economic Cooperation and Development (BMZ)",
+        "airtable_id": "c5a6fa51c94f5cef",
+        "slug": "german-federal-ministry-of-economic-cooperation-and-development-bmz",
+        "role": [
+          "Funder"
+        ],
+        "name": "German Federal Ministry of Economic Cooperation and Development (BMZ)",
+        "funding-organisation-for": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Strong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. ",
+        "airtable_id": "332a888969138567",
+        "slug": "strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the",
+        "type": "Issue",
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "name": "Strong desire for AI training: Another theme was the importance of access to training on AI. While the specific objectives or content of the training were not explicitly outlined by participants, there was a clear and consistent emphasis on the importance of AI education. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "People consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.",
+        "airtable_id": "8b9bcdc3e24f7f50",
+        "slug": "people-consulted-in-the-corporate-zone-of-asuncionpresumably-a-more-affluent-demographicwere-general",
+        "type": "Issue",
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "name": "People consulted in the corporate zone of Asuncion—presumably a more affluent demographic—were generally more positive about how AI might impact their future than people in the market and rural areas—generally poorer and less connected.",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Maintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. ",
+        "airtable_id": "b42436c7e6178d7b",
+        "slug": "maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "name": "Maintaining values and integrity: One consistent theme was a strong desire to ensure that “Moroccan values” were maintained through any use of AI, particularly ensuring that a strong human component accompanies any use of the technology. ",
+        "theme": [
+          "Artificial Intelligence",
+          "Public Services"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

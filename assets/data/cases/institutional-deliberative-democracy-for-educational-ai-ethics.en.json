@@ -1,0 +1,173 @@
+{
+  "slug": "institutional-deliberative-democracy-for-educational-ai-ethics",
+  "lang": "en",
+  "structure": "process-centric",
+  "case_data": {
+    "layout": "case",
+    "title": "Institutional Deliberative Democracy for Educational AI Ethics",
+    "airtable_id": "1bf9a15baeb31ca7",
+    "slug": "institutional-deliberative-democracy-for-educational-ai-ethics",
+    "redirect_from": [
+      "/c/1bf9a15baeb31ca7/"
+    ],
+    "lead-organisations": [
+      "university-of-technology-sydney"
+    ],
+    "provide-a-brief-description-of-the-project": "A deliberative process was held the the University of Technology, Sydney, with students, academics and tutors to answer the question, \"What principles should govern UTS use of analytics and artificial intelligence to improve teaching and learning for all, while minimising the possibility of harmful outcomes?\" A deliberative mini public of 20 was selected through stratified sampling from UTS students, casual tutors and academics, who engaged in a series of five online workshops over seven weeks. With little to no prior knowledge among most members, they learned about the topic, worked well together, and converged on a set of principles that they felt reflected their shared values. The university experts who were involved in the workshops recognised the quality of the progress made in such a short period. \n",
+    "project-status": "Complete",
+    "headline-findings": "1. UTS is accountable to the university community and its stakeholders in the open, transparent, fair and equitable use of AAI-EdTech.\n2. UTS should aim to reduce bias involved in AAI-EdTech programs, and maintain the fairness in their development, use, and application of these tools.\n3. UTS should aim to ensure that AI-Edutech programs promote social justice and are equitable and accessible. This includes ensuring equitable access to information and technology that is delivered in language and formats that reflect the diverse needs of the UTS community and equitable access and input to the review of AI-Edutech systems.\n4. The data lifecycle is managed safely and with the intent of assuring security for all.\n5. UTS commits to preserving human autonomy, agency and decision-making while harnessing the opportunities presented by AAI-EdTech.\n6. All consent should be based on transparency and each individual should be able to make an informed and voluntary decision about the level of consent they decide with each system, and in an ongoing way.\n",
+    "participation-locations": "Sydney, Australia",
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Education"
+    ],
+    "what-year-did-the-project-start": 2021,
+    "inclusion-efforts": "The initiative was advertised within UTS via a public website email lists and social media channels targeting Academics, Tutors and Students. 131 expressions of interest were received. Each of the 4 (three?) categories of participant was balanced for gender (2F, 2M) as far as possible, although only 1 male academic volunteered. For staff each category was also balanced for Faculty, such that there was only one staff representative of each discipline per category, spanning 8 disciplines. Similarly, each student category (Undergrad/Postgrad) was balanced for discipline, ensuring to include any disciplines not represented in the staff. Students were also balanced for junior (Year 1-2) and senior (Year 3-4). Attention was paid to balancing English as a Second Language (ESL) as far as possible within the above constraints. A particular effort made to recruit students declaring Indigenous status, given their underrepresented status in higher education and ed-tech development (1 undergrad, 2 postgrads).\n",
+    "project-title": "Institutional Deliberative Democracy for Educational AI Ethics",
+    "why-is-this-project-important-to-include-in-the": "Deliberative Democracy [...] would appear to offer educational institutions an approach to address the urgent need for meaningful student/staff consultation on the ethical implications of introducing Learning Analytics and Artificial Intelligence into teaching and learning.",
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "UTS community was brought together to deliberate on the University's obligations and principles regarding AI in the education space.",
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2021,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://cic.uts.edu.au/wp-content/uploads/2022/02/UTS_EdTechEthics_DelibDemocracy_Jan2022.pdf"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "institutional-deliberative-democracy-for-educational-ai-ethics",
+    "data": {
+      "layout": "case",
+      "title": "Institutional Deliberative Democracy for Educational AI Ethics",
+      "airtable_id": "1bf9a15baeb31ca7",
+      "slug": "institutional-deliberative-democracy-for-educational-ai-ethics",
+      "redirect_from": [
+        "/c/1bf9a15baeb31ca7/"
+      ],
+      "lead-organisations": [
+        "university-of-technology-sydney"
+      ],
+      "provide-a-brief-description-of-the-project": "A deliberative process was held the the University of Technology, Sydney, with students, academics and tutors to answer the question, \"What principles should govern UTS use of analytics and artificial intelligence to improve teaching and learning for all, while minimising the possibility of harmful outcomes?\" A deliberative mini public of 20 was selected through stratified sampling from UTS students, casual tutors and academics, who engaged in a series of five online workshops over seven weeks. With little to no prior knowledge among most members, they learned about the topic, worked well together, and converged on a set of principles that they felt reflected their shared values. The university experts who were involved in the workshops recognised the quality of the progress made in such a short period. \n",
+      "project-status": "Complete",
+      "headline-findings": "1. UTS is accountable to the university community and its stakeholders in the open, transparent, fair and equitable use of AAI-EdTech.\n2. UTS should aim to reduce bias involved in AAI-EdTech programs, and maintain the fairness in their development, use, and application of these tools.\n3. UTS should aim to ensure that AI-Edutech programs promote social justice and are equitable and accessible. This includes ensuring equitable access to information and technology that is delivered in language and formats that reflect the diverse needs of the UTS community and equitable access and input to the review of AI-Edutech systems.\n4. The data lifecycle is managed safely and with the intent of assuring security for all.\n5. UTS commits to preserving human autonomy, agency and decision-making while harnessing the opportunities presented by AAI-EdTech.\n6. All consent should be based on transparency and each individual should be able to make an informed and voluntary decision about the level of consent they decide with each system, and in an ongoing way.\n",
+      "participation-locations": "Sydney, Australia",
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Education"
+      ],
+      "what-year-did-the-project-start": 2021,
+      "inclusion-efforts": "The initiative was advertised within UTS via a public website email lists and social media channels targeting Academics, Tutors and Students. 131 expressions of interest were received. Each of the 4 (three?) categories of participant was balanced for gender (2F, 2M) as far as possible, although only 1 male academic volunteered. For staff each category was also balanced for Faculty, such that there was only one staff representative of each discipline per category, spanning 8 disciplines. Similarly, each student category (Undergrad/Postgrad) was balanced for discipline, ensuring to include any disciplines not represented in the staff. Students were also balanced for junior (Year 1-2) and senior (Year 3-4). Attention was paid to balancing English as a Second Language (ESL) as far as possible within the above constraints. A particular effort made to recruit students declaring Indigenous status, given their underrepresented status in higher education and ed-tech development (1 undergrad, 2 postgrads).\n",
+      "project-title": "Institutional Deliberative Democracy for Educational AI Ethics",
+      "why-is-this-project-important-to-include-in-the": "Deliberative Democracy [...] would appear to offer educational institutions an approach to address the urgent need for meaningful student/staff consultation on the ethical implications of introducing Learning Analytics and Artificial Intelligence into teaching and learning.",
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "UTS community was brought together to deliberate on the University's obligations and principles regarding AI in the education space.",
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2021,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://cic.uts.edu.au/wp-content/uploads/2022/02/UTS_EdTechEthics_DelibDemocracy_Jan2022.pdf"
+    },
+    "children": [
+      {
+        "type": "organisation",
+        "slug": "university-of-technology-sydney",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Technology, Sydney",
+          "airtable_id": "cd4acb02f74f006e",
+          "slug": "university-of-technology-sydney",
+          "role": [
+            "Lead"
+          ],
+          "name": "University of Technology, Sydney",
+          "lead-organisation-for": [
+            "institutional-deliberative-democracy-for-educational-ai-ethics"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "institutional-deliberative-democracy-for-educational-ai-ethics"
+          ],
+          "layout": "generic",
+          "slug": "institutional-deliberative-democracy-for-educational-ai-ethics-process",
+          "title": "Institutional Deliberative Democracy for Educational AI Ethics - Process",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [],
+    "processes": [
+      {
+        "cases": [
+          "institutional-deliberative-democracy-for-educational-ai-ethics"
+        ],
+        "layout": "generic",
+        "slug": "institutional-deliberative-democracy-for-educational-ai-ethics-process",
+        "title": "Institutional Deliberative Democracy for Educational AI Ethics - Process",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "University of Technology, Sydney",
+        "airtable_id": "cd4acb02f74f006e",
+        "slug": "university-of-technology-sydney",
+        "role": [
+          "Lead"
+        ],
+        "name": "University of Technology, Sydney",
+        "lead-organisation-for": [
+          "institutional-deliberative-democracy-for-educational-ai-ethics"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

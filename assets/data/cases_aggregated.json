@@ -4,7 +4,9 @@
     "slug": "collaborative-ai-governance-for-tomorrows-democracies-1",
     "url": "/cases/collaborative-ai-governance-for-tomorrows-democracies-1.html",
     "curation_decision": "Mapping Entry",
-    "themes": [],
+    "themes": [
+      "Artificial Intelligence"
+    ],
     "level_of_engagement": "Global",
     "modalities": [
       "Online"
@@ -34,7 +36,9 @@
     "slug": "debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals",
     "url": "/cases/debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professionals.html",
     "curation_decision": "Mapping Entry",
-    "themes": [],
+    "themes": [
+      "Education"
+    ],
     "level_of_engagement": "Community",
     "modalities": [
       "Offline"
@@ -86,7 +90,7 @@
     ],
     "participants": [
       {
-        "title": "Edinburgh Students' Assembly on GenAI in Higher Education-Students",
+        "title": "Edinburgh Students' Assembly on GenAI in Higher Education - Students",
         "count": 17,
         "locations_list": "Edinburgh, Scotland, United Kingdom",
         "locations": [
@@ -101,7 +105,7 @@
     "organisations": [
       {
         "title": "University of Edinburgh",
-        "url": "/organisations/university-of-edinburgh-1/",
+        "url": "/organisations/university-of-edinburgh/",
         "locations": [
           {
             "lat": 55.9533,
@@ -195,6 +199,7 @@
       "PH",
       "PK",
       "PL",
+      "PS",
       "PT",
       "RO",
       "RU",
@@ -233,24 +238,14 @@
     ],
     "participants": [
       {
-        "title": "Collective Intelligence Project Global Dialogues-November 2024",
+        "title": "Collective Intelligence Project Global Dialogues - November 2024",
         "count": 1253,
-        "locations_list": "Algeria, Angola, Antigua & Deps, Argentina, Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Colombia, Costa Rica, Croatia, Czech Republic, Denmark, Egypt, Eritrea, Fiji, Finland, France, Georgia, Germany, Ghana, Greece, Hungary, Iceland, India, Indonesia, Ireland {Republic}, Israel, Italy, Japan, Kazakhstan, Kenya, Korea South, Malawi, Malaysia, Mexico, Mongolia, Morocco, Nepal, Netherlands, New Zealand, Nigeria, Norway, Pakistan, Palestine, Panama, Peru, Philippines, Poland, Portugal, Romania, Russian Federation, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sweden, Switzerland, Tanzania, Trinidad & Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan, Venezuela, Vietnam",
+        "locations_list": "Antigua & Deps, United Arab Emirates, Armenia, Angola, Trinidad & Tobago, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Colombia, Costa Rica, Czech Republic, Germany, Denmark, Algeria, Egypt, Eritrea, Spain, Finland, Fiji, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Iceland, Italy, Japan, Kenya, Korea South, Kazakhstan, Morocco, Mongolia, Malawi, Mexico, Malaysia, Nigeria, Netherlands, Norway, Nepal, New Zealand, Panama, Peru, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sweden, Singapore, Slovakia, Tunisia, Turkey, Tanzania, Ukraine, United States, Georgia, Uzbekistan, Venezuela, Vietnam, South Africa",
         "locations": [
           {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
-          },
-          {
-            "lat": -11.8775768,
-            "lng": 17.5691241,
-            "location_name": "Angola"
-          },
-          {
-            "lat": -34.9964963,
-            "lng": -64.9672817,
-            "location_name": "Argentina"
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
           },
           {
             "lat": 40.7696272,
@@ -258,14 +253,29 @@
             "location_name": "Armenia"
           },
           {
-            "lat": -24.7761086,
-            "lng": 134.755,
-            "location_name": "Australia"
+            "lat": -11.8775768,
+            "lng": 17.5691241,
+            "location_name": "Angola"
+          },
+          {
+            "lat": -39.036242,
+            "lng": -67.5499163,
+            "location_name": "Trinidad & Tobago"
+          },
+          {
+            "lat": -34.9964963,
+            "lng": -64.9672817,
+            "location_name": "Argentina"
           },
           {
             "lat": 47.59397,
             "lng": 14.12456,
             "location_name": "Austria"
+          },
+          {
+            "lat": -24.7761086,
+            "lng": 134.755,
+            "location_name": "Australia"
           },
           {
             "lat": 24.4769288,
@@ -286,6 +296,11 @@
             "lat": 56.1304,
             "lng": -106.3468,
             "location_name": "Canada"
+          },
+          {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
           },
           {
             "lat": -31.7613365,
@@ -308,19 +323,24 @@
             "location_name": "Costa Rica"
           },
           {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
-          },
-          {
             "lat": 49.7439047,
             "lng": 15.3381061,
             "location_name": "Czech Republic"
           },
           {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          },
+          {
             "lat": 55.670249,
             "lng": 10.3333283,
             "location_name": "Denmark"
+          },
+          {
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
           },
           {
             "lat": 26.2540493,
@@ -333,9 +353,9 @@
             "location_name": "Eritrea"
           },
           {
-            "lat": -18.1239696,
-            "lng": 179.0122737,
-            "location_name": "Fiji"
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -343,19 +363,19 @@
             "location_name": "Finland"
           },
           {
+            "lat": -18.1239696,
+            "lng": 179.0122737,
+            "location_name": "Fiji"
+          },
+          {
             "lat": 46.603354,
             "lng": 1.8883335,
             "location_name": "France"
           },
           {
-            "lat": 32.3293809,
-            "lng": -83.1137366,
-            "location_name": "Georgia"
-          },
-          {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 8.0300284,
@@ -368,19 +388,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 64.9841821,
-            "lng": -18.1059013,
-            "location_name": "Iceland"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -398,6 +413,16 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
+            "lat": 64.9841821,
+            "lng": -18.1059013,
+            "location_name": "Iceland"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
@@ -406,11 +431,6 @@
             "lat": 36.5748441,
             "lng": 139.2394179,
             "location_name": "Japan"
-          },
-          {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
           },
           {
             "lat": 1.4419683,
@@ -423,24 +443,9 @@
             "location_name": "Korea South"
           },
           {
-            "lat": -13.2687204,
-            "lng": 33.9301963,
-            "location_name": "Malawi"
-          },
-          {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
-          },
-          {
-            "lat": 23.6585116,
-            "lng": -102.0077097,
-            "location_name": "Mexico"
-          },
-          {
-            "lat": 46.8250388,
-            "lng": 103.8499736,
-            "location_name": "Mongolia"
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
           },
           {
             "lat": 28.3347722,
@@ -448,19 +453,24 @@
             "location_name": "Morocco"
           },
           {
-            "lat": 28.3780464,
-            "lng": 83.9999901,
-            "location_name": "Nepal"
+            "lat": 46.8250388,
+            "lng": 103.8499736,
+            "location_name": "Mongolia"
           },
           {
-            "lat": 52.2434979,
-            "lng": 5.6343227,
-            "location_name": "Netherlands"
+            "lat": -13.2687204,
+            "lng": 33.9301963,
+            "location_name": "Malawi"
           },
           {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
+            "lat": 23.6585116,
+            "lng": -102.0077097,
+            "location_name": "Mexico"
+          },
+          {
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
           },
           {
             "lat": 9.6000359,
@@ -468,19 +478,24 @@
             "location_name": "Nigeria"
           },
           {
+            "lat": 52.2434979,
+            "lng": 5.6343227,
+            "location_name": "Netherlands"
+          },
+          {
             "lat": 61.1529386,
             "lng": 8.7876653,
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
+            "lat": 28.3780464,
+            "lng": 83.9999901,
+            "location_name": "Nepal"
           },
           {
-            "lat": 31.462421,
-            "lng": 34.2627215,
-            "location_name": "Palestine"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 8.559559,
@@ -498,9 +513,19 @@
             "location_name": "Philippines"
           },
           {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
+          },
+          {
             "lat": 52.215933,
             "lng": 19.134422,
             "location_name": "Poland"
+          },
+          {
+            "lat": 31.462421,
+            "lng": 34.2627215,
+            "location_name": "Palestine"
           },
           {
             "lat": 39.6621648,
@@ -523,6 +548,11 @@
             "location_name": "Saudi Arabia"
           },
           {
+            "lat": 59.6749712,
+            "lng": 14.5208584,
+            "location_name": "Sweden"
+          },
+          {
             "lat": 1.357107,
             "lng": 103.8194992,
             "location_name": "Singapore"
@@ -531,36 +561,6 @@
             "lat": 48.7411522,
             "lng": 19.4528646,
             "location_name": "Slovakia"
-          },
-          {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
-          },
-          {
-            "lat": 59.6749712,
-            "lng": 14.5208584,
-            "location_name": "Sweden"
-          },
-          {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
-          },
-          {
-            "lat": -6.5247123,
-            "lng": 35.7878438,
-            "location_name": "Tanzania"
-          },
-          {
-            "lat": -39.036242,
-            "lng": -67.5499163,
-            "location_name": "Trinidad & Tobago"
           },
           {
             "lat": 33.8439408,
@@ -573,24 +573,24 @@
             "location_name": "Turkey"
           },
           {
+            "lat": -6.5247123,
+            "lng": 35.7878438,
+            "location_name": "Tanzania"
+          },
+          {
             "lat": 49.4871968,
             "lng": 31.2718321,
             "location_name": "Ukraine"
           },
           {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
-          {
             "lat": 39.7837304,
             "lng": -100.445882,
             "location_name": "United States"
+          },
+          {
+            "lat": 32.3293809,
+            "lng": -83.1137366,
+            "location_name": "Georgia"
           },
           {
             "lat": 41.32373,
@@ -606,18 +606,23 @@
             "lat": 15.9266657,
             "lng": 107.9650855,
             "location_name": "Vietnam"
+          },
+          {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
           }
         ]
       },
       {
-        "title": "Collective Intelligence Project Global Dialogues-January 2025",
+        "title": "Collective Intelligence Project Global Dialogues - January 2025",
         "count": 1071,
-        "locations_list": "Algeria, Angola, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Croatia, Denmark, Dominican Republic, Egypt, Eritrea, Fiji, Finland, France, Germany, Greece, Hungary, India, Indonesia, Ireland {Republic}, Israel, Italy, Japan, Kazakhstan, Kenya, Korea South, Malawi, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Pakistan, Palestine, Philippines, Poland, Portugal, Romania, Russian Federation, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan, Venezuela, Vietnam, Zimbabwe",
+        "locations_list": "United Arab Emirates, Angola, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Germany, Denmark, Dominican Republic, Algeria, Egypt, Eritrea, Spain, Finland, Fiji, France, United Kingdom, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Italy, Japan, Kenya, Korea South, Kazakhstan, Sri Lanka, Morocco, Malawi, Mexico, Malaysia, Netherlands, Norway, New Zealand, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sudan, Sweden, Singapore, Slovakia, Tunisia, Turkey, Ukraine, United States, Uzbekistan, Venezuela, Vietnam, South Africa, Zimbabwe",
         "locations": [
           {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
           },
           {
             "lat": -11.8775768,
@@ -630,14 +635,14 @@
             "location_name": "Argentina"
           },
           {
-            "lat": -24.7761086,
-            "lng": 134.755,
-            "location_name": "Australia"
-          },
-          {
             "lat": 47.59397,
             "lng": 14.12456,
             "location_name": "Austria"
+          },
+          {
+            "lat": -24.7761086,
+            "lng": 134.755,
+            "location_name": "Australia"
           },
           {
             "lat": 24.4769288,
@@ -660,6 +665,11 @@
             "location_name": "Canada"
           },
           {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
+          },
+          {
             "lat": -31.7613365,
             "lng": -71.3187697,
             "location_name": "Chile"
@@ -670,9 +680,9 @@
             "location_name": "China"
           },
           {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
           },
           {
             "lat": 55.670249,
@@ -685,6 +695,11 @@
             "location_name": "Dominican Republic"
           },
           {
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
+          },
+          {
             "lat": 26.2540493,
             "lng": 29.2675469,
             "location_name": "Egypt"
@@ -695,9 +710,9 @@
             "location_name": "Eritrea"
           },
           {
-            "lat": -18.1239696,
-            "lng": 179.0122737,
-            "location_name": "Fiji"
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -705,14 +720,19 @@
             "location_name": "Finland"
           },
           {
+            "lat": -18.1239696,
+            "lng": 179.0122737,
+            "location_name": "Fiji"
+          },
+          {
             "lat": 46.603354,
             "lng": 1.8883335,
             "location_name": "France"
           },
           {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 38.9953683,
@@ -720,14 +740,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -745,6 +765,11 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
@@ -753,11 +778,6 @@
             "lat": 36.5748441,
             "lng": 139.2394179,
             "location_name": "Japan"
-          },
-          {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
           },
           {
             "lat": 1.4419683,
@@ -770,19 +790,14 @@
             "location_name": "Korea South"
           },
           {
-            "lat": -13.2687204,
-            "lng": 33.9301963,
-            "location_name": "Malawi"
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
           },
           {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
-          },
-          {
-            "lat": 23.6585116,
-            "lng": -102.0077097,
-            "location_name": "Mexico"
+            "lat": 7.5554942,
+            "lng": 80.7137847,
+            "location_name": "Sri Lanka"
           },
           {
             "lat": 28.3347722,
@@ -790,14 +805,24 @@
             "location_name": "Morocco"
           },
           {
+            "lat": -13.2687204,
+            "lng": 33.9301963,
+            "location_name": "Malawi"
+          },
+          {
+            "lat": 23.6585116,
+            "lng": -102.0077097,
+            "location_name": "Mexico"
+          },
+          {
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
+          },
+          {
             "lat": 52.2434979,
             "lng": 5.6343227,
             "location_name": "Netherlands"
-          },
-          {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
           },
           {
             "lat": 61.1529386,
@@ -805,14 +830,9 @@
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
-          },
-          {
-            "lat": 31.462421,
-            "lng": 34.2627215,
-            "location_name": "Palestine"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 12.7503486,
@@ -820,9 +840,19 @@
             "location_name": "Philippines"
           },
           {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
+          },
+          {
             "lat": 52.215933,
             "lng": 19.134422,
             "location_name": "Poland"
+          },
+          {
+            "lat": 31.462421,
+            "lng": 34.2627215,
+            "location_name": "Palestine"
           },
           {
             "lat": 39.6621648,
@@ -845,31 +875,6 @@
             "location_name": "Saudi Arabia"
           },
           {
-            "lat": 1.357107,
-            "lng": 103.8194992,
-            "location_name": "Singapore"
-          },
-          {
-            "lat": 48.7411522,
-            "lng": 19.4528646,
-            "location_name": "Slovakia"
-          },
-          {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
-          },
-          {
-            "lat": 7.5554942,
-            "lng": 80.7137847,
-            "location_name": "Sri Lanka"
-          },
-          {
             "lat": 14.5844444,
             "lng": 29.4917691,
             "location_name": "Sudan"
@@ -880,9 +885,14 @@
             "location_name": "Sweden"
           },
           {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
+            "lat": 1.357107,
+            "lng": 103.8194992,
+            "location_name": "Singapore"
+          },
+          {
+            "lat": 48.7411522,
+            "lng": 19.4528646,
+            "location_name": "Slovakia"
           },
           {
             "lat": 33.8439408,
@@ -898,16 +908,6 @@
             "lat": 49.4871968,
             "lng": 31.2718321,
             "location_name": "Ukraine"
-          },
-          {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
           },
           {
             "lat": 39.7837304,
@@ -930,6 +930,11 @@
             "location_name": "Vietnam"
           },
           {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
+          },
+          {
             "lat": -18.4554963,
             "lng": 29.7468414,
             "location_name": "Zimbabwe"
@@ -937,19 +942,14 @@
         ]
       },
       {
-        "title": "Collective Intelligence Project Global Dialogues-March 2025",
+        "title": "Collective Intelligence Project Global Dialogues - March 2025",
         "count": 967,
-        "locations_list": "Algeria, Argentina, Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Croatia, Cuba, Denmark, Egypt, Finland, France, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland {Republic}, Israel, Italy, Japan, Kazakhstan, Kenya, Korea South, Libya, Malawi, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Pakistan, Palestine, Panama, Philippines, Poland, Portugal, Romania, Russian Federation, Saint Vincent & the Grenadines, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sudan, Sweden, Switzerland, Tunisia, Türkiye, Ukraine, United Arab Emirates, United Kingdom, United States, Vietnam, Zimbabwe",
+        "locations_list": "United Arab Emirates, Armenia, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Cuba, Germany, Denmark, Algeria, Egypt, Spain, Finland, France, United Kingdom, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Iceland, Italy, Japan, Kenya, Korea South, Kazakhstan, Libya, Morocco, Malawi, Mexico, Malaysia, Netherlands, Norway, New Zealand, Panama, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sudan, Sweden, Singapore, Slovakia, Tunisia, Türkiye, Ukraine, United States, Saint Vincent & the Grenadines, Vietnam, South Africa, Zimbabwe",
         "locations": [
           {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
-          },
-          {
-            "lat": -34.9964963,
-            "lng": -64.9672817,
-            "location_name": "Argentina"
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
           },
           {
             "lat": 40.7696272,
@@ -957,14 +957,19 @@
             "location_name": "Armenia"
           },
           {
-            "lat": -24.7761086,
-            "lng": 134.755,
-            "location_name": "Australia"
+            "lat": -34.9964963,
+            "lng": -64.9672817,
+            "location_name": "Argentina"
           },
           {
             "lat": 47.59397,
             "lng": 14.12456,
             "location_name": "Austria"
+          },
+          {
+            "lat": -24.7761086,
+            "lng": 134.755,
+            "location_name": "Australia"
           },
           {
             "lat": 24.4769288,
@@ -987,6 +992,11 @@
             "location_name": "Canada"
           },
           {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
+          },
+          {
             "lat": -31.7613365,
             "lng": -71.3187697,
             "location_name": "Chile"
@@ -997,14 +1007,14 @@
             "location_name": "China"
           },
           {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
-          },
-          {
             "lat": 23.0131338,
             "lng": -80.8328748,
             "location_name": "Cuba"
+          },
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
           },
           {
             "lat": 55.670249,
@@ -1012,9 +1022,19 @@
             "location_name": "Denmark"
           },
           {
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
+          },
+          {
             "lat": 26.2540493,
             "lng": 29.2675469,
             "location_name": "Egypt"
+          },
+          {
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -1027,9 +1047,9 @@
             "location_name": "France"
           },
           {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 38.9953683,
@@ -1037,19 +1057,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 64.9841821,
-            "lng": -18.1059013,
-            "location_name": "Iceland"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -1067,6 +1082,16 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
+            "lat": 64.9841821,
+            "lng": -18.1059013,
+            "location_name": "Iceland"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
@@ -1075,11 +1100,6 @@
             "lat": 36.5748441,
             "lng": 139.2394179,
             "location_name": "Japan"
-          },
-          {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
           },
           {
             "lat": 1.4419683,
@@ -1092,24 +1112,14 @@
             "location_name": "Korea South"
           },
           {
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
+          },
+          {
             "lat": 26.8234472,
             "lng": 18.1236723,
             "location_name": "Libya"
-          },
-          {
-            "lat": -13.2687204,
-            "lng": 33.9301963,
-            "location_name": "Malawi"
-          },
-          {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
-          },
-          {
-            "lat": 23.6585116,
-            "lng": -102.0077097,
-            "location_name": "Mexico"
           },
           {
             "lat": 28.3347722,
@@ -1117,14 +1127,24 @@
             "location_name": "Morocco"
           },
           {
+            "lat": -13.2687204,
+            "lng": 33.9301963,
+            "location_name": "Malawi"
+          },
+          {
+            "lat": 23.6585116,
+            "lng": -102.0077097,
+            "location_name": "Mexico"
+          },
+          {
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
+          },
+          {
             "lat": 52.2434979,
             "lng": 5.6343227,
             "location_name": "Netherlands"
-          },
-          {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
           },
           {
             "lat": 61.1529386,
@@ -1132,14 +1152,9 @@
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
-          },
-          {
-            "lat": 31.462421,
-            "lng": 34.2627215,
-            "location_name": "Palestine"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 8.559559,
@@ -1152,9 +1167,19 @@
             "location_name": "Philippines"
           },
           {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
+          },
+          {
             "lat": 52.215933,
             "lng": 19.134422,
             "location_name": "Poland"
+          },
+          {
+            "lat": 31.462421,
+            "lng": 34.2627215,
+            "location_name": "Palestine"
           },
           {
             "lat": 39.6621648,
@@ -1172,34 +1197,9 @@
             "location_name": "Russian Federation"
           },
           {
-            "lat": 13.1354697,
-            "lng": -61.1963882,
-            "location_name": "Saint Vincent & the Grenadines"
-          },
-          {
             "lat": 25.6242618,
             "lng": 42.3528328,
             "location_name": "Saudi Arabia"
-          },
-          {
-            "lat": 1.357107,
-            "lng": 103.8194992,
-            "location_name": "Singapore"
-          },
-          {
-            "lat": 48.7411522,
-            "lng": 19.4528646,
-            "location_name": "Slovakia"
-          },
-          {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
           },
           {
             "lat": 14.5844444,
@@ -1212,9 +1212,14 @@
             "location_name": "Sweden"
           },
           {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
+            "lat": 1.357107,
+            "lng": 103.8194992,
+            "location_name": "Singapore"
+          },
+          {
+            "lat": 48.7411522,
+            "lng": 19.4528646,
+            "location_name": "Slovakia"
           },
           {
             "lat": 33.8439408,
@@ -1232,24 +1237,24 @@
             "location_name": "Ukraine"
           },
           {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
-          {
             "lat": 39.7837304,
             "lng": -100.445882,
             "location_name": "United States"
           },
           {
+            "lat": 13.1354697,
+            "lng": -61.1963882,
+            "location_name": "Saint Vincent & the Grenadines"
+          },
+          {
             "lat": 15.9266657,
             "lng": 107.9650855,
             "location_name": "Vietnam"
+          },
+          {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
           },
           {
             "lat": -18.4554963,
@@ -1259,19 +1264,24 @@
         ]
       },
       {
-        "title": "Collective Intelligence Project Global Dialogues-June 2025",
+        "title": "Collective Intelligence Project Global Dialogues - June 2025",
         "count": 1025,
-        "locations_list": "Albania, Algeria, Angola, Argentina, Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Croatia, Czech Republic, Denmark, Egypt, Finland, France, Germany, Ghana, Greece, Hungary, Iceland, India, Indonesia, Ireland {Republic}, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Korea South, Latvia, Malawi, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Pakistan, Palestine, Philippines, Poland, Portugal, Romania, Russian Federation, Saudi Arabia, Singapore, Slovakia, Somalia, South Africa, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Taiwan, Tunisia, Türkiye, Ukraine, United Arab Emirates, United Kingdom, United States, Vietnam, Zimbabwe",
+        "locations_list": "United Arab Emirates, Albania, Armenia, Angola, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Czech Republic, Germany, Denmark, Algeria, Egypt, Spain, Finland, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Iceland, Italy, Jordan, Japan, Kenya, Korea South, Kazakhstan, Sri Lanka, Latvia, Morocco, Malawi, Mexico, Malaysia, Netherlands, Norway, New Zealand, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sudan, Sweden, Singapore, Slovakia, Somalia, Tunisia, Türkiye, Taiwan, Ukraine, United States, Vietnam, South Africa, Zimbabwe",
         "locations": [
+          {
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
+          },
           {
             "lat": 41.000028,
             "lng": 19.9999619,
             "location_name": "Albania"
           },
           {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
+            "lat": 40.7696272,
+            "lng": 44.6736646,
+            "location_name": "Armenia"
           },
           {
             "lat": -11.8775768,
@@ -1284,19 +1294,14 @@
             "location_name": "Argentina"
           },
           {
-            "lat": 40.7696272,
-            "lng": 44.6736646,
-            "location_name": "Armenia"
+            "lat": 47.59397,
+            "lng": 14.12456,
+            "location_name": "Austria"
           },
           {
             "lat": -24.7761086,
             "lng": 134.755,
             "location_name": "Australia"
-          },
-          {
-            "lat": 47.59397,
-            "lng": 14.12456,
-            "location_name": "Austria"
           },
           {
             "lat": 24.4769288,
@@ -1319,6 +1324,11 @@
             "location_name": "Canada"
           },
           {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
+          },
+          {
             "lat": -31.7613365,
             "lng": -71.3187697,
             "location_name": "Chile"
@@ -1329,14 +1339,14 @@
             "location_name": "China"
           },
           {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
-          },
-          {
             "lat": 49.7439047,
             "lng": 15.3381061,
             "location_name": "Czech Republic"
+          },
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
           },
           {
             "lat": 55.670249,
@@ -1344,9 +1354,19 @@
             "location_name": "Denmark"
           },
           {
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
+          },
+          {
             "lat": 26.2540493,
             "lng": 29.2675469,
             "location_name": "Egypt"
+          },
+          {
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -1359,9 +1379,9 @@
             "location_name": "France"
           },
           {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 8.0300284,
@@ -1374,19 +1394,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 64.9841821,
-            "lng": -18.1059013,
-            "location_name": "Iceland"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -1404,14 +1419,19 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
+            "lat": 64.9841821,
+            "lng": -18.1059013,
+            "location_name": "Iceland"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
-          },
-          {
-            "lat": 36.5748441,
-            "lng": 139.2394179,
-            "location_name": "Japan"
           },
           {
             "lat": 31.1667049,
@@ -1419,9 +1439,9 @@
             "location_name": "Jordan"
           },
           {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
+            "lat": 36.5748441,
+            "lng": 139.2394179,
+            "location_name": "Japan"
           },
           {
             "lat": 1.4419683,
@@ -1434,24 +1454,19 @@
             "location_name": "Korea South"
           },
           {
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
+          },
+          {
+            "lat": 7.5554942,
+            "lng": 80.7137847,
+            "location_name": "Sri Lanka"
+          },
+          {
             "lat": 56.8406494,
             "lng": 24.7537645,
             "location_name": "Latvia"
-          },
-          {
-            "lat": -13.2687204,
-            "lng": 33.9301963,
-            "location_name": "Malawi"
-          },
-          {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
-          },
-          {
-            "lat": 23.6585116,
-            "lng": -102.0077097,
-            "location_name": "Mexico"
           },
           {
             "lat": 28.3347722,
@@ -1459,14 +1474,24 @@
             "location_name": "Morocco"
           },
           {
+            "lat": -13.2687204,
+            "lng": 33.9301963,
+            "location_name": "Malawi"
+          },
+          {
+            "lat": 23.6585116,
+            "lng": -102.0077097,
+            "location_name": "Mexico"
+          },
+          {
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
+          },
+          {
             "lat": 52.2434979,
             "lng": 5.6343227,
             "location_name": "Netherlands"
-          },
-          {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
           },
           {
             "lat": 61.1529386,
@@ -1474,14 +1499,9 @@
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
-          },
-          {
-            "lat": 31.462421,
-            "lng": 34.2627215,
-            "location_name": "Palestine"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 12.7503486,
@@ -1489,9 +1509,19 @@
             "location_name": "Philippines"
           },
           {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
+          },
+          {
             "lat": 52.215933,
             "lng": 19.134422,
             "location_name": "Poland"
+          },
+          {
+            "lat": 31.462421,
+            "lng": 34.2627215,
+            "location_name": "Palestine"
           },
           {
             "lat": 39.6621648,
@@ -1512,6 +1542,16 @@
             "lat": 25.6242618,
             "lng": 42.3528328,
             "location_name": "Saudi Arabia"
+          },
+          {
+            "lat": 14.5844444,
+            "lng": 29.4917691,
+            "location_name": "Sudan"
+          },
+          {
+            "lat": 59.6749712,
+            "lng": 14.5208584,
+            "location_name": "Sweden"
           },
           {
             "lat": 1.357107,
@@ -1529,41 +1569,6 @@
             "location_name": "Somalia"
           },
           {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
-          },
-          {
-            "lat": 7.5554942,
-            "lng": 80.7137847,
-            "location_name": "Sri Lanka"
-          },
-          {
-            "lat": 14.5844444,
-            "lng": 29.4917691,
-            "location_name": "Sudan"
-          },
-          {
-            "lat": 59.6749712,
-            "lng": 14.5208584,
-            "location_name": "Sweden"
-          },
-          {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
-          },
-          {
-            "lat": 23.9739374,
-            "lng": 120.9820179,
-            "location_name": "Taiwan"
-          },
-          {
             "lat": 33.8439408,
             "lng": 9.400138,
             "location_name": "Tunisia"
@@ -1574,19 +1579,14 @@
             "location_name": "Türkiye"
           },
           {
+            "lat": 23.9739374,
+            "lng": 120.9820179,
+            "location_name": "Taiwan"
+          },
+          {
             "lat": 49.4871968,
             "lng": 31.2718321,
             "location_name": "Ukraine"
-          },
-          {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
           },
           {
             "lat": 39.7837304,
@@ -1599,6 +1599,11 @@
             "location_name": "Vietnam"
           },
           {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
+          },
+          {
             "lat": -18.4554963,
             "lng": 29.7468414,
             "location_name": "Zimbabwe"
@@ -1606,14 +1611,19 @@
         ]
       },
       {
-        "title": "Collective Intelligence Project Global Dialogues-September 2025",
+        "title": "Collective Intelligence Project Global Dialogues - September 2025",
         "count": 1028,
-        "locations_list": "Algeria, Angola, Argentina, Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Colombia, Croatia, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Ghana, Greece, Hungary, India, Indonesia, Ireland {Republic}, Israel, Italy, Japan, Kazakhstan, Kenya, Kiribati, Korea South, Latvia, Malawi, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Pakistan, Palestine, Philippines, Poland, Portugal, Russian Federation, Saudi Arabia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia, Türkiye, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Vietnam",
+        "locations_list": "United Arab Emirates, Armenia, Angola, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Colombia, Czech Republic, Germany, Denmark, Algeria, Estonia, Egypt, Spain, Finland, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Italy, Japan, Kenya, Kiribati, Korea South, Kazakhstan, Sri Lanka, Latvia, Morocco, Malawi, Mexico, Malaysia, Netherlands, Norway, New Zealand, Philippines, Pakistan, Poland, Palestine, Portugal, Russian Federation, Saudi Arabia, Sudan, Sweden, Singapore, Slovenia, Slovakia, Tunisia, Türkiye, Ukraine, United States, Uruguay, Vietnam, South Africa",
         "locations": [
           {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
+          },
+          {
+            "lat": 40.7696272,
+            "lng": 44.6736646,
+            "location_name": "Armenia"
           },
           {
             "lat": -11.8775768,
@@ -1626,19 +1636,14 @@
             "location_name": "Argentina"
           },
           {
-            "lat": 40.7696272,
-            "lng": 44.6736646,
-            "location_name": "Armenia"
+            "lat": 47.59397,
+            "lng": 14.12456,
+            "location_name": "Austria"
           },
           {
             "lat": -24.7761086,
             "lng": 134.755,
             "location_name": "Australia"
-          },
-          {
-            "lat": 47.59397,
-            "lng": 14.12456,
-            "location_name": "Austria"
           },
           {
             "lat": 24.4769288,
@@ -1659,6 +1664,11 @@
             "lat": 56.1304,
             "lng": -106.3468,
             "location_name": "Canada"
+          },
+          {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
           },
           {
             "lat": -31.7613365,
@@ -1676,14 +1686,14 @@
             "location_name": "Colombia"
           },
           {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
-          },
-          {
             "lat": 49.7439047,
             "lng": 15.3381061,
             "location_name": "Czech Republic"
+          },
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
           },
           {
             "lat": 55.670249,
@@ -1691,14 +1701,24 @@
             "location_name": "Denmark"
           },
           {
-            "lat": 26.2540493,
-            "lng": 29.2675469,
-            "location_name": "Egypt"
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
           },
           {
             "lat": 58.7523778,
             "lng": 25.3319078,
             "location_name": "Estonia"
+          },
+          {
+            "lat": 26.2540493,
+            "lng": 29.2675469,
+            "location_name": "Egypt"
+          },
+          {
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -1711,9 +1731,9 @@
             "location_name": "France"
           },
           {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 8.0300284,
@@ -1726,14 +1746,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -1751,6 +1771,11 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
@@ -1759,11 +1784,6 @@
             "lat": 36.5748441,
             "lng": 139.2394179,
             "location_name": "Japan"
-          },
-          {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
           },
           {
             "lat": 1.4419683,
@@ -1781,24 +1801,19 @@
             "location_name": "Korea South"
           },
           {
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
+          },
+          {
+            "lat": 7.5554942,
+            "lng": 80.7137847,
+            "location_name": "Sri Lanka"
+          },
+          {
             "lat": 56.8406494,
             "lng": 24.7537645,
             "location_name": "Latvia"
-          },
-          {
-            "lat": -13.2687204,
-            "lng": 33.9301963,
-            "location_name": "Malawi"
-          },
-          {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
-          },
-          {
-            "lat": 23.6585116,
-            "lng": -102.0077097,
-            "location_name": "Mexico"
           },
           {
             "lat": 28.3347722,
@@ -1806,14 +1821,24 @@
             "location_name": "Morocco"
           },
           {
+            "lat": -13.2687204,
+            "lng": 33.9301963,
+            "location_name": "Malawi"
+          },
+          {
+            "lat": 23.6585116,
+            "lng": -102.0077097,
+            "location_name": "Mexico"
+          },
+          {
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
+          },
+          {
             "lat": 52.2434979,
             "lng": 5.6343227,
             "location_name": "Netherlands"
-          },
-          {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
           },
           {
             "lat": 61.1529386,
@@ -1821,14 +1846,9 @@
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
-          },
-          {
-            "lat": 31.462421,
-            "lng": 34.2627215,
-            "location_name": "Palestine"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 12.7503486,
@@ -1836,9 +1856,19 @@
             "location_name": "Philippines"
           },
           {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
+          },
+          {
             "lat": 52.215933,
             "lng": 19.134422,
             "location_name": "Poland"
+          },
+          {
+            "lat": 31.462421,
+            "lng": 34.2627215,
+            "location_name": "Palestine"
           },
           {
             "lat": 39.6621648,
@@ -1856,36 +1886,6 @@
             "location_name": "Saudi Arabia"
           },
           {
-            "lat": 1.357107,
-            "lng": 103.8194992,
-            "location_name": "Singapore"
-          },
-          {
-            "lat": 48.7411522,
-            "lng": 19.4528646,
-            "location_name": "Slovakia"
-          },
-          {
-            "lat": 46.1199444,
-            "lng": 14.8153333,
-            "location_name": "Slovenia"
-          },
-          {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
-          },
-          {
-            "lat": 7.5554942,
-            "lng": 80.7137847,
-            "location_name": "Sri Lanka"
-          },
-          {
             "lat": 14.5844444,
             "lng": 29.4917691,
             "location_name": "Sudan"
@@ -1896,9 +1896,19 @@
             "location_name": "Sweden"
           },
           {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
+            "lat": 1.357107,
+            "lng": 103.8194992,
+            "location_name": "Singapore"
+          },
+          {
+            "lat": 46.1199444,
+            "lng": 14.8153333,
+            "location_name": "Slovenia"
+          },
+          {
+            "lat": 48.7411522,
+            "lng": 19.4528646,
+            "location_name": "Slovakia"
           },
           {
             "lat": 33.8439408,
@@ -1916,16 +1926,6 @@
             "location_name": "Ukraine"
           },
           {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
-          {
             "lat": 39.7837304,
             "lng": -100.445882,
             "location_name": "United States"
@@ -1939,23 +1939,33 @@
             "lat": 15.9266657,
             "lng": 107.9650855,
             "location_name": "Vietnam"
+          },
+          {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
           }
         ]
       },
       {
-        "title": "Collective Intelligence Project Global Dialogues-March 2026",
+        "title": "Collective Intelligence Project Global Dialogues - March 2026",
         "count": 1041,
-        "locations_list": "Algeria, Andorra, Angola, Argentina, Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Croatia, Cuba, Czech Republic, Denmark, Egypt, Finland, France, Germany, Ghana, Greece, Hungary, India, Indonesia, Ireland (Republic), Israel, Italy, Japan, Kazakhstan, Kenya, Luxembourg, Malawi, Malaysia, Mexico, Morocco, Netherlands, New Zealand, Norway, Pakistan, Philippines, Poland, Portugal, Romania, Russian Federation, Saint Vincent & the Grenadines, Saudi Arabia, Singapore, Slovakia, South Africa, South Korea, Spain, Sweden, Switzerland, Syria, Türkiye, Ukraine, United Arab Emirates, United Kingdom, United States, Vietnam",
+        "locations_list": "Andorra, United Arab Emirates, Armenia, Angola, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Cuba, Czech Republic, Germany, Denmark, Algeria, Egypt, Spain, Finland, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland (Republic), Israel, India, Italy, Japan, Kenya, South Korea, Kazakhstan, Luxembourg, Morocco, Malawi, Mexico, Malaysia, Netherlands, Norway, New Zealand, Philippines, Pakistan, Poland, Portugal, Romania, Russian Federation, Saudi Arabia, Sweden, Singapore, Slovakia, Syria, Türkiye, Ukraine, United States, Saint Vincent & the Grenadines, Vietnam, South Africa",
         "locations": [
-          {
-            "lat": 36.7729333,
-            "lng": 3.0588445,
-            "location_name": "Algeria"
-          },
           {
             "lat": 42.5407167,
             "lng": 1.5732033,
             "location_name": "Andorra"
+          },
+          {
+            "lat": 24.0002488,
+            "lng": 53.9994829,
+            "location_name": "United Arab Emirates"
+          },
+          {
+            "lat": 40.7696272,
+            "lng": 44.6736646,
+            "location_name": "Armenia"
           },
           {
             "lat": -11.8775768,
@@ -1968,19 +1978,14 @@
             "location_name": "Argentina"
           },
           {
-            "lat": 40.7696272,
-            "lng": 44.6736646,
-            "location_name": "Armenia"
+            "lat": 47.59397,
+            "lng": 14.12456,
+            "location_name": "Austria"
           },
           {
             "lat": -24.7761086,
             "lng": 134.755,
             "location_name": "Australia"
-          },
-          {
-            "lat": 47.59397,
-            "lng": 14.12456,
-            "location_name": "Austria"
           },
           {
             "lat": 24.4769288,
@@ -2003,6 +2008,11 @@
             "location_name": "Canada"
           },
           {
+            "lat": 46.7985624,
+            "lng": 8.2319736,
+            "location_name": "Switzerland"
+          },
+          {
             "lat": -31.7613365,
             "lng": -71.3187697,
             "location_name": "Chile"
@@ -2011,11 +2021,6 @@
             "lat": 34.5412252,
             "lng": 108.9237067,
             "location_name": "China"
-          },
-          {
-            "lat": 45.3658443,
-            "lng": 15.6575209,
-            "location_name": "Croatia"
           },
           {
             "lat": 23.0131338,
@@ -2028,14 +2033,29 @@
             "location_name": "Czech Republic"
           },
           {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          },
+          {
             "lat": 55.670249,
             "lng": 10.3333283,
             "location_name": "Denmark"
           },
           {
+            "lat": 36.7729333,
+            "lng": 3.0588445,
+            "location_name": "Algeria"
+          },
+          {
             "lat": 26.2540493,
             "lng": 29.2675469,
             "location_name": "Egypt"
+          },
+          {
+            "lat": 39.3260685,
+            "lng": -4.8379791,
+            "location_name": "Spain"
           },
           {
             "lat": 63.2467777,
@@ -2048,9 +2068,9 @@
             "location_name": "France"
           },
           {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 8.0300284,
@@ -2063,14 +2083,14 @@
             "location_name": "Greece"
           },
           {
+            "lat": 45.3658443,
+            "lng": 15.6575209,
+            "location_name": "Croatia"
+          },
+          {
             "lat": 47.1817585,
             "lng": 19.5060937,
             "location_name": "Hungary"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
           },
           {
             "lat": -2.4833826,
@@ -2088,6 +2108,11 @@
             "location_name": "Israel"
           },
           {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
             "lat": 41.8719,
             "lng": 12.5674,
             "location_name": "Italy"
@@ -2098,14 +2123,19 @@
             "location_name": "Japan"
           },
           {
-            "lat": 48.1012954,
-            "lng": 66.7780818,
-            "location_name": "Kazakhstan"
-          },
-          {
             "lat": 1.4419683,
             "lng": 38.4313975,
             "location_name": "Kenya"
+          },
+          {
+            "lat": 36.638392,
+            "lng": 127.6961188,
+            "location_name": "South Korea"
+          },
+          {
+            "lat": 48.1012954,
+            "lng": 66.7780818,
+            "location_name": "Kazakhstan"
           },
           {
             "lat": 49.8158683,
@@ -2113,14 +2143,14 @@
             "location_name": "Luxembourg"
           },
           {
+            "lat": 28.3347722,
+            "lng": -10.3713379,
+            "location_name": "Morocco"
+          },
+          {
             "lat": -13.2687204,
             "lng": 33.9301963,
             "location_name": "Malawi"
-          },
-          {
-            "lat": 4.5693754,
-            "lng": 102.2656823,
-            "location_name": "Malaysia"
           },
           {
             "lat": 23.6585116,
@@ -2128,9 +2158,9 @@
             "location_name": "Mexico"
           },
           {
-            "lat": 28.3347722,
-            "lng": -10.3713379,
-            "location_name": "Morocco"
+            "lat": 4.5693754,
+            "lng": 102.2656823,
+            "location_name": "Malaysia"
           },
           {
             "lat": 52.2434979,
@@ -2138,24 +2168,24 @@
             "location_name": "Netherlands"
           },
           {
-            "lat": -41.5000831,
-            "lng": 172.8344077,
-            "location_name": "New Zealand"
-          },
-          {
             "lat": 61.1529386,
             "lng": 8.7876653,
             "location_name": "Norway"
           },
           {
-            "lat": 30.3308401,
-            "lng": 71.247499,
-            "location_name": "Pakistan"
+            "lat": -41.5000831,
+            "lng": 172.8344077,
+            "location_name": "New Zealand"
           },
           {
             "lat": 12.7503486,
             "lng": 122.7312101,
             "location_name": "Philippines"
+          },
+          {
+            "lat": 30.3308401,
+            "lng": 71.247499,
+            "location_name": "Pakistan"
           },
           {
             "lat": 52.215933,
@@ -2178,14 +2208,14 @@
             "location_name": "Russian Federation"
           },
           {
-            "lat": 13.1354697,
-            "lng": -61.1963882,
-            "location_name": "Saint Vincent & the Grenadines"
-          },
-          {
             "lat": 25.6242618,
             "lng": 42.3528328,
             "location_name": "Saudi Arabia"
+          },
+          {
+            "lat": 59.6749712,
+            "lng": 14.5208584,
+            "location_name": "Sweden"
           },
           {
             "lat": 1.357107,
@@ -2196,31 +2226,6 @@
             "lat": 48.7411522,
             "lng": 19.4528646,
             "location_name": "Slovakia"
-          },
-          {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
-            "lat": 36.638392,
-            "lng": 127.6961188,
-            "location_name": "South Korea"
-          },
-          {
-            "lat": 39.3260685,
-            "lng": -4.8379791,
-            "location_name": "Spain"
-          },
-          {
-            "lat": 59.6749712,
-            "lng": 14.5208584,
-            "location_name": "Sweden"
-          },
-          {
-            "lat": 46.7985624,
-            "lng": 8.2319736,
-            "location_name": "Switzerland"
           },
           {
             "lat": 34.6401861,
@@ -2238,24 +2243,24 @@
             "location_name": "Ukraine"
           },
           {
-            "lat": 24.0002488,
-            "lng": 53.9994829,
-            "location_name": "United Arab Emirates"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
-          {
             "lat": 39.7837304,
             "lng": -100.445882,
             "location_name": "United States"
           },
           {
+            "lat": 13.1354697,
+            "lng": -61.1963882,
+            "location_name": "Saint Vincent & the Grenadines"
+          },
+          {
             "lat": 15.9266657,
             "lng": 107.9650855,
             "location_name": "Vietnam"
+          },
+          {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
           }
         ]
       }
@@ -2271,17 +2276,36 @@
       "Healthcare"
     ],
     "level_of_engagement": "",
-    "modalities": [],
+    "modalities": [
+      "Hybrid"
+    ],
     "methods": [],
-    "total_participants": 0,
-    "average_hours": 0.0,
+    "total_participants": 16,
+    "average_hours": 8.0,
     "message_count": 0,
-    "countries": [],
-    "continents": [],
+    "countries": [
+      "GB"
+    ],
+    "continents": [
+      "Europe"
+    ],
     "method_categories": [
       "research"
     ],
-    "participants": [],
+    "participants": [
+      {
+        "title": "People’s AI Panel on Health and Care - Public Advisors",
+        "count": 16,
+        "locations_list": "Glasgow, Scotland, United Kingdom",
+        "locations": [
+          {
+            "lat": 55.8642,
+            "lng": -4.2518,
+            "location_name": "Glasgow, Scotland, United Kingdom"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -2289,7 +2313,11 @@
     "slug": "women-in-ai-community-intelligence-session",
     "url": "/cases/women-in-ai-community-intelligence-session.html",
     "curation_decision": "Full Case",
-    "themes": [],
+    "themes": [
+      "Safety",
+      "Public Services",
+      "Artificial Intelligence"
+    ],
     "level_of_engagement": "Community",
     "modalities": [
       "Offline"
@@ -2343,7 +2371,7 @@
     ],
     "participants": [
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Association Positive, Students, Activists, Public Servants",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Association Positive, Students, Activists, Public Servants",
         "count": 16,
         "locations_list": "Morocco",
         "locations": [
@@ -2355,7 +2383,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Association that brings together stakeholders involved in the valorization of waste and biomass in Morocco",
         "count": 29,
         "locations_list": "Morocco",
         "locations": [
@@ -2367,7 +2395,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (Students)",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Grassroots org (Students)",
         "count": 24,
         "locations_list": "Morocco",
         "locations": [
@@ -2379,7 +2407,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Grassroots org (heads of the NGOs)",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Grassroots org (heads of the NGOs)",
         "count": 17,
         "locations_list": "Morocco",
         "locations": [
@@ -2391,7 +2419,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Union for Educators in Morocco, Marginalized youth in a vocational training program, e.g., patient care",
         "count": 21,
         "locations_list": "Morocco",
         "locations": [
@@ -2403,7 +2431,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-NGO dedicated to the economic and social inclusion of marginalized groups",
+        "title": "A Framework for National Dialogues on Frontier Technologies - NGO dedicated to the economic and social inclusion of marginalized groups",
         "count": 12,
         "locations_list": "Morocco",
         "locations": [
@@ -2415,7 +2443,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-In-person focus group",
+        "title": "A Framework for National Dialogues on Frontier Technologies - In-person focus group",
         "count": 6,
         "locations_list": "Paraguay",
         "locations": [
@@ -2427,7 +2455,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Online focus group",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Online focus group",
         "count": 15,
         "locations_list": "Paraguay",
         "locations": [
@@ -2439,7 +2467,7 @@
         ]
       },
       {
-        "title": "A Framework for National Dialogues on Frontier Technologies-Street consultations",
+        "title": "A Framework for National Dialogues on Frontier Technologies - Street consultations",
         "count": 41,
         "locations_list": "Paraguay",
         "locations": [
@@ -2452,17 +2480,6 @@
       }
     ],
     "organisations": [
-      {
-        "title": "UNDP Accelerator Labs",
-        "url": "/organisations/undp-accelerator-labs/",
-        "locations": [
-          {
-            "lat": 55.702215,
-            "lng": 12.5592485,
-            "location_name": "Global"
-          }
-        ]
-      },
       {
         "title": "Columbia University’s School of International and Public Affairs",
         "url": "/organisations/columbia-universitys-school-of-international-and-public-affairs/",
@@ -2518,24 +2535,19 @@
     ],
     "participants": [
       {
-        "title": "Global AI Dialogues-Mini public",
+        "title": "Global AI Dialogues - Mini public",
         "count": 284,
-        "locations_list": "Munich, Germany, Tokyo, Japan, Lagos, Nigeria, Delhi, India, Puebla, Mexico, Santa Cruz de la Sierra, Bolivia",
+        "locations_list": "Santa Cruz de la Sierra, Bolivia, Munich, Germany, Delhi, India, Tokyo, Japan, Puebla, Mexico, Lagos, Nigeria",
         "locations": [
+          {
+            "lat": -17.7834217,
+            "lng": -63.1820853,
+            "location_name": "Santa Cruz de la Sierra, Bolivia"
+          },
           {
             "lat": 48.1351,
             "lng": 11.582,
             "location_name": "Munich, Germany"
-          },
-          {
-            "lat": 35.6768601,
-            "lng": 139.7638947,
-            "location_name": "Tokyo, Japan"
-          },
-          {
-            "lat": 6.4550575,
-            "lng": 3.3941795,
-            "location_name": "Lagos, Nigeria"
           },
           {
             "lat": 28.6138954,
@@ -2543,14 +2555,19 @@
             "location_name": "Delhi, India"
           },
           {
+            "lat": 35.6768601,
+            "lng": 139.7638947,
+            "location_name": "Tokyo, Japan"
+          },
+          {
             "lat": 18.833333,
             "lng": -98.0,
             "location_name": "Puebla, Mexico"
           },
           {
-            "lat": -17.7834217,
-            "lng": -63.1820853,
-            "location_name": "Santa Cruz de la Sierra, Bolivia"
+            "lat": 6.4550575,
+            "lng": 3.3941795,
+            "location_name": "Lagos, Nigeria"
           }
         ]
       }
@@ -2600,7 +2617,7 @@
     ],
     "participants": [
       {
-        "title": "Generative AI in Education - Have Your Say-School students",
+        "title": "Generative AI in Education - Have Your Say - School students",
         "count": 1000,
         "locations_list": "England, United Kingdom",
         "locations": [
@@ -2663,7 +2680,7 @@
     ],
     "participants": [
       {
-        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Experts and Volunteers",
+        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures - Experts and Volunteers",
         "count": 95,
         "locations_list": "Taiwan",
         "locations": [
@@ -2675,7 +2692,7 @@
         ]
       },
       {
-        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Netizens",
+        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures - Netizens",
         "count": 476,
         "locations_list": "Taiwan",
         "locations": [
@@ -2687,6 +2704,28 @@
         ]
       }
     ],
+    "organisations": []
+  },
+  {
+    "title": "SheAI",
+    "slug": "sheai",
+    "url": "/cases/sheai.html",
+    "curation_decision": "Mapping Entry",
+    "themes": [
+      "Education"
+    ],
+    "level_of_engagement": "Global",
+    "modalities": [],
+    "methods": [],
+    "total_participants": 0,
+    "average_hours": 0.0,
+    "message_count": 0,
+    "countries": [],
+    "continents": [],
+    "method_categories": [
+      "research"
+    ],
+    "participants": [],
     "organisations": []
   },
   {
@@ -2739,7 +2778,7 @@
     ],
     "participants": [
       {
-        "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum-Rajasthani Speakers from Jodhpur Villages",
+        "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum - Rajasthani Speakers from Jodhpur Villages",
         "count": 50,
         "locations_list": "Jodhpur, India",
         "locations": [
@@ -2792,7 +2831,7 @@
     ],
     "participants": [
       {
-        "title": "Leverhulme Trust Funded StudentXGenAI Project (Student Experiences of GenAI Project )-University students ",
+        "title": "Leverhulme Trust Funded StudentXGenAI Project (Student Experiences of GenAI Project ) - University students ",
         "count": 7000,
         "locations_list": "England, United Kingdom, Doune, Scotland, United Kingdom, Belfast, Northern Ireland, United Kingdom",
         "locations": [
@@ -2861,9 +2900,9 @@
     ],
     "participants": [
       {
-        "title": "Gen(Z)AI -Canadian youth ",
+        "title": "Gen(Z)AI  - Canadian youth ",
         "count": 100,
-        "locations_list": "Toronto, Canada, Montreal, Canada, Vancouver, Canada, Halifax, Canada",
+        "locations_list": "Toronto, Canada, Halifax, Canada, Vancouver, Canada, Montreal, Canada",
         "locations": [
           {
             "lat": 43.6532,
@@ -2871,9 +2910,9 @@
             "location_name": "Toronto, Canada"
           },
           {
-            "lat": 45.5017,
-            "lng": -73.5673,
-            "location_name": "Montreal, Canada"
+            "lat": 44.6489,
+            "lng": -63.5753,
+            "location_name": "Halifax, Canada"
           },
           {
             "lat": 49.2827,
@@ -2881,14 +2920,14 @@
             "location_name": "Vancouver, Canada"
           },
           {
-            "lat": 44.6489,
-            "lng": -63.5753,
-            "location_name": "Halifax, Canada"
+            "lat": 45.5017,
+            "lng": -73.5673,
+            "location_name": "Montreal, Canada"
           }
         ]
       },
       {
-        "title": "Gen(Z)AI -Make.org Online Platform",
+        "title": "Gen(Z)AI  - Make.org Online Platform",
         "count": 5000,
         "locations_list": "Canada",
         "locations": [
@@ -2959,7 +2998,7 @@
     ],
     "participants": [
       {
-        "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Focus group discussions",
+        "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities - Focus group discussions",
         "count": 36,
         "locations_list": "Mekaguda, Rangareddy district, Telangana, India, Begarikancha, Rangareddy district, Telangana, India",
         "locations": [
@@ -2976,7 +3015,7 @@
         ]
       },
       {
-        "title": "\"Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities\"-Semi-structured interviews",
+        "title": "Just AI, Just Land: Socio-Environmental Implications of Data Centers on Communities - Semi-structured interviews",
         "count": 14,
         "locations_list": "Mekaguda, Rangareddy district, Telangana, India, Begarikancha, Rangareddy district, Telangana, India, Vavilakunta, Telangana, India",
         "locations": [
@@ -3041,7 +3080,7 @@
     ],
     "participants": [
       {
-        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Unhoused Individuals",
+        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services - Unhoused Individuals",
         "count": 12,
         "locations_list": "Pittsburgh, Pennsylvania, USA",
         "locations": [
@@ -3053,7 +3092,7 @@
         ]
       },
       {
-        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services-Frontline Social Workers",
+        "title": "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services - Frontline Social Workers",
         "count": 9,
         "locations_list": "Pittsburgh, Pennsylvania, USA",
         "locations": [
@@ -3111,7 +3150,7 @@
     ],
     "participants": [
       {
-        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Foresight workshop participants",
+        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India - Foresight workshop participants",
         "count": 15,
         "locations_list": "India",
         "locations": [
@@ -3123,7 +3162,7 @@
         ]
       },
       {
-        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India-Online open call",
+        "title": "Human in the Loop: Exploring the Unintended Consequences of Generative AI in India - Online open call",
         "count": 40,
         "locations_list": "India",
         "locations": [
@@ -3219,9 +3258,9 @@
     ],
     "participants": [
       {
-        "title": "Meta Community Forum on Proactive Agents-Community Forum Participants",
+        "title": "Meta Community Forum on Proactive Agents - Community Forum Participants",
         "count": 887,
-        "locations_list": "India, Nigeria, Saudi Arabia, South Africa, Turkey",
+        "locations_list": "India, Nigeria, Saudi Arabia, Turkey, South Africa",
         "locations": [
           {
             "lat": 22.3511148,
@@ -3239,30 +3278,19 @@
             "location_name": "Saudi Arabia"
           },
           {
-            "lat": -28.8166236,
-            "lng": 24.991639,
-            "location_name": "South Africa"
-          },
-          {
             "lat": 39.294076,
             "lng": 35.2316631,
             "location_name": "Turkey"
+          },
+          {
+            "lat": -28.8166236,
+            "lng": 24.991639,
+            "location_name": "South Africa"
           }
         ]
       }
     ],
     "organisations": [
-      {
-        "title": "Meta",
-        "url": "/organisations/meta/",
-        "locations": [
-          {
-            "lat": 37.4277,
-            "lng": -122.1697,
-            "location_name": "Stanford, California, USA"
-          }
-        ]
-      },
       {
         "title": "Stanford Deliberative Democracy Lab",
         "url": "/organisations/stanford-deliberative-democracy-lab/",
@@ -3273,75 +3301,19 @@
             "location_name": "Stanford, California, USA"
           }
         ]
-      }
-    ]
-  },
-  {
-    "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
-    "slug": "learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de",
-    "url": "/cases/learning-from-thickbig-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-de.html",
-    "curation_decision": "Full Case",
-    "themes": [
-      "Safety",
-      "Social media"
-    ],
-    "level_of_engagement": "National",
-    "modalities": [
-      "Hybrid"
-    ],
-    "methods": [
-      "Action Research",
-      "Capacity Building Workshop",
-      "Co-creation workshops",
-      "Community-led Audit",
-      "Crowdsourcing"
-    ],
-    "total_participants": 10000,
-    "average_hours": 0.5,
-    "message_count": 0,
-    "countries": [
-      "BD",
-      "IN",
-      "LK",
-      "NP"
-    ],
-    "continents": [
-      "Asia"
-    ],
-    "method_categories": [
-      "participation",
-      "research"
-    ],
-    "participants": [
+      },
       {
-        "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia-Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
-        "count": 10000,
-        "locations_list": "Nepal, India, Sri Lanka, Bangladesh",
+        "title": "Meta",
+        "url": "/organisations/meta/",
         "locations": [
           {
-            "lat": 28.3780464,
-            "lng": 83.9999901,
-            "location_name": "Nepal"
-          },
-          {
-            "lat": 22.3511148,
-            "lng": 78.6677428,
-            "location_name": "India"
-          },
-          {
-            "lat": 7.5554942,
-            "lng": 80.7137847,
-            "location_name": "Sri Lanka"
-          },
-          {
-            "lat": 24.4769288,
-            "lng": 90.2934413,
-            "location_name": "Bangladesh"
+            "lat": 37.4277,
+            "lng": -122.1697,
+            "location_name": "Stanford, California, USA"
           }
         ]
       }
-    ],
-    "organisations": []
+    ]
   },
   {
     "title": "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South",
@@ -3376,7 +3348,7 @@
     ],
     "participants": [
       {
-        "title": "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South-Red-teaming challenge participants ",
+        "title": "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South - Red-teaming challenge participants ",
         "count": 524,
         "locations_list": "Cape Coast, Ghana",
         "locations": [
@@ -3421,12 +3393,29 @@
     "total_participants": 70,
     "average_hours": 12.0,
     "message_count": 0,
-    "countries": [],
-    "continents": [],
+    "countries": [
+      "FR"
+    ],
+    "continents": [
+      "Europe"
+    ],
     "method_categories": [
       "deliberation"
     ],
-    "participants": [],
+    "participants": [
+      {
+        "title": "Paris Student Assembly on AI - Students",
+        "count": 70,
+        "locations_list": "Paris, France",
+        "locations": [
+          {
+            "lat": 48.8588897,
+            "lng": 2.320041,
+            "location_name": "Paris, France"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -3434,7 +3423,9 @@
     "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
     "url": "/cases/ai-and-human-development-a-qualitative-perspective-from-bangladesh.html",
     "curation_decision": "Mapping Entry",
-    "themes": [],
+    "themes": [
+      "Artificial Intelligence"
+    ],
     "level_of_engagement": "Community",
     "modalities": [
       "Offline"
@@ -3451,38 +3442,6 @@
       "participation"
     ],
     "participants": [],
-    "organisations": [
-      {
-        "title": "UNDP Accelerator Labs",
-        "url": "/organisations/undp-accelerator-labs/",
-        "locations": [
-          {
-            "lat": 55.702215,
-            "lng": 12.5592485,
-            "location_name": "Global"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Democratic inputs to AI",
-    "slug": "democratic-inputs-to-ai",
-    "url": "/cases/democratic-inputs-to-ai.html",
-    "curation_decision": "Mapping Entry",
-    "themes": [],
-    "level_of_engagement": "Global",
-    "modalities": [],
-    "methods": [],
-    "total_participants": 0,
-    "average_hours": 0.0,
-    "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "research"
-    ],
-    "participants": [],
     "organisations": []
   },
   {
@@ -3490,7 +3449,14 @@
     "slug": "nyci-youth-juries-on-ai",
     "url": "/cases/nyci-youth-juries-on-ai.html",
     "curation_decision": "Full Case",
-    "themes": [],
+    "themes": [
+      "Education",
+      "Youth",
+      "Work",
+      "Environment",
+      "Safety",
+      "Internet governance"
+    ],
     "level_of_engagement": "National",
     "modalities": [
       "Hybrid"
@@ -3500,7 +3466,7 @@
     ],
     "total_participants": 48,
     "average_hours": 6.0,
-    "message_count": 0,
+    "message_count": 6,
     "countries": [],
     "continents": [],
     "method_categories": [
@@ -3514,7 +3480,9 @@
     "slug": "chilean-national-ai-policy-participatory-design-and-update",
     "url": "/cases/chilean-national-ai-policy-participatory-design-and-update.html",
     "curation_decision": "Full Case",
-    "themes": [],
+    "themes": [
+      "Artificial Intelligence"
+    ],
     "level_of_engagement": "National",
     "modalities": [
       "Hybrid",
@@ -3528,7 +3496,7 @@
     ],
     "total_participants": 2749,
     "average_hours": 3.0,
-    "message_count": 0,
+    "message_count": 10,
     "countries": [],
     "continents": [],
     "method_categories": [
@@ -3590,9 +3558,9 @@
     ],
     "participants": [
       {
-        "title": "Let's Talk AI: a people-centred approach to AI literacy-100 people were consulted ",
+        "title": "Let's Talk AI: a people-centred approach to AI literacy - 100 people were consulted ",
         "count": 100,
-        "locations_list": "United Kingdom, Plymouth, UK, Sheffield, UK, Morecambe Bay, UK, Lancaster, UK",
+        "locations_list": "United Kingdom, Morecambe Bay, UK, Lancaster, UK, Sheffield, UK, Plymouth, UK",
         "locations": [
           {
             "lat": 55.3781,
@@ -3600,9 +3568,14 @@
             "location_name": "United Kingdom"
           },
           {
-            "lat": 50.376289,
-            "lng": -4.143841,
-            "location_name": "Plymouth, UK"
+            "lat": 54.1044697,
+            "lng": -2.9712714,
+            "location_name": "Morecambe Bay, UK"
+          },
+          {
+            "lat": 54.047001,
+            "lng": -2.801,
+            "location_name": "Lancaster, UK"
           },
           {
             "lat": 53.383331,
@@ -3610,9 +3583,9 @@
             "location_name": "Sheffield, UK"
           },
           {
-            "lat": 54.047001,
-            "lng": -2.801,
-            "location_name": "Lancaster, UK"
+            "lat": 50.376289,
+            "lng": -4.143841,
+            "location_name": "Plymouth, UK"
           }
         ]
       }
@@ -3644,11 +3617,12 @@
       "Online"
     ],
     "methods": [
-      "Crowdsourcing"
+      "Crowdsourcing",
+      "Focus Group"
     ],
-    "total_participants": 0,
-    "average_hours": 0.0,
-    "message_count": 0,
+    "total_participants": 2805,
+    "average_hours": 1.0,
+    "message_count": 3,
     "countries": [
       "US"
     ],
@@ -3656,12 +3630,13 @@
       "North America"
     ],
     "method_categories": [
+      "participation",
       "research"
     ],
     "participants": [
       {
-        "title": "Engaged California: Impact of AI on Work-GoVocal Online Engagement",
-        "count": "",
+        "title": "Engaged California: Impact of AI on Work - GoVocal Online Engagement",
+        "count": 2702,
         "locations_list": "Stanford, California, USA",
         "locations": [
           {
@@ -3703,7 +3678,7 @@
     ],
     "participants": [
       {
-        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-PPIE contributor group",
+        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research - PPIE contributor group",
         "count": 6,
         "locations_list": "London, United Kingdom",
         "locations": [
@@ -3715,7 +3690,7 @@
         ]
       },
       {
-        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research-Translation group",
+        "title": "Co-designing animated videos to explain large language models and their use in healthcare and research - Translation group",
         "count": 4,
         "locations_list": "London, United Kingdom",
         "locations": [
@@ -3730,7 +3705,7 @@
     "organisations": [
       {
         "title": "Queen Mary University of London",
-        "url": "/organisations/queen-mary-university-of-london-1/",
+        "url": "/organisations/queen-mary-university-of-london/",
         "locations": [
           {
             "lat": 51.5074,
@@ -3740,6 +3715,169 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh",
+    "slug": "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+    "url": "/cases/dataset-onboarding-support-team-dost-for-bhashini-ai-kosh.html",
+    "curation_decision": "Mapping Entry",
+    "themes": [
+      "Language"
+    ],
+    "level_of_engagement": "Professional",
+    "modalities": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ],
+    "methods": [
+      "Capacity Building Workshop",
+      "Co-creation workshops",
+      "Community-Based Participatory Research",
+      "Roundtable Discussion"
+    ],
+    "total_participants": 66,
+    "average_hours": 5.0,
+    "message_count": 0,
+    "countries": [
+      "IN"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "method_categories": [
+      "participation",
+      "research"
+    ],
+    "participants": [
+      {
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh - Multilingual Dataset Contributors and Ecosystem Partners",
+        "count": 50,
+        "locations_list": "Karnataka, India, Kerala, India, Assam, India, Odisha, India, Tamil Nadu, India, Himachal Pradesh, India, Delhi, India",
+        "locations": [
+          {
+            "lat": 14.9562045,
+            "lng": 75.7896741,
+            "location_name": "Karnataka, India"
+          },
+          {
+            "lat": 10.3528744,
+            "lng": 76.5120396,
+            "location_name": "Kerala, India"
+          },
+          {
+            "lat": 26.4073841,
+            "lng": 93.2551303,
+            "location_name": "Assam, India"
+          },
+          {
+            "lat": 20.5431241,
+            "lng": 84.6897321,
+            "location_name": "Odisha, India"
+          },
+          {
+            "lat": 11.3323723,
+            "lng": 78.6098639,
+            "location_name": "Tamil Nadu, India"
+          },
+          {
+            "lat": 31.9292352,
+            "lng": 77.1828462,
+            "location_name": "Himachal Pradesh, India"
+          },
+          {
+            "lat": 28.6138954,
+            "lng": 77.2090057,
+            "location_name": "Delhi, India"
+          }
+        ]
+      },
+      {
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh - Government departments, public institutions, and state agencies contributing multilingual public datasets and co-developing AI-ready data ecosystems.",
+        "count": 6,
+        "locations_list": "Karnataka, India, Kerala, India, Assam, India, Odisha, India, Tamil Nadu, India, Himachal Pradesh, India, Delhi, India",
+        "locations": [
+          {
+            "lat": 14.9562045,
+            "lng": 75.7896741,
+            "location_name": "Karnataka, India"
+          },
+          {
+            "lat": 10.3528744,
+            "lng": 76.5120396,
+            "location_name": "Kerala, India"
+          },
+          {
+            "lat": 26.4073841,
+            "lng": 93.2551303,
+            "location_name": "Assam, India"
+          },
+          {
+            "lat": 20.5431241,
+            "lng": 84.6897321,
+            "location_name": "Odisha, India"
+          },
+          {
+            "lat": 11.3323723,
+            "lng": 78.6098639,
+            "location_name": "Tamil Nadu, India"
+          },
+          {
+            "lat": 31.9292352,
+            "lng": 77.1828462,
+            "location_name": "Himachal Pradesh, India"
+          },
+          {
+            "lat": 28.6138954,
+            "lng": 77.2090057,
+            "location_name": "Delhi, India"
+          }
+        ]
+      },
+      {
+        "title": "Dataset Onboarding Support Team (DOST) for Bhashini & AI Kosh - AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.",
+        "count": 10,
+        "locations_list": "Karnataka, India, Kerala, India, Assam, India, Odisha, India, Tamil Nadu, India, Himachal Pradesh, India, Delhi, India",
+        "locations": [
+          {
+            "lat": 14.9562045,
+            "lng": 75.7896741,
+            "location_name": "Karnataka, India"
+          },
+          {
+            "lat": 10.3528744,
+            "lng": 76.5120396,
+            "location_name": "Kerala, India"
+          },
+          {
+            "lat": 26.4073841,
+            "lng": 93.2551303,
+            "location_name": "Assam, India"
+          },
+          {
+            "lat": 20.5431241,
+            "lng": 84.6897321,
+            "location_name": "Odisha, India"
+          },
+          {
+            "lat": 11.3323723,
+            "lng": 78.6098639,
+            "location_name": "Tamil Nadu, India"
+          },
+          {
+            "lat": 31.9292352,
+            "lng": 77.1828462,
+            "location_name": "Himachal Pradesh, India"
+          },
+          {
+            "lat": 28.6138954,
+            "lng": 77.2090057,
+            "location_name": "Delhi, India"
+          }
+        ]
+      }
+    ],
+    "organisations": []
   },
   {
     "title": "The People's Panel on AI",
@@ -3771,7 +3909,7 @@
     ],
     "participants": [
       {
-        "title": "The People's Panel on AI-People's Panel",
+        "title": "The People's Panel on AI - People's Panel",
         "count": 11,
         "locations_list": "England, United Kingdom",
         "locations": [
@@ -3829,9 +3967,9 @@
     ],
     "participants": [
       {
-        "title": "NonbAInary: How Does AI Depict Gender?-Workshop",
+        "title": "NonbAInary: How Does AI Depict Gender? - Workshop",
         "count": 60,
-        "locations_list": "Vienna, Austria, Bozen-Bolzano, Italy, Trento, Italy, Rome, Italy, Helsinki, Finland",
+        "locations_list": "Vienna, Austria, Helsinki, Finland, Trento, Italy, Rome, Italy, Bozen-Bolzano, Italy",
         "locations": [
           {
             "lat": 48.2083537,
@@ -3839,9 +3977,9 @@
             "location_name": "Vienna, Austria"
           },
           {
-            "lat": 46.4983,
-            "lng": 11.3548,
-            "location_name": "Bozen-Bolzano, Italy"
+            "lat": 60.1666204,
+            "lng": 24.9435408,
+            "location_name": "Helsinki, Finland"
           },
           {
             "lat": 46.1029536,
@@ -3854,9 +3992,9 @@
             "location_name": "Rome, Italy"
           },
           {
-            "lat": 60.1666204,
-            "lng": 24.9435408,
-            "location_name": "Helsinki, Finland"
+            "lat": 46.4983,
+            "lng": 11.3548,
+            "location_name": "Bozen-Bolzano, Italy"
           }
         ]
       }
@@ -3887,43 +4025,107 @@
     ]
   },
   {
-    "title": "Community AI Assisted Deliberation",
-    "slug": "community-ai-assisted-deliberation",
-    "url": "/cases/community-ai-assisted-deliberation.html",
+    "title": "AI AtLarge",
+    "slug": "ai-atlarge",
+    "url": "/cases/ai-atlarge.html",
     "curation_decision": "Mapping Entry",
     "themes": [],
-    "level_of_engagement": "Global",
-    "modalities": [],
-    "methods": [],
+    "level_of_engagement": "Community",
+    "modalities": [
+      "Hybrid",
+      "Offline"
+    ],
+    "methods": [
+      "Capacity Building Workshop"
+    ],
     "total_participants": 0,
     "average_hours": 0.0,
     "message_count": 0,
     "countries": [],
     "continents": [],
     "method_categories": [
-      "research"
+      "participation"
     ],
     "participants": [],
-    "organisations": []
+    "organisations": [
+      {
+        "title": "AI AtLarge Inc.",
+        "url": "/organisations/ai-atlarge-inc/",
+        "locations": [
+          {
+            "lat": 39.7837304,
+            "lng": -100.445882,
+            "location_name": "United States"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "ParakhAI - Participatory AI Evaluation ",
     "slug": "parakhai-participatory-ai-evaluation",
     "url": "/cases/parakhai-participatory-ai-evaluation.html",
-    "curation_decision": "Full Case",
+    "curation_decision": "Mapping Entry",
     "themes": [],
-    "level_of_engagement": "Community",
-    "modalities": [],
-    "methods": [],
-    "total_participants": 0,
-    "average_hours": 0.0,
-    "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "research"
+    "level_of_engagement": "Professional",
+    "modalities": [
+      "Offline",
+      "Online"
     ],
-    "participants": [],
+    "methods": [
+      "Co-creation workshops",
+      "Community Advisory Group"
+    ],
+    "total_participants": 70,
+    "average_hours": 6.0,
+    "message_count": 0,
+    "countries": [
+      "IN"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "method_categories": [
+      "participation"
+    ],
+    "participants": [
+      {
+        "title": "ParakhAI - Participatory AI Evaluation  - One Day Stakeholder Workshop",
+        "count": 50,
+        "locations_list": "Delhi, India",
+        "locations": [
+          {
+            "lat": 28.6138954,
+            "lng": 77.2090057,
+            "location_name": "Delhi, India"
+          }
+        ]
+      },
+      {
+        "title": "ParakhAI - Participatory AI Evaluation  - Working Group",
+        "count": 20,
+        "locations_list": "India",
+        "locations": [
+          {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          }
+        ]
+      },
+      {
+        "title": "ParakhAI - Participatory AI Evaluation  - Cultural experts",
+        "count": "",
+        "locations_list": "India",
+        "locations": [
+          {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -3954,7 +4156,7 @@
     ],
     "participants": [
       {
-        "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo-Semi-structured interviews",
+        "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo - Semi-structured interviews",
         "count": 124,
         "locations_list": "Togo",
         "locations": [
@@ -4054,24 +4256,14 @@
     ],
     "participants": [
       {
-        "title": "Wikibench: Community-Driven Data Curation for AI Evaluation on Wikipedia-Wikipedians",
+        "title": "Wikibench: Community-Driven Data Curation for AI Evaluation on Wikipedia - Wikipedians",
         "count": 17,
-        "locations_list": "Indonesia, United States, Singapore, Germany, Italy, Hungary, Australia, Ireland, United Kingdom",
+        "locations_list": "Australia, Germany, United Kingdom, Hungary, Indonesia, Ireland, Italy, Singapore, United States",
         "locations": [
           {
-            "lat": -2.4833826,
-            "lng": 117.8902853,
-            "location_name": "Indonesia"
-          },
-          {
-            "lat": 39.7837304,
-            "lng": -100.445882,
-            "location_name": "United States"
-          },
-          {
-            "lat": 1.357107,
-            "lng": 103.8194992,
-            "location_name": "Singapore"
+            "lat": -24.7761086,
+            "lng": 134.755,
+            "location_name": "Australia"
           },
           {
             "lat": 51.1638175,
@@ -4079,9 +4271,9 @@
             "location_name": "Germany"
           },
           {
-            "lat": 41.8719,
-            "lng": 12.5674,
-            "location_name": "Italy"
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 47.1817585,
@@ -4089,9 +4281,9 @@
             "location_name": "Hungary"
           },
           {
-            "lat": -24.7761086,
-            "lng": 134.755,
-            "location_name": "Australia"
+            "lat": -2.4833826,
+            "lng": 117.8902853,
+            "location_name": "Indonesia"
           },
           {
             "lat": 52.865196,
@@ -4099,9 +4291,19 @@
             "location_name": "Ireland"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
+            "lat": 41.8719,
+            "lng": 12.5674,
+            "location_name": "Italy"
+          },
+          {
+            "lat": 1.357107,
+            "lng": 103.8194992,
+            "location_name": "Singapore"
+          },
+          {
+            "lat": 39.7837304,
+            "lng": -100.445882,
+            "location_name": "United States"
           }
         ]
       }
@@ -4119,35 +4321,6 @@
         ]
       }
     ]
-  },
-  {
-    "title": "Café AI",
-    "slug": "café-ai",
-    "url": "/cases/café-ai.html",
-    "curation_decision": "Full Case",
-    "themes": [
-      "Artificial Intelligence",
-      "Public Services"
-    ],
-    "level_of_engagement": "National",
-    "modalities": [
-      "Offline"
-    ],
-    "methods": [
-      "Co-creation workshops",
-      "Roundtable Discussion"
-    ],
-    "total_participants": 150000,
-    "average_hours": 2.0,
-    "message_count": 3,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "participation",
-      "research"
-    ],
-    "participants": [],
-    "organisations": []
   },
   {
     "title": "Bloom Project",
@@ -4180,7 +4353,7 @@
     ],
     "participants": [
       {
-        "title": "Bloom Project-Oregon Survey",
+        "title": "Bloom Project - Oregon Survey",
         "count": 300,
         "locations_list": "Oregon, USA",
         "locations": [
@@ -4192,7 +4365,7 @@
         ]
       },
       {
-        "title": "Bloom Project-Utah Survey",
+        "title": "Bloom Project - Utah Survey",
         "count": 400,
         "locations_list": "Utah, USA",
         "locations": [
@@ -4211,19 +4384,43 @@
     "slug": "an-ai-social-readiness-assessment-for-public-sector-ai",
     "url": "/cases/an-ai-social-readiness-assessment-for-public-sector-ai.html",
     "curation_decision": "Mapping Entry",
-    "themes": [],
-    "level_of_engagement": "",
-    "modalities": [],
-    "methods": [],
-    "total_participants": 0,
+    "themes": [
+      "Public Services"
+    ],
+    "level_of_engagement": "National",
+    "modalities": [
+      "Hybrid"
+    ],
+    "methods": [
+      "Deliberation",
+      "Deliberative Polling®"
+    ],
+    "total_participants": 281,
     "average_hours": 0.0,
     "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "research"
+    "countries": [
+      "GB"
     ],
-    "participants": [],
+    "continents": [
+      "Europe"
+    ],
+    "method_categories": [
+      "deliberation"
+    ],
+    "participants": [
+      {
+        "title": "An AI Social Readiness Assessment for Public Sector AI - Workshop and survey participants",
+        "count": 281,
+        "locations_list": "United Kingdom",
+        "locations": [
+          {
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -4297,6 +4494,73 @@
     ]
   },
   {
+    "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia",
+    "slug": "learning-from-thick-big-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-d",
+    "url": "/cases/learning-from-thick-big-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-d.html",
+    "curation_decision": "Full Case",
+    "themes": [
+      "Safety",
+      "Social media"
+    ],
+    "level_of_engagement": "National",
+    "modalities": [
+      "Hybrid"
+    ],
+    "methods": [
+      "Action Research",
+      "Capacity Building Workshop",
+      "Co-creation workshops",
+      "Community-led Audit",
+      "Crowdsourcing"
+    ],
+    "total_participants": 10000,
+    "average_hours": 0.5,
+    "message_count": 0,
+    "countries": [
+      "BD",
+      "IN",
+      "LK",
+      "NP"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "method_categories": [
+      "participation",
+      "research"
+    ],
+    "participants": [
+      {
+        "title": "Learning from Thick–Big Data on Algorithmic Failures: A Case Study of Survivor-Led Participatory AI Development for Safer Moderation in South Asia - Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)",
+        "count": 10000,
+        "locations_list": "Bangladesh, India, Sri Lanka, Nepal",
+        "locations": [
+          {
+            "lat": 24.4769288,
+            "lng": 90.2934413,
+            "location_name": "Bangladesh"
+          },
+          {
+            "lat": 22.3511148,
+            "lng": 78.6677428,
+            "location_name": "India"
+          },
+          {
+            "lat": 7.5554942,
+            "lng": 80.7137847,
+            "location_name": "Sri Lanka"
+          },
+          {
+            "lat": 28.3780464,
+            "lng": 83.9999901,
+            "location_name": "Nepal"
+          }
+        ]
+      }
+    ],
+    "organisations": []
+  },
+  {
     "title": "People's AI Stewardship Summits",
     "slug": "peoples-ai-stewardship-summits",
     "url": "/cases/peoples-ai-stewardship-summits.html",
@@ -4325,29 +4589,29 @@
     ],
     "participants": [
       {
-        "title": "People's AI Stewardship Summits-Summit Public Participants",
+        "title": "People's AI Stewardship Summits - Summit Public Participants",
         "count": 148,
-        "locations_list": "Belfast, Northern Ireland, United Kingdom, Glasgow, Scotland, United Kingdom, Liverpool, United Kingdom, Swansea, Wales, United Kingdom, London, United Kingdom",
+        "locations_list": "Glasgow, Scotland, United Kingdom, Swansea, Wales, United Kingdom, Belfast, Northern Ireland, United Kingdom, Liverpool, United Kingdom, London, United Kingdom",
         "locations": [
-          {
-            "lat": 54.596391,
-            "lng": -5.9301829,
-            "location_name": "Belfast, Northern Ireland, United Kingdom"
-          },
           {
             "lat": 55.8642,
             "lng": -4.2518,
             "location_name": "Glasgow, Scotland, United Kingdom"
           },
           {
-            "lat": 53.3933411,
-            "lng": -2.9166389,
-            "location_name": "Liverpool, United Kingdom"
-          },
-          {
             "lat": 51.6195955,
             "lng": -3.9459248,
             "location_name": "Swansea, Wales, United Kingdom"
+          },
+          {
+            "lat": 54.596391,
+            "lng": -5.9301829,
+            "location_name": "Belfast, Northern Ireland, United Kingdom"
+          },
+          {
+            "lat": 53.3933411,
+            "lng": -2.9166389,
+            "location_name": "Liverpool, United Kingdom"
           },
           {
             "lat": 51.5074,
@@ -4357,29 +4621,29 @@
         ]
       },
       {
-        "title": "People's AI Stewardship Summits-Summits Stakeholder Participants",
+        "title": "People's AI Stewardship Summits - Summits Stakeholder Participants",
         "count": 90,
-        "locations_list": "Belfast, Northern Ireland, United Kingdom, Glasgow, Scotland, United Kingdom, Liverpool, United Kingdom, Swansea, Wales, United Kingdom, London, United Kingdom",
+        "locations_list": "Glasgow, Scotland, United Kingdom, Swansea, Wales, United Kingdom, Belfast, Northern Ireland, United Kingdom, Liverpool, United Kingdom, London, United Kingdom",
         "locations": [
-          {
-            "lat": 54.596391,
-            "lng": -5.9301829,
-            "location_name": "Belfast, Northern Ireland, United Kingdom"
-          },
           {
             "lat": 55.8642,
             "lng": -4.2518,
             "location_name": "Glasgow, Scotland, United Kingdom"
           },
           {
-            "lat": 53.3933411,
-            "lng": -2.9166389,
-            "location_name": "Liverpool, United Kingdom"
-          },
-          {
             "lat": 51.6195955,
             "lng": -3.9459248,
             "location_name": "Swansea, Wales, United Kingdom"
+          },
+          {
+            "lat": 54.596391,
+            "lng": -5.9301829,
+            "location_name": "Belfast, Northern Ireland, United Kingdom"
+          },
+          {
+            "lat": 53.3933411,
+            "lng": -2.9166389,
+            "location_name": "Liverpool, United Kingdom"
           },
           {
             "lat": 51.5074,
@@ -4452,7 +4716,7 @@
     ],
     "participants": [
       {
-        "title": "Faust-Shop Participatory Arts Performance -BCS Performance",
+        "title": "Faust-Shop Participatory Arts Performance  - BCS Performance",
         "count": 20,
         "locations_list": "London, United Kingdom",
         "locations": [
@@ -4484,29 +4748,12 @@
     "total_participants": 31,
     "average_hours": 120.0,
     "message_count": 0,
-    "countries": [
-      "DK"
-    ],
-    "continents": [
-      "Europe"
-    ],
+    "countries": [],
+    "continents": [],
     "method_categories": [
       "participation"
     ],
-    "participants": [
-      {
-        "title": "Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations-Discord users",
-        "count": 31,
-        "locations_list": "Global",
-        "locations": [
-          {
-            "lat": 55.702215,
-            "lng": 12.5592485,
-            "location_name": "Global"
-          }
-        ]
-      }
-    ],
+    "participants": [],
     "organisations": [
       {
         "title": "Carnegie Mellon University",
@@ -4520,6 +4767,35 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Café AI",
+    "slug": "cafe-ai",
+    "url": "/cases/cafe-ai.html",
+    "curation_decision": "Full Case",
+    "themes": [
+      "Artificial Intelligence",
+      "Public Services"
+    ],
+    "level_of_engagement": "National",
+    "modalities": [
+      "Offline"
+    ],
+    "methods": [
+      "Co-creation workshops",
+      "Roundtable Discussion"
+    ],
+    "total_participants": 150000,
+    "average_hours": 2.0,
+    "message_count": 3,
+    "countries": [],
+    "continents": [],
+    "method_categories": [
+      "participation",
+      "research"
+    ],
+    "participants": [],
+    "organisations": []
   },
   {
     "title": "Data Against Feminicide",
@@ -4560,19 +4836,14 @@
     ],
     "participants": [
       {
-        "title": "Data Against Feminicide-Participatory AI co-design, data annotation and evaluation",
+        "title": "Data Against Feminicide - Participatory AI co-design, data annotation and evaluation",
         "count": 20,
-        "locations_list": "Argentina, Uruguay, Brazil, Kenya, United States",
+        "locations_list": "Argentina, Brazil, Kenya, United States, Uruguay",
         "locations": [
           {
             "lat": -34.9964963,
             "lng": -64.9672817,
             "location_name": "Argentina"
-          },
-          {
-            "lat": -32.8755548,
-            "lng": -56.0201525,
-            "location_name": "Uruguay"
           },
           {
             "lat": -10.3333333,
@@ -4588,19 +4859,24 @@
             "lat": 39.7837304,
             "lng": -100.445882,
             "location_name": "United States"
+          },
+          {
+            "lat": -32.8755548,
+            "lng": -56.0201525,
+            "location_name": "Uruguay"
           }
         ]
       }
     ],
     "organisations": [
       {
-        "title": "Data Against Feminicide",
-        "url": "/organisations/data-against-feminicide/",
+        "title": "Queen Mary University of London",
+        "url": "/organisations/queen-mary-university-of-london/",
         "locations": [
           {
-            "lat": 55.702215,
-            "lng": 12.5592485,
-            "location_name": "Global"
+            "lat": 51.5074,
+            "lng": -0.1278,
+            "location_name": "London, United Kingdom"
           }
         ]
       },
@@ -4627,17 +4903,6 @@
         ]
       },
       {
-        "title": "Queen Mary University of London",
-        "url": "/organisations/queen-mary-university-of-london-1/",
-        "locations": [
-          {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "location_name": "London, United Kingdom"
-          }
-        ]
-      },
-      {
         "title": "Iniciativa Latinoamericana por los Datos Abiertos (ILDA)",
         "url": "/organisations/iniciativa-latinoamericana-por-los-datos-abiertos-ilda/",
         "locations": [
@@ -4660,16 +4925,35 @@
     ],
     "level_of_engagement": "National",
     "modalities": [],
-    "methods": [],
-    "total_participants": 0,
-    "average_hours": 0.0,
-    "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "research"
+    "methods": [
+      "Citizens' Jury"
     ],
-    "participants": [],
+    "total_participants": 0,
+    "average_hours": 24.0,
+    "message_count": 0,
+    "countries": [
+      "IE"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "method_categories": [
+      "deliberation"
+    ],
+    "participants": [
+      {
+        "title": "IPPOSI Citizens’ Jury on AI in Healthcare - Jury Members",
+        "count": "",
+        "locations_list": "Ireland",
+        "locations": [
+          {
+            "lat": 52.865196,
+            "lng": -7.9794599,
+            "location_name": "Ireland"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -4677,7 +4961,9 @@
     "slug": "brussels-ai-citizen-jury",
     "url": "/cases/brussels-ai-citizen-jury.html",
     "curation_decision": "Mapping Entry",
-    "themes": [],
+    "themes": [
+      "Infrastructure"
+    ],
     "level_of_engagement": "National",
     "modalities": [],
     "methods": [],
@@ -4719,19 +5005,19 @@
     ],
     "participants": [
       {
-        "title": "Industry Wide Forum on AI Agents-",
+        "title": "Industry Wide Forum on AI Agents - ",
         "count": 503,
-        "locations_list": "United States, India",
+        "locations_list": "India, United States",
         "locations": [
-          {
-            "lat": 39.7837304,
-            "lng": -100.445882,
-            "location_name": "United States"
-          },
           {
             "lat": 22.3511148,
             "lng": 78.6677428,
             "location_name": "India"
+          },
+          {
+            "lat": 39.7837304,
+            "lng": -100.445882,
+            "location_name": "United States"
           }
         ]
       }
@@ -4799,7 +5085,7 @@
     ],
     "participants": [
       {
-        "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project-PPIE group of 41 patients with multiple long term conditions",
+        "title": "AI MULTIPLY - Targeting everyday decision makers in research: early career researcher and patient and public involvement and engagement collaboration in an AI-in-healthcare project - PPIE group of 41 patients with multiple long term conditions",
         "count": 40,
         "locations_list": "United Kingdom",
         "locations": [
@@ -4849,7 +5135,7 @@
     ],
     "participants": [
       {
-        "title": "Building Platform Worker Power with Participatory Data Science-Worker research participants",
+        "title": "Building Platform Worker Power with Participatory Data Science - Worker research participants",
         "count": 40,
         "locations_list": "Edinburgh, Scotland, United Kingdom",
         "locations": [
@@ -4956,7 +5242,7 @@
     ],
     "participants": [
       {
-        "title": "Alignment Assembly on Culture for AI-Online survey",
+        "title": "Alignment Assembly on Culture for AI - Online survey",
         "count": 400,
         "locations_list": "Europe",
         "locations": [
@@ -4994,9 +5280,9 @@
     ]
   },
   {
-    "title": "Favel IA ",
-    "slug": "favel-ia",
-    "url": "/cases/favel-ia.html",
+    "title": "Snohomish County Civic Assembly on AI",
+    "slug": "snohomish-county-civic-assembly-on-ai",
+    "url": "/cases/snohomish-county-civic-assembly-on-ai.html",
     "curation_decision": "Mapping Entry",
     "themes": [],
     "level_of_engagement": "Community",
@@ -5014,23 +5300,190 @@
     "organisations": []
   },
   {
+    "title": "Favel IA ",
+    "slug": "favel-ia",
+    "url": "/cases/favel-ia.html",
+    "curation_decision": "Mapping Entry",
+    "themes": [
+      "Artificial Intelligence"
+    ],
+    "level_of_engagement": "Community",
+    "modalities": [
+      "Offline"
+    ],
+    "methods": [
+      "Action Research"
+    ],
+    "total_participants": 21,
+    "average_hours": 25.0,
+    "message_count": 0,
+    "countries": [
+      "BR"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "method_categories": [
+      "participation"
+    ],
+    "participants": [
+      {
+        "title": "Favel IA  - Workshop",
+        "count": 21,
+        "locations_list": "Rio de Janeiro, Brazil, Niterói, Brazil",
+        "locations": [
+          {
+            "lat": -22.9110137,
+            "lng": -43.2093727,
+            "location_name": "Rio de Janeiro, Brazil"
+          },
+          {
+            "lat": -22.8884,
+            "lng": -43.1147,
+            "location_name": "Niterói, Brazil"
+          }
+        ]
+      }
+    ],
+    "organisations": []
+  },
+  {
+    "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
+    "slug": "citizens-council-on-ai-and-freedom-burgerrat-ki-und-freiheit",
+    "url": "/cases/citizens-council-on-ai-and-freedom-burgerrat-ki-und-freiheit.html",
+    "curation_decision": "Mapping Entry",
+    "themes": [
+      "Research"
+    ],
+    "level_of_engagement": "Community",
+    "modalities": [],
+    "methods": [],
+    "total_participants": 42,
+    "average_hours": 0.0,
+    "message_count": 0,
+    "countries": [
+      "DE"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "method_categories": [
+      "research"
+    ],
+    "participants": [
+      {
+        "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\") - Baden-Württemberg Residents",
+        "count": 42,
+        "locations_list": "Baden-Württemberg, Germany",
+        "locations": [
+          {
+            "lat": 48.53775,
+            "lng": 9.041169,
+            "location_name": "Baden-Württemberg, Germany"
+          }
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "title": "University of Tübingen",
+        "url": "/organisations/university-of-tubingen/",
+        "locations": [
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          }
+        ]
+      },
+      {
+        "title": "Karlsruher Institut für Technologie",
+        "url": "/organisations/karlsruher-institut-fur-technologie/",
+        "locations": [
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          }
+        ]
+      },
+      {
+        "title": "Wissenschaft im Dialog",
+        "url": "/organisations/wissenschaft-im-dialog/",
+        "locations": [
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          }
+        ]
+      },
+      {
+        "title": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
+        "url": "/organisations/center-for-rhetorical-science-communication-research-on-artificial-intelligence/",
+        "locations": [
+          {
+            "lat": 51.1638175,
+            "lng": 10.4478313,
+            "location_name": "Germany"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity",
     "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
     "url": "/cases/deliberative-polling-on-utilizing-ai-to-enhance-information-integrity.html",
     "curation_decision": "Mapping Entry",
     "themes": [],
     "level_of_engagement": "",
-    "modalities": [],
-    "methods": [],
-    "total_participants": 0,
+    "modalities": [
+      "Online"
+    ],
+    "methods": [
+      "Deliberation",
+      "Survey"
+    ],
+    "total_participants": 2196,
     "average_hours": 0.0,
     "message_count": 0,
-    "countries": [],
-    "continents": [],
+    "countries": [
+      "TW"
+    ],
+    "continents": [
+      "Asia"
+    ],
     "method_categories": [
+      "deliberation",
       "research"
     ],
-    "participants": [],
+    "participants": [
+      {
+        "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity - Survey participants",
+        "count": 1760,
+        "locations_list": "Taiwan",
+        "locations": [
+          {
+            "lat": 23.9739374,
+            "lng": 120.9820179,
+            "location_name": "Taiwan"
+          }
+        ]
+      },
+      {
+        "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity - Deliberation assembly participants",
+        "count": 436,
+        "locations_list": "Taiwan",
+        "locations": [
+          {
+            "lat": 23.9739374,
+            "lng": 120.9820179,
+            "location_name": "Taiwan"
+          }
+        ]
+      }
+    ],
     "organisations": []
   },
   {
@@ -5050,7 +5503,7 @@
     ],
     "total_participants": 200,
     "average_hours": 5.0,
-    "message_count": 0,
+    "message_count": 4,
     "countries": [],
     "continents": [],
     "method_categories": [
@@ -5100,7 +5553,7 @@
     ],
     "participants": [
       {
-        "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  -Stakeholders and end-users",
+        "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)   - Stakeholders and end-users",
         "count": 150,
         "locations_list": "United Kingdom",
         "locations": [
@@ -5170,7 +5623,7 @@
       },
       {
         "title": "University of Edinburgh",
-        "url": "/organisations/university-of-edinburgh-1/",
+        "url": "/organisations/university-of-edinburgh/",
         "locations": [
           {
             "lat": 55.9533,
@@ -5229,7 +5682,7 @@
     ],
     "participants": [
       {
-        "title": "Youth dialogue on generative AI -EuropeSay method - youth dialogue ",
+        "title": "Youth dialogue on generative AI  - EuropeSay method - youth dialogue ",
         "count": 361,
         "locations_list": "Jylland, Denmark, Sjælland, Denmark",
         "locations": [
@@ -5246,7 +5699,7 @@
         ]
       },
       {
-        "title": "Youth dialogue on generative AI -Stakeholder workshop",
+        "title": "Youth dialogue on generative AI  - Stakeholder workshop",
         "count": 14,
         "locations_list": "Denmark",
         "locations": [
@@ -5325,7 +5778,7 @@
     ],
     "participants": [
       {
-        "title": "Citizen's Assembly on AI - French Speaking Switzerland-Online survey",
+        "title": "Citizen's Assembly on AI - French Speaking Switzerland - Online survey",
         "count": 734,
         "locations_list": "Switzerland",
         "locations": [
@@ -5337,7 +5790,7 @@
         ]
       },
       {
-        "title": "Citizen's Assembly on AI - French Speaking Switzerland-Assembly Group",
+        "title": "Citizen's Assembly on AI - French Speaking Switzerland - Assembly Group",
         "count": 40,
         "locations_list": "Switzerland",
         "locations": [
@@ -5392,7 +5845,7 @@
     ],
     "participants": [
       {
-        "title": "Belgian Citizens Panel on AI-Citizen Panel",
+        "title": "Belgian Citizens Panel on AI - Citizen Panel",
         "count": 60,
         "locations_list": "Belgium",
         "locations": [
@@ -5410,7 +5863,7 @@
     "title": "Children Global AI Summit on Africa",
     "slug": "children-global-ai-summit-on-africa",
     "url": "/cases/children-global-ai-summit-on-africa.html",
-    "curation_decision": "Mapping Entry",
+    "curation_decision": "Full Case",
     "themes": [
       "Youth"
     ],
@@ -5419,29 +5872,35 @@
       "Hybrid"
     ],
     "methods": [
-      "Capacity Building Workshop"
+      "Capacity Building Workshop",
+      "Opinion Polling",
+      "Roundtable Discussion"
     ],
     "total_participants": 50,
-    "average_hours": 0.0,
+    "average_hours": 7.0,
     "message_count": 18,
     "countries": [
       "GH",
       "KE",
       "NG",
+      "RW",
+      "SL",
       "SO",
+      "SS",
       "ZA"
     ],
     "continents": [
       "Africa"
     ],
     "method_categories": [
-      "participation"
+      "participation",
+      "research"
     ],
     "participants": [
       {
-        "title": "Children Global AI Summit on Africa-Young Participants",
+        "title": "Children Global AI Summit on Africa - Young Participants",
         "count": 50,
-        "locations_list": "Ghana, Kenya, Nigeria, Rwanda, Sierra Leone, Somalia, South Africa, South Sudan",
+        "locations_list": "Ghana, Kenya, Nigeria, Rwanda, Sierra Leone, Somalia, South Sudan, South Africa",
         "locations": [
           {
             "lat": 8.0300284,
@@ -5459,9 +5918,24 @@
             "location_name": "Nigeria"
           },
           {
+            "lat": -2.0002051,
+            "lng": 30.0003963,
+            "location_name": "Rwanda"
+          },
+          {
+            "lat": 8.6400349,
+            "lng": -11.8400269,
+            "location_name": "Sierra Leone"
+          },
+          {
             "lat": 8.3676771,
             "lng": 49.083416,
             "location_name": "Somalia"
+          },
+          {
+            "lat": 7.8699431,
+            "lng": 29.6667897,
+            "location_name": "South Sudan"
           },
           {
             "lat": -28.8166236,
@@ -5472,73 +5946,6 @@
       }
     ],
     "organisations": []
-  },
-  {
-    "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
-    "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit",
-    "url": "/cases/citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit.html",
-    "curation_decision": "Mapping Entry",
-    "themes": [
-      "Research"
-    ],
-    "level_of_engagement": "Community",
-    "modalities": [],
-    "methods": [],
-    "total_participants": 0,
-    "average_hours": 0.0,
-    "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "research"
-    ],
-    "participants": [],
-    "organisations": [
-      {
-        "title": "University of Tübingen",
-        "url": "/organisations/university-of-tübingen/",
-        "locations": [
-          {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
-          }
-        ]
-      },
-      {
-        "title": "Karlsruher Institut für Technologie",
-        "url": "/organisations/karlsruher-institut-für-technologie/",
-        "locations": [
-          {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
-          }
-        ]
-      },
-      {
-        "title": "Wissenschaft im Dialog",
-        "url": "/organisations/wissenschaft-im-dialog/",
-        "locations": [
-          {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
-          }
-        ]
-      },
-      {
-        "title": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
-        "url": "/organisations/center-for-rhetorical-science-communication-research-on-artificial-intelligence/",
-        "locations": [
-          {
-            "lat": 51.1638175,
-            "lng": 10.4478313,
-            "location_name": "Germany"
-          }
-        ]
-      }
-    ]
   },
   {
     "title": "Imaginative Intelligences- Hollywood Edition",
@@ -5574,7 +5981,7 @@
     ],
     "participants": [
       {
-        "title": "Imaginative Intelligences- Hollywood Edition-gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+        "title": "Imaginative Intelligences- Hollywood Edition - gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
         "count": 91,
         "locations_list": "Hollywood, United States",
         "locations": [
@@ -5650,14 +6057,14 @@
     ],
     "participants": [
       {
-        "title": "Exploring Children's Rights and AI-Classroom Workshops",
+        "title": "Exploring Children's Rights and AI - Classroom Workshops",
         "count": 115,
-        "locations_list": "Edinburgh, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Shetland, Scotland, United Kingdom, Dundee, Scotland, United Kingdom",
+        "locations_list": "Shetland, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Dundee, Scotland, United Kingdom, Edinburgh, Scotland, United Kingdom",
         "locations": [
           {
-            "lat": 55.9533,
-            "lng": -3.1883,
-            "location_name": "Edinburgh, Scotland, United Kingdom"
+            "lat": 60.347,
+            "lng": -1.2427,
+            "location_name": "Shetland, Scotland, United Kingdom"
           },
           {
             "lat": 55.8642,
@@ -5670,26 +6077,26 @@
             "location_name": "Doune, Scotland, United Kingdom"
           },
           {
-            "lat": 60.347,
-            "lng": -1.2427,
-            "location_name": "Shetland, Scotland, United Kingdom"
-          },
-          {
             "lat": 56.462,
             "lng": -2.9707,
             "location_name": "Dundee, Scotland, United Kingdom"
+          },
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
           }
         ]
       },
       {
-        "title": "Exploring Children's Rights and AI-Survey",
+        "title": "Exploring Children's Rights and AI - Survey",
         "count": 1269,
-        "locations_list": "Edinburgh, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Shetland, Scotland, United Kingdom, Dundee, Scotland, United Kingdom",
+        "locations_list": "Shetland, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Dundee, Scotland, United Kingdom, Edinburgh, Scotland, United Kingdom",
         "locations": [
           {
-            "lat": 55.9533,
-            "lng": -3.1883,
-            "location_name": "Edinburgh, Scotland, United Kingdom"
+            "lat": 60.347,
+            "lng": -1.2427,
+            "location_name": "Shetland, Scotland, United Kingdom"
           },
           {
             "lat": 55.8642,
@@ -5702,26 +6109,26 @@
             "location_name": "Doune, Scotland, United Kingdom"
           },
           {
-            "lat": 60.347,
-            "lng": -1.2427,
-            "location_name": "Shetland, Scotland, United Kingdom"
-          },
-          {
             "lat": 56.462,
             "lng": -2.9707,
             "location_name": "Dundee, Scotland, United Kingdom"
+          },
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
           }
         ]
       },
       {
-        "title": "Exploring Children's Rights and AI-Cross-school group",
+        "title": "Exploring Children's Rights and AI - Cross-school group",
         "count": 25,
-        "locations_list": "Edinburgh, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Shetland, Scotland, United Kingdom, Dundee, Scotland, United Kingdom",
+        "locations_list": "Shetland, Scotland, United Kingdom, Glasgow, Scotland, United Kingdom, Doune, Scotland, United Kingdom, Dundee, Scotland, United Kingdom, Edinburgh, Scotland, United Kingdom",
         "locations": [
           {
-            "lat": 55.9533,
-            "lng": -3.1883,
-            "location_name": "Edinburgh, Scotland, United Kingdom"
+            "lat": 60.347,
+            "lng": -1.2427,
+            "location_name": "Shetland, Scotland, United Kingdom"
           },
           {
             "lat": 55.8642,
@@ -5734,14 +6141,14 @@
             "location_name": "Doune, Scotland, United Kingdom"
           },
           {
-            "lat": 60.347,
-            "lng": -1.2427,
-            "location_name": "Shetland, Scotland, United Kingdom"
-          },
-          {
             "lat": 56.462,
             "lng": -2.9707,
             "location_name": "Dundee, Scotland, United Kingdom"
+          },
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
           }
         ]
       }
@@ -5759,17 +6166,6 @@
         ]
       },
       {
-        "title": "Children's Parliament",
-        "url": "/organisations/childrens-parliament/",
-        "locations": [
-          {
-            "lat": 55.9533,
-            "lng": -3.1883,
-            "location_name": "Edinburgh, Scotland, United Kingdom"
-          }
-        ]
-      },
-      {
         "title": "The Alan Turing Institute",
         "url": "/organisations/the-alan-turing-institute/",
         "locations": [
@@ -5777,6 +6173,17 @@
             "lat": 51.5074,
             "lng": -0.1278,
             "location_name": "London, United Kingdom"
+          }
+        ]
+      },
+      {
+        "title": "Children's Parliament",
+        "url": "/organisations/childrens-parliament/",
+        "locations": [
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
           }
         ]
       }
@@ -5812,7 +6219,7 @@
     ],
     "participants": [
       {
-        "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation-University Students",
+        "title": "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation - University Students",
         "count": 68,
         "locations_list": "United States",
         "locations": [
@@ -5873,31 +6280,6 @@
     ]
   },
   {
-    "title": "Women Experience Privacy Differently: A Gender Toolkit for Inclusive AI in Education",
-    "slug": "women-experience-privacy-differently-a-gender-toolkit-for-inclusive-ai-in-education",
-    "url": "/cases/women-experience-privacy-differently-a-gender-toolkit-for-inclusive-ai-in-education.html",
-    "curation_decision": "Mapping Entry",
-    "themes": [],
-    "level_of_engagement": "",
-    "modalities": [
-      "Hybrid"
-    ],
-    "methods": [
-      "Capacity Building Workshop",
-      "Co-creation workshops"
-    ],
-    "total_participants": 33,
-    "average_hours": 32.0,
-    "message_count": 0,
-    "countries": [],
-    "continents": [],
-    "method_categories": [
-      "participation"
-    ],
-    "participants": [],
-    "organisations": []
-  },
-  {
     "title": "UNESCO Guidelines for the Governance of Digital Platforms",
     "slug": "unesco-guidelines-for-the-governance-of-digital-platforms",
     "url": "/cases/unesco-guidelines-for-the-governance-of-digital-platforms.html",
@@ -5920,9 +6302,11 @@
     "average_hours": 0.0,
     "message_count": 0,
     "countries": [
-      "US"
+      "US",
+      "ZM"
     ],
     "continents": [
+      "Africa",
       "North America"
     ],
     "method_categories": [
@@ -5931,7 +6315,7 @@
     ],
     "participants": [
       {
-        "title": "UNESCO Guidelines for the Governance of Digital Platforms-Pilot deliberative consultations",
+        "title": "UNESCO Guidelines for the Governance of Digital Platforms - Pilot deliberative consultations",
         "count": "",
         "locations_list": "New York, New York, USA, Lusaka",
         "locations": [
@@ -5939,6 +6323,11 @@
             "lat": 40.7128,
             "lng": -74.006,
             "location_name": "New York, New York, USA"
+          },
+          {
+            "lat": -15.4163395,
+            "lng": 28.2818414,
+            "location_name": "Lusaka"
           }
         ]
       }
@@ -5976,7 +6365,7 @@
     ],
     "participants": [
       {
-        "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia-Community Members",
+        "title": "Designing Responsible AI Systems with Indigenous Communities: A Participatory Approach for the Himba and San Communities in Namibia - Community Members",
         "count": 30,
         "locations_list": "Namibia",
         "locations": [
@@ -6038,7 +6427,7 @@
     ],
     "participants": [
       {
-        "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation-artists",
+        "title": "Disobedience by Design: Exposing Ideology and Acceleration in Automated Language Generation - artists",
         "count": 24,
         "locations_list": "Italy",
         "locations": [
@@ -6100,10 +6489,15 @@
     ],
     "participants": [
       {
-        "title": "Making Good:  Insights on AI and public good from diverse UK communities -Community participants recruited through place-based, community-led engagement across three UK locations.",
+        "title": "Making Good:  Insights on AI and public good from diverse UK communities  - Community participants recruited through place-based, community-led engagement across three UK locations.",
         "count": 47,
-        "locations_list": "Belfast, Northern Ireland, United Kingdom, London, United Kingdom, Southampton, United Kingdom",
+        "locations_list": "United Kingdom, Belfast, Northern Ireland, United Kingdom, London, United Kingdom, Southampton",
         "locations": [
+          {
+            "lat": 55.3781,
+            "lng": -3.436,
+            "location_name": "United Kingdom"
+          },
           {
             "lat": 54.596391,
             "lng": -5.9301829,
@@ -6118,11 +6512,6 @@
             "lat": 50.909698,
             "lng": -1.404351,
             "location_name": "Southampton"
-          },
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
           }
         ]
       }
@@ -6190,7 +6579,7 @@
     ],
     "participants": [
       {
-        "title": "Liverpool City Region Residents' Assembly on Data and AI-Liverpool City Region Residents",
+        "title": "Liverpool City Region Residents' Assembly on Data and AI - Liverpool City Region Residents",
         "count": 59,
         "locations_list": "Liverpool, United Kingdom",
         "locations": [
@@ -6281,7 +6670,7 @@
     ],
     "participants": [
       {
-        "title": "Odyssean Process (on AI)-Citizen Assembly",
+        "title": "Odyssean Process (on AI) - Citizen Assembly",
         "count": 100,
         "locations_list": "United Kingdom",
         "locations": [
@@ -6315,28 +6704,6 @@
             "location_name": "Montreal, Canada"
           }
         ]
-      },
-      {
-        "title": "Involve UK",
-        "url": "/organisations/involve-uk/",
-        "locations": [
-          {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "location_name": "London, United Kingdom"
-          }
-        ]
-      },
-      {
-        "title": "Sortition Foundation",
-        "url": "/organisations/sortition-foundation/",
-        "locations": [
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          }
-        ]
       }
     ]
   },
@@ -6367,7 +6734,7 @@
     ],
     "participants": [
       {
-        "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare -National Australian Jury",
+        "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare  - National Australian Jury",
         "count": 30,
         "locations_list": "Australia",
         "locations": [
@@ -6461,9 +6828,9 @@
     ],
     "participants": [
       {
-        "title": "Meta Generative AI Community Forum-Community Forum",
+        "title": "Meta Generative AI Community Forum - Community Forum",
         "count": 1545,
-        "locations_list": "Brazil, Germany, United States, Spain",
+        "locations_list": "Brazil, Germany, Spain, United States",
         "locations": [
           {
             "lat": -10.3333333,
@@ -6476,14 +6843,14 @@
             "location_name": "Germany"
           },
           {
-            "lat": 39.7837304,
-            "lng": -100.445882,
-            "location_name": "United States"
-          },
-          {
             "lat": 39.3260685,
             "lng": -4.8379791,
             "location_name": "Spain"
+          },
+          {
+            "lat": 39.7837304,
+            "lng": -100.445882,
+            "location_name": "United States"
           }
         ]
       }
@@ -6529,7 +6896,7 @@
     ],
     "participants": [
       {
-        "title": "AI for Diabetes Prediction & Prevention (AI4DPP)-People with T2D",
+        "title": "AI for Diabetes Prediction & Prevention (AI4DPP) - People with T2D",
         "count": 30,
         "locations_list": "Canada",
         "locations": [
@@ -6582,7 +6949,7 @@
     ],
     "participants": [
       {
-        "title": "Kalinga IKSP and AI Policy Ordinance-Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
+        "title": "Kalinga IKSP and AI Policy Ordinance - Kalinga community elders and Indigenous knowledge holders, alongside KSU faculty and students, recruited through the IPMR and NCIP structures and through existing community relationships rather than open call. Engagement took the form of governance workshops conducted in the Digital Arang format, a community deliberative gathering, supplemented by responsible-AI training for faculty and students.",
         "count": 200,
         "locations_list": "Kalinga, Philippines",
         "locations": [

@@ -1,0 +1,709 @@
+{
+  "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Making Good:  Insights on AI and public good from diverse UK communities ",
+    "airtable_id": "f9fb151bfc52e5c1",
+    "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities",
+    "redirect_from": [
+      "/c/f9fb151bfc52e5c1/"
+    ],
+    "lead-organisations": [
+      "ada-lovelace-institute"
+    ],
+    "provide-a-brief-description-of-the-project": "**Led by the Ada Lovelace Institute, this project employed six community researchers in Belfast, Brixton, and Southampton to co-design and facilitate a flexible engagement process with 47 participants from underrepresented backgrounds. By combining deliberative workshops, creative diaries, and structured AI literacy training, the initiative gathered rich qualitative insights on how local communities define the public good in relation to emerging technologies.**\n\nMaking Good was a place-based public engagement project exploring how diverse communities across the UK understand the relationship between AI and the public good. Working with community researchers in Belfast, Brixton and Southampton, the project brought together 47 participants through deliberative workshops and a co-designed research process to explore how lived experience, place and community shape expectations of AI. Rather than beginning with predefined policy questions, the project asked what “public good” means to people in their everyday lives, before examining how AI could support or undermine those values. The research generated qualitative evidence about public expectations for AI governance, public services and technology development, and culminated in a set of participant-informed expectations for AI that serves the public good\n",
+    "what-limitations-to-the-project-should-be-noted": "The project was intentionally qualitative and place-based rather than statistically representative. Its aim was to generate rich, contextual insights into how diverse communities understand AI and the public good, rather than nationally representative findings.\n\nThe project also highlighted that some issues may benefit from enclave deliberation or more targeted engagement methods. Topics relating to faith, structural discrimination, migration, or experiences of over-policing can require shared lived experience and psychologically safe spaces to enable participants to explore how AI intersects with these aspects of their lives. General deliberative settings may not always create the conditions needed for these perspectives to emerge fully.\n\nThe project explored a rapidly evolving technological landscape. Participants’ expectations reflected contemporary understandings of AI - and it was useful to flag this 'emergence' was a key precondition of, or dynamic within, their responses - but like all deliberative work, it is located in time as much as situation.\n\nFinally, the project focused on three UK locations. While this enabled a deeper exploration of place and community context, the findings should not be interpreted as nationally representative.\n",
+    "project-status": "Complete",
+    "headline-findings": "Participants reached a set of expectations for AI and Public Good:\n\n1. Pro-social and equitable\n\nAI should be public- and person-centred, and supportive of individual needs, talents and abilities.\n\nParticipants expected AI to:\n\n- make life fairer for everyone\n- reduce, rather than reinforce, inequalities\n- recognise that different communities have different needs\n- support people’s capabilities rather than replace them\n- prioritise human wellbeing over profit\n- protect the most vulnerable\n- share the benefits of AI fairly across society\n\n“Don’t be greedy. Don’t let this all be about money.”\n\n“Can AI fix any issue if profit is at the heart of it?”\n\n“AI prioritises profit, perpetuates capitalism.\n\n\n1. Relational and ethical\n\nAI should care for human and community needs.\n\nParticipants expected AI to:\n\n- strengthen rather than replace human relationships\n- leave space for care, empathy and compassion\n- support communities rather than isolate individuals\n- preserve dignity in healthcare, education and social care\n- complement human judgement where relationships matter most.\n\n“Public good is a community that is together, that you can support and rely on.”\n\n1. Future-focused and ambitious\n\nAI should advance humanity’s needs, recognising children and future generations.\n\nParticipants expected AI to:\n\n- help solve major societal challenges\n- improve healthcare and disease diagnosis\n- tackle climate change\n- improve environmental sustainability\n- create better futures for children and future generations\n- invest in long-term public benefit rather than short-term gains.\n\n“The benefits of AI hold so much potential…”\n\n1. Responsibly deployed\n\nAI should be used considerately, and only where necessary and effective.\n\nParticipants expected AI to:\n\n- be introduced only where it genuinely improves outcomes\n- not replace people simply because it is cheaper\n- be transparent and accountable\n- be subject to democratic oversight\n- be deployed proportionately\n- recognise situations where AI should not be used at all\n\n\n\n",
+    "participants": [
+      "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "messages": [
+      "responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective",
+      "future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener",
+      "relational-and-ethical-ai-should-care-for-human-and-community-needs",
+      "pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t",
+      "can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it",
+      "public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on",
+      "the-benefits-of-ai-hold-so-much-potential"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "ukri"
+    ],
+    "inclusion-efforts": "The project adopted a community-led research model, investing in six paid community researchers based in Belfast, Brixton and Southampton. Community researchers were involved throughout the project, including shaping the research design, recruiting participants, facilitating workshops, supporting participants between sessions and contributing to interpretation of the findings. Their local knowledge and trusted relationships enabled recruitment through community networks rather than relying solely on conventional market research approaches.\n\nRecruitment prioritised communities whose perspectives are often underrepresented in AI research and policy. Rather than seeking statistical representativeness, the project sought a diversity of lived experiences, inviting participants to self-identify across a range of characteristics associated with exclusion or marginalisation, including disability, ethnicity, migration and citizenship experiences, poverty, LGBTQIA+ identities and communities who felt unheard by decision-makers.\n\nTo support meaningful participation, the project included a structured learning phase developed in collaboration with We and AI, drawing on their expertise in AI literacy. This was designed to build participants’ confidence and understanding before deliberation, enabling informed discussion regardless of prior knowledge of AI.\n\nThe engagement process was designed to be flexible and responsive. Alongside facilitated workshops and learning sessions, participants could contribute through interviews, diaries, audio reflections and creative enquiry activities, allowing people to engage in ways that best suited their preferences and circumstances. Community researchers also helped contextualise discussions within local communities and build trusting relationships with participants throughout the project.\n\nInclusion was therefore embedded not only in participant recruitment, but also in the learning process, the flexibility of participation methods and the role of community expertise throughout the research.\n",
+    "project-title": "Making Good:  Insights on AI and public good from diverse UK communities ",
+    "method-image-caption": "Source: ",
+    "submitted-by": "Eleanor O'Keeffe",
+    "why-is-this-project-important-to-include-in-the": "Making Good demonstrates a distinctive approach to public participation in AI governance by combining deliberative methods with community-led research and place-based engagement. Rather than recruiting participants solely through demographic quotas, Ada partnered with community researchers who recruited people embedded within local communities, including groups who are often underrepresented in AI policy and governance discussions. They were able to create dialogue between community interests, concerns and AI, because of their embedded knowledge.\n\nThe project is also methodologically innovative because community researchers acted not only as recruiters but as collaborators throughout co-design, facilitation and co-analysis, helping ensure that participant perspectives remained grounded in local context and lived experience. Instead of treating “the public” as a single, homogeneous audience, the research recognises that expectations of AI are shaped by place, social relationships and experiences of public services.\n\nThe project provides an example of how participatory research can move beyond measuring attitudes towards AI to understanding the values, trade-offs and social conditions that underpin public expectations. It therefore offers one important model variant for policymakers, researchers and practitioners seeking more legitimate, inclusive and context-sensitive approaches to AI governance.\n",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Making Good explores how diverse UK communities think about and make sense of AI and 'the public good', both as separate concepts or dimensions in their lives and in relationship.",
+    "how-was-the-project-initiated": [
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.adalovelaceinstitute.org/report/ai-public-good/",
+    "locations": [
+      "belfast-northern-ireland-united-kingdom",
+      "london-united-kingdom",
+      "southampton",
+      "united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "Belfast; Brixton (London); Southampton"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities",
+    "data": {
+      "layout": "case",
+      "title": "Making Good:  Insights on AI and public good from diverse UK communities ",
+      "airtable_id": "f9fb151bfc52e5c1",
+      "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities",
+      "redirect_from": [
+        "/c/f9fb151bfc52e5c1/"
+      ],
+      "lead-organisations": [
+        "ada-lovelace-institute"
+      ],
+      "provide-a-brief-description-of-the-project": "**Led by the Ada Lovelace Institute, this project employed six community researchers in Belfast, Brixton, and Southampton to co-design and facilitate a flexible engagement process with 47 participants from underrepresented backgrounds. By combining deliberative workshops, creative diaries, and structured AI literacy training, the initiative gathered rich qualitative insights on how local communities define the public good in relation to emerging technologies.**\n\nMaking Good was a place-based public engagement project exploring how diverse communities across the UK understand the relationship between AI and the public good. Working with community researchers in Belfast, Brixton and Southampton, the project brought together 47 participants through deliberative workshops and a co-designed research process to explore how lived experience, place and community shape expectations of AI. Rather than beginning with predefined policy questions, the project asked what “public good” means to people in their everyday lives, before examining how AI could support or undermine those values. The research generated qualitative evidence about public expectations for AI governance, public services and technology development, and culminated in a set of participant-informed expectations for AI that serves the public good\n",
+      "what-limitations-to-the-project-should-be-noted": "The project was intentionally qualitative and place-based rather than statistically representative. Its aim was to generate rich, contextual insights into how diverse communities understand AI and the public good, rather than nationally representative findings.\n\nThe project also highlighted that some issues may benefit from enclave deliberation or more targeted engagement methods. Topics relating to faith, structural discrimination, migration, or experiences of over-policing can require shared lived experience and psychologically safe spaces to enable participants to explore how AI intersects with these aspects of their lives. General deliberative settings may not always create the conditions needed for these perspectives to emerge fully.\n\nThe project explored a rapidly evolving technological landscape. Participants’ expectations reflected contemporary understandings of AI - and it was useful to flag this 'emergence' was a key precondition of, or dynamic within, their responses - but like all deliberative work, it is located in time as much as situation.\n\nFinally, the project focused on three UK locations. While this enabled a deeper exploration of place and community context, the findings should not be interpreted as nationally representative.\n",
+      "project-status": "Complete",
+      "headline-findings": "Participants reached a set of expectations for AI and Public Good:\n\n1. Pro-social and equitable\n\nAI should be public- and person-centred, and supportive of individual needs, talents and abilities.\n\nParticipants expected AI to:\n\n- make life fairer for everyone\n- reduce, rather than reinforce, inequalities\n- recognise that different communities have different needs\n- support people’s capabilities rather than replace them\n- prioritise human wellbeing over profit\n- protect the most vulnerable\n- share the benefits of AI fairly across society\n\n“Don’t be greedy. Don’t let this all be about money.”\n\n“Can AI fix any issue if profit is at the heart of it?”\n\n“AI prioritises profit, perpetuates capitalism.\n\n\n1. Relational and ethical\n\nAI should care for human and community needs.\n\nParticipants expected AI to:\n\n- strengthen rather than replace human relationships\n- leave space for care, empathy and compassion\n- support communities rather than isolate individuals\n- preserve dignity in healthcare, education and social care\n- complement human judgement where relationships matter most.\n\n“Public good is a community that is together, that you can support and rely on.”\n\n1. Future-focused and ambitious\n\nAI should advance humanity’s needs, recognising children and future generations.\n\nParticipants expected AI to:\n\n- help solve major societal challenges\n- improve healthcare and disease diagnosis\n- tackle climate change\n- improve environmental sustainability\n- create better futures for children and future generations\n- invest in long-term public benefit rather than short-term gains.\n\n“The benefits of AI hold so much potential…”\n\n1. Responsibly deployed\n\nAI should be used considerately, and only where necessary and effective.\n\nParticipants expected AI to:\n\n- be introduced only where it genuinely improves outcomes\n- not replace people simply because it is cheaper\n- be transparent and accountable\n- be subject to democratic oversight\n- be deployed proportionately\n- recognise situations where AI should not be used at all\n\n\n\n",
+      "participants": [
+        "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "messages": [
+        "responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective",
+        "future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener",
+        "relational-and-ethical-ai-should-care-for-human-and-community-needs",
+        "pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t",
+        "can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it",
+        "public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on",
+        "the-benefits-of-ai-hold-so-much-potential"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "ukri"
+      ],
+      "inclusion-efforts": "The project adopted a community-led research model, investing in six paid community researchers based in Belfast, Brixton and Southampton. Community researchers were involved throughout the project, including shaping the research design, recruiting participants, facilitating workshops, supporting participants between sessions and contributing to interpretation of the findings. Their local knowledge and trusted relationships enabled recruitment through community networks rather than relying solely on conventional market research approaches.\n\nRecruitment prioritised communities whose perspectives are often underrepresented in AI research and policy. Rather than seeking statistical representativeness, the project sought a diversity of lived experiences, inviting participants to self-identify across a range of characteristics associated with exclusion or marginalisation, including disability, ethnicity, migration and citizenship experiences, poverty, LGBTQIA+ identities and communities who felt unheard by decision-makers.\n\nTo support meaningful participation, the project included a structured learning phase developed in collaboration with We and AI, drawing on their expertise in AI literacy. This was designed to build participants’ confidence and understanding before deliberation, enabling informed discussion regardless of prior knowledge of AI.\n\nThe engagement process was designed to be flexible and responsive. Alongside facilitated workshops and learning sessions, participants could contribute through interviews, diaries, audio reflections and creative enquiry activities, allowing people to engage in ways that best suited their preferences and circumstances. Community researchers also helped contextualise discussions within local communities and build trusting relationships with participants throughout the project.\n\nInclusion was therefore embedded not only in participant recruitment, but also in the learning process, the flexibility of participation methods and the role of community expertise throughout the research.\n",
+      "project-title": "Making Good:  Insights on AI and public good from diverse UK communities ",
+      "method-image-caption": "Source: ",
+      "submitted-by": "Eleanor O'Keeffe",
+      "why-is-this-project-important-to-include-in-the": "Making Good demonstrates a distinctive approach to public participation in AI governance by combining deliberative methods with community-led research and place-based engagement. Rather than recruiting participants solely through demographic quotas, Ada partnered with community researchers who recruited people embedded within local communities, including groups who are often underrepresented in AI policy and governance discussions. They were able to create dialogue between community interests, concerns and AI, because of their embedded knowledge.\n\nThe project is also methodologically innovative because community researchers acted not only as recruiters but as collaborators throughout co-design, facilitation and co-analysis, helping ensure that participant perspectives remained grounded in local context and lived experience. Instead of treating “the public” as a single, homogeneous audience, the research recognises that expectations of AI are shaped by place, social relationships and experiences of public services.\n\nThe project provides an example of how participatory research can move beyond measuring attitudes towards AI to understanding the values, trade-offs and social conditions that underpin public expectations. It therefore offers one important model variant for policymakers, researchers and practitioners seeking more legitimate, inclusive and context-sensitive approaches to AI governance.\n",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Making Good explores how diverse UK communities think about and make sense of AI and 'the public good', both as separate concepts or dimensions in their lives and in relationship.",
+      "how-was-the-project-initiated": [
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.adalovelaceinstitute.org/report/ai-public-good/",
+      "locations": [
+        "belfast-northern-ireland-united-kingdom",
+        "london-united-kingdom",
+        "southampton",
+        "united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "Belfast; Brixton (London); Southampton"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui",
+        "data": {
+          "layout": "generic",
+          "title": "Making Good:  Insights on AI and public good from diverse UK communities -Community participants recruited through place-based, community-led engagement across three UK locations.",
+          "airtable_id": "785bc6735229312b",
+          "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui",
+          "locations": [
+            "belfast-northern-ireland-united-kingdom",
+            "london-united-kingdom",
+            "southampton",
+            "united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Belfast; Brixton (London); Southampton",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-Based Participatory Research",
+            "Co-creation workshops",
+            "Participatory Arts",
+            "Scenario Workshop",
+            "Participatory futures workshop",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 25,
+          "name": "Making Good:  Insights on AI and public good from diverse UK communities -Community participants recruited through place-based, community-led engagement across three UK locations.",
+          "group-description": "Community participants recruited through place-based, community-led engagement across three UK locations.",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "The project adopted a community-led research model in which six community researchers worked alongside Ada researchers through co-design, recruitment, facilitation and co-analysis. Alongside structured deliberative workshops and learning sessions, participants were invited to contribute through a flexible enquiry process including diaries, interviews, audio reflections and other creative methods. The project therefore combined deliberative engagement with ethnographic and participatory research methods to build a richer understanding of how people made sense of AI and the public good. Participants also reconvened after analysis to review and challenge the emerging findings before publication.",
+          "how-many-people-took-part": 47,
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "recruitment-description": "Community recruitment, via community research networks and place based approaches. Participants were recruited by six community researchers working in Belfast, Brixton and Southampton using trusted local networks and place-based outreach. Recruitment approaches were tailored to each locality and included voluntary sector networks, community events, libraries, cafés, local organisations and social media. Interested participants completed a common expression-of-interest form and were selected through a collaborative process between Ada researchers and community researchers. Recruitment intentionally sought participants from groups frequently underrepresented in AI governance, asking applicants to self-identify across a number of dimensions of exclusion (including disability, ethnicity, citizenship, poverty, LGBTQIA+ identity and communities not listened to by those in power). The project prioritised inclusion and diversity over demographic representativeness.",
+          "was-there-a-specific-target-population": "People from communities whose perspectives are often underrepresented in AI research and policy, recruited through trusted local community networks. The project sought participants reflecting local diversity and experiences of exclusion, including (through self-identification) people who had experienced poverty, disability, ethnic minoritisation, migration or citizenship-related exclusion, LGBTQIA+ identities, and communities who felt unheard by decision-makers. Rather than seeking statistical representativeness, the project aimed for diverse, community-rooted perspectives.",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ada-lovelace-institute",
+        "data": {
+          "layout": "organisation",
+          "title": "Ada Lovelace Institute",
+          "airtable_id": "a0fb17b0e676de3f",
+          "slug": "ada-lovelace-institute",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.adalovelaceinstitute.org/",
+          "name": "Ada Lovelace Institute",
+          "lead-organisation-for": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "mission-statement": "To ensure that data and AI work for people and society, focusing on public voice, evidence-based research, and ethics. (Source: https://www.adalovelaceinstitute.org/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "ukri",
+        "data": {
+          "layout": "organisation",
+          "title": "UKRI",
+          "airtable_id": "00999e5b24f6ce2c",
+          "slug": "ukri",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.ukri.org/",
+          "name": "UKRI",
+          "mission-statement": "To foster an outstanding research and innovation system in the UK that gives everyone the opportunity to contribute and to benefit. (Source: https://www.ukri.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-benefits-of-ai-hold-so-much-potential",
+        "data": {
+          "layout": "generic",
+          "title": "The benefits of AI hold so much potential…",
+          "airtable_id": "833a8ba8ed71d69d",
+          "slug": "the-benefits-of-ai-hold-so-much-potential",
+          "type": "Quote",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "additional-credit-line": "Participant",
+          "name": "The benefits of AI hold so much potential…",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener",
+        "data": {
+          "layout": "generic",
+          "title": "Future-focused and ambitious - AI should advance humanity’s needs, recognising children and future generations.",
+          "airtable_id": "9427a9a9a3790348",
+          "slug": "future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "name": "Future-focused and ambitious - AI should advance humanity’s needs, recognising children and future generations.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on",
+        "data": {
+          "layout": "generic",
+          "title": "Public good is a community that is together, that you can support and rely on.",
+          "airtable_id": "46014f9da4067102",
+          "slug": "public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on",
+          "type": "Quote",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "additional-credit-line": "Participant",
+          "name": "Public good is a community that is together, that you can support and rely on.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t",
+        "data": {
+          "layout": "generic",
+          "title": "Pro-social and equitable - AI should be public- and person-centred, and supportive of individual needs, talents and abilities.",
+          "airtable_id": "f4be3cdb5bd9d3c0",
+          "slug": "pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "name": "Pro-social and equitable - AI should be public- and person-centred, and supportive of individual needs, talents and abilities.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "relational-and-ethical-ai-should-care-for-human-and-community-needs",
+        "data": {
+          "layout": "generic",
+          "title": "Relational and ethical - AI should care for human and community needs.",
+          "airtable_id": "4cfe78aadcbe68c2",
+          "slug": "relational-and-ethical-ai-should-care-for-human-and-community-needs",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "name": "Relational and ethical - AI should care for human and community needs.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it",
+        "data": {
+          "layout": "generic",
+          "title": "Can AI fix any issue if profit is at the heart of it?\n\n",
+          "airtable_id": "3d4fd36991a82060",
+          "slug": "can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it",
+          "type": "Quote",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "additional-credit-line": "Participant",
+          "name": "Can AI fix any issue if profit is at the heart of it?\n\n",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective",
+        "data": {
+          "layout": "generic",
+          "title": "Responsibly deployed - AI should be used considerately, and only where necessary and effective.",
+          "airtable_id": "eb747d17eb479c9c",
+          "slug": "responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective",
+          "featured": [
+            "AI development"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "name": "Responsibly deployed - AI should be used considerately, and only where necessary and effective.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+          ],
+          "layout": "generic",
+          "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-process",
+          "title": "Making Good:  Insights on AI and public good from diverse UK communities  - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Making Good:  Insights on AI and public good from diverse UK communities -Community participants recruited through place-based, community-led engagement across three UK locations.",
+        "airtable_id": "785bc6735229312b",
+        "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui",
+        "locations": [
+          "belfast-northern-ireland-united-kingdom",
+          "london-united-kingdom",
+          "southampton",
+          "united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Belfast; Brixton (London); Southampton",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-Based Participatory Research",
+          "Co-creation workshops",
+          "Participatory Arts",
+          "Scenario Workshop",
+          "Participatory futures workshop",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 25,
+        "name": "Making Good:  Insights on AI and public good from diverse UK communities -Community participants recruited through place-based, community-led engagement across three UK locations.",
+        "group-description": "Community participants recruited through place-based, community-led engagement across three UK locations.",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "The project adopted a community-led research model in which six community researchers worked alongside Ada researchers through co-design, recruitment, facilitation and co-analysis. Alongside structured deliberative workshops and learning sessions, participants were invited to contribute through a flexible enquiry process including diaries, interviews, audio reflections and other creative methods. The project therefore combined deliberative engagement with ethnographic and participatory research methods to build a richer understanding of how people made sense of AI and the public good. Participants also reconvened after analysis to review and challenge the emerging findings before publication.",
+        "how-many-people-took-part": 47,
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "recruitment-description": "Community recruitment, via community research networks and place based approaches. Participants were recruited by six community researchers working in Belfast, Brixton and Southampton using trusted local networks and place-based outreach. Recruitment approaches were tailored to each locality and included voluntary sector networks, community events, libraries, cafés, local organisations and social media. Interested participants completed a common expression-of-interest form and were selected through a collaborative process between Ada researchers and community researchers. Recruitment intentionally sought participants from groups frequently underrepresented in AI governance, asking applicants to self-identify across a number of dimensions of exclusion (including disability, ethnicity, citizenship, poverty, LGBTQIA+ identity and communities not listened to by those in power). The project prioritised inclusion and diversity over demographic representativeness.",
+        "was-there-a-specific-target-population": "People from communities whose perspectives are often underrepresented in AI research and policy, recruited through trusted local community networks. The project sought participants reflecting local diversity and experiences of exclusion, including (through self-identification) people who had experienced poverty, disability, ethnic minoritisation, migration or citizenship-related exclusion, LGBTQIA+ identities, and communities who felt unheard by decision-makers. Rather than seeking statistical representativeness, the project aimed for diverse, community-rooted perspectives.",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "layout": "generic",
+        "slug": "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-process",
+        "title": "Making Good:  Insights on AI and public good from diverse UK communities  - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Ada Lovelace Institute",
+        "airtable_id": "a0fb17b0e676de3f",
+        "slug": "ada-lovelace-institute",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.adalovelaceinstitute.org/",
+        "name": "Ada Lovelace Institute",
+        "lead-organisation-for": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "mission-statement": "To ensure that data and AI work for people and society, focusing on public voice, evidence-based research, and ethics. (Source: https://www.adalovelaceinstitute.org/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UKRI",
+        "airtable_id": "00999e5b24f6ce2c",
+        "slug": "ukri",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.ukri.org/",
+        "name": "UKRI",
+        "mission-statement": "To foster an outstanding research and innovation system in the UK that gives everyone the opportunity to contribute and to benefit. (Source: https://www.ukri.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "The benefits of AI hold so much potential…",
+        "airtable_id": "833a8ba8ed71d69d",
+        "slug": "the-benefits-of-ai-hold-so-much-potential",
+        "type": "Quote",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "additional-credit-line": "Participant",
+        "name": "The benefits of AI hold so much potential…",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Future-focused and ambitious - AI should advance humanity’s needs, recognising children and future generations.",
+        "airtable_id": "9427a9a9a3790348",
+        "slug": "future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "name": "Future-focused and ambitious - AI should advance humanity’s needs, recognising children and future generations.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Public good is a community that is together, that you can support and rely on.",
+        "airtable_id": "46014f9da4067102",
+        "slug": "public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on",
+        "type": "Quote",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "additional-credit-line": "Participant",
+        "name": "Public good is a community that is together, that you can support and rely on.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Pro-social and equitable - AI should be public- and person-centred, and supportive of individual needs, talents and abilities.",
+        "airtable_id": "f4be3cdb5bd9d3c0",
+        "slug": "pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "name": "Pro-social and equitable - AI should be public- and person-centred, and supportive of individual needs, talents and abilities.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Relational and ethical - AI should care for human and community needs.",
+        "airtable_id": "4cfe78aadcbe68c2",
+        "slug": "relational-and-ethical-ai-should-care-for-human-and-community-needs",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "name": "Relational and ethical - AI should care for human and community needs.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Can AI fix any issue if profit is at the heart of it?\n\n",
+        "airtable_id": "3d4fd36991a82060",
+        "slug": "can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it",
+        "type": "Quote",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "additional-credit-line": "Participant",
+        "name": "Can AI fix any issue if profit is at the heart of it?\n\n",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Responsibly deployed - AI should be used considerately, and only where necessary and effective.",
+        "airtable_id": "eb747d17eb479c9c",
+        "slug": "responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective",
+        "featured": [
+          "AI development"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "making-good-insights-on-ai-and-public-good-from-diverse-uk-communities"
+        ],
+        "name": "Responsibly deployed - AI should be used considerately, and only where necessary and effective.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

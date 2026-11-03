@@ -1,0 +1,554 @@
+{
+  "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
+    "airtable_id": "1da950a2c18a8d44",
+    "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit",
+    "redirect_from": [
+      "/c/1da950a2c18a8d44/"
+    ],
+    "lead-organisations": [
+      "university-of-tübingen",
+      "karlsruher-institut-für-technologie",
+      "wissenschaft-im-dialog",
+      "center-for-rhetorical-science-communication-research-on-artificial-intelligence"
+    ],
+    "provide-a-brief-description-of-the-project": "[From RHET AI website] The Citizens' Council combines science communication with deliberative citizen participation to constructively incorporate the diverse perspectives of citizens, alongside scientific viewpoints, into debates and political decisions surrounding publicly funded AI research. Because we are convinced: Together we know more. And the more perspectives are included, the more informed and forward-looking the decisions can be, serving the interests of society as a whole. \n\nIt is not a given that all people can participate equally in such dialogue processes. The concept of epistemic injustice describes how some individuals and groups participate in debates on socially relevant topics under difficult conditions, as they are systematically accorded less credibility and prevailing forms of expression and interpretation are less tailored to their needs. \n\nAgainst this background, the citizens' council was conceived as both a practical project and a scientific research field within the framework of the RHET-AI collaboration between public engagement and science communication research. \n",
+    "project-status": "Complete",
+    "headline-findings": "1. AI research should be communicated more transparently in clear language\n2. and suitable formats (websites, AI fairs, panel discussions, open house events, etc.).\n3. A central repository for proposals for AI research from citizens and public funding for the implementation of these proposals should be established.\n4. Measures should be implemented to inform citizens about the significant potential of donating their anonymized health data to AI research and empower them to make informed decisions.\n5. Permanent citizens' councils should be convened to advise AI research on traffic-related issues such as autonomous driving, improved safety on cycle paths, the reduction of CO2 and particulate matter, and increased public transport capacity.\n6. Transparent communication regarding uncertainties surrounding AI applications, particularly in the transport and healthcare sectors, should be established to avoid creating a false sense of security.\n\n",
+    "participants": [
+      "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-baden-württemberg-residents"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "theme": [
+      "Research"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "volkswagen-stiftung",
+      "university-of-tübingen"
+    ],
+    "project-title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "httpsrhetaiwp-contentuploads202504digital-policy-paper-rhet-einzelseitenpdf"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "To incorporate the diverse perspectives of citizens, alongside scientific viewpoints, into debates and political decisions surrounding publicly funded AI research",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "geographic-scope": [
+      "baden-württemberg-germany"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "university-of-tübingen",
+      "karlsruher-institut-für-technologie",
+      "wissenschaft-im-dialog",
+      "center-for-rhetorical-science-communication-research-on-artificial-intelligence"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.volkswagenstiftung.de/en/news/interview/finally-having-say-ai-insights-citizens-assembly-ai-and-freedom",
+    "locations": [
+      "baden-württemberg-germany"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit",
+    "data": {
+      "layout": "case",
+      "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
+      "airtable_id": "1da950a2c18a8d44",
+      "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit",
+      "redirect_from": [
+        "/c/1da950a2c18a8d44/"
+      ],
+      "lead-organisations": [
+        "university-of-tübingen",
+        "karlsruher-institut-für-technologie",
+        "wissenschaft-im-dialog",
+        "center-for-rhetorical-science-communication-research-on-artificial-intelligence"
+      ],
+      "provide-a-brief-description-of-the-project": "[From RHET AI website] The Citizens' Council combines science communication with deliberative citizen participation to constructively incorporate the diverse perspectives of citizens, alongside scientific viewpoints, into debates and political decisions surrounding publicly funded AI research. Because we are convinced: Together we know more. And the more perspectives are included, the more informed and forward-looking the decisions can be, serving the interests of society as a whole. \n\nIt is not a given that all people can participate equally in such dialogue processes. The concept of epistemic injustice describes how some individuals and groups participate in debates on socially relevant topics under difficult conditions, as they are systematically accorded less credibility and prevailing forms of expression and interpretation are less tailored to their needs. \n\nAgainst this background, the citizens' council was conceived as both a practical project and a scientific research field within the framework of the RHET-AI collaboration between public engagement and science communication research. \n",
+      "project-status": "Complete",
+      "headline-findings": "1. AI research should be communicated more transparently in clear language\n2. and suitable formats (websites, AI fairs, panel discussions, open house events, etc.).\n3. A central repository for proposals for AI research from citizens and public funding for the implementation of these proposals should be established.\n4. Measures should be implemented to inform citizens about the significant potential of donating their anonymized health data to AI research and empower them to make informed decisions.\n5. Permanent citizens' councils should be convened to advise AI research on traffic-related issues such as autonomous driving, improved safety on cycle paths, the reduction of CO2 and particulate matter, and increased public transport capacity.\n6. Transparent communication regarding uncertainties surrounding AI applications, particularly in the transport and healthcare sectors, should be established to avoid creating a false sense of security.\n\n",
+      "participants": [
+        "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-baden-württemberg-residents"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "theme": [
+        "Research"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "volkswagen-stiftung",
+        "university-of-tübingen"
+      ],
+      "project-title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\")",
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "httpsrhetaiwp-contentuploads202504digital-policy-paper-rhet-einzelseitenpdf"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "To incorporate the diverse perspectives of citizens, alongside scientific viewpoints, into debates and political decisions surrounding publicly funded AI research",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "geographic-scope": [
+        "baden-württemberg-germany"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "university-of-tübingen",
+        "karlsruher-institut-für-technologie",
+        "wissenschaft-im-dialog",
+        "center-for-rhetorical-science-communication-research-on-artificial-intelligence"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.volkswagenstiftung.de/en/news/interview/finally-having-say-ai-insights-citizens-assembly-ai-and-freedom",
+      "locations": [
+        "baden-württemberg-germany"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-baden-württemberg-residents",
+        "data": {
+          "layout": "generic",
+          "title": "\"Citizens' Council on \"\"AI and Freedom\"\" (Bürgerrat \"\"KI und Freiheit\"\")\"-Baden-Württemberg Residents",
+          "airtable_id": "a9b5ec4470f8f34a",
+          "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-baden-württemberg-residents",
+          "locations": [
+            "baden-württemberg-germany"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "name": "\"Citizens' Council on \"\"AI and Freedom\"\" (Bürgerrat \"\"KI und Freiheit\"\")\"-Baden-Württemberg Residents",
+          "group-description": "Baden-Württemberg Residents",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 42,
+          "cases": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "karlsruher-institut-für-technologie",
+        "data": {
+          "layout": "organisation",
+          "title": "Karlsruher Institut für Technologie",
+          "airtable_id": "04f02ad8eb61e884",
+          "slug": "karlsruher-institut-für-technologie",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.kit.edu/",
+          "name": "Karlsruher Institut für Technologie",
+          "lead-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "main-location": [
+            "germany"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "center-for-rhetorical-science-communication-research-on-artificial-intelligence",
+        "data": {
+          "layout": "organisation",
+          "title": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
+          "airtable_id": "1e038da8934c7af3",
+          "slug": "center-for-rhetorical-science-communication-research-on-artificial-intelligence",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.rhaint.de/",
+          "name": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
+          "lead-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "main-location": [
+            "germany"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "volkswagen-stiftung",
+        "data": {
+          "layout": "organisation",
+          "title": "Volkswagen Stiftung",
+          "airtable_id": "e69f3148e1b530e5",
+          "slug": "volkswagen-stiftung",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://www.volkswagenstiftung.de/",
+          "name": "Volkswagen Stiftung",
+          "main-location": [
+            "germany"
+          ],
+          "funding-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "wissenschaft-im-dialog",
+        "data": {
+          "layout": "organisation",
+          "title": "Wissenschaft im Dialog",
+          "airtable_id": "b6ec341e147f89b5",
+          "slug": "wissenschaft-im-dialog",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.wissenschaft-im-dialog.de/",
+          "name": "Wissenschaft im Dialog",
+          "lead-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "main-location": [
+            "germany"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-tübingen",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Tübingen",
+          "airtable_id": "3938aec3e600fbbb",
+          "slug": "university-of-tübingen",
+          "role": [
+            "Lead",
+            "Funder",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://uni-tuebingen.de/",
+          "name": "University of Tübingen",
+          "lead-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "main-location": [
+            "germany"
+          ],
+          "funding-organisation-for": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+          ],
+          "layout": "generic",
+          "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-process",
+          "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\") - Process",
+          "theme": [
+            "Research"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "\"Citizens' Council on \"\"AI and Freedom\"\" (Bürgerrat \"\"KI und Freiheit\"\")\"-Baden-Württemberg Residents",
+        "airtable_id": "a9b5ec4470f8f34a",
+        "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-baden-württemberg-residents",
+        "locations": [
+          "baden-württemberg-germany"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "name": "\"Citizens' Council on \"\"AI and Freedom\"\" (Bürgerrat \"\"KI und Freiheit\"\")\"-Baden-Württemberg Residents",
+        "group-description": "Baden-Württemberg Residents",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 42,
+        "cases": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "layout": "generic",
+        "slug": "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit-process",
+        "title": "Citizens' Council on \"AI and Freedom\" (Bürgerrat \"KI und Freiheit\") - Process",
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Karlsruher Institut für Technologie",
+        "airtable_id": "04f02ad8eb61e884",
+        "slug": "karlsruher-institut-für-technologie",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.kit.edu/",
+        "name": "Karlsruher Institut für Technologie",
+        "lead-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "main-location": [
+          "germany"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
+        "airtable_id": "1e038da8934c7af3",
+        "slug": "center-for-rhetorical-science-communication-research-on-artificial-intelligence",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.rhaint.de/",
+        "name": "Center for Rhetorical Science Communication Research on Artificial Intelligence",
+        "lead-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "main-location": [
+          "germany"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Volkswagen Stiftung",
+        "airtable_id": "e69f3148e1b530e5",
+        "slug": "volkswagen-stiftung",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://www.volkswagenstiftung.de/",
+        "name": "Volkswagen Stiftung",
+        "main-location": [
+          "germany"
+        ],
+        "funding-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Wissenschaft im Dialog",
+        "airtable_id": "b6ec341e147f89b5",
+        "slug": "wissenschaft-im-dialog",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.wissenschaft-im-dialog.de/",
+        "name": "Wissenschaft im Dialog",
+        "lead-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "main-location": [
+          "germany"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Tübingen",
+        "airtable_id": "3938aec3e600fbbb",
+        "slug": "university-of-tübingen",
+        "role": [
+          "Lead",
+          "Funder",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://uni-tuebingen.de/",
+        "name": "University of Tübingen",
+        "lead-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "main-location": [
+          "germany"
+        ],
+        "funding-organisation-for": [
+          "citizens-council-on-ai-and-freedom-bürgerrat-ki-und-freiheit"
+        ],
+        "theme": [
+          "Research"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

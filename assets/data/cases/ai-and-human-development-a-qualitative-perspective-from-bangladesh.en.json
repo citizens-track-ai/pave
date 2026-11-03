@@ -1,0 +1,372 @@
+{
+  "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AI and Human Development: A Qualitative Perspective from Bangladesh",
+    "airtable_id": "42c60a683c786a18",
+    "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+    "redirect_from": [
+      "/c/42c60a683c786a18/"
+    ],
+    "lead-organisations": [
+      "undp-accelerator-labs"
+    ],
+    "provide-a-brief-description-of-the-project": "This report presents the results of a series of consultations conducted across Bangladesh to understand how different people perceive and experience AI technologies. Through 32 Focus Group Discussions (FGDs) involving 240 participants from five distinct socio-demographic groups, and 20 in-depth interviews (IDI), we uncover nuanced insights into AI perceptions, engagement, trust dynamics, and barriers to equitable adoption. We analyze how participants conceptualize and represent AI, and how different groups actively or passively engage with AI in their daily lives. Our findings highlight significant disparities in awareness and literacy across groups; underline widespread concerns regarding transparency and trust; and highlight the complex interplay between technological advancement and socio-economic inequalities. \n",
+    "what-limitations-to-the-project-should-be-noted": "The overall approach here remains qualitative. While the sample size is relatively large, the goal is not representativity of perceptions or opinions across the country.\n",
+    "project-status": "Complete",
+    "headline-findings": "- Information integrity and the burden of responsibility for fact-checking emerge as critical concerns.  \n- AI-driven content recommendations are perceived as politically, culturally, or religiously biased by many, causing frustration and distrust. \n- AI’s potential for surveillance and its opaque decision-making processes, which can restrict user agency and autonomy on online platforms, further raise concern. \n- Perceptions of economic opportunities are clearly divided between young users and content creators, and traditional workers who fear job displacement and feel increasingly excluded from the benefits of AI.  \n- AI plays a complex dual role in Bangladesh’s financial landscape, simultaneously helping to protect users from fraud while being exploited by scammers. \n- Gender inequalities and violence appear to be exacerbated by AI in online spaces due to deepfake abuse. \n- There is general skepticism towards digital content authenticity.  \n- Concerns regarding privacy intrusions and informed consent are prevalent, with younger, tech-aware individuals expressing anxiety over AI’s pervasive tracking capabilities, and older, low tech-literate participants remaining unaware of risks or their digital rights. \n",
+    "participants": [
+      "ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues",
+      "Future issues"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "undp-accelerator-labs"
+    ],
+    "additional-acknowledgements": "Iffat Anjum, Zulkarin Jahangir, Pratyasha Saha, Ramiz Uddin, Rumana Sharmin, Manik Mahmud, Md. Afzal Hossain Sarwar, Shanjida Khan Shorna, Ahmad Ullah Kabir, Meraz Ahmed, Niloy Sarker, and Sarah Israth",
+    "inclusion-efforts": "We centered our discussions on specific, widely used applications (such as Facebook, YouTube, TikTok, bKash) familiar to the participants as accessible entry points. Grounding conversations in these widely recognized platforms and providing concrete, relatable examples facilitated inclusive and accessible discussions on AI which enabled participants, from digitally proficient content creators to individuals with minimal technological exposure, to meaningfully engage with the concept, share nuanced reflections, and articulate diverse perceptions around trust, agency, and the impact of AI on their lives.\n",
+    "project-title": "AI and Human Development: A Qualitative Perspective from Bangladesh",
+    "submitted-by": "Jeremy Boy",
+    "why-is-this-project-important-to-include-in-the": "The report uncovers several pressing issues related to the rapid development and deployment of AI technologies in a country where only half the population was reported to have access to the internet in 2023. Notably, information integrity and the burden of responsibility for fact-checking emerge as critical concerns, especially amid Bangladesh’s sensitive political climate since the 2024 July Uprising. AI-driven content recommendations are also perceived as politically, culturally, or religiously biased by many participants, causing frustration and distrust, even as younger users may otherwise value such systems for their ability to deliver relevant educational and professional content. AI’s potential for surveillance and its opaque decision-making processes, which can restrict user agency and autonomy on online platforms, further raise concern. \n\nOur goal is to inform technology policy, design interventions, and strategies for fostering equitable, trustworthy, and inclusive AI adoption in Bangladesh and countries with comparable technological landscapes across Global Majority countries. The work was presented virtually at the PAIRS26 Symposium, and it extends initial research we conducted in the UNDP Accelerator Labs Network with the Columbia University School of International and Public Affairs (SIPA) in Morocco and Paraguay, which was presented at the PAIRS25 Symposium in Paris, France. ",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How different people perceive and experience AI technologies",
+    "how-was-the-project-initiated": [
+      "Other"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "undp-bangladesh"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.undp.org/acceleratorlabs/publications/ai-and-human-development-qualitative-perspective-bangladesh",
+    "where-were-participants-from": [
+      "Dhaka (Central Region); Sylhet (Northeast Region); Rajshahi (Northwest Region); Khulna (Southwest Region); Chittagong (Southeast Region)"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+    "data": {
+      "layout": "case",
+      "title": "AI and Human Development: A Qualitative Perspective from Bangladesh",
+      "airtable_id": "42c60a683c786a18",
+      "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+      "redirect_from": [
+        "/c/42c60a683c786a18/"
+      ],
+      "lead-organisations": [
+        "undp-accelerator-labs"
+      ],
+      "provide-a-brief-description-of-the-project": "This report presents the results of a series of consultations conducted across Bangladesh to understand how different people perceive and experience AI technologies. Through 32 Focus Group Discussions (FGDs) involving 240 participants from five distinct socio-demographic groups, and 20 in-depth interviews (IDI), we uncover nuanced insights into AI perceptions, engagement, trust dynamics, and barriers to equitable adoption. We analyze how participants conceptualize and represent AI, and how different groups actively or passively engage with AI in their daily lives. Our findings highlight significant disparities in awareness and literacy across groups; underline widespread concerns regarding transparency and trust; and highlight the complex interplay between technological advancement and socio-economic inequalities. \n",
+      "what-limitations-to-the-project-should-be-noted": "The overall approach here remains qualitative. While the sample size is relatively large, the goal is not representativity of perceptions or opinions across the country.\n",
+      "project-status": "Complete",
+      "headline-findings": "- Information integrity and the burden of responsibility for fact-checking emerge as critical concerns.  \n- AI-driven content recommendations are perceived as politically, culturally, or religiously biased by many, causing frustration and distrust. \n- AI’s potential for surveillance and its opaque decision-making processes, which can restrict user agency and autonomy on online platforms, further raise concern. \n- Perceptions of economic opportunities are clearly divided between young users and content creators, and traditional workers who fear job displacement and feel increasingly excluded from the benefits of AI.  \n- AI plays a complex dual role in Bangladesh’s financial landscape, simultaneously helping to protect users from fraud while being exploited by scammers. \n- Gender inequalities and violence appear to be exacerbated by AI in online spaces due to deepfake abuse. \n- There is general skepticism towards digital content authenticity.  \n- Concerns regarding privacy intrusions and informed consent are prevalent, with younger, tech-aware individuals expressing anxiety over AI’s pervasive tracking capabilities, and older, low tech-literate participants remaining unaware of risks or their digital rights. \n",
+      "participants": [
+        "ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues",
+        "Future issues"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "undp-accelerator-labs"
+      ],
+      "additional-acknowledgements": "Iffat Anjum, Zulkarin Jahangir, Pratyasha Saha, Ramiz Uddin, Rumana Sharmin, Manik Mahmud, Md. Afzal Hossain Sarwar, Shanjida Khan Shorna, Ahmad Ullah Kabir, Meraz Ahmed, Niloy Sarker, and Sarah Israth",
+      "inclusion-efforts": "We centered our discussions on specific, widely used applications (such as Facebook, YouTube, TikTok, bKash) familiar to the participants as accessible entry points. Grounding conversations in these widely recognized platforms and providing concrete, relatable examples facilitated inclusive and accessible discussions on AI which enabled participants, from digitally proficient content creators to individuals with minimal technological exposure, to meaningfully engage with the concept, share nuanced reflections, and articulate diverse perceptions around trust, agency, and the impact of AI on their lives.\n",
+      "project-title": "AI and Human Development: A Qualitative Perspective from Bangladesh",
+      "submitted-by": "Jeremy Boy",
+      "why-is-this-project-important-to-include-in-the": "The report uncovers several pressing issues related to the rapid development and deployment of AI technologies in a country where only half the population was reported to have access to the internet in 2023. Notably, information integrity and the burden of responsibility for fact-checking emerge as critical concerns, especially amid Bangladesh’s sensitive political climate since the 2024 July Uprising. AI-driven content recommendations are also perceived as politically, culturally, or religiously biased by many participants, causing frustration and distrust, even as younger users may otherwise value such systems for their ability to deliver relevant educational and professional content. AI’s potential for surveillance and its opaque decision-making processes, which can restrict user agency and autonomy on online platforms, further raise concern. \n\nOur goal is to inform technology policy, design interventions, and strategies for fostering equitable, trustworthy, and inclusive AI adoption in Bangladesh and countries with comparable technological landscapes across Global Majority countries. The work was presented virtually at the PAIRS26 Symposium, and it extends initial research we conducted in the UNDP Accelerator Labs Network with the Columbia University School of International and Public Affairs (SIPA) in Morocco and Paraguay, which was presented at the PAIRS25 Symposium in Paris, France. ",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How different people perceive and experience AI technologies",
+      "how-was-the-project-initiated": [
+        "Other"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "undp-bangladesh"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.undp.org/acceleratorlabs/publications/ai-and-human-development-qualitative-perspective-bangladesh",
+      "where-were-participants-from": [
+        "Dhaka (Central Region); Sylhet (Northeast Region); Rajshahi (Northwest Region); Khulna (Southwest Region); Chittagong (Southeast Region)"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group",
+        "data": {
+          "layout": "generic",
+          "title": "AI and Human Development: A Qualitative Perspective from Bangladesh-Focus group",
+          "airtable_id": "07ecba2a714d7e2f",
+          "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group",
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "Dhaka (Central Region); Sylhet (Northeast Region); Rajshahi (Northwest Region); Khulna (Southwest Region); Chittagong (Southeast Region)",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1.5,
+          "name": "AI and Human Development: A Qualitative Perspective from Bangladesh-Focus group",
+          "group-description": "Focus group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "We also conducted in-depth interviews with 20 people—farmers, traditional artists, small and medium online entrepreneurs, and sub-urban women.",
+          "how-many-people-took-part": 240,
+          "cases": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+          ],
+          "recruitment-description": "Participants were recruited through local Non-Governmental Organizations (NGOs) networks in five regions. Regions were chosen to represent diverse socioeconomic, technological, and cultural contexts. The local NGOs coordinated participant outreach based on clear demographic criteria provided by the research team",
+          "was-there-a-specific-target-population": "social media users; social media content creators; digital financial service users; individuals with disabilities; and individuals with low formal education and limited technological familiarity",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "undp-accelerator-labs",
+        "data": {
+          "layout": "organisation",
+          "title": "UNDP Accelerator Labs",
+          "airtable_id": "c22d22b6149ac4cc",
+          "slug": "undp-accelerator-labs",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://acceleratorlabs.undp.org/",
+          "name": "UNDP Accelerator Labs",
+          "lead-organisation-for": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+            "a-framework-for-national-dialogues-on-frontier-technologies"
+          ],
+          "main-location": [
+            "global"
+          ],
+          "funding-organisation-for": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "undp-bangladesh",
+        "data": {
+          "layout": "organisation",
+          "title": "UNDP Bangladesh",
+          "airtable_id": "86df4386927d728b",
+          "slug": "undp-bangladesh",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+          ],
+          "name": "UNDP Bangladesh",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+          ],
+          "layout": "generic",
+          "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh-process",
+          "title": "AI and Human Development: A Qualitative Perspective from Bangladesh - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AI and Human Development: A Qualitative Perspective from Bangladesh-Focus group",
+        "airtable_id": "07ecba2a714d7e2f",
+        "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group",
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "Dhaka (Central Region); Sylhet (Northeast Region); Rajshahi (Northwest Region); Khulna (Southwest Region); Chittagong (Southeast Region)",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1.5,
+        "name": "AI and Human Development: A Qualitative Perspective from Bangladesh-Focus group",
+        "group-description": "Focus group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "We also conducted in-depth interviews with 20 people—farmers, traditional artists, small and medium online entrepreneurs, and sub-urban women.",
+        "how-many-people-took-part": 240,
+        "cases": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+        ],
+        "recruitment-description": "Participants were recruited through local Non-Governmental Organizations (NGOs) networks in five regions. Regions were chosen to represent diverse socioeconomic, technological, and cultural contexts. The local NGOs coordinated participant outreach based on clear demographic criteria provided by the research team",
+        "was-there-a-specific-target-population": "social media users; social media content creators; digital financial service users; individuals with disabilities; and individuals with low formal education and limited technological familiarity",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+        ],
+        "layout": "generic",
+        "slug": "ai-and-human-development-a-qualitative-perspective-from-bangladesh-process",
+        "title": "AI and Human Development: A Qualitative Perspective from Bangladesh - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "UNDP Accelerator Labs",
+        "airtable_id": "c22d22b6149ac4cc",
+        "slug": "undp-accelerator-labs",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://acceleratorlabs.undp.org/",
+        "name": "UNDP Accelerator Labs",
+        "lead-organisation-for": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh",
+          "a-framework-for-national-dialogues-on-frontier-technologies"
+        ],
+        "main-location": [
+          "global"
+        ],
+        "funding-organisation-for": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UNDP Bangladesh",
+        "airtable_id": "86df4386927d728b",
+        "slug": "undp-bangladesh",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-and-human-development-a-qualitative-perspective-from-bangladesh"
+        ],
+        "name": "UNDP Bangladesh",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

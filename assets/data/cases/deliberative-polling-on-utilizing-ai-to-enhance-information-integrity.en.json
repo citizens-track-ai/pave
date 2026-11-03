@@ -1,0 +1,288 @@
+{
+  "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity",
+    "airtable_id": "403f7c57238ab843",
+    "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+    "redirect_from": [
+      "/c/403f7c57238ab843/"
+    ],
+    "lead-organisations": [
+      "institute-of-science-technology-and-society-at-national-yang-ming-chiao-tung-university"
+    ],
+    "provide-a-brief-description-of-the-project": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University (NYCU), commissioned by the Ministry of Digital Affairs (Moda), conducted the deliberative poll on utilizing AI to enhance information integrity on March 23 in 2024 to analyze the public views, attitudes and positions on policy issues. The opinions of the citizens and digital practitioners after the deliberation could help establish more comprehensive AI evaluation standards, ensuring that the development of AI meets social expectations. \n\nTwo deliberative sessions included four discussion topics: Should large platforms enhance self-regulation, or should government regulation be strengthened? How should large platforms use AI to help citizens analyze emerging threats to information integrity? How should large platforms use AI to help users maintain information integrity? How should large platforms use AI to enhance information integrity standards? Multiple policy proposals were designed for the four main discussion topics, allowing participating citizens to comprehensively review, weigh, and discuss different options.\n\nThis project adopted the deliberative polling® method, randomly recruiting over four hundred citizens from across the nation, including digital practitioners, to gather on the Stanford Online Platform to discuss how to utilize AI to enhance information integrity.\n",
+    "project-status": "Complete",
+    "headline-findings": "About 85% citizen participants support stronger self-regulation by large platforms. 89% participants indicate that large platforms should employ new technologies to ascertain whether certain platform content is AI-generated, marking a 2.6 percentage point increase. There was also a slight increase in support for enhancing the information integrity in evaluations of AI products and systems. Citizens showed improved accuracy on knowledge questions after deliberation and expressed positive views on the citizens’ deliberation assembly.\n\nThree key aspects and recommendations from citizen groups include: 1) Enhancement of AI regulatory framework and standards; 2) Improving platform capabilities in AI for analysis and identification of information; 3) Establishment and refinement of evaluation mechanisms.\n",
+    "participants": [
+      "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-survey-participants",
+      "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-deliberation-assembly-particip"
+    ],
+    "participation-locations": "Taiwain",
+    "what-year-did-the-project-start": 2024,
+    "inclusion-efforts": "Recruitment involved sending survey through the official “111” SMS platform to 200,000 randomly generated mobile numbers, resulting in a total of 1,760 valid respondents. On March 23rd, the entire afternoon featured two sessions of deliberation assemblies attended by a total of 447 citizens, who were randomly assigned to 44 citizen deliberation groups. Among these, 12 groups consisted of digital practitioners and 32 groups were composed of general citizens. A total of 436 participants attended the entire duration of the citizen deliberation assembly and completed both pre- and post-deliberation survey.\n",
+    "project-title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "what-year-did-the-project-conclude": 2024,
+    "involved-organisations": [
+      "taiwan-ministry-of-digital-affairs"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://participedia.net/case/deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+    "locations": [
+      "taiwan"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+    "data": {
+      "layout": "case",
+      "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity",
+      "airtable_id": "403f7c57238ab843",
+      "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+      "redirect_from": [
+        "/c/403f7c57238ab843/"
+      ],
+      "lead-organisations": [
+        "institute-of-science-technology-and-society-at-national-yang-ming-chiao-tung-university"
+      ],
+      "provide-a-brief-description-of-the-project": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University (NYCU), commissioned by the Ministry of Digital Affairs (Moda), conducted the deliberative poll on utilizing AI to enhance information integrity on March 23 in 2024 to analyze the public views, attitudes and positions on policy issues. The opinions of the citizens and digital practitioners after the deliberation could help establish more comprehensive AI evaluation standards, ensuring that the development of AI meets social expectations. \n\nTwo deliberative sessions included four discussion topics: Should large platforms enhance self-regulation, or should government regulation be strengthened? How should large platforms use AI to help citizens analyze emerging threats to information integrity? How should large platforms use AI to help users maintain information integrity? How should large platforms use AI to enhance information integrity standards? Multiple policy proposals were designed for the four main discussion topics, allowing participating citizens to comprehensively review, weigh, and discuss different options.\n\nThis project adopted the deliberative polling® method, randomly recruiting over four hundred citizens from across the nation, including digital practitioners, to gather on the Stanford Online Platform to discuss how to utilize AI to enhance information integrity.\n",
+      "project-status": "Complete",
+      "headline-findings": "About 85% citizen participants support stronger self-regulation by large platforms. 89% participants indicate that large platforms should employ new technologies to ascertain whether certain platform content is AI-generated, marking a 2.6 percentage point increase. There was also a slight increase in support for enhancing the information integrity in evaluations of AI products and systems. Citizens showed improved accuracy on knowledge questions after deliberation and expressed positive views on the citizens’ deliberation assembly.\n\nThree key aspects and recommendations from citizen groups include: 1) Enhancement of AI regulatory framework and standards; 2) Improving platform capabilities in AI for analysis and identification of information; 3) Establishment and refinement of evaluation mechanisms.\n",
+      "participants": [
+        "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-survey-participants",
+        "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-deliberation-assembly-particip"
+      ],
+      "participation-locations": "Taiwain",
+      "what-year-did-the-project-start": 2024,
+      "inclusion-efforts": "Recruitment involved sending survey through the official “111” SMS platform to 200,000 randomly generated mobile numbers, resulting in a total of 1,760 valid respondents. On March 23rd, the entire afternoon featured two sessions of deliberation assemblies attended by a total of 447 citizens, who were randomly assigned to 44 citizen deliberation groups. Among these, 12 groups consisted of digital practitioners and 32 groups were composed of general citizens. A total of 436 participants attended the entire duration of the citizen deliberation assembly and completed both pre- and post-deliberation survey.\n",
+      "project-title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "what-year-did-the-project-conclude": 2024,
+      "involved-organisations": [
+        "taiwan-ministry-of-digital-affairs"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://participedia.net/case/deliberative-polling-on-utilizing-ai-to-enhance-information-integrity",
+      "locations": [
+        "taiwan"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-survey-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Survey participants",
+          "airtable_id": "ec0b02f541bdfb73",
+          "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-survey-participants",
+          "locations": [
+            "taiwan"
+          ],
+          "recruitment-method": "Other",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "name": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Survey participants",
+          "group-description": "Survey participants",
+          "how-many-people-took-part": 1760,
+          "cases": [
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ],
+          "recruitment-description": "Recruitment involved sending survey through the official “111” SMS platform to 200,000 randomly generated mobile numbers, resulting in a total of 1,760 valid respondents. ",
+          "where-did-engagement-take-place": [
+            "Online"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-deliberation-assembly-particip",
+        "data": {
+          "layout": "generic",
+          "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Deliberation assembly participants",
+          "airtable_id": "cb0951093afe7cb2",
+          "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-deliberation-assembly-particip",
+          "locations": [
+            "taiwan"
+          ],
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberation"
+          ],
+          "name": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Deliberation assembly participants",
+          "group-description": "Deliberation assembly participants",
+          "how-many-people-took-part": 436,
+          "cases": [
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ],
+          "recruitment-description": "On March 23rd, the entire afternoon featured two sessions of deliberation assemblies attended by a total of 447 citizens, who were randomly assigned to 44 citizen deliberation groups. Among these, 12 groups consisted of digital practitioners and 32 groups were composed of general citizens. A total of 436 participants attended the entire duration of the citizen deliberation assembly and completed both pre- and post-deliberation survey."
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "institute-of-science-technology-and-society-at-national-yang-ming-chiao-tung-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University",
+          "airtable_id": "d59b48ea2113397c",
+          "slug": "institute-of-science-technology-and-society-at-national-yang-ming-chiao-tung-university",
+          "role": [
+            "Lead"
+          ],
+          "name": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University",
+          "lead-organisation-for": [
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "taiwan-ministry-of-digital-affairs",
+        "data": {
+          "layout": "organisation",
+          "title": "Taiwan Ministry of Digital Affairs",
+          "airtable_id": "ef5c453db9355fc3",
+          "slug": "taiwan-ministry-of-digital-affairs",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ],
+          "name": "Taiwan Ministry of Digital Affairs",
+          "lead-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "funding-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ],
+          "layout": "generic",
+          "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-process",
+          "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity - Process"
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Survey participants",
+        "airtable_id": "ec0b02f541bdfb73",
+        "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-survey-participants",
+        "locations": [
+          "taiwan"
+        ],
+        "recruitment-method": "Other",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "name": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Survey participants",
+        "group-description": "Survey participants",
+        "how-many-people-took-part": 1760,
+        "cases": [
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ],
+        "recruitment-description": "Recruitment involved sending survey through the official “111” SMS platform to 200,000 randomly generated mobile numbers, resulting in a total of 1,760 valid respondents. ",
+        "where-did-engagement-take-place": [
+          "Online"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Deliberation assembly participants",
+        "airtable_id": "cb0951093afe7cb2",
+        "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-deliberation-assembly-particip",
+        "locations": [
+          "taiwan"
+        ],
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberation"
+        ],
+        "name": "Deliberative Polling on Utilizing AI to Enhance Information Integrity-Deliberation assembly participants",
+        "group-description": "Deliberation assembly participants",
+        "how-many-people-took-part": 436,
+        "cases": [
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ],
+        "recruitment-description": "On March 23rd, the entire afternoon featured two sessions of deliberation assemblies attended by a total of 447 citizens, who were randomly assigned to 44 citizen deliberation groups. Among these, 12 groups consisted of digital practitioners and 32 groups were composed of general citizens. A total of 436 participants attended the entire duration of the citizen deliberation assembly and completed both pre- and post-deliberation survey."
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ],
+        "layout": "generic",
+        "slug": "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity-process",
+        "title": "Deliberative Polling on Utilizing AI to Enhance Information Integrity - Process"
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University",
+        "airtable_id": "d59b48ea2113397c",
+        "slug": "institute-of-science-technology-and-society-at-national-yang-ming-chiao-tung-university",
+        "role": [
+          "Lead"
+        ],
+        "name": "Institute of Science, Technology and Society at National Yang Ming Chiao Tung University",
+        "lead-organisation-for": [
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Taiwan Ministry of Digital Affairs",
+        "airtable_id": "ef5c453db9355fc3",
+        "slug": "taiwan-ministry-of-digital-affairs",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ],
+        "name": "Taiwan Ministry of Digital Affairs",
+        "lead-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "funding-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

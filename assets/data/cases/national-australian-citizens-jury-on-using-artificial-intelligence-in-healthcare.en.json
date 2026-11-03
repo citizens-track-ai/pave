@@ -1,0 +1,1117 @@
+{
+  "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare ",
+    "airtable_id": "64bcf65336b93773",
+    "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare",
+    "redirect_from": [
+      "/c/64bcf65336b93773/"
+    ],
+    "lead-organisations": [
+      "australian-centre-for-health-engagement-evidence-and-values",
+      "university-of-wollongong"
+    ],
+    "provide-a-brief-description-of-the-project": "Between 2022 and 2023, the Australian Centre for Health Engagement, Evidence and Values at the University of Wollongong initiated a process that used a citizens' jury to involve approximately 30 people in a national deliberative process to capture qualitative evidence on public attitudes to AI in healthcare with the intended outcome of informing the ethical, legal, and social implications of adopting machine learning systems for diagnosis and screening.\n\nThis citizens’ jury was part of a multi-method bioethics project The Algorithm Will See You Now: The Ethical, Legal and Social Implications of Adopting Machine Learning Systems for Diagnosis and Screening, which was funded by the National Health and Medical Research Council (Ideas Grant 1181960). The project was approved by the University of Wollongong Human Research Ethics Committee (2022/314). Thirty Australians were randomly selected to participate, and all were passionately engaged with the process. The jurors were diverse and closely matched to the Australian population on gender, age, ancestry, level of education, urban/regional/rural place of residence, and state or territory of residence. \n",
+    "what-limitations-to-the-project-should-be-noted": "**From the submitter:**\nThe focus of the study question was screening and diagnosis, but the jurors expressed final recommendations regarding AI in health care generally, although the evidence they were provided was more limited. Jurors considered four case studies about how AI might be used in medical practice; their judgements may have differed had they been presented different cases. The jurors’ recommendations are reported verbatim, and reflect the limited time available to prepare their wording.\n**From the academic article on the citizens' jury:**\nThe procedure followed six core steps for deliberative processes: understanding purpose, relationship building, skill development, information inputs, group dialogue and deliberation, group decision making, and closing. Some activities focused on process, such as structured greeting or reflection activities, learning about cognitive bias, and how to ask critical questions. Plenary and small group activities alternated with one another; small groups were frequently randomly re-allocated for cross-fertilisation of perspectives.\n",
+    "project-status": "Complete",
+    "headline-findings": "The jurors recommended an overarching, independently governed charter and framework for health care AI. The other nine recommendation categories concerned balancing benefits and harms; fairness and bias; patients’ rights and choices; clinical governance and training; technical governance and standards; data governance and use; open source software; AI evaluation and assessment; and education and communication.\n\"There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.\"\n",
+    "participants": [
+      "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "messages": [
+      "we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en",
+      "research-assessing-the-performance-of-ai-screening-tools-should-reflect-real-world-clinical-practice",
+      "we-recommend-that-research-used-to-underpin-the-use-of-ai-in-health-care-must-be-peer-assessed-in-an",
+      "encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans",
+      "it-is-important-that-ai-training-datasets-must-strive-to-be-adequately-representative-and-inclusive",
+      "for-ai-systems-to-be-approved-in-australia-they-must-perform-equal-to-or-better-than-current-standar",
+      "upon-submission-to-the-regulator-an-ai-system-must-provide-information-on-its-intended-purpose-and-e",
+      "we-recommend-that-monitoring-auditing-and-reporting-be-made-mandatory-to-the-appropriate-governing-b",
+      "we-recommend-that-professional-bodies-must-have-clear-directions-regarding-the-use-and-intended-outc",
+      "we-recommend-that-health-care-workers-must-be-trained-in-ai-systems-that-are-to-be-implemented-to-th",
+      "there-must-be-a-guideline-for-patient-rights-it-is-important-to-have-guidelines-that-are-inclusive-o",
+      "our-recommendation-is-that-access-to-ai-in-health-care-must-be-the-universal-right-of-all-australian",
+      "our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated",
+      "there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation",
+      "we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include"
+    ],
+    "theme": [
+      "Healthcare"
+    ],
+    "what-year-did-the-project-start": 2022,
+    "funding-organisations": [
+      "national-health-and-medical-research-council"
+    ],
+    "inclusion-efforts": "Each juror received $1015 as compensation for their participation, and we booked and paid for travel, accommodation, and all meals for the face-to-face meeting. Extensive efforts were made to enable participation, including lending computer devices, Zoom training, assisting with logistics, and providing funding for special travel needs.\n",
+    "project-title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare ",
+    "submitted-by": "Yves Saint James AQUINO",
+    "why-is-this-project-important-to-include-in-the": "This is the first ever national jury on the use of AI in healthcare. The jury was asked to consider the charge: Under what circumstances, if any, should artificial intelligence be used in Australian health systems to detect or diagnose disease?",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "peer-reviewed-article",
+      "participant-information-booklet"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "AI applications in Australian health systems to detect or diagnose disease",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2023,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "sortition-foundation"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://www.uow.edu.au/research/australian-centre-for-health-engagement-evidence-and-values/artificial-intelligence-in-health/",
+    "locations": [
+      "australia"
+    ],
+    "where-were-participants-from": [
+      "All over Australia"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare",
+    "data": {
+      "layout": "case",
+      "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare ",
+      "airtable_id": "64bcf65336b93773",
+      "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare",
+      "redirect_from": [
+        "/c/64bcf65336b93773/"
+      ],
+      "lead-organisations": [
+        "australian-centre-for-health-engagement-evidence-and-values",
+        "university-of-wollongong"
+      ],
+      "provide-a-brief-description-of-the-project": "Between 2022 and 2023, the Australian Centre for Health Engagement, Evidence and Values at the University of Wollongong initiated a process that used a citizens' jury to involve approximately 30 people in a national deliberative process to capture qualitative evidence on public attitudes to AI in healthcare with the intended outcome of informing the ethical, legal, and social implications of adopting machine learning systems for diagnosis and screening.\n\nThis citizens’ jury was part of a multi-method bioethics project The Algorithm Will See You Now: The Ethical, Legal and Social Implications of Adopting Machine Learning Systems for Diagnosis and Screening, which was funded by the National Health and Medical Research Council (Ideas Grant 1181960). The project was approved by the University of Wollongong Human Research Ethics Committee (2022/314). Thirty Australians were randomly selected to participate, and all were passionately engaged with the process. The jurors were diverse and closely matched to the Australian population on gender, age, ancestry, level of education, urban/regional/rural place of residence, and state or territory of residence. \n",
+      "what-limitations-to-the-project-should-be-noted": "**From the submitter:**\nThe focus of the study question was screening and diagnosis, but the jurors expressed final recommendations regarding AI in health care generally, although the evidence they were provided was more limited. Jurors considered four case studies about how AI might be used in medical practice; their judgements may have differed had they been presented different cases. The jurors’ recommendations are reported verbatim, and reflect the limited time available to prepare their wording.\n**From the academic article on the citizens' jury:**\nThe procedure followed six core steps for deliberative processes: understanding purpose, relationship building, skill development, information inputs, group dialogue and deliberation, group decision making, and closing. Some activities focused on process, such as structured greeting or reflection activities, learning about cognitive bias, and how to ask critical questions. Plenary and small group activities alternated with one another; small groups were frequently randomly re-allocated for cross-fertilisation of perspectives.\n",
+      "project-status": "Complete",
+      "headline-findings": "The jurors recommended an overarching, independently governed charter and framework for health care AI. The other nine recommendation categories concerned balancing benefits and harms; fairness and bias; patients’ rights and choices; clinical governance and training; technical governance and standards; data governance and use; open source software; AI evaluation and assessment; and education and communication.\n\"There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.\"\n",
+      "participants": [
+        "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "messages": [
+        "we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en",
+        "research-assessing-the-performance-of-ai-screening-tools-should-reflect-real-world-clinical-practice",
+        "we-recommend-that-research-used-to-underpin-the-use-of-ai-in-health-care-must-be-peer-assessed-in-an",
+        "encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans",
+        "it-is-important-that-ai-training-datasets-must-strive-to-be-adequately-representative-and-inclusive",
+        "for-ai-systems-to-be-approved-in-australia-they-must-perform-equal-to-or-better-than-current-standar",
+        "upon-submission-to-the-regulator-an-ai-system-must-provide-information-on-its-intended-purpose-and-e",
+        "we-recommend-that-monitoring-auditing-and-reporting-be-made-mandatory-to-the-appropriate-governing-b",
+        "we-recommend-that-professional-bodies-must-have-clear-directions-regarding-the-use-and-intended-outc",
+        "we-recommend-that-health-care-workers-must-be-trained-in-ai-systems-that-are-to-be-implemented-to-th",
+        "there-must-be-a-guideline-for-patient-rights-it-is-important-to-have-guidelines-that-are-inclusive-o",
+        "our-recommendation-is-that-access-to-ai-in-health-care-must-be-the-universal-right-of-all-australian",
+        "our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated",
+        "there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation",
+        "we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include"
+      ],
+      "theme": [
+        "Healthcare"
+      ],
+      "what-year-did-the-project-start": 2022,
+      "funding-organisations": [
+        "national-health-and-medical-research-council"
+      ],
+      "inclusion-efforts": "Each juror received $1015 as compensation for their participation, and we booked and paid for travel, accommodation, and all meals for the face-to-face meeting. Extensive efforts were made to enable participation, including lending computer devices, Zoom training, assisting with logistics, and providing funding for special travel needs.\n",
+      "project-title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare ",
+      "submitted-by": "Yves Saint James AQUINO",
+      "why-is-this-project-important-to-include-in-the": "This is the first ever national jury on the use of AI in healthcare. The jury was asked to consider the charge: Under what circumstances, if any, should artificial intelligence be used in Australian health systems to detect or diagnose disease?",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "peer-reviewed-article",
+        "participant-information-booklet"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "AI applications in Australian health systems to detect or diagnose disease",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2023,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "sortition-foundation"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://www.uow.edu.au/research/australian-centre-for-health-engagement-evidence-and-values/artificial-intelligence-in-health/",
+      "locations": [
+        "australia"
+      ],
+      "where-were-participants-from": [
+        "All over Australia"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian",
+        "data": {
+          "layout": "generic",
+          "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare -National Australian Jury",
+          "airtable_id": "ef2dbcc3fadcb5e9",
+          "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian",
+          "locations": [
+            "australia"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "All over Australia",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens' Jury"
+          ],
+          "on-average-how-many-hours-did-each-participant": 100,
+          "name": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare -National Australian Jury",
+          "group-description": "National Australian Jury",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 30,
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "recruitment-description": "Sortition Foundation used an algorithm for the stratified random selection of 31 participants according to gender, age, ancestry, highest level of education, location of residence (state/territory; urban, regional, rural). After selection, two jurors opted to not participate; one replacement person was invited, for a total of 30 jurors.",
+          "was-there-a-specific-target-population": "Adult, citizens or long-term residents of Australia",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "sortition-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Sortition Foundation",
+          "airtable_id": "c200fcd5e14d226f",
+          "slug": "sortition-foundation",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "the-peoples-panel-on-ai",
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.sortitionfoundation.org/",
+          "name": "Sortition Foundation",
+          "lead-organisation-for": [
+            "odyssean-process-on-ai"
+          ],
+          "mission-statement": "To campaign for, design, and run citizens' assemblies that use random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-wollongong",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Wollongong",
+          "airtable_id": "bc884d60ec72483a",
+          "slug": "university-of-wollongong",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.uow.edu.au/",
+          "name": "University of Wollongong",
+          "lead-organisation-for": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "main-location": [
+            "australia"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "australian-centre-for-health-engagement-evidence-and-values",
+        "data": {
+          "layout": "organisation",
+          "title": "Australian Centre for Health Engagement, Evidence and Values",
+          "airtable_id": "260fef8e938e4ea4",
+          "slug": "australian-centre-for-health-engagement-evidence-and-values",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.uow.edu.au/acheev/",
+          "name": "Australian Centre for Health Engagement, Evidence and Values",
+          "lead-organisation-for": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "main-location": [
+            "australia"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-health-and-medical-research-council",
+        "data": {
+          "layout": "organisation",
+          "title": "National Health and Medical Research Council",
+          "airtable_id": "194f203fd3a856ed",
+          "slug": "national-health-and-medical-research-council",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Public sector"
+          ],
+          "website-address": "https://www.nhmrc.gov.au/",
+          "name": "National Health and Medical Research Council",
+          "main-location": [
+            "australia"
+          ],
+          "funding-organisation-for": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "upon-submission-to-the-regulator-an-ai-system-must-provide-information-on-its-intended-purpose-and-e",
+        "data": {
+          "layout": "generic",
+          "title": "Upon submission to the regulator, an AI system must provide information on its intended purpose and efficacy, its training dataset, flaws and limitations of use.",
+          "airtable_id": "7556f6e8bf84368e",
+          "slug": "upon-submission-to-the-regulator-an-ai-system-must-provide-information-on-its-intended-purpose-and-e",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "Upon submission to the regulator, an AI system must provide information on its intended purpose and efficacy, its training dataset, flaws and limitations of use.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "for-ai-systems-to-be-approved-in-australia-they-must-perform-equal-to-or-better-than-current-standar",
+        "data": {
+          "layout": "generic",
+          "title": "For AI systems to be approved in Australia, they must perform equal to or better than current standard health care practice.",
+          "airtable_id": "d053764408154b3b",
+          "slug": "for-ai-systems-to-be-approved-in-australia-they-must-perform-equal-to-or-better-than-current-standar",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "For AI systems to be approved in Australia, they must perform equal to or better than current standard health care practice.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "our-recommendation-is-that-access-to-ai-in-health-care-must-be-the-universal-right-of-all-australian",
+        "data": {
+          "layout": "generic",
+          "title": "Our recommendation is that access to AI in health care must be the universal right of all Australians",
+          "airtable_id": "9be320d69d200223",
+          "slug": "our-recommendation-is-that-access-to-ai-in-health-care-must-be-the-universal-right-of-all-australian",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "Our recommendation is that access to AI in health care must be the universal right of all Australians",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "research-assessing-the-performance-of-ai-screening-tools-should-reflect-real-world-clinical-practice",
+        "data": {
+          "layout": "generic",
+          "title": "Research assessing the performance of AI screening tools should reflect real world clinical practice and follow standardised procedures in trial design. Data analysis and reporting should be transparent, and conclusions should reflect system performance.",
+          "airtable_id": "c44cb6216569e4f6",
+          "slug": "research-assessing-the-performance-of-ai-screening-tools-should-reflect-real-world-clinical-practice",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "Research assessing the performance of AI screening tools should reflect real world clinical practice and follow standardised procedures in trial design. Data analysis and reporting should be transparent, and conclusions should reflect system performance.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en",
+        "data": {
+          "layout": "generic",
+          "title": "We recommend that there is a comprehensive and fully funded community education program. This will ensure that the community is brought along with developments in and the application of AI in health. This should be located within a broader program of general digital health literacy that recognises particular community needs such as age, gender, ethnicity etc.",
+          "airtable_id": "cd27295d4799b2a6",
+          "slug": "we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We recommend that there is a comprehensive and fully funded community education program. This will ensure that the community is brought along with developments in and the application of AI in health. This should be located within a broader program of general digital health literacy that recognises particular community needs such as age, gender, ethnicity etc.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-recommend-that-health-care-workers-must-be-trained-in-ai-systems-that-are-to-be-implemented-to-th",
+        "data": {
+          "layout": "generic",
+          "title": "We recommend that health care workers must be trained in AI systems that are to be implemented to their practice environment before clinical use.",
+          "airtable_id": "67290cfeb61a4962",
+          "slug": "we-recommend-that-health-care-workers-must-be-trained-in-ai-systems-that-are-to-be-implemented-to-th",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We recommend that health care workers must be trained in AI systems that are to be implemented to their practice environment before clinical use.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation",
+        "data": {
+          "layout": "generic",
+          "title": " There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.",
+          "airtable_id": "552126c5bc07faaa",
+          "slug": "there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": " There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-recommend-that-monitoring-auditing-and-reporting-be-made-mandatory-to-the-appropriate-governing-b",
+        "data": {
+          "layout": "generic",
+          "title": "We recommend that monitoring, auditing, and reporting be made mandatory to the appropriate governing body [or] bodies. Such processes should include but are not limited to unfavourable outcomes, performance, misuse and any benefits to the patients, clinicians, and health care systems.",
+          "airtable_id": "3cc048a7576fccdb",
+          "slug": "we-recommend-that-monitoring-auditing-and-reporting-be-made-mandatory-to-the-appropriate-governing-b",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We recommend that monitoring, auditing, and reporting be made mandatory to the appropriate governing body [or] bodies. Such processes should include but are not limited to unfavourable outcomes, performance, misuse and any benefits to the patients, clinicians, and health care systems.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-recommend-that-research-used-to-underpin-the-use-of-ai-in-health-care-must-be-peer-assessed-in-an",
+        "data": {
+          "layout": "generic",
+          "title": "We recommend that research used to underpin the use of AI in health care must be peer-assessed in an unbiased, independent, and robust manner. Australian data, with a sample representative of the population, should be used, but overseas data can be used when justified.",
+          "airtable_id": "b51435744794fc11",
+          "slug": "we-recommend-that-research-used-to-underpin-the-use-of-ai-in-health-care-must-be-peer-assessed-in-an",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We recommend that research used to underpin the use of AI in health care must be peer-assessed in an unbiased, independent, and robust manner. Australian data, with a sample representative of the population, should be used, but overseas data can be used when justified.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans",
+        "data": {
+          "layout": "generic",
+          "title": "Encourage and consider having AI software in health be free and open source software to ensure transparency, public ownership, financial integrity, collaboration, security, privacy and trust.",
+          "airtable_id": "0ec99f6f942d9d81",
+          "slug": "encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans",
+          "featured": [
+            "AI development"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "Encourage and consider having AI software in health be free and open source software to ensure transparency, public ownership, financial integrity, collaboration, security, privacy and trust.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "there-must-be-a-guideline-for-patient-rights-it-is-important-to-have-guidelines-that-are-inclusive-o",
+        "data": {
+          "layout": "generic",
+          "title": "There must be a guideline for patient rights. It is important to have guidelines that are inclusive of and non-discriminatory [with respect] to: individual values/beliefs, choice, accessibility, respecting underrepresented peoples, and being culturally appropriate.",
+          "airtable_id": "33c03e5ee5c3e6e1",
+          "slug": "there-must-be-a-guideline-for-patient-rights-it-is-important-to-have-guidelines-that-are-inclusive-o",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "There must be a guideline for patient rights. It is important to have guidelines that are inclusive of and non-discriminatory [with respect] to: individual values/beliefs, choice, accessibility, respecting underrepresented peoples, and being culturally appropriate.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include",
+        "data": {
+          "layout": "generic",
+          "title": "We must have a charter for AI in the Australian health system and services. The charter must include (but not be limited to) the following:\n‣Underrepresented people, including Aboriginal and Torres Strait Islander people and [people from] minority populations ‣Rural and remote [populations] ‣Sustainability and environment ‣Australian security and sovereignty ‣Ethics and human rights",
+          "airtable_id": "9b9726472352dc55",
+          "slug": "we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We must have a charter for AI in the Australian health system and services. The charter must include (but not be limited to) the following:\n‣Underrepresented people, including Aboriginal and Torres Strait Islander people and [people from] minority populations ‣Rural and remote [populations] ‣Sustainability and environment ‣Australian security and sovereignty ‣Ethics and human rights",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "we-recommend-that-professional-bodies-must-have-clear-directions-regarding-the-use-and-intended-outc",
+        "data": {
+          "layout": "generic",
+          "title": "We recommend that professional bodies must have clear directions regarding the use and intended outcomes of AI in the domains for which they are responsible.",
+          "airtable_id": "d3efd8a8c566caa0",
+          "slug": "we-recommend-that-professional-bodies-must-have-clear-directions-regarding-the-use-and-intended-outc",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "We recommend that professional bodies must have clear directions regarding the use and intended outcomes of AI in the domains for which they are responsible.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "it-is-important-that-ai-training-datasets-must-strive-to-be-adequately-representative-and-inclusive",
+        "data": {
+          "layout": "generic",
+          "title": "It is important that AI training datasets must strive to be adequately representative and inclusive to capture Australia's multiculturalism and diversity.",
+          "airtable_id": "a8ab1017f254ce28",
+          "slug": "it-is-important-that-ai-training-datasets-must-strive-to-be-adequately-representative-and-inclusive",
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "It is important that AI training datasets must strive to be adequately representative and inclusive to capture Australia's multiculturalism and diversity.",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated",
+        "data": {
+          "layout": "generic",
+          "title": "Our recommendation in the application of AI in health care is that it must be continually evaluated to ensure the benefits to patients and health care professionals outweigh the harms",
+          "airtable_id": "e3594b7f3161d64d",
+          "slug": "our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "name": "Our recommendation in the application of AI in health care is that it must be continually evaluated to ensure the benefits to patients and health care professionals outweigh the harms",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "layout": "generic",
+          "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-process",
+          "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare  - Process",
+          "theme": [
+            "Healthcare"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare -National Australian Jury",
+        "airtable_id": "ef2dbcc3fadcb5e9",
+        "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian",
+        "locations": [
+          "australia"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "All over Australia",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens' Jury"
+        ],
+        "on-average-how-many-hours-did-each-participant": 100,
+        "name": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare -National Australian Jury",
+        "group-description": "National Australian Jury",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 30,
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "recruitment-description": "Sortition Foundation used an algorithm for the stratified random selection of 31 participants according to gender, age, ancestry, highest level of education, location of residence (state/territory; urban, regional, rural). After selection, two jurors opted to not participate; one replacement person was invited, for a total of 30 jurors.",
+        "was-there-a-specific-target-population": "Adult, citizens or long-term residents of Australia",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "layout": "generic",
+        "slug": "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-process",
+        "title": "National Australian Citizens’ Jury on Using Artificial Intelligence in Healthcare  - Process",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Sortition Foundation",
+        "airtable_id": "c200fcd5e14d226f",
+        "slug": "sortition-foundation",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "the-peoples-panel-on-ai",
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.sortitionfoundation.org/",
+        "name": "Sortition Foundation",
+        "lead-organisation-for": [
+          "odyssean-process-on-ai"
+        ],
+        "mission-statement": "To campaign for, design, and run citizens' assemblies that use random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Wollongong",
+        "airtable_id": "bc884d60ec72483a",
+        "slug": "university-of-wollongong",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.uow.edu.au/",
+        "name": "University of Wollongong",
+        "lead-organisation-for": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "main-location": [
+          "australia"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Australian Centre for Health Engagement, Evidence and Values",
+        "airtable_id": "260fef8e938e4ea4",
+        "slug": "australian-centre-for-health-engagement-evidence-and-values",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.uow.edu.au/acheev/",
+        "name": "Australian Centre for Health Engagement, Evidence and Values",
+        "lead-organisation-for": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "main-location": [
+          "australia"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Health and Medical Research Council",
+        "airtable_id": "194f203fd3a856ed",
+        "slug": "national-health-and-medical-research-council",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Public sector"
+        ],
+        "website-address": "https://www.nhmrc.gov.au/",
+        "name": "National Health and Medical Research Council",
+        "main-location": [
+          "australia"
+        ],
+        "funding-organisation-for": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Upon submission to the regulator, an AI system must provide information on its intended purpose and efficacy, its training dataset, flaws and limitations of use.",
+        "airtable_id": "7556f6e8bf84368e",
+        "slug": "upon-submission-to-the-regulator-an-ai-system-must-provide-information-on-its-intended-purpose-and-e",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "Upon submission to the regulator, an AI system must provide information on its intended purpose and efficacy, its training dataset, flaws and limitations of use.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "For AI systems to be approved in Australia, they must perform equal to or better than current standard health care practice.",
+        "airtable_id": "d053764408154b3b",
+        "slug": "for-ai-systems-to-be-approved-in-australia-they-must-perform-equal-to-or-better-than-current-standar",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "For AI systems to be approved in Australia, they must perform equal to or better than current standard health care practice.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Our recommendation is that access to AI in health care must be the universal right of all Australians",
+        "airtable_id": "9be320d69d200223",
+        "slug": "our-recommendation-is-that-access-to-ai-in-health-care-must-be-the-universal-right-of-all-australian",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "Our recommendation is that access to AI in health care must be the universal right of all Australians",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Research assessing the performance of AI screening tools should reflect real world clinical practice and follow standardised procedures in trial design. Data analysis and reporting should be transparent, and conclusions should reflect system performance.",
+        "airtable_id": "c44cb6216569e4f6",
+        "slug": "research-assessing-the-performance-of-ai-screening-tools-should-reflect-real-world-clinical-practice",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "Research assessing the performance of AI screening tools should reflect real world clinical practice and follow standardised procedures in trial design. Data analysis and reporting should be transparent, and conclusions should reflect system performance.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We recommend that there is a comprehensive and fully funded community education program. This will ensure that the community is brought along with developments in and the application of AI in health. This should be located within a broader program of general digital health literacy that recognises particular community needs such as age, gender, ethnicity etc.",
+        "airtable_id": "cd27295d4799b2a6",
+        "slug": "we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We recommend that there is a comprehensive and fully funded community education program. This will ensure that the community is brought along with developments in and the application of AI in health. This should be located within a broader program of general digital health literacy that recognises particular community needs such as age, gender, ethnicity etc.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We recommend that health care workers must be trained in AI systems that are to be implemented to their practice environment before clinical use.",
+        "airtable_id": "67290cfeb61a4962",
+        "slug": "we-recommend-that-health-care-workers-must-be-trained-in-ai-systems-that-are-to-be-implemented-to-th",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We recommend that health care workers must be trained in AI systems that are to be implemented to their practice environment before clinical use.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": " There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.",
+        "airtable_id": "552126c5bc07faaa",
+        "slug": "there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": " There must be an independent decision-making body to manage the charter. We recommend representation from across all stakeholder groups. We recommend the board chair is independent of the health system and investors to avoid bias.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We recommend that monitoring, auditing, and reporting be made mandatory to the appropriate governing body [or] bodies. Such processes should include but are not limited to unfavourable outcomes, performance, misuse and any benefits to the patients, clinicians, and health care systems.",
+        "airtable_id": "3cc048a7576fccdb",
+        "slug": "we-recommend-that-monitoring-auditing-and-reporting-be-made-mandatory-to-the-appropriate-governing-b",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We recommend that monitoring, auditing, and reporting be made mandatory to the appropriate governing body [or] bodies. Such processes should include but are not limited to unfavourable outcomes, performance, misuse and any benefits to the patients, clinicians, and health care systems.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We recommend that research used to underpin the use of AI in health care must be peer-assessed in an unbiased, independent, and robust manner. Australian data, with a sample representative of the population, should be used, but overseas data can be used when justified.",
+        "airtable_id": "b51435744794fc11",
+        "slug": "we-recommend-that-research-used-to-underpin-the-use-of-ai-in-health-care-must-be-peer-assessed-in-an",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We recommend that research used to underpin the use of AI in health care must be peer-assessed in an unbiased, independent, and robust manner. Australian data, with a sample representative of the population, should be used, but overseas data can be used when justified.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Encourage and consider having AI software in health be free and open source software to ensure transparency, public ownership, financial integrity, collaboration, security, privacy and trust.",
+        "airtable_id": "0ec99f6f942d9d81",
+        "slug": "encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans",
+        "featured": [
+          "AI development"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "Encourage and consider having AI software in health be free and open source software to ensure transparency, public ownership, financial integrity, collaboration, security, privacy and trust.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "There must be a guideline for patient rights. It is important to have guidelines that are inclusive of and non-discriminatory [with respect] to: individual values/beliefs, choice, accessibility, respecting underrepresented peoples, and being culturally appropriate.",
+        "airtable_id": "33c03e5ee5c3e6e1",
+        "slug": "there-must-be-a-guideline-for-patient-rights-it-is-important-to-have-guidelines-that-are-inclusive-o",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "There must be a guideline for patient rights. It is important to have guidelines that are inclusive of and non-discriminatory [with respect] to: individual values/beliefs, choice, accessibility, respecting underrepresented peoples, and being culturally appropriate.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We must have a charter for AI in the Australian health system and services. The charter must include (but not be limited to) the following:\n‣Underrepresented people, including Aboriginal and Torres Strait Islander people and [people from] minority populations ‣Rural and remote [populations] ‣Sustainability and environment ‣Australian security and sovereignty ‣Ethics and human rights",
+        "airtable_id": "9b9726472352dc55",
+        "slug": "we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We must have a charter for AI in the Australian health system and services. The charter must include (but not be limited to) the following:\n‣Underrepresented people, including Aboriginal and Torres Strait Islander people and [people from] minority populations ‣Rural and remote [populations] ‣Sustainability and environment ‣Australian security and sovereignty ‣Ethics and human rights",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We recommend that professional bodies must have clear directions regarding the use and intended outcomes of AI in the domains for which they are responsible.",
+        "airtable_id": "d3efd8a8c566caa0",
+        "slug": "we-recommend-that-professional-bodies-must-have-clear-directions-regarding-the-use-and-intended-outc",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "We recommend that professional bodies must have clear directions regarding the use and intended outcomes of AI in the domains for which they are responsible.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "It is important that AI training datasets must strive to be adequately representative and inclusive to capture Australia's multiculturalism and diversity.",
+        "airtable_id": "a8ab1017f254ce28",
+        "slug": "it-is-important-that-ai-training-datasets-must-strive-to-be-adequately-representative-and-inclusive",
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "It is important that AI training datasets must strive to be adequately representative and inclusive to capture Australia's multiculturalism and diversity.",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Our recommendation in the application of AI in health care is that it must be continually evaluated to ensure the benefits to patients and health care professionals outweigh the harms",
+        "airtable_id": "e3594b7f3161d64d",
+        "slug": "our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "name": "Our recommendation in the application of AI in health care is that it must be continually evaluated to ensure the benefits to patients and health care professionals outweigh the harms",
+        "theme": [
+          "Healthcare"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ]
+  }
+}

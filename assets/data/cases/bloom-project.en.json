@@ -1,0 +1,332 @@
+{
+  "slug": "bloom-project",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Bloom Project",
+    "airtable_id": "946d2c03a1277448",
+    "slug": "bloom-project",
+    "redirect_from": [
+      "/c/946d2c03a1277448/"
+    ],
+    "provide-a-brief-description-of-the-project": "BLOOM is a nonprofit. Our tools are free. We work with civic leaders to run public conversations that go beyond talk: surfacing what communities actually think, finding real common ground, and connecting findings to the decisions that matter.\n\nThree things make it work:\n\n**CivicOS**\nA free, open-source platform that supports the full problem solving processes — from setting the agenda to reporting what was heard\n\n**Civic Hosts**\nA network of trained community leaders who run and steward local deliberations\n\n**Headline Deliberations**\nLarge-scale pilots led by place-based civic partners, with BLOOM support, that demonstrate what’s possible and develop the model\n",
+    "project-status": "In Progress",
+    "participants": [
+      "bloom-project-oregon-survey",
+      "bloom-project-utah-survey"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "project-title": "Bloom Project",
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Quantitative: Generate statistical evidence on public attitudes to AI"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "In 2026, BLOOM is asking one question across communities: what would it take for AI to benefit our communities — and for its risks to be managed responsibly?",
+    "how-was-the-project-initiated": [
+      "Commissioned",
+      "Other"
+    ],
+    "level-of-engagement": "Community",
+    "involved-organisations": [
+      "american-public-trust"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://bloom-project.org/",
+    "locations": [
+      "oregon-usa",
+      "utah-usa"
+    ],
+    "where-were-participants-from": [
+      "Oregon, USA",
+      "Utah, USA"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "bloom-project",
+    "data": {
+      "layout": "case",
+      "title": "Bloom Project",
+      "airtable_id": "946d2c03a1277448",
+      "slug": "bloom-project",
+      "redirect_from": [
+        "/c/946d2c03a1277448/"
+      ],
+      "provide-a-brief-description-of-the-project": "BLOOM is a nonprofit. Our tools are free. We work with civic leaders to run public conversations that go beyond talk: surfacing what communities actually think, finding real common ground, and connecting findings to the decisions that matter.\n\nThree things make it work:\n\n**CivicOS**\nA free, open-source platform that supports the full problem solving processes — from setting the agenda to reporting what was heard\n\n**Civic Hosts**\nA network of trained community leaders who run and steward local deliberations\n\n**Headline Deliberations**\nLarge-scale pilots led by place-based civic partners, with BLOOM support, that demonstrate what’s possible and develop the model\n",
+      "project-status": "In Progress",
+      "participants": [
+        "bloom-project-oregon-survey",
+        "bloom-project-utah-survey"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "project-title": "Bloom Project",
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Quantitative: Generate statistical evidence on public attitudes to AI"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "In 2026, BLOOM is asking one question across communities: what would it take for AI to benefit our communities — and for its risks to be managed responsibly?",
+      "how-was-the-project-initiated": [
+        "Commissioned",
+        "Other"
+      ],
+      "level-of-engagement": "Community",
+      "involved-organisations": [
+        "american-public-trust"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://bloom-project.org/",
+      "locations": [
+        "oregon-usa",
+        "utah-usa"
+      ],
+      "where-were-participants-from": [
+        "Oregon, USA",
+        "Utah, USA"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "bloom-project-oregon-survey",
+        "data": {
+          "layout": "generic",
+          "title": "Bloom Project-Oregon Survey",
+          "airtable_id": "977111eddfe91484",
+          "slug": "bloom-project-oregon-survey",
+          "locations": [
+            "oregon-usa"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Oregon, USA",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey",
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.05,
+          "name": "Bloom Project-Oregon Survey",
+          "group-description": "Oregon Survey",
+          "how-many-people-took-part": 300,
+          "cases": [
+            "bloom-project"
+          ],
+          "was-there-a-specific-target-population": "Oregon Residents",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "bloom-project-utah-survey",
+        "data": {
+          "layout": "generic",
+          "title": "Bloom Project-Utah Survey",
+          "airtable_id": "f672358bd6f900ac",
+          "slug": "bloom-project-utah-survey",
+          "locations": [
+            "utah-usa"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Utah, USA",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey",
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.1,
+          "name": "Bloom Project-Utah Survey",
+          "group-description": "Utah Survey",
+          "how-many-people-took-part": 400,
+          "cases": [
+            "bloom-project"
+          ],
+          "was-there-a-specific-target-population": "Utah Residents",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "american-public-trust",
+        "data": {
+          "layout": "organisation",
+          "title": "American Public Trust.",
+          "airtable_id": "4392ed8c9b5b5d9f",
+          "slug": "american-public-trust",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "bloom-project"
+          ],
+          "website-address": "https://insights.americanpublictrust.org/",
+          "name": "American Public Trust.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "bloom-project"
+          ],
+          "layout": "generic",
+          "slug": "bloom-project-process",
+          "title": "Bloom Project - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Bloom Project-Oregon Survey",
+        "airtable_id": "977111eddfe91484",
+        "slug": "bloom-project-oregon-survey",
+        "locations": [
+          "oregon-usa"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Oregon, USA",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey",
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.05,
+        "name": "Bloom Project-Oregon Survey",
+        "group-description": "Oregon Survey",
+        "how-many-people-took-part": 300,
+        "cases": [
+          "bloom-project"
+        ],
+        "was-there-a-specific-target-population": "Oregon Residents",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Bloom Project-Utah Survey",
+        "airtable_id": "f672358bd6f900ac",
+        "slug": "bloom-project-utah-survey",
+        "locations": [
+          "utah-usa"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Utah, USA",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey",
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.1,
+        "name": "Bloom Project-Utah Survey",
+        "group-description": "Utah Survey",
+        "how-many-people-took-part": 400,
+        "cases": [
+          "bloom-project"
+        ],
+        "was-there-a-specific-target-population": "Utah Residents",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "bloom-project"
+        ],
+        "layout": "generic",
+        "slug": "bloom-project-process",
+        "title": "Bloom Project - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "American Public Trust.",
+        "airtable_id": "4392ed8c9b5b5d9f",
+        "slug": "american-public-trust",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "bloom-project"
+        ],
+        "website-address": "https://insights.americanpublictrust.org/",
+        "name": "American Public Trust.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

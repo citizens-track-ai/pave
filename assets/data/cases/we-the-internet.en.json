@@ -1,0 +1,1341 @@
+{
+  "slug": "we-the-internet",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "We the Internet",
+    "airtable_id": "6420c15b446b7828",
+    "slug": "we-the-internet",
+    "redirect_from": [
+      "/c/6420c15b446b7828/"
+    ],
+    "lead-organisations": [
+      "missions-publiques"
+    ],
+    "provide-a-brief-description-of-the-project": "**We, the Internet was the first deliberative citizens' dialogue on internet governance and AI held at a global scale. In its 2020 edition, coordinated by Missions Publiques, it engaged more than 5,500 citizens across 75+ countries in a single structured \"Deliberation Day,\" alongside a separate global Stakeholders' Dialogue of 340+ participants. **\n\nRandomly selected citizens were given balanced information materials and then deliberated in facilitated small groups on four themes: digital identity and data, the digital public sphere and disinformation, governing artificial intelligence, and internet governance. The dedicated AI session was designed to surface how ordinary people — not experts — want AI to be governed. Results were synthesised into key messages and channelled to decision-makers, feeding into the UN Secretary-General's Roadmap on Digital Cooperation, and later the Global Digital Compact.\n",
+    "what-limitations-to-the-project-should-be-noted": "COVID-19 disrupted delivery — many planned in-person dialogues moved online, and some partners and would-be participants could not take part in time, affecting country coverage. \n",
+    "project-status": "Complete",
+    "headline-findings": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.\n\nCitizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.\nCitizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.\nOn disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.\nOn data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.\nAcross all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.\nViews converged remarkably across regions: participants from North and South, East and West reached very similar positions, suggesting a shared global public vision.\n",
+    "participants": [
+      "we-the-internet-citizens",
+      "we-the-internet-stakeholders"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Future issues"
+    ],
+    "messages": [
+      "citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naïve-en",
+      "citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh",
+      "citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg",
+      "on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c",
+      "on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum",
+      "across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw"
+    ],
+    "theme": [
+      "Internet governance",
+      "Artificial Intelligence",
+      "Social media"
+    ],
+    "what-year-did-the-project-start": 2017,
+    "funding-organisations": [
+      "german-government",
+      "facebook",
+      "google",
+      "swiss-government",
+      "isoc",
+      "european-commission"
+    ],
+    "inclusion-efforts": "Recruitment criteria explicitly included \"connectedness,\" so partners reached non-connected and low-connectivity citizens, not only habitual internet users. National partners could add criteria of national relevance, such as ethnic or religious groups, to reach minorities. \n\nNo prior knowledge was required: each session opened with plain-language videos and balanced texts so anyone could form an informed view, and trained facilitators ensured every person in a group spoke. Materials were produced in multiple languages, dialogues ran both face-to-face and online, and food and refreshments were provided free to in-person participants.\n",
+    "project-title": "We the Internet",
+    "submitted-by": "Antoine Vergne",
+    "why-is-this-project-important-to-include-in-the": "It is one of the earliest and largest attempts to put AI governance directly to a globally representative public rather than to experts. Three things stand out: (1) genuinely global reach with striking cross-cultural convergence — citizens from the global North and South, East and West reached very similar conclusions; (2) deliberate inclusion of non-connected citizens and minorities, not just typical \"online\" populations; and (3) a reusable, openly licensed method — balanced information materials, facilitation scripts and questionnaires — published as a toolkit so any country can run its own dialogue. The AI session itself was co-designed with academic research on participatory AI governance methods.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Quantitative: Generate statistical evidence on public attitudes to AI",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "global-citizens-dialogue-we-the-internet"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How ordinary citizens worldwide want artificial intelligence — and the wider internet — to be governed",
+    "how-was-the-project-initiated": [
+      "Community Led",
+      "Co-created"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2021,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "An independent evaluation",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "unesco",
+      "mozilla-foundation",
+      "world-economic-forum",
+      "web-foundation",
+      "wikimedia-foundation-1"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://missionspubliques.org/pf/we-the-internet-global-citizens-dialogue-on-the-future-of-internet/?lang=en ",
+    "where-were-participants-from": [
+      "76 countries",
+      "80 countries "
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "we-the-internet",
+    "data": {
+      "layout": "case",
+      "title": "We the Internet",
+      "airtable_id": "6420c15b446b7828",
+      "slug": "we-the-internet",
+      "redirect_from": [
+        "/c/6420c15b446b7828/"
+      ],
+      "lead-organisations": [
+        "missions-publiques"
+      ],
+      "provide-a-brief-description-of-the-project": "**We, the Internet was the first deliberative citizens' dialogue on internet governance and AI held at a global scale. In its 2020 edition, coordinated by Missions Publiques, it engaged more than 5,500 citizens across 75+ countries in a single structured \"Deliberation Day,\" alongside a separate global Stakeholders' Dialogue of 340+ participants. **\n\nRandomly selected citizens were given balanced information materials and then deliberated in facilitated small groups on four themes: digital identity and data, the digital public sphere and disinformation, governing artificial intelligence, and internet governance. The dedicated AI session was designed to surface how ordinary people — not experts — want AI to be governed. Results were synthesised into key messages and channelled to decision-makers, feeding into the UN Secretary-General's Roadmap on Digital Cooperation, and later the Global Digital Compact.\n",
+      "what-limitations-to-the-project-should-be-noted": "COVID-19 disrupted delivery — many planned in-person dialogues moved online, and some partners and would-be participants could not take part in time, affecting country coverage. \n",
+      "project-status": "Complete",
+      "headline-findings": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.\n\nCitizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.\nCitizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.\nOn disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.\nOn data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.\nAcross all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.\nViews converged remarkably across regions: participants from North and South, East and West reached very similar positions, suggesting a shared global public vision.\n",
+      "participants": [
+        "we-the-internet-citizens",
+        "we-the-internet-stakeholders"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Future issues"
+      ],
+      "messages": [
+        "citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naïve-en",
+        "citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh",
+        "citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg",
+        "on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c",
+        "on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum",
+        "across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw"
+      ],
+      "theme": [
+        "Internet governance",
+        "Artificial Intelligence",
+        "Social media"
+      ],
+      "what-year-did-the-project-start": 2017,
+      "funding-organisations": [
+        "german-government",
+        "facebook",
+        "google",
+        "swiss-government",
+        "isoc",
+        "european-commission"
+      ],
+      "inclusion-efforts": "Recruitment criteria explicitly included \"connectedness,\" so partners reached non-connected and low-connectivity citizens, not only habitual internet users. National partners could add criteria of national relevance, such as ethnic or religious groups, to reach minorities. \n\nNo prior knowledge was required: each session opened with plain-language videos and balanced texts so anyone could form an informed view, and trained facilitators ensured every person in a group spoke. Materials were produced in multiple languages, dialogues ran both face-to-face and online, and food and refreshments were provided free to in-person participants.\n",
+      "project-title": "We the Internet",
+      "submitted-by": "Antoine Vergne",
+      "why-is-this-project-important-to-include-in-the": "It is one of the earliest and largest attempts to put AI governance directly to a globally representative public rather than to experts. Three things stand out: (1) genuinely global reach with striking cross-cultural convergence — citizens from the global North and South, East and West reached very similar conclusions; (2) deliberate inclusion of non-connected citizens and minorities, not just typical \"online\" populations; and (3) a reusable, openly licensed method — balanced information materials, facilitation scripts and questionnaires — published as a toolkit so any country can run its own dialogue. The AI session itself was co-designed with academic research on participatory AI governance methods.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Quantitative: Generate statistical evidence on public attitudes to AI",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "global-citizens-dialogue-we-the-internet"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How ordinary citizens worldwide want artificial intelligence — and the wider internet — to be governed",
+      "how-was-the-project-initiated": [
+        "Community Led",
+        "Co-created"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2021,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "An independent evaluation",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "unesco",
+        "mozilla-foundation",
+        "world-economic-forum",
+        "web-foundation",
+        "wikimedia-foundation-1"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://missionspubliques.org/pf/we-the-internet-global-citizens-dialogue-on-the-future-of-internet/?lang=en ",
+      "where-were-participants-from": [
+        "76 countries",
+        "80 countries "
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "we-the-internet-citizens",
+        "data": {
+          "layout": "generic",
+          "title": "We the Internet-Citizens",
+          "airtable_id": "5e3f1b716583acab",
+          "slug": "we-the-internet-citizens",
+          "recruitment-method": "Other",
+          "where-were-participants-from": "76 countries",
+          "which-of-the-following-methods-were-used-to": [
+            "Distributed dialogue",
+            "Citizens’ Assembly",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 8,
+          "name": "We the Internet-Citizens",
+          "group-description": "Citizens",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 5600,
+          "cases": [
+            "we-the-internet"
+          ],
+          "recruitment-description": "Mix of methods depending on the country",
+          "was-there-a-specific-target-population": "Representative of the diversity of their country + quota for low digital literacy",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "we-the-internet-stakeholders",
+        "data": {
+          "layout": "generic",
+          "title": "We the Internet-Stakeholders",
+          "airtable_id": "31679fec5315341f",
+          "slug": "we-the-internet-stakeholders",
+          "recruitment-method": "Peer recruitment (snowball)",
+          "where-were-participants-from": "80 countries ",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops",
+            "Collective Intelligence Process",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 8,
+          "name": "We the Internet-Stakeholders",
+          "group-description": "Stakeholders",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 340,
+          "cases": [
+            "we-the-internet"
+          ],
+          "recruitment-description": "Snowball",
+          "was-there-a-specific-target-population": "Snowball of Internet Governance activists",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "unesco",
+        "data": {
+          "layout": "organisation",
+          "title": "UNESCO",
+          "airtable_id": "50776231b6fb73f8",
+          "slug": "unesco",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "chilean-national-ai-policy-participatory-design-and-update",
+            "we-the-internet"
+          ],
+          "name": "UNESCO",
+          "funding-organisation-for": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "european-commission",
+        "data": {
+          "layout": "organisation",
+          "title": "European Commission",
+          "airtable_id": "4e2a09f4c99e5fd5",
+          "slug": "european-commission",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://ec.europa.eu/",
+          "name": "European Commission",
+          "main-location": [
+            "europe"
+          ],
+          "funding-organisation-for": [
+            "alignment-assembly-on-culture-for-ai",
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "swiss-government",
+        "data": {
+          "layout": "organisation",
+          "title": "Swiss Government",
+          "airtable_id": "37ebd5d854723738",
+          "slug": "swiss-government",
+          "role": [
+            "Funder"
+          ],
+          "name": "Swiss Government",
+          "funding-organisation-for": [
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "world-economic-forum",
+        "data": {
+          "layout": "organisation",
+          "title": "World Economic Forum",
+          "airtable_id": "a96a61861a560a7d",
+          "slug": "world-economic-forum",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "name": "World Economic Forum",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "web-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Web Foundation",
+          "airtable_id": "bc9e3f74bd586f9c",
+          "slug": "web-foundation",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "name": "Web Foundation",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "german-government",
+        "data": {
+          "layout": "organisation",
+          "title": "German Government",
+          "airtable_id": "a8c0325f0695d4d8",
+          "slug": "german-government",
+          "role": [
+            "Funder"
+          ],
+          "name": "German Government",
+          "funding-organisation-for": [
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "google",
+        "data": {
+          "layout": "organisation",
+          "title": "Google",
+          "airtable_id": "480724ba195500c2",
+          "slug": "google",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://about.google/",
+          "name": "Google",
+          "lead-organisation-for": [
+            "going-places-participatory-localized-red-teaming-for-text-to-image-safety-in-the-global-south"
+          ],
+          "mission-statement": "To organize the world's information and make it universally accessible and useful. (Source: https://about.google/)",
+          "main-location": [
+            "mountain-view-california-usa"
+          ],
+          "funding-organisation-for": [
+            "going-places-participatory-localized-red-teaming-for-text-to-image-safety-in-the-global-south",
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "missions-publiques",
+        "data": {
+          "layout": "organisation",
+          "title": "Missions Publiques",
+          "airtable_id": "b47605d4a57bfa7e",
+          "slug": "missions-publiques",
+          "role": [
+            "Lead"
+          ],
+          "name": "Missions Publiques",
+          "lead-organisation-for": [
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "wikimedia-foundation-1",
+        "data": {
+          "layout": "organisation",
+          "title": "Wikimedia Foundation",
+          "airtable_id": "d27f7d4d1493d37b",
+          "slug": "wikimedia-foundation-1",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "name": "Wikimedia Foundation",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mozilla-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Mozilla Foundation",
+          "airtable_id": "c282203a5a0788cd",
+          "slug": "mozilla-foundation",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://foundation.mozilla.org/",
+          "name": "Mozilla Foundation",
+          "lead-organisation-for": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+          "main-location": [
+            "mountain-view-california-usa"
+          ],
+          "funding-organisation-for": [
+            "the-peoples-panel-on-ai",
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "isoc",
+        "data": {
+          "layout": "organisation",
+          "title": "ISOC",
+          "airtable_id": "fb0bf6364f2030e8",
+          "slug": "isoc",
+          "role": [
+            "Funder"
+          ],
+          "name": "ISOC",
+          "funding-organisation-for": [
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "facebook",
+        "data": {
+          "layout": "organisation",
+          "title": "Facebook",
+          "airtable_id": "32c60742aa83b640",
+          "slug": "facebook",
+          "role": [
+            "Funder"
+          ],
+          "name": "Facebook",
+          "funding-organisation-for": [
+            "we-the-internet"
+          ],
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw",
+        "data": {
+          "layout": "generic",
+          "title": "Across all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.",
+          "airtable_id": "481dea4b15c247ee",
+          "slug": "across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "Across all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c",
+        "data": {
+          "layout": "generic",
+          "title": "On disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.",
+          "airtable_id": "5564f4dc34bc9e3f",
+          "slug": "on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c",
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "On disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum",
+        "data": {
+          "layout": "generic",
+          "title": "On data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.",
+          "airtable_id": "36be8250e4bc6e1f",
+          "slug": "on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum",
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "On data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg",
+        "data": {
+          "layout": "generic",
+          "title": "Citizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.",
+          "airtable_id": "da223e60176ab07b",
+          "slug": "citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg",
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "Citizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naïve-en",
+        "data": {
+          "layout": "generic",
+          "title": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.",
+          "airtable_id": "7f997f37534c790e",
+          "slug": "citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naïve-en",
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh",
+        "data": {
+          "layout": "generic",
+          "title": "Citizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.",
+          "airtable_id": "13cdcc20505c3810",
+          "slug": "citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Issue",
+          "cases": [
+            "we-the-internet"
+          ],
+          "name": "Citizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "we-the-internet"
+          ],
+          "layout": "generic",
+          "slug": "we-the-internet-process",
+          "title": "We the Internet - Process",
+          "theme": [
+            "Internet governance",
+            "Artificial Intelligence",
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "We the Internet-Citizens",
+        "airtable_id": "5e3f1b716583acab",
+        "slug": "we-the-internet-citizens",
+        "recruitment-method": "Other",
+        "where-were-participants-from": "76 countries",
+        "which-of-the-following-methods-were-used-to": [
+          "Distributed dialogue",
+          "Citizens’ Assembly",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 8,
+        "name": "We the Internet-Citizens",
+        "group-description": "Citizens",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 5600,
+        "cases": [
+          "we-the-internet"
+        ],
+        "recruitment-description": "Mix of methods depending on the country",
+        "was-there-a-specific-target-population": "Representative of the diversity of their country + quota for low digital literacy",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "We the Internet-Stakeholders",
+        "airtable_id": "31679fec5315341f",
+        "slug": "we-the-internet-stakeholders",
+        "recruitment-method": "Peer recruitment (snowball)",
+        "where-were-participants-from": "80 countries ",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops",
+          "Collective Intelligence Process",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 8,
+        "name": "We the Internet-Stakeholders",
+        "group-description": "Stakeholders",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 340,
+        "cases": [
+          "we-the-internet"
+        ],
+        "recruitment-description": "Snowball",
+        "was-there-a-specific-target-population": "Snowball of Internet Governance activists",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "we-the-internet"
+        ],
+        "layout": "generic",
+        "slug": "we-the-internet-process",
+        "title": "We the Internet - Process",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "UNESCO",
+        "airtable_id": "50776231b6fb73f8",
+        "slug": "unesco",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "chilean-national-ai-policy-participatory-design-and-update",
+          "we-the-internet"
+        ],
+        "name": "UNESCO",
+        "funding-organisation-for": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "European Commission",
+        "airtable_id": "4e2a09f4c99e5fd5",
+        "slug": "european-commission",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://ec.europa.eu/",
+        "name": "European Commission",
+        "main-location": [
+          "europe"
+        ],
+        "funding-organisation-for": [
+          "alignment-assembly-on-culture-for-ai",
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Swiss Government",
+        "airtable_id": "37ebd5d854723738",
+        "slug": "swiss-government",
+        "role": [
+          "Funder"
+        ],
+        "name": "Swiss Government",
+        "funding-organisation-for": [
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "World Economic Forum",
+        "airtable_id": "a96a61861a560a7d",
+        "slug": "world-economic-forum",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "name": "World Economic Forum",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Web Foundation",
+        "airtable_id": "bc9e3f74bd586f9c",
+        "slug": "web-foundation",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "name": "Web Foundation",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "German Government",
+        "airtable_id": "a8c0325f0695d4d8",
+        "slug": "german-government",
+        "role": [
+          "Funder"
+        ],
+        "name": "German Government",
+        "funding-organisation-for": [
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Google",
+        "airtable_id": "480724ba195500c2",
+        "slug": "google",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://about.google/",
+        "name": "Google",
+        "lead-organisation-for": [
+          "going-places-participatory-localized-red-teaming-for-text-to-image-safety-in-the-global-south"
+        ],
+        "mission-statement": "To organize the world's information and make it universally accessible and useful. (Source: https://about.google/)",
+        "main-location": [
+          "mountain-view-california-usa"
+        ],
+        "funding-organisation-for": [
+          "going-places-participatory-localized-red-teaming-for-text-to-image-safety-in-the-global-south",
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Missions Publiques",
+        "airtable_id": "b47605d4a57bfa7e",
+        "slug": "missions-publiques",
+        "role": [
+          "Lead"
+        ],
+        "name": "Missions Publiques",
+        "lead-organisation-for": [
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Wikimedia Foundation",
+        "airtable_id": "d27f7d4d1493d37b",
+        "slug": "wikimedia-foundation-1",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "name": "Wikimedia Foundation",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mozilla Foundation",
+        "airtable_id": "c282203a5a0788cd",
+        "slug": "mozilla-foundation",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://foundation.mozilla.org/",
+        "name": "Mozilla Foundation",
+        "lead-organisation-for": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+        "main-location": [
+          "mountain-view-california-usa"
+        ],
+        "funding-organisation-for": [
+          "the-peoples-panel-on-ai",
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "ISOC",
+        "airtable_id": "fb0bf6364f2030e8",
+        "slug": "isoc",
+        "role": [
+          "Funder"
+        ],
+        "name": "ISOC",
+        "funding-organisation-for": [
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Facebook",
+        "airtable_id": "32c60742aa83b640",
+        "slug": "facebook",
+        "role": [
+          "Funder"
+        ],
+        "name": "Facebook",
+        "funding-organisation-for": [
+          "we-the-internet"
+        ],
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Across all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.",
+        "airtable_id": "481dea4b15c247ee",
+        "slug": "across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "Across all themes, citizens strongly backed multistakeholder, global, science-based governance — and saw citizen deliberation itself as a crucial instrument.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "On disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.",
+        "airtable_id": "5564f4dc34bc9e3f",
+        "slug": "on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c",
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "On disinformation, citizens ranked education as the most urgent and effective remedy, ahead of human content moderation and legal regulation; voluntary self-commitments by companies had the least support.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "On data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.",
+        "airtable_id": "36be8250e4bc6e1f",
+        "slug": "on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum",
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "On data, citizens said a data-driven society could be positive only under conditions — data tied to human rights, trustworthy, controllable and accessible by citizens, and governed in a science-based, multistakeholder way.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Citizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.",
+        "airtable_id": "da223e60176ab07b",
+        "slug": "citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg",
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "Citizens said their own understanding of AI was not high enough for a fully informed debate — and judged that companies and governments face the same gap — yet still wanted the conversation pursued.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.",
+        "airtable_id": "7f997f37534c790e",
+        "slug": "citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naïve-en",
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "Citizens worldwide said AI is \"a powerful tool that needs careful stewardship\" — rejecting both naïve enthusiasm and catastrophism.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Citizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.",
+        "airtable_id": "13cdcc20505c3810",
+        "slug": "citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Issue",
+        "cases": [
+          "we-the-internet"
+        ],
+        "name": "Citizens set two clear priorities for AI: it should be used for the common good, and its governance should be designed so that no one is left out.",
+        "theme": [
+          "Internet governance",
+          "Artificial Intelligence",
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Future issues"
+        ]
+      }
+    ]
+  }
+}

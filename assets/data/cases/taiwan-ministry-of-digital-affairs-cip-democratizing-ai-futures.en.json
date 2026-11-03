@@ -1,0 +1,645 @@
+{
+  "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures",
+    "airtable_id": "3ef16d86eb570d8f",
+    "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+    "redirect_from": [
+      "/c/3ef16d86eb570d8f/"
+    ],
+    "lead-organisations": [
+      "taiwan-ministry-of-digital-affairs",
+      "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2023, the Taiwan Ministry of Digital Affairs, the Center for Innovative Democracy and Sustainability, and National Chengchi University commissioned a process that used deliberative polling, roundtable discussions, and scenario workshops to involve approximately 571 people in online agenda-setting and in-person deliberative workshops to address the societal impacts, needs, and risks of artificial intelligence in Taiwan with the intended outcome of informing national policy-making and regulatory frameworks.\n\n**Process**\n\nTwo rounds of citizen participation discussions, collecting extensive opinions and holding specific policy debates to address the impacts of AI on society in Taiwan. The Ideathon platform initiated the two Democratizing AI Futures Deliberative Workshop sessions and launched the Democratizing AI Futures dialogue concept.\n\n1) Development of deliberative topics - netizen deliberative polling on Pol.is to gather thoughts on generative AI combined with literature reviewing. Those ideas were condensed to six topics for the workshops to debate. \n\n2) Two deliberative workshops held with volunteers and invited experts including roundtable discussions and scenario setting. \n\n3) Final recommendations reported below are based on results of the workshops.\n\n**Recommendations and findings from the project reports:**\n\n**(I) Individual level: labor force release and empowerment**\n- Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers. On an individual level, it is essential to continuously train individuals to acquire basic operational and information recognition skills. This will enable them to cope with future work demands or life transformations. Active empowerment relies on individuals' professional capabilities within the community, as well as educational training and a variety of citizen participation opportunities. In this manner, the people's abilities can potentially improve and contribute to social needs.\n\n**(II) Stakeholder community level: industrial upgrading and transformation counseling**\n- For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation. Some industries, such as design, translation and graphics, rely on counseling to improve organizational capabilities. Most participants mentioned that law, education, imaging and other fields may be significantly impacted. Under the AI wave, the competitiveness of industries will depend on whether workers entering the labor force possess the necessary digital skills, or if there are training mechanisms at the national and community level. Participants also proposed and affirmed the importance of increased collaboration between the public and private sectors, and the use of community support to provide oversight as well as checks and balances.\n\n**(III) National level: institutionalization of regulatory policies**\n- Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law. That is, state regulation must shape the system so that those subject to regulation or related industries and the people can understand boundaries and have the right to express opinions on regulatory boundary formation. Therefore, if the national governance tool design is more transparent, it will benefit individuals, stakeholder communities and even the overall positive cycle of society.\n\n",
+    "what-limitations-to-the-project-should-be-noted": "The project reports note three main points of learning and limitations:\n\n(I) Definition of participant representativeness\nThe Ideathon platform initiated the two Democratizing AI Futures Deliberative Workshop sessions and launched the Democratizing AI Futures dialogue concept. Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. The source of participants in this event is specific target groups solicited via the voluntary and invitation systems. Not all event participants are front-line users. It is also clear that the proportion of people working in the design field is significantly higher than that of other fields, and there is a gap in their understanding, ideas and performance in technology applications. The appropriate source, number and representativeness of participant invitations depend on the purpose of the event design because one of the topics to be discussed in these two sessions is revised and used as the submission method for the next Ideathon. The composition of the participants in this event is connected and aligned with the purpose of the discussion. The event's design attempts to set the agenda by focusing on the impacts of AI on society. Various professionals can provide perspectives to create a preliminary blueprint in this direction. If there are plans to hold future discussions on similar topics, it would be helpful to consider making more diverse designs that consider the participants' representativeness. This could involve discussions in separate groups, with an invitation-only system for some sessions and a voluntary participation system for others. Such an approach can assist the event organizer in achieving the event's purpose and reaching the necessary opinion sources.\n\n(II)  Agenda setting for deliberative workshops\nThe two Democratizing AI Futures Deliberative Workshop sessions started by collecting opinions from netizens. These opinions were summarized using polis.tw and supplemented with domestic and foreign news, research trends and other relevant information. The opinions were then categorized into six major themes (internal government governance applications, emerging law-supervision mechanism rule, information identification, data openness, intellectual property, education and human cognitive impacts) for on-site discussion. As the majority of participants in the Ideathon are volunteers, with some invited experts and scholars, the executive team assigns experts and scholars to groups based on discussion topics that align with professional fields. Since the voluntary contributors came from various backgrounds, they were randomly assigned to the topic groups. As a result, the opinions expressed in each group range from academic and practical to imaginative; the participants may not have a complete grasp of the assigned discussion topics. \n\n(III) Policy recommendation tracking and implementation\nEven if the discussion during a meeting is engaging and effective in participation, the implementation of actual policy agendas and the impact of meeting conclusions on policies must still be executed by a civil service system with the appropriate powers and responsibilities. Common sense suggests that it is difficult for participants to continue tracking the subsequent policy implementation effects after similar discussion activities. \n",
+    "project-status": "Complete",
+    "headline-findings": "- **(I) Individual level: labor force release and empowerment**\n- Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers. On an individual level, it is essential to continuously train individuals to acquire basic operational and information recognition skills. This will enable them to cope with future work demands or life transformations. Active empowerment relies on individuals' professional capabilities within the community, as well as educational training and a variety of citizen participation opportunities. In this manner, the people's abilities can potentially improve and contribute to social needs.\n- **(II) Stakeholder community level: industrial upgrading and transformation counseling**\n- For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation. Some industries, such as design, translation and graphics, rely on counseling to improve organizational capabilities. Most participants mentioned that law, education, imaging and other fields may be significantly impacted. Under the AI wave, the competitiveness of industries will depend on whether workers entering the labor force possess the necessary digital skills, or if there are training mechanisms at the national and community level. Participants also proposed and affirmed the importance of increased collaboration between the public and private sectors, and the use of community support to provide oversight as well as checks and balances.\n- **(III) National level: institutionalization of regulatory policies**\n- Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law. That is, state regulation must shape the system so that those subject to regulation or related industries and the people can understand boundaries and have the right to express opinions on regulatory boundary formation. Therefore, if the national governance tool design is more transparent, it will benefit individuals, stakeholder communities and even the overall positive cycle of society.\n\n",
+    "participants": [
+      "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers",
+      "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens"
+    ],
+    "participation-locations": "Taipai, Tainan",
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "AI in general"
+    ],
+    "messages": [
+      "most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re",
+      "for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product",
+      "individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "funding-organisations": [
+      "taiwan-ministry-of-digital-affairs"
+    ],
+    "inclusion-efforts": "476 netizens voted on and suggested topics for the deliberative workshops. Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. \n",
+    "project-title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures",
+    "target-group": "Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. ",
+    "why-is-this-project-important-to-include-in-the": "An example of national-level policy development",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "httpsmodagovtwenmajor-policiesalignment-assemblies2023-ideathon1459",
+      "httpspolistwreportr8x8ffn5fe7ktnwrhdkar",
+      "httpstttc2modagovtwgenailangus"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The Needs and Risks Associated with Artificial Intelligence",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "geographic-scope": [
+      "taiwan"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2023,
+    "involved-organisations": [
+      "collective-intelligence-project",
+      "taiwan-ministry-of-digital-affairs",
+      "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://moda.gov.tw/en/press/press-releases/5243",
+    "locations": [
+      "taiwan"
+    ],
+    "where-were-participants-from": [
+      "Taiwan"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+    "data": {
+      "layout": "case",
+      "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures",
+      "airtable_id": "3ef16d86eb570d8f",
+      "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+      "redirect_from": [
+        "/c/3ef16d86eb570d8f/"
+      ],
+      "lead-organisations": [
+        "taiwan-ministry-of-digital-affairs",
+        "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2023, the Taiwan Ministry of Digital Affairs, the Center for Innovative Democracy and Sustainability, and National Chengchi University commissioned a process that used deliberative polling, roundtable discussions, and scenario workshops to involve approximately 571 people in online agenda-setting and in-person deliberative workshops to address the societal impacts, needs, and risks of artificial intelligence in Taiwan with the intended outcome of informing national policy-making and regulatory frameworks.\n\n**Process**\n\nTwo rounds of citizen participation discussions, collecting extensive opinions and holding specific policy debates to address the impacts of AI on society in Taiwan. The Ideathon platform initiated the two Democratizing AI Futures Deliberative Workshop sessions and launched the Democratizing AI Futures dialogue concept.\n\n1) Development of deliberative topics - netizen deliberative polling on Pol.is to gather thoughts on generative AI combined with literature reviewing. Those ideas were condensed to six topics for the workshops to debate. \n\n2) Two deliberative workshops held with volunteers and invited experts including roundtable discussions and scenario setting. \n\n3) Final recommendations reported below are based on results of the workshops.\n\n**Recommendations and findings from the project reports:**\n\n**(I) Individual level: labor force release and empowerment**\n- Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers. On an individual level, it is essential to continuously train individuals to acquire basic operational and information recognition skills. This will enable them to cope with future work demands or life transformations. Active empowerment relies on individuals' professional capabilities within the community, as well as educational training and a variety of citizen participation opportunities. In this manner, the people's abilities can potentially improve and contribute to social needs.\n\n**(II) Stakeholder community level: industrial upgrading and transformation counseling**\n- For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation. Some industries, such as design, translation and graphics, rely on counseling to improve organizational capabilities. Most participants mentioned that law, education, imaging and other fields may be significantly impacted. Under the AI wave, the competitiveness of industries will depend on whether workers entering the labor force possess the necessary digital skills, or if there are training mechanisms at the national and community level. Participants also proposed and affirmed the importance of increased collaboration between the public and private sectors, and the use of community support to provide oversight as well as checks and balances.\n\n**(III) National level: institutionalization of regulatory policies**\n- Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law. That is, state regulation must shape the system so that those subject to regulation or related industries and the people can understand boundaries and have the right to express opinions on regulatory boundary formation. Therefore, if the national governance tool design is more transparent, it will benefit individuals, stakeholder communities and even the overall positive cycle of society.\n\n",
+      "what-limitations-to-the-project-should-be-noted": "The project reports note three main points of learning and limitations:\n\n(I) Definition of participant representativeness\nThe Ideathon platform initiated the two Democratizing AI Futures Deliberative Workshop sessions and launched the Democratizing AI Futures dialogue concept. Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. The source of participants in this event is specific target groups solicited via the voluntary and invitation systems. Not all event participants are front-line users. It is also clear that the proportion of people working in the design field is significantly higher than that of other fields, and there is a gap in their understanding, ideas and performance in technology applications. The appropriate source, number and representativeness of participant invitations depend on the purpose of the event design because one of the topics to be discussed in these two sessions is revised and used as the submission method for the next Ideathon. The composition of the participants in this event is connected and aligned with the purpose of the discussion. The event's design attempts to set the agenda by focusing on the impacts of AI on society. Various professionals can provide perspectives to create a preliminary blueprint in this direction. If there are plans to hold future discussions on similar topics, it would be helpful to consider making more diverse designs that consider the participants' representativeness. This could involve discussions in separate groups, with an invitation-only system for some sessions and a voluntary participation system for others. Such an approach can assist the event organizer in achieving the event's purpose and reaching the necessary opinion sources.\n\n(II)  Agenda setting for deliberative workshops\nThe two Democratizing AI Futures Deliberative Workshop sessions started by collecting opinions from netizens. These opinions were summarized using polis.tw and supplemented with domestic and foreign news, research trends and other relevant information. The opinions were then categorized into six major themes (internal government governance applications, emerging law-supervision mechanism rule, information identification, data openness, intellectual property, education and human cognitive impacts) for on-site discussion. As the majority of participants in the Ideathon are volunteers, with some invited experts and scholars, the executive team assigns experts and scholars to groups based on discussion topics that align with professional fields. Since the voluntary contributors came from various backgrounds, they were randomly assigned to the topic groups. As a result, the opinions expressed in each group range from academic and practical to imaginative; the participants may not have a complete grasp of the assigned discussion topics. \n\n(III) Policy recommendation tracking and implementation\nEven if the discussion during a meeting is engaging and effective in participation, the implementation of actual policy agendas and the impact of meeting conclusions on policies must still be executed by a civil service system with the appropriate powers and responsibilities. Common sense suggests that it is difficult for participants to continue tracking the subsequent policy implementation effects after similar discussion activities. \n",
+      "project-status": "Complete",
+      "headline-findings": "- **(I) Individual level: labor force release and empowerment**\n- Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers. On an individual level, it is essential to continuously train individuals to acquire basic operational and information recognition skills. This will enable them to cope with future work demands or life transformations. Active empowerment relies on individuals' professional capabilities within the community, as well as educational training and a variety of citizen participation opportunities. In this manner, the people's abilities can potentially improve and contribute to social needs.\n- **(II) Stakeholder community level: industrial upgrading and transformation counseling**\n- For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation. Some industries, such as design, translation and graphics, rely on counseling to improve organizational capabilities. Most participants mentioned that law, education, imaging and other fields may be significantly impacted. Under the AI wave, the competitiveness of industries will depend on whether workers entering the labor force possess the necessary digital skills, or if there are training mechanisms at the national and community level. Participants also proposed and affirmed the importance of increased collaboration between the public and private sectors, and the use of community support to provide oversight as well as checks and balances.\n- **(III) National level: institutionalization of regulatory policies**\n- Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law. That is, state regulation must shape the system so that those subject to regulation or related industries and the people can understand boundaries and have the right to express opinions on regulatory boundary formation. Therefore, if the national governance tool design is more transparent, it will benefit individuals, stakeholder communities and even the overall positive cycle of society.\n\n",
+      "participants": [
+        "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers",
+        "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens"
+      ],
+      "participation-locations": "Taipai, Tainan",
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "AI in general"
+      ],
+      "messages": [
+        "most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re",
+        "for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product",
+        "individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "funding-organisations": [
+        "taiwan-ministry-of-digital-affairs"
+      ],
+      "inclusion-efforts": "476 netizens voted on and suggested topics for the deliberative workshops. Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. \n",
+      "project-title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures",
+      "target-group": "Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. ",
+      "why-is-this-project-important-to-include-in-the": "An example of national-level policy development",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "httpsmodagovtwenmajor-policiesalignment-assemblies2023-ideathon1459",
+        "httpspolistwreportr8x8ffn5fe7ktnwrhdkar",
+        "httpstttc2modagovtwgenailangus"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The Needs and Risks Associated with Artificial Intelligence",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "geographic-scope": [
+        "taiwan"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2023,
+      "involved-organisations": [
+        "collective-intelligence-project",
+        "taiwan-ministry-of-digital-affairs",
+        "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://moda.gov.tw/en/press/press-releases/5243",
+      "locations": [
+        "taiwan"
+      ],
+      "where-were-participants-from": [
+        "Taiwan"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens",
+        "data": {
+          "layout": "generic",
+          "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Netizens",
+          "airtable_id": "5ef253db8bb092ab",
+          "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens",
+          "locations": [
+            "taiwan"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Taiwan",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey",
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.5,
+          "name": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Netizens",
+          "group-description": "Netizens",
+          "how-many-people-took-part": 476,
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "recruitment-description": "These are the people who participated in the conversation by voting and writing statements. Based on how they voted, each participant is sorted into an opinion group.",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers",
+        "data": {
+          "layout": "generic",
+          "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Experts and Volunteers",
+          "airtable_id": "44537af3e5a5439a",
+          "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers",
+          "locations": [
+            "taiwan"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Taiwan",
+          "which-of-the-following-methods-were-used-to": [
+            "Forum Theatre",
+            "Deliberation",
+            "Scenario Workshop",
+            "Roundtable Discussion"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Experts and Volunteers",
+          "group-description": "Experts and Volunteers",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 95,
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "recruitment-description": "Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. ",
+          "was-there-a-specific-target-population": "Experts",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "collective-intelligence-project",
+        "data": {
+          "layout": "organisation",
+          "title": "Collective Intelligence Project",
+          "airtable_id": "b1ca0fe8e773cba8",
+          "slug": "collective-intelligence-project",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "name": "Collective Intelligence Project",
+          "lead-organisation-for": [
+            "collective-intelligence-project-global-dialogues"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu",
+        "data": {
+          "layout": "organisation",
+          "title": "Center for Innovative Democracy and Sustainability (CIDS), National Chengchi University (NCCU)",
+          "airtable_id": "c6b33f9ce3611092",
+          "slug": "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "name": "Center for Innovative Democracy and Sustainability (CIDS), National Chengchi University (NCCU)",
+          "lead-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "taiwan-ministry-of-digital-affairs",
+        "data": {
+          "layout": "organisation",
+          "title": "Taiwan Ministry of Digital Affairs",
+          "airtable_id": "ef5c453db9355fc3",
+          "slug": "taiwan-ministry-of-digital-affairs",
+          "role": [
+            "Lead",
+            "Funder",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+            "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+          ],
+          "name": "Taiwan Ministry of Digital Affairs",
+          "lead-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "funding-organisation-for": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat",
+        "data": {
+          "layout": "generic",
+          "title": "Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers.",
+          "airtable_id": "a62b3b77de4c2989",
+          "slug": "individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat",
+          "type": "Issue",
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "name": "Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product",
+        "data": {
+          "layout": "generic",
+          "title": "For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation.",
+          "airtable_id": "be13937d991c32a5",
+          "slug": "for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product",
+          "type": "Issue",
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "name": "For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re",
+        "data": {
+          "layout": "generic",
+          "title": "Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law.",
+          "airtable_id": "5cd1cc0db480a2de",
+          "slug": "most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re",
+          "type": "Issue",
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "name": "Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+          ],
+          "layout": "generic",
+          "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-process",
+          "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Netizens",
+        "airtable_id": "5ef253db8bb092ab",
+        "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens",
+        "locations": [
+          "taiwan"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Taiwan",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey",
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.5,
+        "name": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Netizens",
+        "group-description": "Netizens",
+        "how-many-people-took-part": 476,
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "recruitment-description": "These are the people who participated in the conversation by voting and writing statements. Based on how they voted, each participant is sorted into an opinion group.",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Experts and Volunteers",
+        "airtable_id": "44537af3e5a5439a",
+        "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers",
+        "locations": [
+          "taiwan"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Taiwan",
+        "which-of-the-following-methods-were-used-to": [
+          "Forum Theatre",
+          "Deliberation",
+          "Scenario Workshop",
+          "Roundtable Discussion"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures-Experts and Volunteers",
+        "group-description": "Experts and Volunteers",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 95,
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "recruitment-description": "Most participants in this event have contributed to Ideathon activities and volunteered to attend the workshop. The remaining participants are experts and scholars who were invited to attend. ",
+        "was-there-a-specific-target-population": "Experts",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "layout": "generic",
+        "slug": "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-process",
+        "title": "Taiwan Ministry of Digital Affairs & CIP: Democratizing AI Futures - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Collective Intelligence Project",
+        "airtable_id": "b1ca0fe8e773cba8",
+        "slug": "collective-intelligence-project",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "name": "Collective Intelligence Project",
+        "lead-organisation-for": [
+          "collective-intelligence-project-global-dialogues"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Center for Innovative Democracy and Sustainability (CIDS), National Chengchi University (NCCU)",
+        "airtable_id": "c6b33f9ce3611092",
+        "slug": "center-for-innovative-democracy-and-sustainability-cids-national-chengchi-university-nccu",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "name": "Center for Innovative Democracy and Sustainability (CIDS), National Chengchi University (NCCU)",
+        "lead-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Taiwan Ministry of Digital Affairs",
+        "airtable_id": "ef5c453db9355fc3",
+        "slug": "taiwan-ministry-of-digital-affairs",
+        "role": [
+          "Lead",
+          "Funder",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures",
+          "deliberative-polling-on-utilizing-ai-to-enhance-information-integrity"
+        ],
+        "name": "Taiwan Ministry of Digital Affairs",
+        "lead-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "funding-organisation-for": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers.",
+        "airtable_id": "a62b3b77de4c2989",
+        "slug": "individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat",
+        "type": "Issue",
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "name": "Individuals believe AI will significantly impact working conditions and rhythm, regardless of occupation, industry category or professional field. It is necessary to consider whether the dividends of labor force release are returned to workers or employers.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation.",
+        "airtable_id": "be13937d991c32a5",
+        "slug": "for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product",
+        "type": "Issue",
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "name": "For the stakeholder communities closely related to this issue, AI is believed to upgrade core products, such as the information and communication technology (ICT) industry, while promoting industrial and social transformation.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law.",
+        "airtable_id": "5cd1cc0db480a2de",
+        "slug": "most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re",
+        "type": "Issue",
+        "cases": [
+          "taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures"
+        ],
+        "name": "Most people believe regulations must be clear at the national governance level so that innovation, research and development can advance in accordance with the law.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

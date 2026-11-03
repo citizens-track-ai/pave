@@ -1,0 +1,114 @@
+{
+  "slug": "brussels-ai-citizen-jury",
+  "lang": "en",
+  "structure": "process-centric",
+  "case_data": {
+    "layout": "case",
+    "title": "Brussels AI Citizen Jury",
+    "airtable_id": "c748dc71f490bb37",
+    "slug": "brussels-ai-citizen-jury",
+    "redirect_from": [
+      "/c/c748dc71f490bb37/"
+    ],
+    "provide-a-brief-description-of-the-project": "We conducted a citizen jury with Brussels residents to deliberate on the use of an AI system for electricity distribution during brownouts. The jury process combined guidance ethics, speculative fiction, and generative AI tools to scaffold inclusive deliberation. Using affordance theory, we analyze how the citizen jury method structurally mediates certain forms of participation and ethical reasoning. We evaluate its normative value through the lenses of epistemic justice and effective performativity. Our findings show that citizen juries can foster testimonial inclusion and support hermeneutical sense-making, offering a partial corrective to abstract, generic AI ethics. However, we also identify critical constraints: problem-posing was narrowed, alternative epistemologies discouraged, and the outputs risked reproducing the generic performativity forms of vertical ethics. In repurposing the citizen jury as an empirical ethics method, we asked not only what citizens concluded, but how the method itself shaped what was possible to deliberate, know, imagine and decide.\n",
+    "participation-locations": "Brussels",
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)",
+      "Current issues",
+      "Future issues"
+    ],
+    "theme": [
+      "Infrastructure"
+    ],
+    "project-title": "Brussels AI Citizen Jury",
+    "project-goals": [
+      "Policy: Inform a policy-making process"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "We conducted a citizen jury with Brussels residents to deliberate on the use of an AI system for electricity distribution during brownouts.",
+    "level-of-engagement": "National",
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.cambridge.org/core/journals/cambridge-forum-on-ai-culture-and-society/article/deliberating-the-algorithmic-future-reconfiguring-ai-ethics-through-citizen-juries/5855951D7BBAA402825B1292CD8F1745"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "brussels-ai-citizen-jury",
+    "data": {
+      "layout": "case",
+      "title": "Brussels AI Citizen Jury",
+      "airtable_id": "c748dc71f490bb37",
+      "slug": "brussels-ai-citizen-jury",
+      "redirect_from": [
+        "/c/c748dc71f490bb37/"
+      ],
+      "provide-a-brief-description-of-the-project": "We conducted a citizen jury with Brussels residents to deliberate on the use of an AI system for electricity distribution during brownouts. The jury process combined guidance ethics, speculative fiction, and generative AI tools to scaffold inclusive deliberation. Using affordance theory, we analyze how the citizen jury method structurally mediates certain forms of participation and ethical reasoning. We evaluate its normative value through the lenses of epistemic justice and effective performativity. Our findings show that citizen juries can foster testimonial inclusion and support hermeneutical sense-making, offering a partial corrective to abstract, generic AI ethics. However, we also identify critical constraints: problem-posing was narrowed, alternative epistemologies discouraged, and the outputs risked reproducing the generic performativity forms of vertical ethics. In repurposing the citizen jury as an empirical ethics method, we asked not only what citizens concluded, but how the method itself shaped what was possible to deliberate, know, imagine and decide.\n",
+      "participation-locations": "Brussels",
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)",
+        "Current issues",
+        "Future issues"
+      ],
+      "theme": [
+        "Infrastructure"
+      ],
+      "project-title": "Brussels AI Citizen Jury",
+      "project-goals": [
+        "Policy: Inform a policy-making process"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "We conducted a citizen jury with Brussels residents to deliberate on the use of an AI system for electricity distribution during brownouts.",
+      "level-of-engagement": "National",
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.cambridge.org/core/journals/cambridge-forum-on-ai-culture-and-society/article/deliberating-the-algorithmic-future-reconfiguring-ai-ethics-through-citizen-juries/5855951D7BBAA402825B1292CD8F1745"
+    },
+    "children": [
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "brussels-ai-citizen-jury"
+          ],
+          "layout": "generic",
+          "slug": "brussels-ai-citizen-jury-process",
+          "title": "Brussels AI Citizen Jury - Process",
+          "theme": [
+            "Infrastructure"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)",
+            "Current issues",
+            "Future issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [],
+    "processes": [
+      {
+        "cases": [
+          "brussels-ai-citizen-jury"
+        ],
+        "layout": "generic",
+        "slug": "brussels-ai-citizen-jury-process",
+        "title": "Brussels AI Citizen Jury - Process",
+        "theme": [
+          "Infrastructure"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)",
+          "Current issues",
+          "Future issues"
+        ]
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

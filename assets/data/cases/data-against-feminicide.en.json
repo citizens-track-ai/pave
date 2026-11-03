@@ -1,0 +1,1045 @@
+{
+  "slug": "data-against-feminicide",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Data Against Feminicide",
+    "airtable_id": "cb837176a4219108",
+    "slug": "data-against-feminicide",
+    "redirect_from": [
+      "/c/cb837176a4219108/"
+    ],
+    "lead-organisations": [
+      "data-against-feminicide",
+      "data-feminism-lab-massachusetts-institute-of-technology",
+      "feminicidio-uruguay",
+      "queen-mary-university-of-london-1",
+      "iniciativa-latinoamericana-por-los-datos-abiertos-ilda"
+    ],
+    "provide-a-brief-description-of-the-project": "Data Against Feminicide (DCF) is a South-North participatory action research and design project that supports the work of activists and civil society organizations that produce data on gender-based violence and its most lethal expression: feminicide, broadly understood as the gender-related killing of cisgender and transgender women and girls.\n\nFeminicide is a structural problem worldwide, but official statistics consistently underestimate its scale due to issues such as underreporting and misclassification. In contrast, many civil society groups produce their own data to hold public institutions accountable, support collective action, and remember lives lost. As our research has shown, these groups often rely on news media to identify and monitor cases over time, work that is both labor-intensive and emotionally taxing.\n\nOver the past seven years, our team has used participatory methods to work alongside 13 groups across North and South America and Sub-Saharan Africa to co-design two digital tools to support this monitoring. The first tool is a browser extension (the Data Against Feminicide Highlighter) that helps activists extract and record information from news articles more efficiently. The second is an intelligent notification system (Data Against Feminicide Email Alerts) that uses machine learning (ML) to scan news sources, identify articles that likely concern a feminicide case, and deliver them directly to activists’ inboxes. The ML model was trained through collaborative data annotation with civil society partners, grounding it in activists' own contextual knowledge. Both tools are available in English, Spanish, Portuguese, and Swahili. The Highlighter plug-in has over 220 users and more than 65 activists and organizations across 16 countries use the AI-powered Email Alerts system.\n\nThe tools aim to reduce the burden of manual data collection without replacing activist knowledge and judgment. Verification, interpretation, and decision-making remain in activists’ hands — as does ownership of the data, which stays with the organizations that produce it. \nDCF is currently collaborating with the DISCO Lab at Brown University and with a number of activists and journalists – mainly from Latin America – on a new co-design project exploring the potential of AI tools to support more responsible news reporting on feminicide. \n",
+    "what-limitations-to-the-project-should-be-noted": "News media coverage of feminicide is uneven and reflects existing biases. Outlets tend to report less frequently on Black women, Indigenous women, women in rural areas. LGBTQ+ people and transgender women and girls are also often misgendered in news reports. These gaps carry through into training data and may be reproduced in model outputs. During participatory evaluation processes, partner organizations whose work focused on racialized feminicide found that the tools performed significantly worse for them than for groups monitoring all types of feminicide. This made clear that a single general model was inadequate, and that detecting cases involving specific communities required separately trained models. This finding shaped our subsequent research into more finely tuned models for specific types of gender-based violence (Suresh et al. 2022, <https://dl.acm.org/doi/10.1145/3531146.3533132>).\n\nAdditionally, the project's technical infrastructure, including the servers hosting the tools and the software development team, has remained based in Global North institutions. This risks producing uneven resources and reproducing colonial dynamics. In a recent collaboration with Femicide Count Kenya, the team sought to address this by not only co-designing tools with the organization but also building the capacity of a local software developer throughout the process. This was time-consuming but ultimately resulted in a strong relationship between the organization and the developer. We hope to continue to experiment with decentralizing technical expertise and infrastructure and build further local capacity for activist communities to work with AI. \n",
+    "project-status": "In Progress",
+    "headline-findings": "\"The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do\" -- Quote from participant, Laboratório de Estudos de Feminicídios - LESFEM, Brazil. \n",
+    "participants": [
+      "data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "messages": [
+      "the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz"
+    ],
+    "theme": [
+      "Justice"
+    ],
+    "what-year-did-the-project-start": 2019,
+    "funding-organisations": [
+      "national-science-foundation-us",
+      "massachusetts-institute-of-technology",
+      "queen-mary-university-of-london-1",
+      "international-development-research-centre-idrc-canada"
+    ],
+    "additional-acknowledgements": "Project co-leads Catherine D'Ignazio, Silvana Fumega, Helena Suárez Val.",
+    "inclusion-efforts": "Recruitment varied across the different phases of tool development. For the initial English and Spanish models, we organized an open online event and invited potential participants drawing on a list of feminicide monitoring projects originally compiled by Feminicidio Uruguay (one of the project partners) and expanded through further research by the Data + Feminism Lab, as well as on academic and activist networks built by the DCF team over time. For the Portuguese and Swahili iterations, recruitment drew on relationships built through the project's own qualitative research: groups that had participated in interviews or informal conversations about their data practices were approached directly about collaborating to expand the tools into their language and context. Each iteration involved a distinct participatory process with local partners rather than a single uniform approach.\n\nAccessibility and inclusion were supported through multilingual engagement. For each process, we prepared language-specific materials adapted to local contexts. The participatory processes were also conducted in the native language of participants and facilitated by fluent team members with relevant contextual experience. Participants in the co-development process were compensated for their time and knowledge, recognizing both the value of their contributions and the practical barriers that can limit participation in research processes.\n\nThe following civil society groups participated in the process: Feminicidio Uruguay; Sovereign Bodies Institute - SBI; African American Policy Forum; Women Count USA; Black Femicide US; Observatorio Nacional MuMaLá; Mujeres de Negro Rosario; Néias - Observatório de Feminicídios Londrina; Fórum Cearense de Mulheres - FCM; Levante Feminista Contra o Feminicídio, Lesbocídio e Transfeminicídio; Lupa Feminista contra o Feminicídio - Coletivo Feminino Plural; Laboratório de Estudos de Feminicídios - LESFEM; Grupo de Trabalho sobre Feminicídio na Bahia - GT FEM; Femicide Count Kenya.\n\nThe tools themselves were designed to be low-tech on the user side. After the initial setup, the Email Alerts system delivers filtered news articles by email, and the Data Highlighter marks up words on a webpage. Activists record cases however they see fit, whether in a sophisticated database or a paper notebook. The system imposes no particular data schema, which means it can be used by a wide range of organizations and activists regardless of their technical capacity. Activists own and store their own data separately; the DCF team has no access to it. We maintain language-specific WhatsApp communities for activists using the tools, providing technical support, facilitating knowledge exchange, and sustaining a broader community of practice around feminicide data production.\n",
+    "project-title": "Data Against Feminicide",
+    "submitted-by": "Isadora Cruxên",
+    "why-is-this-project-important-to-include-in-the": "DCF offers a distinctive example of participatory and responsible AI development grounded in feminist principles and community-centered design. Several features make it important to include in the case book.\nFirst, the project engages communities that are often left out of AI governance discussions: feminist activists, grassroots organizations, and groups documenting gender-based violence across Latin America, North America, and Sub-Saharan Africa. Their expertise shaped every stage of tool development, from defining what counts as a feminicide case to annotating training data and evaluating outputs.\nSecond, the tools were built not only for communities but with them. Participatory workshops and collaborative design processes ensured the technologies reflected activists' existing workflows, political priorities, and local knowledge. This challenges the more common pattern in AI development, where tools are designed without meaningful input from the people most affected and most participation amounts to no more than consultation, as recent research on participatory AI has shown.\nThird, the project takes seriously the limits and risks of AI. Rather than automating activist work, the tools are designed to reduce repetitive and emotionally harmful labor while keeping human judgment central. The project also directly addresses questions of bias and erasure in AI systems, including how media and institutional data can misrepresent or render invisible certain victims and communities.\nFinally, DCF connects public engagement to wider questions of data governance, accountability, and power. Each language iteration of the tools has involved a distinct co-design process, attentive to the situated knowledge and working conditions of the groups involved. This makes it a useful model for thinking about how AI development can be made more accountable to the communities it is meant to serve.",
+    "photos-and-images": [
+      {
+        "id": "attXDfTZzLZI5XiMr",
+        "width": 1024,
+        "height": 576,
+        "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr.jpg",
+        "filename": "Datos-contra-feminicidio-Cosecha-grafica-Sofi-Donner-ENG-1024x576.jpg",
+        "size": 217743,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_large.jpg",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_full.jpg",
+            "width": 1024,
+            "height": 576
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Capacity: Build participant capacity to engage with AI",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "data-activism-against-feminicide",
+      "data-activism-against-feminicide-co-designing-digital-tools-to-monitor-gender-related-violence-acros",
+      "data-against-feminicide-website"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Machine Learning Classifier",
+    "how-was-the-project-initiated": [
+      "Co-created"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2030,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "media-cloud",
+      "data-in-society-lab-disco-lab-brown-university",
+      "data-culture-group-northeastern-university"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://datoscontrafeminicidio.net/en/home/",
+    "locations": [
+      "argentina",
+      "brazil",
+      "kenya",
+      "united-states",
+      "uruguay"
+    ],
+    "where-were-participants-from": [
+      "Argentina; Uruguay; Brazil; Kenya; United States"
+    ],
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "data-against-feminicide",
+    "data": {
+      "layout": "case",
+      "title": "Data Against Feminicide",
+      "airtable_id": "cb837176a4219108",
+      "slug": "data-against-feminicide",
+      "redirect_from": [
+        "/c/cb837176a4219108/"
+      ],
+      "lead-organisations": [
+        "data-against-feminicide",
+        "data-feminism-lab-massachusetts-institute-of-technology",
+        "feminicidio-uruguay",
+        "queen-mary-university-of-london-1",
+        "iniciativa-latinoamericana-por-los-datos-abiertos-ilda"
+      ],
+      "provide-a-brief-description-of-the-project": "Data Against Feminicide (DCF) is a South-North participatory action research and design project that supports the work of activists and civil society organizations that produce data on gender-based violence and its most lethal expression: feminicide, broadly understood as the gender-related killing of cisgender and transgender women and girls.\n\nFeminicide is a structural problem worldwide, but official statistics consistently underestimate its scale due to issues such as underreporting and misclassification. In contrast, many civil society groups produce their own data to hold public institutions accountable, support collective action, and remember lives lost. As our research has shown, these groups often rely on news media to identify and monitor cases over time, work that is both labor-intensive and emotionally taxing.\n\nOver the past seven years, our team has used participatory methods to work alongside 13 groups across North and South America and Sub-Saharan Africa to co-design two digital tools to support this monitoring. The first tool is a browser extension (the Data Against Feminicide Highlighter) that helps activists extract and record information from news articles more efficiently. The second is an intelligent notification system (Data Against Feminicide Email Alerts) that uses machine learning (ML) to scan news sources, identify articles that likely concern a feminicide case, and deliver them directly to activists’ inboxes. The ML model was trained through collaborative data annotation with civil society partners, grounding it in activists' own contextual knowledge. Both tools are available in English, Spanish, Portuguese, and Swahili. The Highlighter plug-in has over 220 users and more than 65 activists and organizations across 16 countries use the AI-powered Email Alerts system.\n\nThe tools aim to reduce the burden of manual data collection without replacing activist knowledge and judgment. Verification, interpretation, and decision-making remain in activists’ hands — as does ownership of the data, which stays with the organizations that produce it. \nDCF is currently collaborating with the DISCO Lab at Brown University and with a number of activists and journalists – mainly from Latin America – on a new co-design project exploring the potential of AI tools to support more responsible news reporting on feminicide. \n",
+      "what-limitations-to-the-project-should-be-noted": "News media coverage of feminicide is uneven and reflects existing biases. Outlets tend to report less frequently on Black women, Indigenous women, women in rural areas. LGBTQ+ people and transgender women and girls are also often misgendered in news reports. These gaps carry through into training data and may be reproduced in model outputs. During participatory evaluation processes, partner organizations whose work focused on racialized feminicide found that the tools performed significantly worse for them than for groups monitoring all types of feminicide. This made clear that a single general model was inadequate, and that detecting cases involving specific communities required separately trained models. This finding shaped our subsequent research into more finely tuned models for specific types of gender-based violence (Suresh et al. 2022, <https://dl.acm.org/doi/10.1145/3531146.3533132>).\n\nAdditionally, the project's technical infrastructure, including the servers hosting the tools and the software development team, has remained based in Global North institutions. This risks producing uneven resources and reproducing colonial dynamics. In a recent collaboration with Femicide Count Kenya, the team sought to address this by not only co-designing tools with the organization but also building the capacity of a local software developer throughout the process. This was time-consuming but ultimately resulted in a strong relationship between the organization and the developer. We hope to continue to experiment with decentralizing technical expertise and infrastructure and build further local capacity for activist communities to work with AI. \n",
+      "project-status": "In Progress",
+      "headline-findings": "\"The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do\" -- Quote from participant, Laboratório de Estudos de Feminicídios - LESFEM, Brazil. \n",
+      "participants": [
+        "data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "messages": [
+        "the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz"
+      ],
+      "theme": [
+        "Justice"
+      ],
+      "what-year-did-the-project-start": 2019,
+      "funding-organisations": [
+        "national-science-foundation-us",
+        "massachusetts-institute-of-technology",
+        "queen-mary-university-of-london-1",
+        "international-development-research-centre-idrc-canada"
+      ],
+      "additional-acknowledgements": "Project co-leads Catherine D'Ignazio, Silvana Fumega, Helena Suárez Val.",
+      "inclusion-efforts": "Recruitment varied across the different phases of tool development. For the initial English and Spanish models, we organized an open online event and invited potential participants drawing on a list of feminicide monitoring projects originally compiled by Feminicidio Uruguay (one of the project partners) and expanded through further research by the Data + Feminism Lab, as well as on academic and activist networks built by the DCF team over time. For the Portuguese and Swahili iterations, recruitment drew on relationships built through the project's own qualitative research: groups that had participated in interviews or informal conversations about their data practices were approached directly about collaborating to expand the tools into their language and context. Each iteration involved a distinct participatory process with local partners rather than a single uniform approach.\n\nAccessibility and inclusion were supported through multilingual engagement. For each process, we prepared language-specific materials adapted to local contexts. The participatory processes were also conducted in the native language of participants and facilitated by fluent team members with relevant contextual experience. Participants in the co-development process were compensated for their time and knowledge, recognizing both the value of their contributions and the practical barriers that can limit participation in research processes.\n\nThe following civil society groups participated in the process: Feminicidio Uruguay; Sovereign Bodies Institute - SBI; African American Policy Forum; Women Count USA; Black Femicide US; Observatorio Nacional MuMaLá; Mujeres de Negro Rosario; Néias - Observatório de Feminicídios Londrina; Fórum Cearense de Mulheres - FCM; Levante Feminista Contra o Feminicídio, Lesbocídio e Transfeminicídio; Lupa Feminista contra o Feminicídio - Coletivo Feminino Plural; Laboratório de Estudos de Feminicídios - LESFEM; Grupo de Trabalho sobre Feminicídio na Bahia - GT FEM; Femicide Count Kenya.\n\nThe tools themselves were designed to be low-tech on the user side. After the initial setup, the Email Alerts system delivers filtered news articles by email, and the Data Highlighter marks up words on a webpage. Activists record cases however they see fit, whether in a sophisticated database or a paper notebook. The system imposes no particular data schema, which means it can be used by a wide range of organizations and activists regardless of their technical capacity. Activists own and store their own data separately; the DCF team has no access to it. We maintain language-specific WhatsApp communities for activists using the tools, providing technical support, facilitating knowledge exchange, and sustaining a broader community of practice around feminicide data production.\n",
+      "project-title": "Data Against Feminicide",
+      "submitted-by": "Isadora Cruxên",
+      "why-is-this-project-important-to-include-in-the": "DCF offers a distinctive example of participatory and responsible AI development grounded in feminist principles and community-centered design. Several features make it important to include in the case book.\nFirst, the project engages communities that are often left out of AI governance discussions: feminist activists, grassroots organizations, and groups documenting gender-based violence across Latin America, North America, and Sub-Saharan Africa. Their expertise shaped every stage of tool development, from defining what counts as a feminicide case to annotating training data and evaluating outputs.\nSecond, the tools were built not only for communities but with them. Participatory workshops and collaborative design processes ensured the technologies reflected activists' existing workflows, political priorities, and local knowledge. This challenges the more common pattern in AI development, where tools are designed without meaningful input from the people most affected and most participation amounts to no more than consultation, as recent research on participatory AI has shown.\nThird, the project takes seriously the limits and risks of AI. Rather than automating activist work, the tools are designed to reduce repetitive and emotionally harmful labor while keeping human judgment central. The project also directly addresses questions of bias and erasure in AI systems, including how media and institutional data can misrepresent or render invisible certain victims and communities.\nFinally, DCF connects public engagement to wider questions of data governance, accountability, and power. Each language iteration of the tools has involved a distinct co-design process, attentive to the situated knowledge and working conditions of the groups involved. This makes it a useful model for thinking about how AI development can be made more accountable to the communities it is meant to serve.",
+      "photos-and-images": [
+        {
+          "id": "attXDfTZzLZI5XiMr",
+          "width": 1024,
+          "height": 576,
+          "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr.jpg",
+          "filename": "Datos-contra-feminicidio-Cosecha-grafica-Sofi-Donner-ENG-1024x576.jpg",
+          "size": 217743,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_large.jpg",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/cb837176a4219108_fldd4B6cpBOP3n3is_attXDfTZzLZI5XiMr_full.jpg",
+              "width": 1024,
+              "height": 576
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Capacity: Build participant capacity to engage with AI",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "data-activism-against-feminicide",
+        "data-activism-against-feminicide-co-designing-digital-tools-to-monitor-gender-related-violence-acros",
+        "data-against-feminicide-website"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Machine Learning Classifier",
+      "how-was-the-project-initiated": [
+        "Co-created"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2030,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "media-cloud",
+        "data-in-society-lab-disco-lab-brown-university",
+        "data-culture-group-northeastern-university"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://datoscontrafeminicidio.net/en/home/",
+      "locations": [
+        "argentina",
+        "brazil",
+        "kenya",
+        "united-states",
+        "uruguay"
+      ],
+      "where-were-participants-from": [
+        "Argentina; Uruguay; Brazil; Kenya; United States"
+      ],
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation",
+        "data": {
+          "layout": "generic",
+          "title": "Data Against Feminicide-Participatory AI co-design, data annotation and evaluation",
+          "airtable_id": "4d52976d42cb782a",
+          "slug": "data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation",
+          "locations": [
+            "argentina",
+            "uruguay",
+            "brazil",
+            "kenya",
+            "united-states"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Argentina; Uruguay; Brazil; Kenya; United States",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops",
+            "Deliberation",
+            "Focus Group",
+            "Prototyping"
+          ],
+          "on-average-how-many-hours-did-each-participant": 30,
+          "name": "Data Against Feminicide-Participatory AI co-design, data annotation and evaluation",
+          "group-description": "Participatory AI co-design, data annotation and evaluation",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "additional-notes": "There 20 were 20 participants from 13 civil society groups across 4 different participatory AI processes involving technology co-design, collaborative data annotation for model training, and participatory evaluation.",
+          "how-many-people-took-part": 20,
+          "cases": [
+            "data-against-feminicide"
+          ],
+          "recruitment-description": "Recruitment varied across the different phases of tool development. For the initial English and Spanish models, we organized an open online event and invited potential participants drawing on a list of feminicide monitoring projects originally compiled by Feminicidio Uruguay (one of the project partners) and expanded through further research by the Data + Feminism Lab, as well as on academic and activist networks built by the DCF team over time. For the Portuguese and Swahili iterations, recruitment drew on relationships built through the project's own qualitative research: groups that had participated in interviews or informal conversations about their data practices were approached directly about collaborating to expand the tools into their language and context. Each iteration involved a distinct participatory process with local partners rather than a single uniform approach.",
+          "was-there-a-specific-target-population": "Civil society groups and activists producing data on feminicide",
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "data-against-feminicide",
+        "data": {
+          "layout": "organisation",
+          "title": "Data Against Feminicide",
+          "airtable_id": "bfc6af69253f5c98",
+          "slug": "data-against-feminicide",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://dataagainstfeminicide.io/",
+          "name": "Data Against Feminicide",
+          "lead-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "global"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "iniciativa-latinoamericana-por-los-datos-abiertos-ilda",
+        "data": {
+          "layout": "organisation",
+          "title": "Iniciativa Latinoamericana por los Datos Abiertos (ILDA)",
+          "airtable_id": "c33fe1e9e3b5dd99",
+          "slug": "iniciativa-latinoamericana-por-los-datos-abiertos-ilda",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://idatosabiertos.org/",
+          "name": "Iniciativa Latinoamericana por los Datos Abiertos (ILDA)",
+          "lead-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "uruguay"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "data-feminism-lab-massachusetts-institute-of-technology",
+        "data": {
+          "layout": "organisation",
+          "title": "Data + Feminism Lab, Massachusetts Institute of Technology",
+          "airtable_id": "0e60df6a8850da68",
+          "slug": "data-feminism-lab-massachusetts-institute-of-technology",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://dataplusfeminism.mit.edu/",
+          "name": "Data + Feminism Lab, Massachusetts Institute of Technology",
+          "lead-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "queen-mary-university-of-london-1",
+        "data": {
+          "layout": "organisation",
+          "title": "Queen Mary University of London",
+          "airtable_id": "7caf6fe7c0fb8af8",
+          "slug": "queen-mary-university-of-london-1",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.qmul.ac.uk/",
+          "name": "Queen Mary University of London",
+          "lead-organisation-for": [
+            "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "international-development-research-centre-idrc-canada",
+        "data": {
+          "layout": "organisation",
+          "title": "International Development Research Centre (IDRC, Canada)",
+          "airtable_id": "56206d9e0be9fc4e",
+          "slug": "international-development-research-centre-idrc-canada",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Public sector"
+          ],
+          "website-address": "https://idrc-crdi.ca/",
+          "name": "International Development Research Centre (IDRC, Canada)",
+          "main-location": [
+            "canada"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide",
+            "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-science-foundation-us",
+        "data": {
+          "layout": "organisation",
+          "title": "National Science Foundation (US)",
+          "airtable_id": "4fbfc591ddaace08",
+          "slug": "national-science-foundation-us",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder",
+            "Public sector"
+          ],
+          "website-address": "https://www.nsf.gov/",
+          "name": "National Science Foundation (US)",
+          "main-location": [
+            "united-states"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "massachusetts-institute-of-technology",
+        "data": {
+          "layout": "organisation",
+          "title": "Massachusetts Institute of Technology",
+          "airtable_id": "e0dd825517cca8c1",
+          "slug": "massachusetts-institute-of-technology",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.mit.edu/",
+          "name": "Massachusetts Institute of Technology",
+          "main-location": [
+            "united-states"
+          ],
+          "funding-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "data-in-society-lab-disco-lab-brown-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Data in Society Lab (DISCO Lab), Brown University",
+          "airtable_id": "a7afca36fbe0b4bb",
+          "slug": "data-in-society-lab-disco-lab-brown-university",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://discolab.cs.brown.edu/",
+          "name": "Data in Society Lab (DISCO Lab), Brown University",
+          "mission-statement": "The Data in Society Lab (DISCO Lab) at Brown University focuses on the social, cultural, and political dimensions of data, AI, and digital infrastructures, aiming to foster critical dialogue and public scholarship.\n\n(Source: https://discolab.cs.brown.edu/)",
+          "main-location": [
+            "providence-rhode-island-usa"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "media-cloud",
+        "data": {
+          "layout": "organisation",
+          "title": "Media Cloud",
+          "airtable_id": "c9c9e666507bce39",
+          "slug": "media-cloud",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "organisation-type": [
+            "Research",
+            "Non-profit"
+          ],
+          "website-address": "https://www.mediacloud.org/",
+          "name": "Media Cloud",
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "feminicidio-uruguay",
+        "data": {
+          "layout": "organisation",
+          "title": "Feminicidio Uruguay",
+          "airtable_id": "ea4ee1662b1e4f88",
+          "slug": "feminicidio-uruguay",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://feminicidiouruguay.net/",
+          "name": "Feminicidio Uruguay",
+          "lead-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "main-location": [
+            "uruguay"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "data-culture-group-northeastern-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Data Culture Group, Northeastern University",
+          "airtable_id": "527878ec80d45b22",
+          "slug": "data-culture-group-northeastern-university",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "data-against-feminicide"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://dataculturegroup.org/",
+          "name": "Data Culture Group, Northeastern University",
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz",
+        "data": {
+          "layout": "generic",
+          "title": "The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do.",
+          "airtable_id": "6578753f50dd3564",
+          "slug": "the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz",
+          "type": "Quote",
+          "cases": [
+            "data-against-feminicide"
+          ],
+          "additional-credit-line": "Participant, Laboratório de Estudos de Feminicídios - LESFEM, Brazil.",
+          "name": "The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do.",
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "data-against-feminicide"
+          ],
+          "layout": "generic",
+          "slug": "data-against-feminicide-process",
+          "title": "Data Against Feminicide - Process",
+          "theme": [
+            "Justice"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Data Against Feminicide-Participatory AI co-design, data annotation and evaluation",
+        "airtable_id": "4d52976d42cb782a",
+        "slug": "data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation",
+        "locations": [
+          "argentina",
+          "uruguay",
+          "brazil",
+          "kenya",
+          "united-states"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Argentina; Uruguay; Brazil; Kenya; United States",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops",
+          "Deliberation",
+          "Focus Group",
+          "Prototyping"
+        ],
+        "on-average-how-many-hours-did-each-participant": 30,
+        "name": "Data Against Feminicide-Participatory AI co-design, data annotation and evaluation",
+        "group-description": "Participatory AI co-design, data annotation and evaluation",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "additional-notes": "There 20 were 20 participants from 13 civil society groups across 4 different participatory AI processes involving technology co-design, collaborative data annotation for model training, and participatory evaluation.",
+        "how-many-people-took-part": 20,
+        "cases": [
+          "data-against-feminicide"
+        ],
+        "recruitment-description": "Recruitment varied across the different phases of tool development. For the initial English and Spanish models, we organized an open online event and invited potential participants drawing on a list of feminicide monitoring projects originally compiled by Feminicidio Uruguay (one of the project partners) and expanded through further research by the Data + Feminism Lab, as well as on academic and activist networks built by the DCF team over time. For the Portuguese and Swahili iterations, recruitment drew on relationships built through the project's own qualitative research: groups that had participated in interviews or informal conversations about their data practices were approached directly about collaborating to expand the tools into their language and context. Each iteration involved a distinct participatory process with local partners rather than a single uniform approach.",
+        "was-there-a-specific-target-population": "Civil society groups and activists producing data on feminicide",
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "data-against-feminicide"
+        ],
+        "layout": "generic",
+        "slug": "data-against-feminicide-process",
+        "title": "Data Against Feminicide - Process",
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Data Against Feminicide",
+        "airtable_id": "bfc6af69253f5c98",
+        "slug": "data-against-feminicide",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://dataagainstfeminicide.io/",
+        "name": "Data Against Feminicide",
+        "lead-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "global"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Iniciativa Latinoamericana por los Datos Abiertos (ILDA)",
+        "airtable_id": "c33fe1e9e3b5dd99",
+        "slug": "iniciativa-latinoamericana-por-los-datos-abiertos-ilda",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://idatosabiertos.org/",
+        "name": "Iniciativa Latinoamericana por los Datos Abiertos (ILDA)",
+        "lead-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "uruguay"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Data + Feminism Lab, Massachusetts Institute of Technology",
+        "airtable_id": "0e60df6a8850da68",
+        "slug": "data-feminism-lab-massachusetts-institute-of-technology",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://dataplusfeminism.mit.edu/",
+        "name": "Data + Feminism Lab, Massachusetts Institute of Technology",
+        "lead-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Queen Mary University of London",
+        "airtable_id": "7caf6fe7c0fb8af8",
+        "slug": "queen-mary-university-of-london-1",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.qmul.ac.uk/",
+        "name": "Queen Mary University of London",
+        "lead-organisation-for": [
+          "co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear",
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "International Development Research Centre (IDRC, Canada)",
+        "airtable_id": "56206d9e0be9fc4e",
+        "slug": "international-development-research-centre-idrc-canada",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Public sector"
+        ],
+        "website-address": "https://idrc-crdi.ca/",
+        "name": "International Development Research Centre (IDRC, Canada)",
+        "main-location": [
+          "canada"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide",
+          "ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Science Foundation (US)",
+        "airtable_id": "4fbfc591ddaace08",
+        "slug": "national-science-foundation-us",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder",
+          "Public sector"
+        ],
+        "website-address": "https://www.nsf.gov/",
+        "name": "National Science Foundation (US)",
+        "main-location": [
+          "united-states"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Massachusetts Institute of Technology",
+        "airtable_id": "e0dd825517cca8c1",
+        "slug": "massachusetts-institute-of-technology",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.mit.edu/",
+        "name": "Massachusetts Institute of Technology",
+        "main-location": [
+          "united-states"
+        ],
+        "funding-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Data in Society Lab (DISCO Lab), Brown University",
+        "airtable_id": "a7afca36fbe0b4bb",
+        "slug": "data-in-society-lab-disco-lab-brown-university",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://discolab.cs.brown.edu/",
+        "name": "Data in Society Lab (DISCO Lab), Brown University",
+        "mission-statement": "The Data in Society Lab (DISCO Lab) at Brown University focuses on the social, cultural, and political dimensions of data, AI, and digital infrastructures, aiming to foster critical dialogue and public scholarship.\n\n(Source: https://discolab.cs.brown.edu/)",
+        "main-location": [
+          "providence-rhode-island-usa"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Media Cloud",
+        "airtable_id": "c9c9e666507bce39",
+        "slug": "media-cloud",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "organisation-type": [
+          "Research",
+          "Non-profit"
+        ],
+        "website-address": "https://www.mediacloud.org/",
+        "name": "Media Cloud",
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Feminicidio Uruguay",
+        "airtable_id": "ea4ee1662b1e4f88",
+        "slug": "feminicidio-uruguay",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://feminicidiouruguay.net/",
+        "name": "Feminicidio Uruguay",
+        "lead-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "main-location": [
+          "uruguay"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Data Culture Group, Northeastern University",
+        "airtable_id": "527878ec80d45b22",
+        "slug": "data-culture-group-northeastern-university",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "data-against-feminicide"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://dataculturegroup.org/",
+        "name": "Data Culture Group, Northeastern University",
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do.",
+        "airtable_id": "6578753f50dd3564",
+        "slug": "the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz",
+        "type": "Quote",
+        "cases": [
+          "data-against-feminicide"
+        ],
+        "additional-credit-line": "Participant, Laboratório de Estudos de Feminicídios - LESFEM, Brazil.",
+        "name": "The sharing of experiences and the digital tools that were developed have helped to expand the horizon for our monitoring and political advocacy, as well as to optimise the time we invest in deepening and consolidating the work we do.",
+        "theme": [
+          "Justice"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ]
+  }
+}

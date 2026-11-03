@@ -1,0 +1,586 @@
+{
+  "slug": "ai-for-diabetes-prediction-prevention-ai4dpp",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "AI for Diabetes Prediction & Prevention (AI4DPP)",
+    "airtable_id": "d08b285d352373bf",
+    "slug": "ai-for-diabetes-prediction-prevention-ai4dpp",
+    "redirect_from": [
+      "/c/d08b285d352373bf/"
+    ],
+    "lead-organisations": [
+      "institute-for-better-health-trillium-health-partners"
+    ],
+    "provide-a-brief-description-of-the-project": "This AI Solution Network focuses on the socially responsible deployment of a set of already-validated machine learning-based risk prediction algorithms, working with community-level health system decision-makers in the region of Peel, Ontario, Canada.\n",
+    "what-limitations-to-the-project-should-be-noted": "From the Academic paper:\nAlthough the starting point of our study was a rapid literature\nscan, which could have resulted in missing some relevant\npapers, the use of a participatory approach involving diverse\nactors including people with lived and living experience\nhelped strengthen our findings. An additional strength of\nour approach is that stakeholders have now been involved\nearly—during the pre-implementation phase of the project,\nwhich sets the stage for their contributions in other phases.\nThird, using a modified NGT encouraged participation and\nopenness, elevating the perspectives of community members.\nAdditionally, although power dynamics are often a concern\nin mixed-stakeholder engagement, we did not observe this.\nThis may be due to the experience of participants with lived\nand living experience in patient engagement and our teams’\nefforts to foster an inclusive setting before and during the\nworkshop.\nOur process has some limitations worth mentioning. While\nprevious studies have established the significant burden of\nT2D in Canada [11] and Peel [24], patients and community partners were not involved in problem identification (ie,\ndefine the stage of the AI life cycle) and machine learning\nmodel development (ie, design and test stage of the AI life\ncycle) of the AI4DPP project. As such, community engagement was not fully embedded as conceptualized in Figure 1.\nAlso, workshop participants represent only a small subset of\nthe broader community—only 6 of the 30 workshop attendees\nwere people with lived and living experience. While this\nlimits the representativeness of perspectives reflected in this\nformative study, the workshop was intended as an initial step\nin a continual process of community engagement. Finally,\nusing a predefined conceptual framework (Figure 1) to guide\nworkshop discussions may have constrained the emergence\nof fresh ideas. Despite these limitations, our community\nengagement approach is a valuable contribution to the field\nsince most existing community engagement frameworks in AI\nfor health focus solely on the design phase of the AI life cycle\n[9].\n",
+    "project-status": "In Progress",
+    "headline-findings": "Trust: \n• Engage credible and trusted members of the community such as community leaders \n• Repeated engagement with clear, honest, and consistent 2-way communication \n• Demonstrated commitment to collaboration by the community and health system actors \n\nEquity: \n• Inclusiveness, diversity of community participants, and cultural responsiveness in engagement approaches \n• Engagement should be responsive to the cultural and structural factors that could prevent community members from engaging in prevention practices \n• Using multiple ways to engage community members in the co-design process and in the project’s governance \n\nAccountability: \n• Regular communication and feedback through community tables, gatherings, and reports \n• Community coleadership in decision-making, with clear roles and responsibilities outlined \n• Ability to course-correct informed by regular monitoring of the artificial intelligence (AI) tools \n\nTransparency: \n• Honest communication, declaring relevant conflicts of interest of different stakeholders, and clarity on the limitations of the AI tools \n• Democratized and openly accessible platforms (eg, websites) for knowledge sharing and project updates \n\nCodesign: \n• Codesign should include diverse participants and be accessible for participation \n• Continuous and iterative feedback on designing and deploying the AI tool \n\nValue alignment: \n• AI developers and implementers should understand the community’s values and priorities through meaningful dialog \n• Cultural and diverse perspectives should be respected while aligning the goals of the AI tool to the community’s values\n",
+    "participants": [
+      "ai-for-diabetes-prediction-prevention-ai4dpp-people-with-t2d"
+    ],
+    "participation-locations": "Canada",
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "inclusion-efforts": "Identification of participants used both convenient and purposive recruitment methods. Due to the capacity limits of the venue, we planned for approximately 40 attendees. First, we extended invitations to individuals who had attended the inaugural AI4DPP Solution Network meeting in November 2023. Because people with lived and living experience of T2D and community representation had been limited at that\nevent, we purposefully reached out to community organizations in Peel who provide T2D prevention and management services, leveraged our existing relationships with Peel Public Health and connections from prior community-based research projects.\n\nTo recruit people with lived and living experience, we used a previously successful approach wherein we collaborated with the Patient and Family Partners (PFP) unit of a large hospital system in Peel. Through the PFP coordinator, the project overview and meeting details were shared with PFP members with an invitation to the workshop. We conducted 3 virtual briefing sessions to accommodate varying schedules for 6 individuals who expressed interest. Briefing sessions covered meeting agenda, logistics (eg, accessibility, dietary needs, parking), honoraria, and transportation reimbursement.\n",
+    "project-title": "AI for Diabetes Prediction & Prevention (AI4DPP)",
+    "submitted-by": "Remziye Zaim ",
+    "why-is-this-project-important-to-include-in-the": "Engaging a community often not heard in AI governance\n\nBecause of systems-level barriers such as socioeconomic disparities, poor access to care, high medication costs, lack of access to healthy and affordable foods, and the built environment, it has been difficult to scale effective diabetes prevention and management programs from the individual patient to entire populations. Populations at the intersection of these barriers are less likely to meet disease control targets across the continuum of diagnosis, engagement, and treatment, which leads to what has been termed a “cascade of care.”",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "supporting-resources": [
+      "published-peer-reviewed-scientific-paper"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "AI tools for Diabetes",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "geographic-scope": [
+      "canada"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "dalla-lana-school-of-public-health-university-of-toronto",
+      "research-and-innovation-institute-womens-college-hospital",
+      "faculty-of-information-university-of-toronto",
+      "department-of-computer-science-university-of-toronto",
+      "temerty-faculty-of-medicine-university-of-toronto",
+      "institute-for-clinical-evaluative-sciences"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://cifar.ca/ai/cifar-solution-networks/ai-for-diabetes-prediction-and-prevention/",
+    "locations": [
+      "canada"
+    ],
+    "where-were-participants-from": [
+      "Canada (Ontario)"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "ai-for-diabetes-prediction-prevention-ai4dpp",
+    "data": {
+      "layout": "case",
+      "title": "AI for Diabetes Prediction & Prevention (AI4DPP)",
+      "airtable_id": "d08b285d352373bf",
+      "slug": "ai-for-diabetes-prediction-prevention-ai4dpp",
+      "redirect_from": [
+        "/c/d08b285d352373bf/"
+      ],
+      "lead-organisations": [
+        "institute-for-better-health-trillium-health-partners"
+      ],
+      "provide-a-brief-description-of-the-project": "This AI Solution Network focuses on the socially responsible deployment of a set of already-validated machine learning-based risk prediction algorithms, working with community-level health system decision-makers in the region of Peel, Ontario, Canada.\n",
+      "what-limitations-to-the-project-should-be-noted": "From the Academic paper:\nAlthough the starting point of our study was a rapid literature\nscan, which could have resulted in missing some relevant\npapers, the use of a participatory approach involving diverse\nactors including people with lived and living experience\nhelped strengthen our findings. An additional strength of\nour approach is that stakeholders have now been involved\nearly—during the pre-implementation phase of the project,\nwhich sets the stage for their contributions in other phases.\nThird, using a modified NGT encouraged participation and\nopenness, elevating the perspectives of community members.\nAdditionally, although power dynamics are often a concern\nin mixed-stakeholder engagement, we did not observe this.\nThis may be due to the experience of participants with lived\nand living experience in patient engagement and our teams’\nefforts to foster an inclusive setting before and during the\nworkshop.\nOur process has some limitations worth mentioning. While\nprevious studies have established the significant burden of\nT2D in Canada [11] and Peel [24], patients and community partners were not involved in problem identification (ie,\ndefine the stage of the AI life cycle) and machine learning\nmodel development (ie, design and test stage of the AI life\ncycle) of the AI4DPP project. As such, community engagement was not fully embedded as conceptualized in Figure 1.\nAlso, workshop participants represent only a small subset of\nthe broader community—only 6 of the 30 workshop attendees\nwere people with lived and living experience. While this\nlimits the representativeness of perspectives reflected in this\nformative study, the workshop was intended as an initial step\nin a continual process of community engagement. Finally,\nusing a predefined conceptual framework (Figure 1) to guide\nworkshop discussions may have constrained the emergence\nof fresh ideas. Despite these limitations, our community\nengagement approach is a valuable contribution to the field\nsince most existing community engagement frameworks in AI\nfor health focus solely on the design phase of the AI life cycle\n[9].\n",
+      "project-status": "In Progress",
+      "headline-findings": "Trust: \n• Engage credible and trusted members of the community such as community leaders \n• Repeated engagement with clear, honest, and consistent 2-way communication \n• Demonstrated commitment to collaboration by the community and health system actors \n\nEquity: \n• Inclusiveness, diversity of community participants, and cultural responsiveness in engagement approaches \n• Engagement should be responsive to the cultural and structural factors that could prevent community members from engaging in prevention practices \n• Using multiple ways to engage community members in the co-design process and in the project’s governance \n\nAccountability: \n• Regular communication and feedback through community tables, gatherings, and reports \n• Community coleadership in decision-making, with clear roles and responsibilities outlined \n• Ability to course-correct informed by regular monitoring of the artificial intelligence (AI) tools \n\nTransparency: \n• Honest communication, declaring relevant conflicts of interest of different stakeholders, and clarity on the limitations of the AI tools \n• Democratized and openly accessible platforms (eg, websites) for knowledge sharing and project updates \n\nCodesign: \n• Codesign should include diverse participants and be accessible for participation \n• Continuous and iterative feedback on designing and deploying the AI tool \n\nValue alignment: \n• AI developers and implementers should understand the community’s values and priorities through meaningful dialog \n• Cultural and diverse perspectives should be respected while aligning the goals of the AI tool to the community’s values\n",
+      "participants": [
+        "ai-for-diabetes-prediction-prevention-ai4dpp-people-with-t2d"
+      ],
+      "participation-locations": "Canada",
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "inclusion-efforts": "Identification of participants used both convenient and purposive recruitment methods. Due to the capacity limits of the venue, we planned for approximately 40 attendees. First, we extended invitations to individuals who had attended the inaugural AI4DPP Solution Network meeting in November 2023. Because people with lived and living experience of T2D and community representation had been limited at that\nevent, we purposefully reached out to community organizations in Peel who provide T2D prevention and management services, leveraged our existing relationships with Peel Public Health and connections from prior community-based research projects.\n\nTo recruit people with lived and living experience, we used a previously successful approach wherein we collaborated with the Patient and Family Partners (PFP) unit of a large hospital system in Peel. Through the PFP coordinator, the project overview and meeting details were shared with PFP members with an invitation to the workshop. We conducted 3 virtual briefing sessions to accommodate varying schedules for 6 individuals who expressed interest. Briefing sessions covered meeting agenda, logistics (eg, accessibility, dietary needs, parking), honoraria, and transportation reimbursement.\n",
+      "project-title": "AI for Diabetes Prediction & Prevention (AI4DPP)",
+      "submitted-by": "Remziye Zaim ",
+      "why-is-this-project-important-to-include-in-the": "Engaging a community often not heard in AI governance\n\nBecause of systems-level barriers such as socioeconomic disparities, poor access to care, high medication costs, lack of access to healthy and affordable foods, and the built environment, it has been difficult to scale effective diabetes prevention and management programs from the individual patient to entire populations. Populations at the intersection of these barriers are less likely to meet disease control targets across the continuum of diagnosis, engagement, and treatment, which leads to what has been termed a “cascade of care.”",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "supporting-resources": [
+        "published-peer-reviewed-scientific-paper"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "AI tools for Diabetes",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "geographic-scope": [
+        "canada"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "dalla-lana-school-of-public-health-university-of-toronto",
+        "research-and-innovation-institute-womens-college-hospital",
+        "faculty-of-information-university-of-toronto",
+        "department-of-computer-science-university-of-toronto",
+        "temerty-faculty-of-medicine-university-of-toronto",
+        "institute-for-clinical-evaluative-sciences"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://cifar.ca/ai/cifar-solution-networks/ai-for-diabetes-prediction-and-prevention/",
+      "locations": [
+        "canada"
+      ],
+      "where-were-participants-from": [
+        "Canada (Ontario)"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "ai-for-diabetes-prediction-prevention-ai4dpp-people-with-t2d",
+        "data": {
+          "layout": "generic",
+          "title": "AI for Diabetes Prediction & Prevention (AI4DPP)-People with T2D",
+          "airtable_id": "0be38563dd29eb59",
+          "slug": "ai-for-diabetes-prediction-prevention-ai4dpp-people-with-t2d",
+          "locations": [
+            "canada"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Canada (Ontario)",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops"
+          ],
+          "name": "AI for Diabetes Prediction & Prevention (AI4DPP)-People with T2D",
+          "group-description": "People with T2D",
+          "how-many-people-took-part": 30,
+          "cases": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "recruitment-description": "Self-selected through patient advocacy groups",
+          "was-there-a-specific-target-population": "People with lived/living experience of T2D",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "temerty-faculty-of-medicine-university-of-toronto",
+        "data": {
+          "layout": "organisation",
+          "title": "Temerty Faculty of Medicine, University of Toronto",
+          "airtable_id": "c44b3401fb78ccb5",
+          "slug": "temerty-faculty-of-medicine-university-of-toronto",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://temertymedicine.utoronto.ca/",
+          "name": "Temerty Faculty of Medicine, University of Toronto",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "research-and-innovation-institute-womens-college-hospital",
+        "data": {
+          "layout": "organisation",
+          "title": "Research and Innovation Institute, Women's College Hospital",
+          "airtable_id": "c979ef8b41d074ad",
+          "slug": "research-and-innovation-institute-womens-college-hospital",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.womensresearch.ca/",
+          "name": "Research and Innovation Institute, Women's College Hospital",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "institute-for-clinical-evaluative-sciences",
+        "data": {
+          "layout": "organisation",
+          "title": "Institute for Clinical Evaluative Sciences",
+          "airtable_id": "21281488895f4d71",
+          "slug": "institute-for-clinical-evaluative-sciences",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.ices.on.ca/",
+          "name": "Institute for Clinical Evaluative Sciences",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "dalla-lana-school-of-public-health-university-of-toronto",
+        "data": {
+          "layout": "organisation",
+          "title": "Dalla Lana School of Public Health, University of Toronto",
+          "airtable_id": "d81deba6015558e0",
+          "slug": "dalla-lana-school-of-public-health-university-of-toronto",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.dalla-lana.utoronto.ca/",
+          "name": "Dalla Lana School of Public Health, University of Toronto",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "faculty-of-information-university-of-toronto",
+        "data": {
+          "layout": "organisation",
+          "title": "Faculty of Information, University of Toronto",
+          "airtable_id": "85ab888bd3d9e99c",
+          "slug": "faculty-of-information-university-of-toronto",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://ischool.utoronto.ca/",
+          "name": "Faculty of Information, University of Toronto",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "department-of-computer-science-university-of-toronto",
+        "data": {
+          "layout": "organisation",
+          "title": "Department of Computer Science, University of Toronto",
+          "airtable_id": "8a57d32a6586c6b1",
+          "slug": "department-of-computer-science-university-of-toronto",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://web.cs.toronto.edu/",
+          "name": "Department of Computer Science, University of Toronto",
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "institute-for-better-health-trillium-health-partners",
+        "data": {
+          "layout": "organisation",
+          "title": "Institute for Better Health, Trillium Health Partners",
+          "airtable_id": "d3b916f4b9487e68",
+          "slug": "institute-for-better-health-trillium-health-partners",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.trilliumhealthpartners.ca/research/",
+          "name": "Institute for Better Health, Trillium Health Partners",
+          "lead-organisation-for": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "main-location": [
+            "toronto-canada"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "ai-for-diabetes-prediction-prevention-ai4dpp"
+          ],
+          "layout": "generic",
+          "slug": "ai-for-diabetes-prediction-prevention-ai4dpp-process",
+          "title": "AI for Diabetes Prediction & Prevention (AI4DPP) - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "AI for Diabetes Prediction & Prevention (AI4DPP)-People with T2D",
+        "airtable_id": "0be38563dd29eb59",
+        "slug": "ai-for-diabetes-prediction-prevention-ai4dpp-people-with-t2d",
+        "locations": [
+          "canada"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Canada (Ontario)",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops"
+        ],
+        "name": "AI for Diabetes Prediction & Prevention (AI4DPP)-People with T2D",
+        "group-description": "People with T2D",
+        "how-many-people-took-part": 30,
+        "cases": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "recruitment-description": "Self-selected through patient advocacy groups",
+        "was-there-a-specific-target-population": "People with lived/living experience of T2D",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "layout": "generic",
+        "slug": "ai-for-diabetes-prediction-prevention-ai4dpp-process",
+        "title": "AI for Diabetes Prediction & Prevention (AI4DPP) - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Temerty Faculty of Medicine, University of Toronto",
+        "airtable_id": "c44b3401fb78ccb5",
+        "slug": "temerty-faculty-of-medicine-university-of-toronto",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://temertymedicine.utoronto.ca/",
+        "name": "Temerty Faculty of Medicine, University of Toronto",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Research and Innovation Institute, Women's College Hospital",
+        "airtable_id": "c979ef8b41d074ad",
+        "slug": "research-and-innovation-institute-womens-college-hospital",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.womensresearch.ca/",
+        "name": "Research and Innovation Institute, Women's College Hospital",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Institute for Clinical Evaluative Sciences",
+        "airtable_id": "21281488895f4d71",
+        "slug": "institute-for-clinical-evaluative-sciences",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.ices.on.ca/",
+        "name": "Institute for Clinical Evaluative Sciences",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Dalla Lana School of Public Health, University of Toronto",
+        "airtable_id": "d81deba6015558e0",
+        "slug": "dalla-lana-school-of-public-health-university-of-toronto",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.dalla-lana.utoronto.ca/",
+        "name": "Dalla Lana School of Public Health, University of Toronto",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Faculty of Information, University of Toronto",
+        "airtable_id": "85ab888bd3d9e99c",
+        "slug": "faculty-of-information-university-of-toronto",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://ischool.utoronto.ca/",
+        "name": "Faculty of Information, University of Toronto",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Department of Computer Science, University of Toronto",
+        "airtable_id": "8a57d32a6586c6b1",
+        "slug": "department-of-computer-science-university-of-toronto",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://web.cs.toronto.edu/",
+        "name": "Department of Computer Science, University of Toronto",
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Institute for Better Health, Trillium Health Partners",
+        "airtable_id": "d3b916f4b9487e68",
+        "slug": "institute-for-better-health-trillium-health-partners",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.trilliumhealthpartners.ca/research/",
+        "name": "Institute for Better Health, Trillium Health Partners",
+        "lead-organisation-for": [
+          "ai-for-diabetes-prediction-prevention-ai4dpp"
+        ],
+        "main-location": [
+          "toronto-canada"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
+    "airtable_id": "199bb84ee3e8b625",
+    "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo",
+    "redirect_from": [
+      "/c/199bb84ee3e8b625/"
+    ],
+    "provide-a-brief-description-of-the-project": "Passively collected \"big\" data sources are increasingly used to inform critical development policy decisions in low- and middle-income countries. While prior work highlights how such approaches may reveal sensitive information, enable surveillance, and centralize power, less is known about the corresponding privacy concerns, hopes, and fears of the people directly impacted by these policies -- people sometimes referred to as experiential experts. To understand the perspectives of experiential experts, we conducted semi-structured interviews with people living in rural villages in Togo shortly after an entirely digital cash transfer program was launched that used machine learning and mobile phone metadata to determine program eligibility. This paper documents participants' privacy concerns surrounding the introduction of big data approaches in development policy. We find that the privacy concerns of our experiential experts differ from those raised by privacy and development domain experts. To facilitate a more robust and constructive account of privacy, we discuss implications for policies and designs that take seriously the privacy concerns raised by both experiential experts and domain experts.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "Complete",
+    "headline-findings": "Experiential experts living in rural Togo surfaced a different set of privacy concerns than those commonly raised by privacy and development domain experts. Rather than a concern abut (mis)use by institutions (e.g., consent, surveillance, re-identification), participants raised concern about (mis)use by people in their community (e.g., shame, jealousy, limited autonomy).\n\nParticipant quote. We had just used sociotechnical visuals to describe the data recorded in mobile phone data. We asked the participant, a man in his 30s, how sensitive the data was. He immediately thought about what would happen if the data was disclosued to people in his community. He said: \n\n“the one who gives [mobile money] can be harmed if it is known in the community because it is known that he has money and gives it to others. Some may be jealous of him. But the one receiving may feel some kind of shame: people in the community will have a bad opinion of him because he depends on other people to survive\"\n\nThen, we asked the participant how he would feel if the government of Togo had access to the very same data. He said, \"I won’t be disturbed if the Togo government knows about [mobile money balances and transactions]. They know that you are helping others. But among ourselves here, it may be disturbing…the government could know [because] they can’t envy me” \n\nThis quote is emblematic of many of the people we interviewed. While privacy and development domain experts tend to focus on privacy harms that can arise when data is disclosed to other people within their community. Rather than argue one is right and the other is wrong, we demonstrate that the privacy concerns of domain experts and experiential experts are both important. \n",
+    "participants": [
+      "expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Predictive AI"
+    ],
+    "theme": [
+      "Privacy"
+    ],
+    "what-year-did-the-project-start": 2022,
+    "funding-organisations": [
+      "social-science-research-council-ssrc",
+      "uc-berkeley-ai-policy-hub",
+      "lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley",
+      "jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres"
+    ],
+    "additional-acknowledgements": "Méyébinesso Farida Carelle PERE, Emily Aiken, Nitin Kohli, Joshua E. Blumenstock ",
+    "inclusion-efforts": "1) To recruit participants in way that respects local norms, the research team first met and developed relationships with local leadership. \n\n2) To ensure that participants could participate in their native language, all interviews were interpreted in local languages (i.e., Ewe, Kotokoli, Kabye, or French) by a Togolese interpreter. The research team spend 3-5 hours training each interpreters so that they understood the content of the research and were therefore able to interpret for similarity of meaning instead of similarity of words. \n\n3) To ensure participants were engaged respectfully, interpreters were asked to alert the research team about any possible issues such as interview questions that were not appropriate, participants who seemed uncomfortable, or were otherwise not interested in participating. \n\n4) To ensure participants with varying levels of literacy and formal education could provide meaningful input, we developed and used culturally sensitive methods. In particular, we developed \"sociotechnical visuals:\" culturally relevant images printed out and laminated used in interviews to provide participants with an accurate mental model of the that is (and is not) recorded in mobile phone data, as well as how that data could be predictive of characteristics such as poverty or religiosity. \n",
+    "project-title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
+    "submitted-by": "Zoe Kahn",
+    "why-is-this-project-important-to-include-in-the": "1) ENGAGING DIVERSE COMMUNITIES IN AI GOVERNANCE. This project directly engages with people living in rural villages in Togo to understand their perspectives on the use of emerging technologies in international development -- in particular, machine learning models trained on mobile phone data. People living in rural villages with varying levels of literacy, digital literacy, and formal education are often not heard in AI governance. \n\n2) NOVEL METHODS. To enable people living in rural villages in Togo to provide meaningful input on the use of machine learning models training mobile phone data in develiopment, we developed \"sociotechnical visuals:\" culturally relevant images printed out and laminated used in interviews to provide participants with an accurate mental model of the that is (and is not) recorded in mobile phone data, as well as how that data could be predictive of characteristics such as poverty or religiosity. ",
+    "photos-and-images": [
+      {
+        "id": "att9VnMZFMxB5jyyj",
+        "width": 1006,
+        "height": 552,
+        "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj.png",
+        "filename": "2-all_images (4).png",
+        "size": 652702,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_small.png",
+            "width": 66,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_large.png",
+            "width": 933,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_full.png",
+            "width": 1006,
+            "height": 552
+          }
+        }
+      },
+      {
+        "id": "attzfc3osaUMaDwkq",
+        "width": 1098,
+        "height": 1458,
+        "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq.png",
+        "filename": "4-interview-action (2).png",
+        "size": 2704990,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_small.png",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_large.png",
+            "width": 512,
+            "height": 680
+          },
+          "full": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_full.png",
+            "width": 1098,
+            "height": 1458
+          }
+        }
+      },
+      {
+        "id": "att4HxvaztPNNVmgM",
+        "width": 640,
+        "height": 522,
+        "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM.png",
+        "filename": "6-chicken (1).png",
+        "size": 306234,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_small.png",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_large.png",
+            "width": 628,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_full.png",
+            "width": 640,
+            "height": 522
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI"
+    ],
+    "supporting-resources": [
+      "reczjbuls22bl4ija"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How do people living in rural villages in Togo feel about the use of emerging technologies - including predictive AI trained on mobile phone data - in aid programs.",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2023,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://dl.acm.org/doi/abs/10.1145/3710968",
+    "locations": [
+      "togo"
+    ],
+    "where-were-participants-from": [
+      "Five villages in rural Togo in the north, middle, and south of the country "
+    ],
+    "where-did-engagement-take-place": [
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo",
+    "data": {
+      "layout": "case",
+      "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
+      "airtable_id": "199bb84ee3e8b625",
+      "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo",
+      "redirect_from": [
+        "/c/199bb84ee3e8b625/"
+      ],
+      "provide-a-brief-description-of-the-project": "Passively collected \"big\" data sources are increasingly used to inform critical development policy decisions in low- and middle-income countries. While prior work highlights how such approaches may reveal sensitive information, enable surveillance, and centralize power, less is known about the corresponding privacy concerns, hopes, and fears of the people directly impacted by these policies -- people sometimes referred to as experiential experts. To understand the perspectives of experiential experts, we conducted semi-structured interviews with people living in rural villages in Togo shortly after an entirely digital cash transfer program was launched that used machine learning and mobile phone metadata to determine program eligibility. This paper documents participants' privacy concerns surrounding the introduction of big data approaches in development policy. We find that the privacy concerns of our experiential experts differ from those raised by privacy and development domain experts. To facilitate a more robust and constructive account of privacy, we discuss implications for policies and designs that take seriously the privacy concerns raised by both experiential experts and domain experts.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "Complete",
+      "headline-findings": "Experiential experts living in rural Togo surfaced a different set of privacy concerns than those commonly raised by privacy and development domain experts. Rather than a concern abut (mis)use by institutions (e.g., consent, surveillance, re-identification), participants raised concern about (mis)use by people in their community (e.g., shame, jealousy, limited autonomy).\n\nParticipant quote. We had just used sociotechnical visuals to describe the data recorded in mobile phone data. We asked the participant, a man in his 30s, how sensitive the data was. He immediately thought about what would happen if the data was disclosued to people in his community. He said: \n\n“the one who gives [mobile money] can be harmed if it is known in the community because it is known that he has money and gives it to others. Some may be jealous of him. But the one receiving may feel some kind of shame: people in the community will have a bad opinion of him because he depends on other people to survive\"\n\nThen, we asked the participant how he would feel if the government of Togo had access to the very same data. He said, \"I won’t be disturbed if the Togo government knows about [mobile money balances and transactions]. They know that you are helping others. But among ourselves here, it may be disturbing…the government could know [because] they can’t envy me” \n\nThis quote is emblematic of many of the people we interviewed. While privacy and development domain experts tend to focus on privacy harms that can arise when data is disclosed to other people within their community. Rather than argue one is right and the other is wrong, we demonstrate that the privacy concerns of domain experts and experiential experts are both important. \n",
+      "participants": [
+        "expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Predictive AI"
+      ],
+      "theme": [
+        "Privacy"
+      ],
+      "what-year-did-the-project-start": 2022,
+      "funding-organisations": [
+        "social-science-research-council-ssrc",
+        "uc-berkeley-ai-policy-hub",
+        "lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley",
+        "jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres"
+      ],
+      "additional-acknowledgements": "Méyébinesso Farida Carelle PERE, Emily Aiken, Nitin Kohli, Joshua E. Blumenstock ",
+      "inclusion-efforts": "1) To recruit participants in way that respects local norms, the research team first met and developed relationships with local leadership. \n\n2) To ensure that participants could participate in their native language, all interviews were interpreted in local languages (i.e., Ewe, Kotokoli, Kabye, or French) by a Togolese interpreter. The research team spend 3-5 hours training each interpreters so that they understood the content of the research and were therefore able to interpret for similarity of meaning instead of similarity of words. \n\n3) To ensure participants were engaged respectfully, interpreters were asked to alert the research team about any possible issues such as interview questions that were not appropriate, participants who seemed uncomfortable, or were otherwise not interested in participating. \n\n4) To ensure participants with varying levels of literacy and formal education could provide meaningful input, we developed and used culturally sensitive methods. In particular, we developed \"sociotechnical visuals:\" culturally relevant images printed out and laminated used in interviews to provide participants with an accurate mental model of the that is (and is not) recorded in mobile phone data, as well as how that data could be predictive of characteristics such as poverty or religiosity. \n",
+      "project-title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
+      "submitted-by": "Zoe Kahn",
+      "why-is-this-project-important-to-include-in-the": "1) ENGAGING DIVERSE COMMUNITIES IN AI GOVERNANCE. This project directly engages with people living in rural villages in Togo to understand their perspectives on the use of emerging technologies in international development -- in particular, machine learning models trained on mobile phone data. People living in rural villages with varying levels of literacy, digital literacy, and formal education are often not heard in AI governance. \n\n2) NOVEL METHODS. To enable people living in rural villages in Togo to provide meaningful input on the use of machine learning models training mobile phone data in develiopment, we developed \"sociotechnical visuals:\" culturally relevant images printed out and laminated used in interviews to provide participants with an accurate mental model of the that is (and is not) recorded in mobile phone data, as well as how that data could be predictive of characteristics such as poverty or religiosity. ",
+      "photos-and-images": [
+        {
+          "id": "att9VnMZFMxB5jyyj",
+          "width": 1006,
+          "height": 552,
+          "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj.png",
+          "filename": "2-all_images (4).png",
+          "size": 652702,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_small.png",
+              "width": 66,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_large.png",
+              "width": 933,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att9VnMZFMxB5jyyj_full.png",
+              "width": 1006,
+              "height": 552
+            }
+          }
+        },
+        {
+          "id": "attzfc3osaUMaDwkq",
+          "width": 1098,
+          "height": 1458,
+          "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq.png",
+          "filename": "4-interview-action (2).png",
+          "size": 2704990,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_small.png",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_large.png",
+              "width": 512,
+              "height": 680
+            },
+            "full": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_attzfc3osaUMaDwkq_full.png",
+              "width": 1098,
+              "height": 1458
+            }
+          }
+        },
+        {
+          "id": "att4HxvaztPNNVmgM",
+          "width": 640,
+          "height": 522,
+          "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM.png",
+          "filename": "6-chicken (1).png",
+          "size": 306234,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_small.png",
+              "width": 44,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_large.png",
+              "width": 628,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/199bb84ee3e8b625_fldd4B6cpBOP3n3is_att4HxvaztPNNVmgM_full.png",
+              "width": 640,
+              "height": 522
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI"
+      ],
+      "supporting-resources": [
+        "reczjbuls22bl4ija"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How do people living in rural villages in Togo feel about the use of emerging technologies - including predictive AI trained on mobile phone data - in aid programs.",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2023,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://dl.acm.org/doi/abs/10.1145/3710968",
+      "locations": [
+        "togo"
+      ],
+      "where-were-participants-from": [
+        "Five villages in rural Togo in the north, middle, and south of the country "
+      ],
+      "where-did-engagement-take-place": [
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews",
+        "data": {
+          "layout": "generic",
+          "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo-Semi-structured interviews",
+          "airtable_id": "5d31e403deb5fb7f",
+          "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews",
+          "locations": [
+            "togo"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Five villages in rural Togo in the north, middle, and south of the country ",
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "Expanding Perspectives on Data Privacy: Insights from Rural Togo-Semi-structured interviews",
+          "group-description": "Semi-structured interviews",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "additional-notes": "Semi-structured interviews (not currently included in the list of methods above) ",
+          "how-many-people-took-part": 124,
+          "cases": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "recruitment-description": "Developed relationships with village leaders who provided introductions to a diverse set of participants",
+          "was-there-a-specific-target-population": "People living in rural villages in Togo ",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline"
+          ],
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "social-science-research-council-ssrc",
+        "data": {
+          "layout": "organisation",
+          "title": "Social Science Research Council (SSRC)",
+          "airtable_id": "c0da5e6224bd41a2",
+          "slug": "social-science-research-council-ssrc",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.ssrc.org/",
+          "name": "Social Science Research Council (SSRC)",
+          "mission-statement": "To foster innovative research, nurture new generations of social scientists, and mobilize necessary knowledge on important public issues. (Source: https://www.ssrc.org/)",
+          "main-location": [
+            "brooklyn-new-york-usa"
+          ],
+          "funding-organisation-for": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley",
+        "data": {
+          "layout": "organisation",
+          "title": "Lab for Inclusive FinTech (LIFT) at the University of California, Berkeley",
+          "airtable_id": "902e107bdb40465c",
+          "slug": "lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://lift.berkeley.edu/",
+          "name": "Lab for Inclusive FinTech (LIFT) at the University of California, Berkeley",
+          "mission-statement": "To design and evaluate digital financial technologies that improve the lives of underserved populations globally. (Source: https://lift.berkeley.edu/)",
+          "main-location": [
+            "berkeley-california-usa"
+          ],
+          "funding-organisation-for": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "uc-berkeley-ai-policy-hub",
+        "data": {
+          "layout": "organisation",
+          "title": "UC Berkeley AI Policy Hub",
+          "airtable_id": "3d9878a84ad81cf0",
+          "slug": "uc-berkeley-ai-policy-hub",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://aipolicyhub.org/",
+          "name": "UC Berkeley AI Policy Hub",
+          "mission-statement": "To train the next generation of AI policy multidisciplinary experts and produce research to guide the governance of AI. (Source: https://aipolicyhub.org/)",
+          "main-location": [
+            "berkeley-california-usa"
+          ],
+          "funding-organisation-for": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres",
+        "data": {
+          "layout": "organisation",
+          "title": "Jacobs Foundation Connecting the EdTech Research EcoSystem (CERES)",
+          "airtable_id": "bfc382963262cf6d",
+          "slug": "jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Funder"
+          ],
+          "website-address": "https://jacobsfoundation.org/",
+          "name": "Jacobs Foundation Connecting the EdTech Research EcoSystem (CERES)",
+          "mission-statement": "To support research, policy, and practice that enhances child development and learning opportunities globally. (Source: https://jacobsfoundation.org/)",
+          "main-location": [
+            "zurich-switzerland"
+          ],
+          "funding-organisation-for": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+          ],
+          "layout": "generic",
+          "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo-process",
+          "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo - Process",
+          "theme": [
+            "Privacy"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Predictive AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo-Semi-structured interviews",
+        "airtable_id": "5d31e403deb5fb7f",
+        "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews",
+        "locations": [
+          "togo"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Five villages in rural Togo in the north, middle, and south of the country ",
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "Expanding Perspectives on Data Privacy: Insights from Rural Togo-Semi-structured interviews",
+        "group-description": "Semi-structured interviews",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "additional-notes": "Semi-structured interviews (not currently included in the list of methods above) ",
+        "how-many-people-took-part": 124,
+        "cases": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "recruitment-description": "Developed relationships with village leaders who provided introductions to a diverse set of participants",
+        "was-there-a-specific-target-population": "People living in rural villages in Togo ",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline"
+        ],
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "layout": "generic",
+        "slug": "expanding-perspectives-on-data-privacy-insights-from-rural-togo-process",
+        "title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo - Process",
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Social Science Research Council (SSRC)",
+        "airtable_id": "c0da5e6224bd41a2",
+        "slug": "social-science-research-council-ssrc",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.ssrc.org/",
+        "name": "Social Science Research Council (SSRC)",
+        "mission-statement": "To foster innovative research, nurture new generations of social scientists, and mobilize necessary knowledge on important public issues. (Source: https://www.ssrc.org/)",
+        "main-location": [
+          "brooklyn-new-york-usa"
+        ],
+        "funding-organisation-for": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Lab for Inclusive FinTech (LIFT) at the University of California, Berkeley",
+        "airtable_id": "902e107bdb40465c",
+        "slug": "lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://lift.berkeley.edu/",
+        "name": "Lab for Inclusive FinTech (LIFT) at the University of California, Berkeley",
+        "mission-statement": "To design and evaluate digital financial technologies that improve the lives of underserved populations globally. (Source: https://lift.berkeley.edu/)",
+        "main-location": [
+          "berkeley-california-usa"
+        ],
+        "funding-organisation-for": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "UC Berkeley AI Policy Hub",
+        "airtable_id": "3d9878a84ad81cf0",
+        "slug": "uc-berkeley-ai-policy-hub",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://aipolicyhub.org/",
+        "name": "UC Berkeley AI Policy Hub",
+        "mission-statement": "To train the next generation of AI policy multidisciplinary experts and produce research to guide the governance of AI. (Source: https://aipolicyhub.org/)",
+        "main-location": [
+          "berkeley-california-usa"
+        ],
+        "funding-organisation-for": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Jacobs Foundation Connecting the EdTech Research EcoSystem (CERES)",
+        "airtable_id": "bfc382963262cf6d",
+        "slug": "jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Funder"
+        ],
+        "website-address": "https://jacobsfoundation.org/",
+        "name": "Jacobs Foundation Connecting the EdTech Research EcoSystem (CERES)",
+        "mission-statement": "To support research, policy, and practice that enhances child development and learning opportunities globally. (Source: https://jacobsfoundation.org/)",
+        "main-location": [
+          "zurich-switzerland"
+        ],
+        "funding-organisation-for": [
+          "expanding-perspectives-on-data-privacy-insights-from-rural-togo"
+        ],
+        "theme": [
+          "Privacy"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Predictive AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

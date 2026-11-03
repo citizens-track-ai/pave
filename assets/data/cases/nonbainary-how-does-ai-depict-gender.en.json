@@ -1,0 +1,450 @@
+{
+  "slug": "nonbainary-how-does-ai-depict-gender",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "NonbAInary: How Does AI Depict Gender?",
+    "airtable_id": "959ab19329fd981f",
+    "slug": "nonbainary-how-does-ai-depict-gender",
+    "redirect_from": [
+      "/c/959ab19329fd981f/"
+    ],
+    "lead-organisations": [
+      "free-university-of-bozen-bolzano",
+      "eurac-research"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2025, the Free University of Bozen-Bolzano and Eurac Research initiated a process that involved approximately 60 people in participatory workshops designed to explore approaches to audit gender bias in AI-generated portraits with the intended outcomes of reviewing AI design implementations and creating re-usable participation tools.\n\nThe project explicitly sought to work with queer people and their allies across three sites in Italy, Austria, and Finland and invited participants to engage with AI-generated gendered portraits through a critical design interface, which is still available on the project website. \n\nThe interface guided discussions in terms of accuracy (i.e., how well the portrait aligns with the participant's gender stereotypes), discrimination (i.e., whether participants noticed problematic associations), and speculation  (i.e., how participants imagined alternative queer human–AI interactions for AI-generated gendered portraits).\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "Complete",
+    "headline-findings": "Accuracy: Midjourney manages to convey binary gender presentations (i.e., feminine women and masculine men). Regarding nonbinary genders, the AI model may be able to convey a broad idea of what nonbinarity may be, but if fails with specific nuances. However, even our queer participants did not have a  clear shared idea of how specific nonbinary genders appear. Therefore, accuracy in specific nonbinary genders is a sociotechnical chimaera.\n\nDiscrimination: Participants denounced Midjourney for having racist, patriarchal, fatphobic, ageist, reproductivist, sexist, pornographic, and cisnormative assumptions. Importantly, these assumptions are differently distributed across the Gender Diamond interactive visualisation of the gender spectrum. For instance, participants stated that agender people were usually portrayed as older, poorer, and fat. Differently, demiwomen were usually infantilised and sexualised.\n\nSpeculation: Three different queer scenarios emerged for the generation of AI-generated gendered portraits, by differently prioritising accuracy, nondiscrimination, or critical engagement.\n",
+    "participants": [
+      "nonbainary-how-does-ai-depict-gender-workshop"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI",
+      "Current issues"
+    ],
+    "theme": [
+      "Identity"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "italian-nrrp-funded-by-the-european-union-nextgenerationeu"
+    ],
+    "additional-acknowledgements": "María Menéndez-Blanco, Katta Spiel, Antonella De Angeli",
+    "inclusion-efforts": "One of the three sessions in Vienna was also open to deaf people.\n",
+    "project-title": "NonbAInary: How Does AI Depict Gender?",
+    "submitted-by": "Fe Simeoni",
+    "why-is-this-project-important-to-include-in-the": "\"NonbAInary\" proposes a nonbinary way to engage with gender biases in generative AI. It systematically expands the analysis by including nonbinary genders, such as \"masculine women\" or \"agender people\", included in the Gender Diamond interactive datafication of the gender spectrum. Indeed, nonbinary genders are usually dismissed by datafication practices, thus being excluded from AI training datasets as well as AI audits: a double-binded invisibilisation.\nFurthermore, \"NonbAInary\", being a series of participatory workshops, included the voices of queer people and their allies, eliciting their gender stereotypes, their perceptions of discrimination, and possible alternative human–AI scenarios.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Audit: Review design or implementation of AI tools"
+    ],
+    "supporting-resources": [
+      "nonbainary-how-does-ai-depict-gender"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Participatory nonbinary approach to gender bias auditing",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A research poster"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.fesimeoni.it/projects/2025/nonbainary/",
+    "locations": [
+      "bozen-bolzano-italy",
+      "helsinki-finland",
+      "rome-italy",
+      "trento-italy",
+      "vienna-austria"
+    ],
+    "where-were-participants-from": [
+      "Vienna, Bozen-Bolzano, Trento, Rome, Helsinki"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "nonbainary-how-does-ai-depict-gender",
+    "data": {
+      "layout": "case",
+      "title": "NonbAInary: How Does AI Depict Gender?",
+      "airtable_id": "959ab19329fd981f",
+      "slug": "nonbainary-how-does-ai-depict-gender",
+      "redirect_from": [
+        "/c/959ab19329fd981f/"
+      ],
+      "lead-organisations": [
+        "free-university-of-bozen-bolzano",
+        "eurac-research"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2025, the Free University of Bozen-Bolzano and Eurac Research initiated a process that involved approximately 60 people in participatory workshops designed to explore approaches to audit gender bias in AI-generated portraits with the intended outcomes of reviewing AI design implementations and creating re-usable participation tools.\n\nThe project explicitly sought to work with queer people and their allies across three sites in Italy, Austria, and Finland and invited participants to engage with AI-generated gendered portraits through a critical design interface, which is still available on the project website. \n\nThe interface guided discussions in terms of accuracy (i.e., how well the portrait aligns with the participant's gender stereotypes), discrimination (i.e., whether participants noticed problematic associations), and speculation  (i.e., how participants imagined alternative queer human–AI interactions for AI-generated gendered portraits).\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "Complete",
+      "headline-findings": "Accuracy: Midjourney manages to convey binary gender presentations (i.e., feminine women and masculine men). Regarding nonbinary genders, the AI model may be able to convey a broad idea of what nonbinarity may be, but if fails with specific nuances. However, even our queer participants did not have a  clear shared idea of how specific nonbinary genders appear. Therefore, accuracy in specific nonbinary genders is a sociotechnical chimaera.\n\nDiscrimination: Participants denounced Midjourney for having racist, patriarchal, fatphobic, ageist, reproductivist, sexist, pornographic, and cisnormative assumptions. Importantly, these assumptions are differently distributed across the Gender Diamond interactive visualisation of the gender spectrum. For instance, participants stated that agender people were usually portrayed as older, poorer, and fat. Differently, demiwomen were usually infantilised and sexualised.\n\nSpeculation: Three different queer scenarios emerged for the generation of AI-generated gendered portraits, by differently prioritising accuracy, nondiscrimination, or critical engagement.\n",
+      "participants": [
+        "nonbainary-how-does-ai-depict-gender-workshop"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI",
+        "Current issues"
+      ],
+      "theme": [
+        "Identity"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "italian-nrrp-funded-by-the-european-union-nextgenerationeu"
+      ],
+      "additional-acknowledgements": "María Menéndez-Blanco, Katta Spiel, Antonella De Angeli",
+      "inclusion-efforts": "One of the three sessions in Vienna was also open to deaf people.\n",
+      "project-title": "NonbAInary: How Does AI Depict Gender?",
+      "submitted-by": "Fe Simeoni",
+      "why-is-this-project-important-to-include-in-the": "\"NonbAInary\" proposes a nonbinary way to engage with gender biases in generative AI. It systematically expands the analysis by including nonbinary genders, such as \"masculine women\" or \"agender people\", included in the Gender Diamond interactive datafication of the gender spectrum. Indeed, nonbinary genders are usually dismissed by datafication practices, thus being excluded from AI training datasets as well as AI audits: a double-binded invisibilisation.\nFurthermore, \"NonbAInary\", being a series of participatory workshops, included the voices of queer people and their allies, eliciting their gender stereotypes, their perceptions of discrimination, and possible alternative human–AI scenarios.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Audit: Review design or implementation of AI tools"
+      ],
+      "supporting-resources": [
+        "nonbainary-how-does-ai-depict-gender"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Participatory nonbinary approach to gender bias auditing",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A research poster"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.fesimeoni.it/projects/2025/nonbainary/",
+      "locations": [
+        "bozen-bolzano-italy",
+        "helsinki-finland",
+        "rome-italy",
+        "trento-italy",
+        "vienna-austria"
+      ],
+      "where-were-participants-from": [
+        "Vienna, Bozen-Bolzano, Trento, Rome, Helsinki"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "nonbainary-how-does-ai-depict-gender-workshop",
+        "data": {
+          "layout": "generic",
+          "title": "NonbAInary: How Does AI Depict Gender?-Workshop",
+          "airtable_id": "b1de8b951558cd22",
+          "slug": "nonbainary-how-does-ai-depict-gender-workshop",
+          "locations": [
+            "vienna-austria",
+            "bozen-bolzano-italy",
+            "trento-italy",
+            "rome-italy",
+            "helsinki-finland"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Vienna, Bozen-Bolzano, Trento, Rome, Helsinki",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group",
+            "Participatory Arts"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2,
+          "name": "NonbAInary: How Does AI Depict Gender?-Workshop",
+          "group-description": "Workshop",
+          "how-many-people-took-part": 60,
+          "cases": [
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "recruitment-description": "Social media, posters at universities, emails",
+          "was-there-a-specific-target-population": "Queer people and their allies",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Identity"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "italian-nrrp-funded-by-the-european-union-nextgenerationeu",
+        "data": {
+          "layout": "organisation",
+          "title": "Italian NRRP funded by the European Union NextGenerationEU.",
+          "airtable_id": "08cc8f635f4cfc6d",
+          "slug": "italian-nrrp-funded-by-the-european-union-nextgenerationeu",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.italiadomani.gov.it/",
+          "name": "Italian NRRP funded by the European Union NextGenerationEU.",
+          "mission-statement": "To modernise the country's economic and social systems, promoting green transition, digital transformation, and social inclusion. (Source: https://www.italiadomani.gov.it/)",
+          "main-location": [
+            "italy"
+          ],
+          "funding-organisation-for": [
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "theme": [
+            "Identity"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "free-university-of-bozen-bolzano",
+        "data": {
+          "layout": "organisation",
+          "title": "Free University of Bozen-Bolzano",
+          "airtable_id": "b205327b62a21722",
+          "slug": "free-university-of-bozen-bolzano",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.unibz.it/",
+          "name": "Free University of Bozen-Bolzano",
+          "lead-organisation-for": [
+            "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "mission-statement": "To offer multilingual, practice-oriented education and conduct research that addresses regional and international challenges. (Source: https://www.unibz.it/)",
+          "main-location": [
+            "bozen-bolzano-italy"
+          ],
+          "theme": [
+            "Identity"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "eurac-research",
+        "data": {
+          "layout": "organisation",
+          "title": "Eurac Research",
+          "airtable_id": "c14dcc8ba95bf999",
+          "slug": "eurac-research",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.eurac.edu/",
+          "name": "Eurac Research",
+          "lead-organisation-for": [
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "mission-statement": "To address the complex challenges of the future through interdisciplinary research that improves people's lives and environment. (Source: https://www.eurac.edu/)",
+          "main-location": [
+            "bozen-bolzano-italy"
+          ],
+          "theme": [
+            "Identity"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "nonbainary-how-does-ai-depict-gender"
+          ],
+          "layout": "generic",
+          "slug": "nonbainary-how-does-ai-depict-gender-process",
+          "title": "NonbAInary: How Does AI Depict Gender? - Process",
+          "theme": [
+            "Identity"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "NonbAInary: How Does AI Depict Gender?-Workshop",
+        "airtable_id": "b1de8b951558cd22",
+        "slug": "nonbainary-how-does-ai-depict-gender-workshop",
+        "locations": [
+          "vienna-austria",
+          "bozen-bolzano-italy",
+          "trento-italy",
+          "rome-italy",
+          "helsinki-finland"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Vienna, Bozen-Bolzano, Trento, Rome, Helsinki",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group",
+          "Participatory Arts"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2,
+        "name": "NonbAInary: How Does AI Depict Gender?-Workshop",
+        "group-description": "Workshop",
+        "how-many-people-took-part": 60,
+        "cases": [
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "recruitment-description": "Social media, posters at universities, emails",
+        "was-there-a-specific-target-population": "Queer people and their allies",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Identity"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "layout": "generic",
+        "slug": "nonbainary-how-does-ai-depict-gender-process",
+        "title": "NonbAInary: How Does AI Depict Gender? - Process",
+        "theme": [
+          "Identity"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Italian NRRP funded by the European Union NextGenerationEU.",
+        "airtable_id": "08cc8f635f4cfc6d",
+        "slug": "italian-nrrp-funded-by-the-european-union-nextgenerationeu",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.italiadomani.gov.it/",
+        "name": "Italian NRRP funded by the European Union NextGenerationEU.",
+        "mission-statement": "To modernise the country's economic and social systems, promoting green transition, digital transformation, and social inclusion. (Source: https://www.italiadomani.gov.it/)",
+        "main-location": [
+          "italy"
+        ],
+        "funding-organisation-for": [
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "theme": [
+          "Identity"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Free University of Bozen-Bolzano",
+        "airtable_id": "b205327b62a21722",
+        "slug": "free-university-of-bozen-bolzano",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.unibz.it/",
+        "name": "Free University of Bozen-Bolzano",
+        "lead-organisation-for": [
+          "disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation",
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "mission-statement": "To offer multilingual, practice-oriented education and conduct research that addresses regional and international challenges. (Source: https://www.unibz.it/)",
+        "main-location": [
+          "bozen-bolzano-italy"
+        ],
+        "theme": [
+          "Identity"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Eurac Research",
+        "airtable_id": "c14dcc8ba95bf999",
+        "slug": "eurac-research",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.eurac.edu/",
+        "name": "Eurac Research",
+        "lead-organisation-for": [
+          "nonbainary-how-does-ai-depict-gender"
+        ],
+        "mission-statement": "To address the complex challenges of the future through interdisciplinary research that improves people's lives and environment. (Source: https://www.eurac.edu/)",
+        "main-location": [
+          "bozen-bolzano-italy"
+        ],
+        "theme": [
+          "Identity"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

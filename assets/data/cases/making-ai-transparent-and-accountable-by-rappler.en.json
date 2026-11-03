@@ -1,0 +1,422 @@
+{
+  "slug": "making-ai-transparent-and-accountable-by-rappler",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Making AI Transparent and Accountable by Rappler",
+    "airtable_id": "eeca5bd2ab49a703",
+    "slug": "making-ai-transparent-and-accountable-by-rappler",
+    "redirect_from": [
+      "/c/eeca5bd2ab49a703/"
+    ],
+    "lead-organisations": [
+      "rappler"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2023, OpenAI commissioned Rappler to develop a process that used surveys and focus groups to involve approximately 4,121 people to develop a platform for participatory governance on AI. \n\nRappler’s project aimed to ensure the following:\n- A process that includes and considers the experiences of the Global South in generating global policies on AI. \n- A process that’s inclusive, representing diverse viewpoints and grassroots concerns within the global context. \n\nStep 1\n\n**Participant selection and clustering**\n\nSelect participants using online surveys conducted via Rappler's website, external platforms, and partner organizations. Learn about the demographics of participants and gauge their approach to reasoning about complex topics. Use survey data to form clusters of respondents for the focus group discussions.\n\nStep 2\n\n**Offline focus group discussions**\n\nConduct in-person focus group discussions with a smaller number of participants (e.g., ~100). These discussions are human-moderated and done in small, private groups of participants with shared demographics. Participants discuss questions and prompts at a higher level, and idea synthesis and initial policy ideas are generated using an LLM based on transcripts of the discussions that are AI-generated and human-reviewed.\n\nStep 3\n\n**AI moderator development**\n\nDevelop an AI moderator that is informed by a variety of data sources for the online focus group discussions.\n\nStep 4\n\n**Online focus group discussions**\n\nConduct online focus group discussions with a larger number of participants (e.g., ~500). These discussions are AI-moderated and done in groups of 3-100 participants. Participants answer questions and prompts in parallel and their answers are summarized and presented to the public for voting and commenting. Results are made viewable to the general public, and Rappler creates stories explaining the nuances of the results.\n\nStep 5\n\n**Alignment compared**\n\nCompare the results from the online and offline focus group discussions to understand similarities and differences, and to determine next steps in terms of policy ideas.\n",
+    "project-status": "Complete",
+    "participants": [
+      "making-ai-transparent-and-accountable-by-rappler-survey-participants",
+      "making-ai-transparent-and-accountable-by-rappler-community-survey-participants",
+      "making-ai-transparent-and-accountable-by-rappler-aidialogue-participants"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "funding-organisations": [
+      "open-ai"
+    ],
+    "additional-acknowledgements": "Gemma B. Mendoza, Gilian Uy, Don Kevin Hapal, Ogoy San Juan, and Maria Ressa",
+    "project-title": "Making AI Transparent and Accountable by Rappler",
+    "method-image-caption": "Source: ",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "supporting-resources": [
+      "can-we-use-ai-to-enrich-democratic-consultations",
+      "preliminary-report-making-ai-systems-accountable-through-a-transparent-grassroots-based-consultation"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Enabling discussion and understanding of participants' views on complex, polarizing topics via linked offline and online processes.",
+    "how-was-the-project-initiated": [
+      "Other"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2023,
+    "involved-organisations": [
+      "rappler"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.rappler.com/technology/features/generative-ai-use-enriching-democratic-consultations/",
+    "where-did-engagement-take-place": [
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "making-ai-transparent-and-accountable-by-rappler",
+    "data": {
+      "layout": "case",
+      "title": "Making AI Transparent and Accountable by Rappler",
+      "airtable_id": "eeca5bd2ab49a703",
+      "slug": "making-ai-transparent-and-accountable-by-rappler",
+      "redirect_from": [
+        "/c/eeca5bd2ab49a703/"
+      ],
+      "lead-organisations": [
+        "rappler"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2023, OpenAI commissioned Rappler to develop a process that used surveys and focus groups to involve approximately 4,121 people to develop a platform for participatory governance on AI. \n\nRappler’s project aimed to ensure the following:\n- A process that includes and considers the experiences of the Global South in generating global policies on AI. \n- A process that’s inclusive, representing diverse viewpoints and grassroots concerns within the global context. \n\nStep 1\n\n**Participant selection and clustering**\n\nSelect participants using online surveys conducted via Rappler's website, external platforms, and partner organizations. Learn about the demographics of participants and gauge their approach to reasoning about complex topics. Use survey data to form clusters of respondents for the focus group discussions.\n\nStep 2\n\n**Offline focus group discussions**\n\nConduct in-person focus group discussions with a smaller number of participants (e.g., ~100). These discussions are human-moderated and done in small, private groups of participants with shared demographics. Participants discuss questions and prompts at a higher level, and idea synthesis and initial policy ideas are generated using an LLM based on transcripts of the discussions that are AI-generated and human-reviewed.\n\nStep 3\n\n**AI moderator development**\n\nDevelop an AI moderator that is informed by a variety of data sources for the online focus group discussions.\n\nStep 4\n\n**Online focus group discussions**\n\nConduct online focus group discussions with a larger number of participants (e.g., ~500). These discussions are AI-moderated and done in groups of 3-100 participants. Participants answer questions and prompts in parallel and their answers are summarized and presented to the public for voting and commenting. Results are made viewable to the general public, and Rappler creates stories explaining the nuances of the results.\n\nStep 5\n\n**Alignment compared**\n\nCompare the results from the online and offline focus group discussions to understand similarities and differences, and to determine next steps in terms of policy ideas.\n",
+      "project-status": "Complete",
+      "participants": [
+        "making-ai-transparent-and-accountable-by-rappler-survey-participants",
+        "making-ai-transparent-and-accountable-by-rappler-community-survey-participants",
+        "making-ai-transparent-and-accountable-by-rappler-aidialogue-participants"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "funding-organisations": [
+        "open-ai"
+      ],
+      "additional-acknowledgements": "Gemma B. Mendoza, Gilian Uy, Don Kevin Hapal, Ogoy San Juan, and Maria Ressa",
+      "project-title": "Making AI Transparent and Accountable by Rappler",
+      "method-image-caption": "Source: ",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "supporting-resources": [
+        "can-we-use-ai-to-enrich-democratic-consultations",
+        "preliminary-report-making-ai-systems-accountable-through-a-transparent-grassroots-based-consultation"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Enabling discussion and understanding of participants' views on complex, polarizing topics via linked offline and online processes.",
+      "how-was-the-project-initiated": [
+        "Other"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2023,
+      "involved-organisations": [
+        "rappler"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.rappler.com/technology/features/generative-ai-use-enriching-democratic-consultations/",
+      "where-did-engagement-take-place": [
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-survey-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Making AI Transparent and Accountable by Rappler-Survey Participants",
+          "airtable_id": "f83472adcedbe95d",
+          "slug": "making-ai-transparent-and-accountable-by-rappler-survey-participants",
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.2,
+          "name": "Making AI Transparent and Accountable by Rappler-Survey Participants",
+          "group-description": "Survey Participants",
+          "how-many-people-took-part": 3427,
+          "cases": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-community-survey-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Making AI Transparent and Accountable by Rappler-Community Survey Participants",
+          "airtable_id": "fa602ab481bbce30",
+          "slug": "making-ai-transparent-and-accountable-by-rappler-community-survey-participants",
+          "recruitment-method": "Peer recruitment (snowball)",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.2,
+          "name": "Making AI Transparent and Accountable by Rappler-Community Survey Participants",
+          "group-description": "Community Survey Participants",
+          "how-many-people-took-part": 359,
+          "cases": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-aidialogue-participants",
+        "data": {
+          "layout": "generic",
+          "title": "Making AI Transparent and Accountable by Rappler-aiDialogue Participants",
+          "airtable_id": "a59e2e4cdbd19294",
+          "slug": "making-ai-transparent-and-accountable-by-rappler-aidialogue-participants",
+          "recruitment-method": "Peer recruitment (snowball)",
+          "which-of-the-following-methods-were-used-to": [
+            "Focus Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2.5,
+          "name": "Making AI Transparent and Accountable by Rappler-aiDialogue Participants",
+          "group-description": "aiDialogue Participants",
+          "how-many-people-took-part": 335,
+          "cases": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "where-did-engagement-take-place": [
+            "Online"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "rappler",
+        "data": {
+          "layout": "organisation",
+          "title": "Rappler",
+          "airtable_id": "a99ba5e930e994fd",
+          "slug": "rappler",
+          "role": [
+            "Lead",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "website-address": "https://www.rappler.com/technology/features/generative-ai-use-enriching-democratic-consultations/",
+          "name": "Rappler",
+          "lead-organisation-for": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "open-ai",
+        "data": {
+          "layout": "organisation",
+          "title": "Open AI",
+          "airtable_id": "15ed7327b9f66675",
+          "slug": "open-ai",
+          "role": [
+            "Funder"
+          ],
+          "website-address": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update/",
+          "name": "Open AI",
+          "funding-organisation-for": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "making-ai-transparent-and-accountable-by-rappler"
+          ],
+          "layout": "generic",
+          "slug": "making-ai-transparent-and-accountable-by-rappler-process",
+          "title": "Making AI Transparent and Accountable by Rappler - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Making AI Transparent and Accountable by Rappler-Survey Participants",
+        "airtable_id": "f83472adcedbe95d",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-survey-participants",
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.2,
+        "name": "Making AI Transparent and Accountable by Rappler-Survey Participants",
+        "group-description": "Survey Participants",
+        "how-many-people-took-part": 3427,
+        "cases": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Making AI Transparent and Accountable by Rappler-Community Survey Participants",
+        "airtable_id": "fa602ab481bbce30",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-community-survey-participants",
+        "recruitment-method": "Peer recruitment (snowball)",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.2,
+        "name": "Making AI Transparent and Accountable by Rappler-Community Survey Participants",
+        "group-description": "Community Survey Participants",
+        "how-many-people-took-part": 359,
+        "cases": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Making AI Transparent and Accountable by Rappler-aiDialogue Participants",
+        "airtable_id": "a59e2e4cdbd19294",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-aidialogue-participants",
+        "recruitment-method": "Peer recruitment (snowball)",
+        "which-of-the-following-methods-were-used-to": [
+          "Focus Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2.5,
+        "name": "Making AI Transparent and Accountable by Rappler-aiDialogue Participants",
+        "group-description": "aiDialogue Participants",
+        "how-many-people-took-part": 335,
+        "cases": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "where-did-engagement-take-place": [
+          "Online"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "layout": "generic",
+        "slug": "making-ai-transparent-and-accountable-by-rappler-process",
+        "title": "Making AI Transparent and Accountable by Rappler - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Rappler",
+        "airtable_id": "a99ba5e930e994fd",
+        "slug": "rappler",
+        "role": [
+          "Lead",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "website-address": "https://www.rappler.com/technology/features/generative-ai-use-enriching-democratic-consultations/",
+        "name": "Rappler",
+        "lead-organisation-for": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Open AI",
+        "airtable_id": "15ed7327b9f66675",
+        "slug": "open-ai",
+        "role": [
+          "Funder"
+        ],
+        "website-address": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update/",
+        "name": "Open AI",
+        "funding-organisation-for": [
+          "making-ai-transparent-and-accountable-by-rappler"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

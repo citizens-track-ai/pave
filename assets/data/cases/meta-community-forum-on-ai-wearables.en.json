@@ -1,0 +1,276 @@
+{
+  "slug": "meta-community-forum-on-ai-wearables",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Meta Community Forum on AI Wearables",
+    "airtable_id": "35ed646f1bace9ee",
+    "slug": "meta-community-forum-on-ai-wearables",
+    "redirect_from": [
+      "/c/35ed646f1bace9ee/"
+    ],
+    "lead-organisations": [
+      "stanford-deliberative-democracy-lab"
+    ],
+    "project-status": "Complete",
+    "participants": [
+      "meta-community-forum-on-ai-wearables-us-and-india"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "meta"
+    ],
+    "project-title": "Meta Community Forum on AI Wearables",
+    "project-goals": [
+      "Quantitative: Generate statistical evidence on public attitudes to AI"
+    ],
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2025,
+    "involved-organisations": [
+      "meta"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://fsi.stanford.edu/publication/ai-wearables-meta-community-forum-comprehensive-reports"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "meta-community-forum-on-ai-wearables",
+    "data": {
+      "layout": "case",
+      "title": "Meta Community Forum on AI Wearables",
+      "airtable_id": "35ed646f1bace9ee",
+      "slug": "meta-community-forum-on-ai-wearables",
+      "redirect_from": [
+        "/c/35ed646f1bace9ee/"
+      ],
+      "lead-organisations": [
+        "stanford-deliberative-democracy-lab"
+      ],
+      "project-status": "Complete",
+      "participants": [
+        "meta-community-forum-on-ai-wearables-us-and-india"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "meta"
+      ],
+      "project-title": "Meta Community Forum on AI Wearables",
+      "project-goals": [
+        "Quantitative: Generate statistical evidence on public attitudes to AI"
+      ],
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2025,
+      "involved-organisations": [
+        "meta"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://fsi.stanford.edu/publication/ai-wearables-meta-community-forum-comprehensive-reports"
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "meta-community-forum-on-ai-wearables-us-and-india",
+        "data": {
+          "layout": "generic",
+          "title": "Meta Community Forum on AI Wearables-US and India",
+          "airtable_id": "e694c338279db8ee",
+          "slug": "meta-community-forum-on-ai-wearables-us-and-india",
+          "recruitment-method": "Statistical sample",
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberative Polling®"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "Meta Community Forum on AI Wearables-US and India",
+          "group-description": "US and India",
+          "how-many-people-took-part": 550,
+          "cases": [
+            "meta-community-forum-on-ai-wearables"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "stanford-deliberative-democracy-lab",
+        "data": {
+          "layout": "organisation",
+          "title": "Stanford Deliberative Democracy Lab",
+          "airtable_id": "c20847a8aab77571",
+          "slug": "stanford-deliberative-democracy-lab",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "norwegian-public-sector-ai-deliberative-poll",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://ddl.stanford.edu/",
+          "name": "Stanford Deliberative Democracy Lab",
+          "lead-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "nationwide-deliberation-on-use-of-ai-in-high-schools",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents",
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+          "main-location": [
+            "stanford-california-usa"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "meta",
+        "data": {
+          "layout": "organisation",
+          "title": "Meta",
+          "airtable_id": "531dbb6ab36b8d39",
+          "slug": "meta",
+          "role": [
+            "Funder",
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "meta-community-forum-on-ai-wearables"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://about.meta.com/",
+          "name": "Meta",
+          "lead-organisation-for": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "funding-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "meta-community-forum-on-proactive-agents",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "meta-community-forum-on-ai-wearables"
+          ],
+          "layout": "generic",
+          "slug": "meta-community-forum-on-ai-wearables-process",
+          "title": "Meta Community Forum on AI Wearables - Process"
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Meta Community Forum on AI Wearables-US and India",
+        "airtable_id": "e694c338279db8ee",
+        "slug": "meta-community-forum-on-ai-wearables-us-and-india",
+        "recruitment-method": "Statistical sample",
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberative Polling®"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "Meta Community Forum on AI Wearables-US and India",
+        "group-description": "US and India",
+        "how-many-people-took-part": 550,
+        "cases": [
+          "meta-community-forum-on-ai-wearables"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "meta-community-forum-on-ai-wearables"
+        ],
+        "layout": "generic",
+        "slug": "meta-community-forum-on-ai-wearables-process",
+        "title": "Meta Community Forum on AI Wearables - Process"
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Stanford Deliberative Democracy Lab",
+        "airtable_id": "c20847a8aab77571",
+        "slug": "stanford-deliberative-democracy-lab",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "norwegian-public-sector-ai-deliberative-poll",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://ddl.stanford.edu/",
+        "name": "Stanford Deliberative Democracy Lab",
+        "lead-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "nationwide-deliberation-on-use-of-ai-in-high-schools",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents",
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To conduct research on deliberative democracy and public consultation processes worldwide. (Source: https://ddl.stanford.edu/)",
+        "main-location": [
+          "stanford-california-usa"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Meta",
+        "airtable_id": "531dbb6ab36b8d39",
+        "slug": "meta",
+        "role": [
+          "Funder",
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "meta-community-forum-on-ai-wearables"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://about.meta.com/",
+        "name": "Meta",
+        "lead-organisation-for": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "funding-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "meta-community-forum-on-proactive-agents",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

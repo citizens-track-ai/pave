@@ -1,0 +1,566 @@
+{
+  "slug": "parakhai-participatory-ai-evaluation",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "ParakhAI - Participatory AI Evaluation ",
+    "airtable_id": "bd29a56456c55fd9",
+    "slug": "parakhai-participatory-ai-evaluation",
+    "redirect_from": [
+      "/c/bd29a56456c55fd9/"
+    ],
+    "lead-organisations": [
+      "civicdatalab"
+    ],
+    "provide-a-brief-description-of-the-project": "Between 2024 and 2025, CivicDataLab initiated a process of broad stakeholder engagement, involving technical, domain and cultural (lived experience) experts to co-design an open source platform for participatory AI evaluation. This case documents the design process to date. In future, use of the platform should enable participatory audit of AI systems.  \n\n> CivicDataLab has co-created ParakhAI - an open-source and participatory platform for AI evaluation. The tool has been selected and supported by the Ministry of Electronics and Information Technology and Digital India Programme’s initiative for promoting fair, transparent and ethical AI practices under the IndiaAI Mission’s Safe and Trusted Pillar. \n> \n> The tool is designed to identify bias, hallucination, informational integrity issues in AI models to enable responsible and trustworthy AI deployment. It embeds stakeholder participation from developers, technical, domain and cultural experts across the AI lifecycle,moving beyond self-regulation. \n\nThe system consists of two core components\n\n**A Web-based Evaluation tool for AI Models**: A user-friendly, open-source tool offering an automated-assisted and expert evaluation environment for AI models. This tool currently targets text-based models like reasoning, Q&A and translation. It includes automated-assisted modules on Bias & Fairness, Misinformation & Hallucination, and Safety & Privacy. It allows onboarding and registration of independent experts, with technical, domain and cultural expertise. The final output includes automated reports for evaluated parameters, compiling results from evaluations into standardised, transparent formats, and providing actionable insights for AI makers for continuous improvement.\n\n**Multilingual Prompt Databases**: The tool will curate and integrate sectoral prompt database repositories across Indian languages. They team encourage experts to contribute prompt datasets to support ethical and responsive evaluation processes. \n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "parakhai-participatory-ai-evaluation-one-day-stakeholder-workshop",
+      "parakhai-participatory-ai-evaluation-working-group",
+      "parakhai-participatory-ai-evaluation-cultural-experts"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "inclusion-efforts": "\n",
+    "project-title": "ParakhAI - Participatory AI Evaluation ",
+    "method-image-caption": "Source: ",
+    "submitted-by": "Gaurav Godhwani",
+    "why-is-this-project-important-to-include-in-the": "ParakhAI is significant for the case book because it moves AI evaluation beyond conventional self-regulation by developers, embedding structured participation from a diverse pool of stakeholders, technical experts, domain specialists, and cultural experts, directly into the evaluation lifecycle. This is particularly notable for a few reasons:\n\nEngaging underrepresented expertise in AI governance: The platform onboards independent experts with cultural and linguistic knowledge, not just technical AI expertise, ensuring evaluation reflects context-specific harms (bias, misinformation, safety issues) that purely technical audits often miss, especially across India's linguistically diverse population.\n\nMultilingual and culturally grounded evaluation: The multilingual prompt databases, curated across Indian languages and contributed to by experts, represent a novel method for surfacing how AI models perform (or fail) outside English-dominant contexts, a perspective frequently absent from mainstream AI evaluation frameworks.\nOpen, participatory, and transparent infrastructure: As an open-source tool built with government backing (IndiaAI Mission's Safe and Trusted Pillar), it offers a replicable model for participatory AI auditing that other governments, civil society organizations, or AI developers could adopt, rather than a one-off evaluation exercise.\nStandardized, actionable outputs: By compiling diverse expert evaluations into standardized, transparent reports, the project demonstrates how participatory input can be translated into concrete, actionable feedback for AI developers, bridging the gap between public engagement and real technical improvement.",
+    "photos-and-images": [
+      {
+        "id": "attlSTQpXQPX8dPd4",
+        "width": 968,
+        "height": 674,
+        "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4.png",
+        "filename": "Screenshot 2026-08-04 at 10.27.56.png",
+        "size": 1071472,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_small.png",
+            "width": 52,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_large.png",
+            "width": 735,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_full.png",
+            "width": 968,
+            "height": 674
+          }
+        }
+      },
+      {
+        "id": "att9SvJPMMNgzmdLJ",
+        "width": 1048,
+        "height": 680,
+        "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ.png",
+        "filename": "Screenshot 2026-08-04 at 10.27.48.png",
+        "size": 1441441,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_small.png",
+            "width": 55,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_large.png",
+            "width": 789,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_full.png",
+            "width": 1048,
+            "height": 680
+          }
+        }
+      },
+      {
+        "id": "attoEVDYvAP1IuVrn",
+        "width": 2082,
+        "height": 936,
+        "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn.png",
+        "filename": "Screenshot 2026-08-04 at 10.27.44.png",
+        "size": 3584675,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_small.png",
+            "width": 80,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_large.png",
+            "width": 1139,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_full.png",
+            "width": 2082,
+            "height": 936
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Audit: Review design or implementation of AI tools"
+    ],
+    "supporting-resources": [
+      "parakhai-concept-note-and-guidebook",
+      "parakhai-case-study",
+      "ai-evaluation-community-workshop"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Co-design of a participatory AI auditing platform. ",
+    "how-was-the-project-initiated": [
+      "Community Led"
+    ],
+    "level-of-engagement": "Professional",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "indiaai-mission"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://civicdatalab.in/work/dpg/parakhai/",
+    "locations": [
+      "delhi-india",
+      "india"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "parakhai-participatory-ai-evaluation",
+    "data": {
+      "layout": "case",
+      "title": "ParakhAI - Participatory AI Evaluation ",
+      "airtable_id": "bd29a56456c55fd9",
+      "slug": "parakhai-participatory-ai-evaluation",
+      "redirect_from": [
+        "/c/bd29a56456c55fd9/"
+      ],
+      "lead-organisations": [
+        "civicdatalab"
+      ],
+      "provide-a-brief-description-of-the-project": "Between 2024 and 2025, CivicDataLab initiated a process of broad stakeholder engagement, involving technical, domain and cultural (lived experience) experts to co-design an open source platform for participatory AI evaluation. This case documents the design process to date. In future, use of the platform should enable participatory audit of AI systems.  \n\n> CivicDataLab has co-created ParakhAI - an open-source and participatory platform for AI evaluation. The tool has been selected and supported by the Ministry of Electronics and Information Technology and Digital India Programme’s initiative for promoting fair, transparent and ethical AI practices under the IndiaAI Mission’s Safe and Trusted Pillar. \n> \n> The tool is designed to identify bias, hallucination, informational integrity issues in AI models to enable responsible and trustworthy AI deployment. It embeds stakeholder participation from developers, technical, domain and cultural experts across the AI lifecycle,moving beyond self-regulation. \n\nThe system consists of two core components\n\n**A Web-based Evaluation tool for AI Models**: A user-friendly, open-source tool offering an automated-assisted and expert evaluation environment for AI models. This tool currently targets text-based models like reasoning, Q&A and translation. It includes automated-assisted modules on Bias & Fairness, Misinformation & Hallucination, and Safety & Privacy. It allows onboarding and registration of independent experts, with technical, domain and cultural expertise. The final output includes automated reports for evaluated parameters, compiling results from evaluations into standardised, transparent formats, and providing actionable insights for AI makers for continuous improvement.\n\n**Multilingual Prompt Databases**: The tool will curate and integrate sectoral prompt database repositories across Indian languages. They team encourage experts to contribute prompt datasets to support ethical and responsive evaluation processes. \n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "parakhai-participatory-ai-evaluation-one-day-stakeholder-workshop",
+        "parakhai-participatory-ai-evaluation-working-group",
+        "parakhai-participatory-ai-evaluation-cultural-experts"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "inclusion-efforts": "\n",
+      "project-title": "ParakhAI - Participatory AI Evaluation ",
+      "method-image-caption": "Source: ",
+      "submitted-by": "Gaurav Godhwani",
+      "why-is-this-project-important-to-include-in-the": "ParakhAI is significant for the case book because it moves AI evaluation beyond conventional self-regulation by developers, embedding structured participation from a diverse pool of stakeholders, technical experts, domain specialists, and cultural experts, directly into the evaluation lifecycle. This is particularly notable for a few reasons:\n\nEngaging underrepresented expertise in AI governance: The platform onboards independent experts with cultural and linguistic knowledge, not just technical AI expertise, ensuring evaluation reflects context-specific harms (bias, misinformation, safety issues) that purely technical audits often miss, especially across India's linguistically diverse population.\n\nMultilingual and culturally grounded evaluation: The multilingual prompt databases, curated across Indian languages and contributed to by experts, represent a novel method for surfacing how AI models perform (or fail) outside English-dominant contexts, a perspective frequently absent from mainstream AI evaluation frameworks.\nOpen, participatory, and transparent infrastructure: As an open-source tool built with government backing (IndiaAI Mission's Safe and Trusted Pillar), it offers a replicable model for participatory AI auditing that other governments, civil society organizations, or AI developers could adopt, rather than a one-off evaluation exercise.\nStandardized, actionable outputs: By compiling diverse expert evaluations into standardized, transparent reports, the project demonstrates how participatory input can be translated into concrete, actionable feedback for AI developers, bridging the gap between public engagement and real technical improvement.",
+      "photos-and-images": [
+        {
+          "id": "attlSTQpXQPX8dPd4",
+          "width": 968,
+          "height": 674,
+          "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4.png",
+          "filename": "Screenshot 2026-08-04 at 10.27.56.png",
+          "size": 1071472,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_small.png",
+              "width": 52,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_large.png",
+              "width": 735,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attlSTQpXQPX8dPd4_full.png",
+              "width": 968,
+              "height": 674
+            }
+          }
+        },
+        {
+          "id": "att9SvJPMMNgzmdLJ",
+          "width": 1048,
+          "height": 680,
+          "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ.png",
+          "filename": "Screenshot 2026-08-04 at 10.27.48.png",
+          "size": 1441441,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_small.png",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_large.png",
+              "width": 789,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_att9SvJPMMNgzmdLJ_full.png",
+              "width": 1048,
+              "height": 680
+            }
+          }
+        },
+        {
+          "id": "attoEVDYvAP1IuVrn",
+          "width": 2082,
+          "height": 936,
+          "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn.png",
+          "filename": "Screenshot 2026-08-04 at 10.27.44.png",
+          "size": 3584675,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_small.png",
+              "width": 80,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_large.png",
+              "width": 1139,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/bd29a56456c55fd9_fldd4B6cpBOP3n3is_attoEVDYvAP1IuVrn_full.png",
+              "width": 2082,
+              "height": 936
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Audit: Review design or implementation of AI tools"
+      ],
+      "supporting-resources": [
+        "parakhai-concept-note-and-guidebook",
+        "parakhai-case-study",
+        "ai-evaluation-community-workshop"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Co-design of a participatory AI auditing platform. ",
+      "how-was-the-project-initiated": [
+        "Community Led"
+      ],
+      "level-of-engagement": "Professional",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "indiaai-mission"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://civicdatalab.in/work/dpg/parakhai/",
+      "locations": [
+        "delhi-india",
+        "india"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "parakhai-participatory-ai-evaluation-one-day-stakeholder-workshop",
+        "data": {
+          "layout": "generic",
+          "title": "ParakhAI - Participatory AI Evaluation -One Day Stakeholder Workshop",
+          "airtable_id": "d23ced2c4bded898",
+          "slug": "parakhai-participatory-ai-evaluation-one-day-stakeholder-workshop",
+          "locations": [
+            "delhi-india"
+          ],
+          "recruitment-method": "Other",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "ParakhAI - Participatory AI Evaluation -One Day Stakeholder Workshop",
+          "group-description": "One Day Stakeholder Workshop",
+          "how-many-people-took-part": 50,
+          "cases": [
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "parakhai-participatory-ai-evaluation-cultural-experts",
+        "data": {
+          "layout": "generic",
+          "title": "ParakhAI - Participatory AI Evaluation -Cultural experts",
+          "airtable_id": "c588907f0064abed",
+          "slug": "parakhai-participatory-ai-evaluation-cultural-experts",
+          "locations": [
+            "india"
+          ],
+          "recruitment-method": "Other",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops"
+          ],
+          "name": "ParakhAI - Participatory AI Evaluation -Cultural experts",
+          "group-description": "Cultural experts",
+          "cases": [
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "was-there-a-specific-target-population": "Community representatives and civil society actors who examine societal impact, contextual appropriateness, and alignment with the lived realities of aﬀected populations.",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "parakhai-participatory-ai-evaluation-working-group",
+        "data": {
+          "layout": "generic",
+          "title": "ParakhAI - Participatory AI Evaluation -Working Group",
+          "airtable_id": "61c786a53867f7bb",
+          "slug": "parakhai-participatory-ai-evaluation-working-group",
+          "locations": [
+            "india"
+          ],
+          "recruitment-method": "Other",
+          "which-of-the-following-methods-were-used-to": [
+            "Community Advisory Group"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1,
+          "name": "ParakhAI - Participatory AI Evaluation -Working Group",
+          "group-description": "Working Group",
+          "how-many-people-took-part": 20,
+          "cases": [
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "was-there-a-specific-target-population": "Law and policy experts; international bodies and government organisations; Ai practitioners; Civil Society; Academia",
+          "where-did-engagement-take-place": [
+            "Offline",
+            "Online"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "civicdatalab",
+        "data": {
+          "layout": "organisation",
+          "title": "CivicDataLab",
+          "airtable_id": "9dedee9805f763c0",
+          "slug": "civicdatalab",
+          "role": [
+            "Lead"
+          ],
+          "name": "CivicDataLab",
+          "lead-organisation-for": [
+            "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "indiaai-mission",
+        "data": {
+          "layout": "organisation",
+          "title": "IndiaAI Mission",
+          "airtable_id": "8a18b8252481a0f7",
+          "slug": "indiaai-mission",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "name": "IndiaAI Mission",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "parakhai-participatory-ai-evaluation"
+          ],
+          "layout": "generic",
+          "slug": "parakhai-participatory-ai-evaluation-process",
+          "title": "ParakhAI - Participatory AI Evaluation  - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "ParakhAI - Participatory AI Evaluation -One Day Stakeholder Workshop",
+        "airtable_id": "d23ced2c4bded898",
+        "slug": "parakhai-participatory-ai-evaluation-one-day-stakeholder-workshop",
+        "locations": [
+          "delhi-india"
+        ],
+        "recruitment-method": "Other",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "ParakhAI - Participatory AI Evaluation -One Day Stakeholder Workshop",
+        "group-description": "One Day Stakeholder Workshop",
+        "how-many-people-took-part": 50,
+        "cases": [
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ParakhAI - Participatory AI Evaluation -Cultural experts",
+        "airtable_id": "c588907f0064abed",
+        "slug": "parakhai-participatory-ai-evaluation-cultural-experts",
+        "locations": [
+          "india"
+        ],
+        "recruitment-method": "Other",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops"
+        ],
+        "name": "ParakhAI - Participatory AI Evaluation -Cultural experts",
+        "group-description": "Cultural experts",
+        "cases": [
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "was-there-a-specific-target-population": "Community representatives and civil society actors who examine societal impact, contextual appropriateness, and alignment with the lived realities of aﬀected populations.",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "ParakhAI - Participatory AI Evaluation -Working Group",
+        "airtable_id": "61c786a53867f7bb",
+        "slug": "parakhai-participatory-ai-evaluation-working-group",
+        "locations": [
+          "india"
+        ],
+        "recruitment-method": "Other",
+        "which-of-the-following-methods-were-used-to": [
+          "Community Advisory Group"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1,
+        "name": "ParakhAI - Participatory AI Evaluation -Working Group",
+        "group-description": "Working Group",
+        "how-many-people-took-part": 20,
+        "cases": [
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "was-there-a-specific-target-population": "Law and policy experts; international bodies and government organisations; Ai practitioners; Civil Society; Academia",
+        "where-did-engagement-take-place": [
+          "Offline",
+          "Online"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "layout": "generic",
+        "slug": "parakhai-participatory-ai-evaluation-process",
+        "title": "ParakhAI - Participatory AI Evaluation  - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "CivicDataLab",
+        "airtable_id": "9dedee9805f763c0",
+        "slug": "civicdatalab",
+        "role": [
+          "Lead"
+        ],
+        "name": "CivicDataLab",
+        "lead-organisation-for": [
+          "dataset-onboarding-support-team-dost-for-bhashini-ai-kosh",
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "IndiaAI Mission",
+        "airtable_id": "8a18b8252481a0f7",
+        "slug": "indiaai-mission",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "parakhai-participatory-ai-evaluation"
+        ],
+        "name": "IndiaAI Mission",
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

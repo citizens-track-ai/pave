@@ -1,0 +1,1693 @@
+{
+  "slug": "liverpool-city-region-residents-assembly-on-data-and-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Liverpool City Region Residents' Assembly on Data and AI",
+    "airtable_id": "c20e4ba9f1af719f",
+    "slug": "liverpool-city-region-residents-assembly-on-data-and-ai",
+    "redirect_from": [
+      "/c/c20e4ba9f1af719f/"
+    ],
+    "lead-organisations": [
+      "liverpool-city-region-combined-authority",
+      "university-of-liverpool",
+      "cheshire-merseyside-icb",
+      "lcr-civic-data-cooperative"
+    ],
+    "provide-a-brief-description-of-the-project": "In March 2025, The Liverpool City Region Combined Authority brought together 59 Liverpool City Region residents to debate the direction of data and AI innovation in the region.\n\nThe project supported residents to build a set of principles on what trustworthy and beneficial data innovation looks like, that can be used to help inform future local projects that use data with an impact on people’s lives.\n\nResidents took part in four in-person days split across learning and deliberation held in Liverpool City Centre. This included presentations from experts and stakeholders as well as interactive learning activities. An independent evaluator reviewed all materials and sessions. On the final day residents suggested potential principles for the Charter and ranked their preferred options. After additional resident and stakeholder review, a final charter of 11 principles was developed.\n\nThese principles form a Liverpool City Region Community Charter on Data and AI, one of the first of its kind in the world. This gives innovators and researchers in the region an actionable social license for data and AI innovation.\n\n",
+    "what-limitations-to-the-project-should-be-noted": "Our Assembly method draws on a traditional small group participatory mechanism with several phases of learning, discussion, interaction, and deliberation. We present below some reflections on what went well and where challenges came up. Find additional critical reflection in our Final Report and Independent Evaluation Report. \n\nLayers of reflection and preventing bias - \nIndependent evaluation from ideation to final reporting meant a critical voice throughout the process. On Day 2 our evaluator highlighted concerns, based on a participant survey and room observation, that residents were being presented with a more positive view of local AI. We re-designed the materials for the deliberation on Days 3 and 4 to ensure the participants were taking more time to reflect on the harms and risks of data technologies. \nWe were also keen to ensure that residents suggested principles rather than comment on principles. Residents developed their principle suggestions from their hope and fear cards made throughout the assembly process as well as case studies from other regions. This meant the principles were written by residents, however this created difficulties in ensuring wording was clear and consistent. We spent significant time with our residents in further small group discussions after the Assembly to review the principles and ensure they were accurate and internally consistent. \nBeyond evaluation, our other efforts to ensure reflection included: full University ethics review, a monthly regional stakeholder committee, Local NHS data public panel review of materials, regional participatory leaders panel review of materials/reports, and daily facilitator debrief sessions to adapt the materials.\n\nRegionalisation - \nThis kind of Charter development has the most impact when it’s collaborative from day one across both publics and stakeholders. There could have been a version of this Assembly where we employed a consultation firm to come in and run it for us. That provides for governments, in particular, what looks like objectivity. However, we were determined for this project to look, feel, and be home grown for the LCR while still maintaining strong external and internal rigour. \nWe ensured most of the experts we invited to speak were working in the region. We also ensured residents from existing regional public panels had the opportunity comment on and help us design the materials. That made the examples shared real to the residents. However, it was also a challenge to find people with the expertise needed in all cases. When needed, we had to look outside of the region for support including in evaluation and facilitation. \n\nActivity Design - \nWe used many previously tested activities with our residents, which helped us ensure they were understandable. Many of the learning activities like word association and the deliberative activities like rank choice voting worked well. However, some of the case study activities and expert presentations were less useful in our goal of encouraging residents to think critically about data and AI (see layers of reflection above). Managing expert and commissioner perspectives while also ensuring a locally embedded process was a potential bias (see above). \n\nFacilitation - \nManaging personalities and relationships throughout sometimes meant making a judgement call on what was better for the process or for individuals. We encouraged our facilitators to create a welcoming atmosphere which was a strength of our process resulting in positive feedback. However, that meant residents and facilitators while comfortable, at times struggled to stay to topic. The lead facilitator took on a significant role both leading a table, the exercises, and running the overall Assembly. If run again, additional staff would be needed to monitor the facilitation and process more closely. \n\nInclusion - \nAssemblies by their nature are exclusionary, only a relatively small number of people can take part and must take significant time out of their daily lives to do so. We designed the process to be as easy and welcoming as possible including a creche service, translation access, and more. However, we were not taken up on many of the things we offered. This suggests that these efforts were not enough to overcome the barriers to taking part. \n",
+    "project-status": "Complete",
+    "headline-findings": "Residents expressed a strong hope that human dignity and integrity would be the core value for data and AI projects. They want Liverpool to lead the way in community-focussed innovation.\n\nThe 11 Charter principles include ideas about beneficial data use, communication on AI, privacy and security, and external oversight.\n\nAssembly participants are worried about a future where the benefits of data and AI aren’t felt equitably. Trustworthy and beneficial data and AI means no community in the LCR is left behind. The principles lay the groundwork for what residents expect of civic and health innovation in the region.\n\nMy hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that.\n– Assembly Participant, Table 6, Day 4\n\nI'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.\n– Assembly Participant, Table 2 Day 3\n\n\nMy fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.\n– Assembly Participant, Table 2, Day 3\n",
+    "participants": [
+      "liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues"
+    ],
+    "messages": [
+      "use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po",
+      "ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr",
+      "ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p",
+      "inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and",
+      "promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div",
+      "protect-the-dignity-identities-and-privacy-of-lcr-residents",
+      "keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r",
+      "communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai",
+      "ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a",
+      "use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an",
+      "an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes",
+      "my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d",
+      "im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse",
+      "my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "liverpool-city-region-combined-authority"
+    ],
+    "additional-acknowledgements": "Erin McCloskey, Gary Leeming, Iain Buchan, Chantelle Murphy, Grace Reed, Rachael Wright, Gail Faragher, Emilia Trapasso, Gianfranco Polizzi, Ellie Fielding, Kaya Dougherty-Cain, Scott Hill",
+    "inclusion-efforts": "We approached inclusion in three phases: building participation before the Assembly, representation at the Assembly itself, and additional follow-up with unrepresented groups. \n\nBefore - \nIn the lead up to the Assembly we ran five community data conversations with equity seeking groups specifically looking to represent under-engaged voices that might not be represented in the Assembly. This included residents from immigrant communities, very low income/unstably housed residents, residents with significant caring responsibilities and/or disability status, elderly residents, and community activists. Quotes and themes from these residents were used in the Assembly activities to ensure their voices were represented in the Charter. \n\nDuring - \n59 residents took part in all four days of the Assembly. They were chosen to represent both the six local authorities and the diversity of the LCR. We chose to use the term ‘resident’ instead of ‘citizen’. The term ‘citizen’ excludes residents who may not have full UK citizenship. ‘Resident’ defines who is eligible and includes everyone who lives in the region. \n\nResidents were invited by post to register to take part and then selected through a demographic lottery. We purposively selected residents by local area, AI literacy, ethnicity, age, gender, disability, and education level. We sent out a second wave of recruitment materials to residents in the lowest SES post codes. Invitation materials were in English, Polish, and Arabic - which are the most common first languages spoken in the region. \n\nIn addition to deciding who was in the room we also approached inclusion through the lens of physical, mental, learning style and digital inclusivity. For example, we provided access to digital devices, postal mail outs, and ran telephone-based discussion groups for residents who did not have a smart phone or access to mobile data. Residents were compensated for their time and provided travel vouchers. \n\nAfter - \nWe also followed the Assembly up with a Youth AI Summit and engagement with children on the Charter to get additional feedback. \n",
+    "project-title": "Liverpool City Region Residents' Assembly on Data and AI",
+    "method-image-caption": "Source: Project report",
+    "submitted-by": "Emily Rempel",
+    "why-is-this-project-important-to-include-in-the": "Building on a rich history of participatory practice and citizens' assemblies across the UK - this entry shows an important example of taking the results of an assembly and directly applying them in government and NHS contexts. The final charter is written by the residents and adopted in full by local government, local NHS, and the University of Liverpool.\n\nIn addition this participatory process was built on layers of previous participatory work and relationship building that fed directly in to the Assembly, that includes:\n-Community conversations on data/AI with equity seeking groups in the LCR\n-Peer research on developing data hubs in community in the LCR\n-Focus groups on health data and data governance with residents sampled across equity-seeking criteria\n-Podcast development with residents on current AI uses in the region",
+    "photos-and-images": [
+      {
+        "id": "attGEXHqJT3WJiGdu",
+        "width": 6464,
+        "height": 4309,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu.jpg",
+        "filename": "DPV09917.jpg",
+        "size": 3840111,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "att61nJ6gwrNTJTq3",
+        "width": 6191,
+        "height": 4127,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3.jpg",
+        "filename": "DPV09920.jpg",
+        "size": 3613507,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attjClOZwYyTp59UB",
+        "width": 6311,
+        "height": 4207,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB.jpg",
+        "filename": "DPV00324.jpg",
+        "size": 4255003,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attmuwyPEukjkljij",
+        "width": 7008,
+        "height": 4672,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij.jpg",
+        "filename": "DPV09903.jpg",
+        "size": 3934606,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attiUsvPOjJuQpPHP",
+        "width": 5664,
+        "height": 3776,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP.jpg",
+        "filename": "_DP14355.jpg",
+        "size": 4779226,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "att1JwIbhdRWLBEXR",
+        "width": 1212,
+        "height": 650,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR.png",
+        "filename": "Screenshot 2026-06-26 at 09.38.16.png",
+        "size": 148908,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_small.png",
+            "width": 67,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_large.png",
+            "width": 955,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_full.png",
+            "width": 1212,
+            "height": 650
+          }
+        }
+      },
+      {
+        "id": "attQq9HgMQpWJHXcP",
+        "width": 1220,
+        "height": 612,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP.png",
+        "filename": "Screenshot 2026-06-26 at 09.38.26.png",
+        "size": 140106,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_small.png",
+            "width": 72,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_large.png",
+            "width": 1021,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_full.png",
+            "width": 1220,
+            "height": 612
+          }
+        }
+      },
+      {
+        "id": "attQu8CCPSnMm3SnK",
+        "width": 1236,
+        "height": 720,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK.png",
+        "filename": "Screenshot 2026-06-26 at 09.39.28.png",
+        "size": 373987,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_small.png",
+            "width": 62,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_large.png",
+            "width": 879,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_full.png",
+            "width": 1236,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "final-report",
+      "independent-evaluation",
+      "how-to-guide",
+      "facilitator-guides-and-workshop-resources"
+    ],
+    "method-image": [
+      {
+        "id": "attxZgynPz4E2d8i7",
+        "width": 669,
+        "height": 381,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7.png",
+        "filename": "Screenshot 2026-06-26 at 18.14.12.png",
+        "size": 55995,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_small.png",
+            "width": 63,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_large.png",
+            "width": 669,
+            "height": 381
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_full.png",
+            "width": 669,
+            "height": 381
+          }
+        }
+      },
+      {
+        "id": "attLkdQGuvF6fGbRk",
+        "width": 686,
+        "height": 363,
+        "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk.png",
+        "filename": "Screenshot 2026-06-26 at 18.14.59.png",
+        "size": 75546,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_small.png",
+            "width": 68,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_large.png",
+            "width": 686,
+            "height": 363
+          },
+          "full": {
+            "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_full.png",
+            "width": 686,
+            "height": 363
+          }
+        }
+      }
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Data and AI developed/used in local contexts by civic actors.",
+    "how-was-the-project-initiated": [
+      "Commissioned",
+      "Co-created",
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "An independent evaluation",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://civicdatacooperative.com/residents-assembly/",
+    "locations": [
+      "liverpool-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "Liverpool City Region"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "liverpool-city-region-residents-assembly-on-data-and-ai",
+    "data": {
+      "layout": "case",
+      "title": "Liverpool City Region Residents' Assembly on Data and AI",
+      "airtable_id": "c20e4ba9f1af719f",
+      "slug": "liverpool-city-region-residents-assembly-on-data-and-ai",
+      "redirect_from": [
+        "/c/c20e4ba9f1af719f/"
+      ],
+      "lead-organisations": [
+        "liverpool-city-region-combined-authority",
+        "university-of-liverpool",
+        "cheshire-merseyside-icb",
+        "lcr-civic-data-cooperative"
+      ],
+      "provide-a-brief-description-of-the-project": "In March 2025, The Liverpool City Region Combined Authority brought together 59 Liverpool City Region residents to debate the direction of data and AI innovation in the region.\n\nThe project supported residents to build a set of principles on what trustworthy and beneficial data innovation looks like, that can be used to help inform future local projects that use data with an impact on people’s lives.\n\nResidents took part in four in-person days split across learning and deliberation held in Liverpool City Centre. This included presentations from experts and stakeholders as well as interactive learning activities. An independent evaluator reviewed all materials and sessions. On the final day residents suggested potential principles for the Charter and ranked their preferred options. After additional resident and stakeholder review, a final charter of 11 principles was developed.\n\nThese principles form a Liverpool City Region Community Charter on Data and AI, one of the first of its kind in the world. This gives innovators and researchers in the region an actionable social license for data and AI innovation.\n\n",
+      "what-limitations-to-the-project-should-be-noted": "Our Assembly method draws on a traditional small group participatory mechanism with several phases of learning, discussion, interaction, and deliberation. We present below some reflections on what went well and where challenges came up. Find additional critical reflection in our Final Report and Independent Evaluation Report. \n\nLayers of reflection and preventing bias - \nIndependent evaluation from ideation to final reporting meant a critical voice throughout the process. On Day 2 our evaluator highlighted concerns, based on a participant survey and room observation, that residents were being presented with a more positive view of local AI. We re-designed the materials for the deliberation on Days 3 and 4 to ensure the participants were taking more time to reflect on the harms and risks of data technologies. \nWe were also keen to ensure that residents suggested principles rather than comment on principles. Residents developed their principle suggestions from their hope and fear cards made throughout the assembly process as well as case studies from other regions. This meant the principles were written by residents, however this created difficulties in ensuring wording was clear and consistent. We spent significant time with our residents in further small group discussions after the Assembly to review the principles and ensure they were accurate and internally consistent. \nBeyond evaluation, our other efforts to ensure reflection included: full University ethics review, a monthly regional stakeholder committee, Local NHS data public panel review of materials, regional participatory leaders panel review of materials/reports, and daily facilitator debrief sessions to adapt the materials.\n\nRegionalisation - \nThis kind of Charter development has the most impact when it’s collaborative from day one across both publics and stakeholders. There could have been a version of this Assembly where we employed a consultation firm to come in and run it for us. That provides for governments, in particular, what looks like objectivity. However, we were determined for this project to look, feel, and be home grown for the LCR while still maintaining strong external and internal rigour. \nWe ensured most of the experts we invited to speak were working in the region. We also ensured residents from existing regional public panels had the opportunity comment on and help us design the materials. That made the examples shared real to the residents. However, it was also a challenge to find people with the expertise needed in all cases. When needed, we had to look outside of the region for support including in evaluation and facilitation. \n\nActivity Design - \nWe used many previously tested activities with our residents, which helped us ensure they were understandable. Many of the learning activities like word association and the deliberative activities like rank choice voting worked well. However, some of the case study activities and expert presentations were less useful in our goal of encouraging residents to think critically about data and AI (see layers of reflection above). Managing expert and commissioner perspectives while also ensuring a locally embedded process was a potential bias (see above). \n\nFacilitation - \nManaging personalities and relationships throughout sometimes meant making a judgement call on what was better for the process or for individuals. We encouraged our facilitators to create a welcoming atmosphere which was a strength of our process resulting in positive feedback. However, that meant residents and facilitators while comfortable, at times struggled to stay to topic. The lead facilitator took on a significant role both leading a table, the exercises, and running the overall Assembly. If run again, additional staff would be needed to monitor the facilitation and process more closely. \n\nInclusion - \nAssemblies by their nature are exclusionary, only a relatively small number of people can take part and must take significant time out of their daily lives to do so. We designed the process to be as easy and welcoming as possible including a creche service, translation access, and more. However, we were not taken up on many of the things we offered. This suggests that these efforts were not enough to overcome the barriers to taking part. \n",
+      "project-status": "Complete",
+      "headline-findings": "Residents expressed a strong hope that human dignity and integrity would be the core value for data and AI projects. They want Liverpool to lead the way in community-focussed innovation.\n\nThe 11 Charter principles include ideas about beneficial data use, communication on AI, privacy and security, and external oversight.\n\nAssembly participants are worried about a future where the benefits of data and AI aren’t felt equitably. Trustworthy and beneficial data and AI means no community in the LCR is left behind. The principles lay the groundwork for what residents expect of civic and health innovation in the region.\n\nMy hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that.\n– Assembly Participant, Table 6, Day 4\n\nI'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.\n– Assembly Participant, Table 2 Day 3\n\n\nMy fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.\n– Assembly Participant, Table 2, Day 3\n",
+      "participants": [
+        "liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues"
+      ],
+      "messages": [
+        "use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po",
+        "ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr",
+        "ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p",
+        "inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and",
+        "promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div",
+        "protect-the-dignity-identities-and-privacy-of-lcr-residents",
+        "keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r",
+        "communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai",
+        "ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a",
+        "use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an",
+        "an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes",
+        "my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d",
+        "im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse",
+        "my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "liverpool-city-region-combined-authority"
+      ],
+      "additional-acknowledgements": "Erin McCloskey, Gary Leeming, Iain Buchan, Chantelle Murphy, Grace Reed, Rachael Wright, Gail Faragher, Emilia Trapasso, Gianfranco Polizzi, Ellie Fielding, Kaya Dougherty-Cain, Scott Hill",
+      "inclusion-efforts": "We approached inclusion in three phases: building participation before the Assembly, representation at the Assembly itself, and additional follow-up with unrepresented groups. \n\nBefore - \nIn the lead up to the Assembly we ran five community data conversations with equity seeking groups specifically looking to represent under-engaged voices that might not be represented in the Assembly. This included residents from immigrant communities, very low income/unstably housed residents, residents with significant caring responsibilities and/or disability status, elderly residents, and community activists. Quotes and themes from these residents were used in the Assembly activities to ensure their voices were represented in the Charter. \n\nDuring - \n59 residents took part in all four days of the Assembly. They were chosen to represent both the six local authorities and the diversity of the LCR. We chose to use the term ‘resident’ instead of ‘citizen’. The term ‘citizen’ excludes residents who may not have full UK citizenship. ‘Resident’ defines who is eligible and includes everyone who lives in the region. \n\nResidents were invited by post to register to take part and then selected through a demographic lottery. We purposively selected residents by local area, AI literacy, ethnicity, age, gender, disability, and education level. We sent out a second wave of recruitment materials to residents in the lowest SES post codes. Invitation materials were in English, Polish, and Arabic - which are the most common first languages spoken in the region. \n\nIn addition to deciding who was in the room we also approached inclusion through the lens of physical, mental, learning style and digital inclusivity. For example, we provided access to digital devices, postal mail outs, and ran telephone-based discussion groups for residents who did not have a smart phone or access to mobile data. Residents were compensated for their time and provided travel vouchers. \n\nAfter - \nWe also followed the Assembly up with a Youth AI Summit and engagement with children on the Charter to get additional feedback. \n",
+      "project-title": "Liverpool City Region Residents' Assembly on Data and AI",
+      "method-image-caption": "Source: Project report",
+      "submitted-by": "Emily Rempel",
+      "why-is-this-project-important-to-include-in-the": "Building on a rich history of participatory practice and citizens' assemblies across the UK - this entry shows an important example of taking the results of an assembly and directly applying them in government and NHS contexts. The final charter is written by the residents and adopted in full by local government, local NHS, and the University of Liverpool.\n\nIn addition this participatory process was built on layers of previous participatory work and relationship building that fed directly in to the Assembly, that includes:\n-Community conversations on data/AI with equity seeking groups in the LCR\n-Peer research on developing data hubs in community in the LCR\n-Focus groups on health data and data governance with residents sampled across equity-seeking criteria\n-Podcast development with residents on current AI uses in the region",
+      "photos-and-images": [
+        {
+          "id": "attGEXHqJT3WJiGdu",
+          "width": 6464,
+          "height": 4309,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu.jpg",
+          "filename": "DPV09917.jpg",
+          "size": 3840111,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attGEXHqJT3WJiGdu_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "att61nJ6gwrNTJTq3",
+          "width": 6191,
+          "height": 4127,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3.jpg",
+          "filename": "DPV09920.jpg",
+          "size": 3613507,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att61nJ6gwrNTJTq3_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attjClOZwYyTp59UB",
+          "width": 6311,
+          "height": 4207,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB.jpg",
+          "filename": "DPV00324.jpg",
+          "size": 4255003,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attjClOZwYyTp59UB_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attmuwyPEukjkljij",
+          "width": 7008,
+          "height": 4672,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij.jpg",
+          "filename": "DPV09903.jpg",
+          "size": 3934606,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attmuwyPEukjkljij_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attiUsvPOjJuQpPHP",
+          "width": 5664,
+          "height": 3776,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP.jpg",
+          "filename": "_DP14355.jpg",
+          "size": 4779226,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attiUsvPOjJuQpPHP_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "att1JwIbhdRWLBEXR",
+          "width": 1212,
+          "height": 650,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR.png",
+          "filename": "Screenshot 2026-06-26 at 09.38.16.png",
+          "size": 148908,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_small.png",
+              "width": 67,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_large.png",
+              "width": 955,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_att1JwIbhdRWLBEXR_full.png",
+              "width": 1212,
+              "height": 650
+            }
+          }
+        },
+        {
+          "id": "attQq9HgMQpWJHXcP",
+          "width": 1220,
+          "height": 612,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP.png",
+          "filename": "Screenshot 2026-06-26 at 09.38.26.png",
+          "size": 140106,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_small.png",
+              "width": 72,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_large.png",
+              "width": 1021,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQq9HgMQpWJHXcP_full.png",
+              "width": 1220,
+              "height": 612
+            }
+          }
+        },
+        {
+          "id": "attQu8CCPSnMm3SnK",
+          "width": 1236,
+          "height": 720,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK.png",
+          "filename": "Screenshot 2026-06-26 at 09.39.28.png",
+          "size": 373987,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_small.png",
+              "width": 62,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_large.png",
+              "width": 879,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldd4B6cpBOP3n3is_attQu8CCPSnMm3SnK_full.png",
+              "width": 1236,
+              "height": 720
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "final-report",
+        "independent-evaluation",
+        "how-to-guide",
+        "facilitator-guides-and-workshop-resources"
+      ],
+      "method-image": [
+        {
+          "id": "attxZgynPz4E2d8i7",
+          "width": 669,
+          "height": 381,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7.png",
+          "filename": "Screenshot 2026-06-26 at 18.14.12.png",
+          "size": 55995,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_small.png",
+              "width": 63,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_large.png",
+              "width": 669,
+              "height": 381
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attxZgynPz4E2d8i7_full.png",
+              "width": 669,
+              "height": 381
+            }
+          }
+        },
+        {
+          "id": "attLkdQGuvF6fGbRk",
+          "width": 686,
+          "height": 363,
+          "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk.png",
+          "filename": "Screenshot 2026-06-26 at 18.14.59.png",
+          "size": 75546,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_small.png",
+              "width": 68,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_large.png",
+              "width": 686,
+              "height": 363
+            },
+            "full": {
+              "url": "/assets/attachments/c20e4ba9f1af719f_fldgrmlTFHIgHExO6_attLkdQGuvF6fGbRk_full.png",
+              "width": 686,
+              "height": 363
+            }
+          }
+        }
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Data and AI developed/used in local contexts by civic actors.",
+      "how-was-the-project-initiated": [
+        "Commissioned",
+        "Co-created",
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "An independent evaluation",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://civicdatacooperative.com/residents-assembly/",
+      "locations": [
+        "liverpool-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "Liverpool City Region"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents",
+        "data": {
+          "layout": "generic",
+          "title": "Liverpool City Region Residents' Assembly on Data and AI-Liverpool City Region Residents",
+          "airtable_id": "b1a0bcab8f65a7d9",
+          "slug": "liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents",
+          "locations": [
+            "liverpool-united-kingdom"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "Liverpool City Region",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens’ Assembly"
+          ],
+          "on-average-how-many-hours-did-each-participant": 27,
+          "name": "Liverpool City Region Residents' Assembly on Data and AI-Liverpool City Region Residents",
+          "group-description": "Liverpool City Region Residents",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 59,
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "recruitment-description": "Sortition recruitment by post",
+          "was-there-a-specific-target-population": "Residents over the age of 18",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "lcr-civic-data-cooperative",
+        "data": {
+          "layout": "organisation",
+          "title": "LCR Civic Data Cooperative",
+          "airtable_id": "7fd7074922563db9",
+          "slug": "lcr-civic-data-cooperative",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research",
+            "Non-profit"
+          ],
+          "website-address": "https://civicdatacooperative.com/",
+          "name": "LCR Civic Data Cooperative",
+          "lead-organisation-for": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "main-location": [
+            "liverpool-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cheshire-merseyside-icb",
+        "data": {
+          "layout": "organisation",
+          "title": "Cheshire & Merseyside ICB",
+          "airtable_id": "14d9cad1b38e8cac",
+          "slug": "cheshire-merseyside-icb",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.cheshireandmerseyside.nhs.uk/",
+          "name": "Cheshire & Merseyside ICB",
+          "lead-organisation-for": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-liverpool",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Liverpool",
+          "airtable_id": "e5ddeff7a7e03dcb",
+          "slug": "university-of-liverpool",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.liverpool.ac.uk/",
+          "name": "University of Liverpool",
+          "lead-organisation-for": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "main-location": [
+            "liverpool-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "liverpool-city-region-combined-authority",
+        "data": {
+          "layout": "organisation",
+          "title": "Liverpool City Region Combined Authority",
+          "airtable_id": "cdcad3a41716f3fa",
+          "slug": "liverpool-city-region-combined-authority",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.liverpoolcityregion-ca.gov.uk/",
+          "name": "Liverpool City Region Combined Authority",
+          "lead-organisation-for": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "main-location": [
+            "liverpool-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes",
+        "data": {
+          "layout": "generic",
+          "title": "An independent review takes place at minimum every two years on partners’ use of the Charter. Changes to the Charter are informed by this review.",
+          "airtable_id": "cd4f953d8ad8054d",
+          "slug": "an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #11 Oversight",
+          "name": "An independent review takes place at minimum every two years on partners’ use of the Charter. Changes to the Charter are informed by this review.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai",
+        "data": {
+          "layout": "generic",
+          "title": "Communicate on outcomes through a public register of data and AI projects. Flag projects which use AI to raise awareness.",
+          "airtable_id": "dfa11f4dc26585b3",
+          "slug": "communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #8 Trustworthy",
+          "name": "Communicate on outcomes through a public register of data and AI projects. Flag projects which use AI to raise awareness.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a",
+        "data": {
+          "layout": "generic",
+          "title": "Ensure that actions have consequences. Projects and people must recognise that innovation with data and AI has risks. Harms and risks must be appropriately managed throughout the lifecycle of a project.",
+          "airtable_id": "ece63dcb8479a407",
+          "slug": "ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #9 Governance",
+          "name": "Ensure that actions have consequences. Projects and people must recognise that innovation with data and AI has risks. Harms and risks must be appropriately managed throughout the lifecycle of a project.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d",
+        "data": {
+          "layout": "generic",
+          "title": "My hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that. ",
+          "airtable_id": "5c6bcb931ee4e34c",
+          "slug": "my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d",
+          "type": "Quote",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Assembly Participant, Table 6, Day 4",
+          "name": "My hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that. ",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an",
+        "data": {
+          "layout": "generic",
+          "title": "Use Data and AI to drive innovation in the LCR. But counteract negative impacts on the environment and wellbeing of future generations. Where data and AI negatively impact employment make sure this is offset by upskilling and benefits to community. Bureaucracy should not stifle community benefit.",
+          "airtable_id": "72a51a88d5fbc4d4",
+          "slug": "use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #10 Balanced Innovation",
+          "name": "Use Data and AI to drive innovation in the LCR. But counteract negative impacts on the environment and wellbeing of future generations. Where data and AI negatively impact employment make sure this is offset by upskilling and benefits to community. Bureaucracy should not stifle community benefit.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "protect-the-dignity-identities-and-privacy-of-lcr-residents",
+        "data": {
+          "layout": "generic",
+          "title": "Protect the dignity, identities and privacy of LCR residents.",
+          "airtable_id": "51de73db901dbf74",
+          "slug": "protect-the-dignity-identities-and-privacy-of-lcr-residents",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #6 Privacy",
+          "name": "Protect the dignity, identities and privacy of LCR residents.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po",
+        "data": {
+          "layout": "generic",
+          "title": "Use data and AI for the good and benefit of the community and the Liverpool City Region (LCR). Where possible, benefits should reach wider society as well. ",
+          "airtable_id": "0738c2232c714a2b",
+          "slug": "use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #1 Beneficial",
+          "name": "Use data and AI for the good and benefit of the community and the Liverpool City Region (LCR). Where possible, benefits should reach wider society as well. ",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people",
+        "data": {
+          "layout": "generic",
+          "title": "My fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.",
+          "airtable_id": "e5c315d0552c8429",
+          "slug": "my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people",
+          "type": "Quote",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Assembly Participant, Table 2, Day 3",
+          "name": "My fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r",
+        "data": {
+          "layout": "generic",
+          "title": "Keep up to date on legislation and policy changes on data and AI. Always abide by and adhere to the rule of law.",
+          "airtable_id": "6ab93821008d9522",
+          "slug": "keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #7 Legality",
+          "name": "Keep up to date on legislation and policy changes on data and AI. Always abide by and adhere to the rule of law.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr",
+        "data": {
+          "layout": "generic",
+          "title": "Ensure that the Five Safes (Safe Data, Projects, People, Settings, and Outputs) and the UK General Data Protection Regulation are being adhered to.",
+          "airtable_id": "6a3e44e6dcbace12",
+          "slug": "ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #2 Security",
+          "name": "Ensure that the Five Safes (Safe Data, Projects, People, Settings, and Outputs) and the UK General Data Protection Regulation are being adhered to.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and",
+        "data": {
+          "layout": "generic",
+          "title": "Inspire trust between organisations and residents by being honest in how data is collected, used, and implemented in projects.",
+          "airtable_id": "382bffbbfc7f8234",
+          "slug": "inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and",
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #4 Transparency",
+          "name": "Inspire trust between organisations and residents by being honest in how data is collected, used, and implemented in projects.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p",
+        "data": {
+          "layout": "generic",
+          "title": "Ensure accountability at all levels including a declaration of responsibility for each data and AI project.",
+          "airtable_id": "6cd05badcffe66e7",
+          "slug": "ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #3 Accountability",
+          "name": "Ensure accountability at all levels including a declaration of responsibility for each data and AI project.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div",
+        "data": {
+          "layout": "generic",
+          "title": "Promote fairness, universal access, and equity in the development of data and AI innovation. Ensure diverse and affected communities are involved and heard throughout the life of the project.",
+          "airtable_id": "64e9a4c4a652dab1",
+          "slug": "promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Principle #5 Inclusivity",
+          "name": "Promote fairness, universal access, and equity in the development of data and AI innovation. Ensure diverse and affected communities are involved and heard throughout the life of the project.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse",
+        "data": {
+          "layout": "generic",
+          "title": "I'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.",
+          "airtable_id": "2ecb8e02b7ff898e",
+          "slug": "im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse",
+          "type": "Quote",
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "additional-credit-line": "Assembly Participant, Table 2 Day 3",
+          "name": "I'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "liverpool-city-region-residents-assembly-on-data-and-ai"
+          ],
+          "layout": "generic",
+          "slug": "liverpool-city-region-residents-assembly-on-data-and-ai-process",
+          "title": "Liverpool City Region Residents' Assembly on Data and AI - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Liverpool City Region Residents' Assembly on Data and AI-Liverpool City Region Residents",
+        "airtable_id": "b1a0bcab8f65a7d9",
+        "slug": "liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents",
+        "locations": [
+          "liverpool-united-kingdom"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "Liverpool City Region",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens’ Assembly"
+        ],
+        "on-average-how-many-hours-did-each-participant": 27,
+        "name": "Liverpool City Region Residents' Assembly on Data and AI-Liverpool City Region Residents",
+        "group-description": "Liverpool City Region Residents",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 59,
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "recruitment-description": "Sortition recruitment by post",
+        "was-there-a-specific-target-population": "Residents over the age of 18",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "layout": "generic",
+        "slug": "liverpool-city-region-residents-assembly-on-data-and-ai-process",
+        "title": "Liverpool City Region Residents' Assembly on Data and AI - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "LCR Civic Data Cooperative",
+        "airtable_id": "7fd7074922563db9",
+        "slug": "lcr-civic-data-cooperative",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research",
+          "Non-profit"
+        ],
+        "website-address": "https://civicdatacooperative.com/",
+        "name": "LCR Civic Data Cooperative",
+        "lead-organisation-for": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "main-location": [
+          "liverpool-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Cheshire & Merseyside ICB",
+        "airtable_id": "14d9cad1b38e8cac",
+        "slug": "cheshire-merseyside-icb",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.cheshireandmerseyside.nhs.uk/",
+        "name": "Cheshire & Merseyside ICB",
+        "lead-organisation-for": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Liverpool",
+        "airtable_id": "e5ddeff7a7e03dcb",
+        "slug": "university-of-liverpool",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.liverpool.ac.uk/",
+        "name": "University of Liverpool",
+        "lead-organisation-for": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "main-location": [
+          "liverpool-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Liverpool City Region Combined Authority",
+        "airtable_id": "cdcad3a41716f3fa",
+        "slug": "liverpool-city-region-combined-authority",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.liverpoolcityregion-ca.gov.uk/",
+        "name": "Liverpool City Region Combined Authority",
+        "lead-organisation-for": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "main-location": [
+          "liverpool-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "An independent review takes place at minimum every two years on partners’ use of the Charter. Changes to the Charter are informed by this review.",
+        "airtable_id": "cd4f953d8ad8054d",
+        "slug": "an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #11 Oversight",
+        "name": "An independent review takes place at minimum every two years on partners’ use of the Charter. Changes to the Charter are informed by this review.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Communicate on outcomes through a public register of data and AI projects. Flag projects which use AI to raise awareness.",
+        "airtable_id": "dfa11f4dc26585b3",
+        "slug": "communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #8 Trustworthy",
+        "name": "Communicate on outcomes through a public register of data and AI projects. Flag projects which use AI to raise awareness.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Ensure that actions have consequences. Projects and people must recognise that innovation with data and AI has risks. Harms and risks must be appropriately managed throughout the lifecycle of a project.",
+        "airtable_id": "ece63dcb8479a407",
+        "slug": "ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #9 Governance",
+        "name": "Ensure that actions have consequences. Projects and people must recognise that innovation with data and AI has risks. Harms and risks must be appropriately managed throughout the lifecycle of a project.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "My hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that. ",
+        "airtable_id": "5c6bcb931ee4e34c",
+        "slug": "my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d",
+        "type": "Quote",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Assembly Participant, Table 6, Day 4",
+        "name": "My hope is that if used with the best interests with the public in mind, the use of data and AI can drastically improve healthcare, public services, education, and local services like that. ",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Use Data and AI to drive innovation in the LCR. But counteract negative impacts on the environment and wellbeing of future generations. Where data and AI negatively impact employment make sure this is offset by upskilling and benefits to community. Bureaucracy should not stifle community benefit.",
+        "airtable_id": "72a51a88d5fbc4d4",
+        "slug": "use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #10 Balanced Innovation",
+        "name": "Use Data and AI to drive innovation in the LCR. But counteract negative impacts on the environment and wellbeing of future generations. Where data and AI negatively impact employment make sure this is offset by upskilling and benefits to community. Bureaucracy should not stifle community benefit.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Protect the dignity, identities and privacy of LCR residents.",
+        "airtable_id": "51de73db901dbf74",
+        "slug": "protect-the-dignity-identities-and-privacy-of-lcr-residents",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #6 Privacy",
+        "name": "Protect the dignity, identities and privacy of LCR residents.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Use data and AI for the good and benefit of the community and the Liverpool City Region (LCR). Where possible, benefits should reach wider society as well. ",
+        "airtable_id": "0738c2232c714a2b",
+        "slug": "use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #1 Beneficial",
+        "name": "Use data and AI for the good and benefit of the community and the Liverpool City Region (LCR). Where possible, benefits should reach wider society as well. ",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "My fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.",
+        "airtable_id": "e5c315d0552c8429",
+        "slug": "my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people",
+        "type": "Quote",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Assembly Participant, Table 2, Day 3",
+        "name": "My fear is the downside – AI will just be used really to make money rather than benefiting the people or the majority.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Keep up to date on legislation and policy changes on data and AI. Always abide by and adhere to the rule of law.",
+        "airtable_id": "6ab93821008d9522",
+        "slug": "keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #7 Legality",
+        "name": "Keep up to date on legislation and policy changes on data and AI. Always abide by and adhere to the rule of law.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Ensure that the Five Safes (Safe Data, Projects, People, Settings, and Outputs) and the UK General Data Protection Regulation are being adhered to.",
+        "airtable_id": "6a3e44e6dcbace12",
+        "slug": "ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #2 Security",
+        "name": "Ensure that the Five Safes (Safe Data, Projects, People, Settings, and Outputs) and the UK General Data Protection Regulation are being adhered to.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Inspire trust between organisations and residents by being honest in how data is collected, used, and implemented in projects.",
+        "airtable_id": "382bffbbfc7f8234",
+        "slug": "inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and",
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #4 Transparency",
+        "name": "Inspire trust between organisations and residents by being honest in how data is collected, used, and implemented in projects.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Ensure accountability at all levels including a declaration of responsibility for each data and AI project.",
+        "airtable_id": "6cd05badcffe66e7",
+        "slug": "ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #3 Accountability",
+        "name": "Ensure accountability at all levels including a declaration of responsibility for each data and AI project.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Promote fairness, universal access, and equity in the development of data and AI innovation. Ensure diverse and affected communities are involved and heard throughout the life of the project.",
+        "airtable_id": "64e9a4c4a652dab1",
+        "slug": "promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Principle #5 Inclusivity",
+        "name": "Promote fairness, universal access, and equity in the development of data and AI innovation. Ensure diverse and affected communities are involved and heard throughout the life of the project.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "I'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.",
+        "airtable_id": "2ecb8e02b7ff898e",
+        "slug": "im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse",
+        "type": "Quote",
+        "cases": [
+          "liverpool-city-region-residents-assembly-on-data-and-ai"
+        ],
+        "additional-credit-line": "Assembly Participant, Table 2 Day 3",
+        "name": "I'm just hopeful that we can be a voice for the people in the region like because it's such a diverse group. You’ve got everyone – people from all walks of life.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ]
+  }
+}

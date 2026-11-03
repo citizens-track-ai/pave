@@ -1,0 +1,96 @@
+{
+  "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework",
+  "lang": "en",
+  "structure": "process-centric",
+  "case_data": {
+    "layout": "case",
+    "title": "Digital Climate Technology Infrastructure Readiness Mapping Framework",
+    "airtable_id": "81c0a470fcf442a4",
+    "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework",
+    "redirect_from": [
+      "/c/81c0a470fcf442a4/"
+    ],
+    "provide-a-brief-description-of-the-project": "This research project at Imperial College London has developed and applied a novel participatory stakeholder asset-mapping framework to assess readiness for digital and AI-enabled climate technologies in climate-extreme setting and climate-vulnerable communities. The methodology brings together community members, Indigenous and local knowledge holders, policymakers, infrastructure providers, and technology stakeholders to map existing assets, capacities, governance arrangements, and future opportunities for climate adaptation technologies.\nIt allows for the identification of both top-down governance assets (such as policies, funding mechanisms, and regulatory frameworks) and bottom-up implementation assets (including digital infrastructure, data systems, training initiatives, and emerging AI applications). Results are combined with geospatial infrastructure data to visualize strengths, gaps, and priorities for technology deployment.\nThe novel Framework demonstrates how participatory engagement can inform the governance and implementation of AI-enabled climate solutions by incorporating local knowledge, supporting inclusive decision-making, and helping communities shape future technology pathways for climate resilience and adaptation. \n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "Complete",
+    "headline-findings": "\n",
+    "what-year-did-the-project-start": 2024,
+    "inclusion-efforts": "\n",
+    "project-title": "Digital Climate Technology Infrastructure Readiness Mapping Framework",
+    "submitted-by": "Marta Koch",
+    "why-is-this-project-important-to-include-in-the": "This project is important to include because it demonstrates how participatory approaches can be applied to the governance and deployment of AI-enabled technologies in climate-vulnerable regions that are often underrepresented in global AI governance discussions.\nThe novel Framework was developed at Imperial College London through cross-sector stakeholder engagement involving participants from academia, government, industry, Indigenous organisations, and civil society. It creates a structured process for bringing together diverse perspectives to identify existing digital and climate technology assets, governance capacities, implementation gaps, and future priorities. In doing so, it helps ensure that decisions about AI-enabled climate technologies are informed not only by technical expertise but also by local knowledge, community priorities, and lived experience.\nA distinctive feature of the project is its integration of stakeholder asset mapping, technology readiness assessment, governance analysis, and geospatial infrastructure mapping. This enables participants to explore how AI, Earth observation systems, digital infrastructure, and environmental data governance interact within real-world social, environmental, and institutional contexts. The approach moves beyond consultation by producing actionable outputs that can support policy development, infrastructure planning, capacity-building, and equitable technology deployment.\nThe project is also highly relevant to emerging international discussions on AI governance, environmental information access, and public participation. It highlights the importance of adapting AI governance and implementation strategies to local governance, cultural, socioeconomic, and environmental realities, including recognition of Indigenous and local knowledge systems. As AI becomes increasingly integrated into climate adaptation, environmental monitoring, and sustainability planning, this case offers a transferable model for ensuring that public and stakeholder voices meaningfully shape the development, governance, and use of these technologies.\nThe Framework therefore contributes a novel example of participatory AI governance that connects citizen and stakeholder engagement with practical decision-making on digital infrastructure, environmental information systems, and climate resilience.\nThe Climate Technology Infrastructure Readiness Mapping Framework was published in Nature Reviews Earth & Environment (2025) and has been shared through a range of international science-policy and governance platforms. These include the UNECE Regional Forum on Sustainable Development (2026), the 11th UN Multi-stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals (STI Forum) (2026), the UN Climate Technology Centre and Network (CTCN) 27th Advisory Board Meeting (2026), and the 30th UNECE Aarhus Convention Working Group of the Parties thematic discussion on environmental information governance, AI, and emerging technologies (2026).",
+    "supporting-resources": [
+      "nature-article-publication"
+    ],
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A research poster",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.nature.com/articles/s43017-025-00737-z"
+  },
+  "tree": {
+    "type": "case",
+    "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework",
+    "data": {
+      "layout": "case",
+      "title": "Digital Climate Technology Infrastructure Readiness Mapping Framework",
+      "airtable_id": "81c0a470fcf442a4",
+      "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework",
+      "redirect_from": [
+        "/c/81c0a470fcf442a4/"
+      ],
+      "provide-a-brief-description-of-the-project": "This research project at Imperial College London has developed and applied a novel participatory stakeholder asset-mapping framework to assess readiness for digital and AI-enabled climate technologies in climate-extreme setting and climate-vulnerable communities. The methodology brings together community members, Indigenous and local knowledge holders, policymakers, infrastructure providers, and technology stakeholders to map existing assets, capacities, governance arrangements, and future opportunities for climate adaptation technologies.\nIt allows for the identification of both top-down governance assets (such as policies, funding mechanisms, and regulatory frameworks) and bottom-up implementation assets (including digital infrastructure, data systems, training initiatives, and emerging AI applications). Results are combined with geospatial infrastructure data to visualize strengths, gaps, and priorities for technology deployment.\nThe novel Framework demonstrates how participatory engagement can inform the governance and implementation of AI-enabled climate solutions by incorporating local knowledge, supporting inclusive decision-making, and helping communities shape future technology pathways for climate resilience and adaptation. \n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "Complete",
+      "headline-findings": "\n",
+      "what-year-did-the-project-start": 2024,
+      "inclusion-efforts": "\n",
+      "project-title": "Digital Climate Technology Infrastructure Readiness Mapping Framework",
+      "submitted-by": "Marta Koch",
+      "why-is-this-project-important-to-include-in-the": "This project is important to include because it demonstrates how participatory approaches can be applied to the governance and deployment of AI-enabled technologies in climate-vulnerable regions that are often underrepresented in global AI governance discussions.\nThe novel Framework was developed at Imperial College London through cross-sector stakeholder engagement involving participants from academia, government, industry, Indigenous organisations, and civil society. It creates a structured process for bringing together diverse perspectives to identify existing digital and climate technology assets, governance capacities, implementation gaps, and future priorities. In doing so, it helps ensure that decisions about AI-enabled climate technologies are informed not only by technical expertise but also by local knowledge, community priorities, and lived experience.\nA distinctive feature of the project is its integration of stakeholder asset mapping, technology readiness assessment, governance analysis, and geospatial infrastructure mapping. This enables participants to explore how AI, Earth observation systems, digital infrastructure, and environmental data governance interact within real-world social, environmental, and institutional contexts. The approach moves beyond consultation by producing actionable outputs that can support policy development, infrastructure planning, capacity-building, and equitable technology deployment.\nThe project is also highly relevant to emerging international discussions on AI governance, environmental information access, and public participation. It highlights the importance of adapting AI governance and implementation strategies to local governance, cultural, socioeconomic, and environmental realities, including recognition of Indigenous and local knowledge systems. As AI becomes increasingly integrated into climate adaptation, environmental monitoring, and sustainability planning, this case offers a transferable model for ensuring that public and stakeholder voices meaningfully shape the development, governance, and use of these technologies.\nThe Framework therefore contributes a novel example of participatory AI governance that connects citizen and stakeholder engagement with practical decision-making on digital infrastructure, environmental information systems, and climate resilience.\nThe Climate Technology Infrastructure Readiness Mapping Framework was published in Nature Reviews Earth & Environment (2025) and has been shared through a range of international science-policy and governance platforms. These include the UNECE Regional Forum on Sustainable Development (2026), the 11th UN Multi-stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals (STI Forum) (2026), the UN Climate Technology Centre and Network (CTCN) 27th Advisory Board Meeting (2026), and the 30th UNECE Aarhus Convention Working Group of the Parties thematic discussion on environmental information governance, AI, and emerging technologies (2026).",
+      "supporting-resources": [
+        "nature-article-publication"
+      ],
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A research poster",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.nature.com/articles/s43017-025-00737-z"
+    },
+    "children": [
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "digital-climate-technology-infrastructure-readiness-mapping-framework"
+          ],
+          "layout": "generic",
+          "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework-process",
+          "title": "Digital Climate Technology Infrastructure Readiness Mapping Framework - Process"
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [],
+    "processes": [
+      {
+        "cases": [
+          "digital-climate-technology-infrastructure-readiness-mapping-framework"
+        ],
+        "layout": "generic",
+        "slug": "digital-climate-technology-infrastructure-readiness-mapping-framework-process",
+        "title": "Digital Climate Technology Infrastructure Readiness Mapping Framework - Process"
+      }
+    ],
+    "organisations": [],
+    "outputs": []
+  }
+}

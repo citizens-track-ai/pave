@@ -1,0 +1,2385 @@
+{
+  "slug": "exploring-childrens-rights-and-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Exploring Children's Rights and AI",
+    "airtable_id": "5f0fd43c4a76c2b1",
+    "slug": "exploring-childrens-rights-and-ai",
+    "redirect_from": [
+      "/c/5f0fd43c4a76c2b1/"
+    ],
+    "lead-organisations": [
+      "scottish-ai-alliance",
+      "childrens-parliament",
+      "the-alan-turing-institute"
+    ],
+    "provide-a-brief-description-of-the-project": "The Exploring Children’s Rights and A.I project (2022-2025), delivered in partnership with the Scottish A.I Alliance and The Alan Turing Institute, was an internationally trail blazing investigation into children’s views of A.I and its impact on their lives and rights.\n\nOver the course of the project, our team worked with 140 children aged 8 to 12 years from 6 schools across Scotland. The children were optimistic about A.I possibilities, but they had real concerns about the impact that A.I could have on their lives, and they shared ideas for what needs to change now to prevent potential future harm.\n\nThe project’s outputs included films, reports, resources, and children’s Calls to Action.\n",
+    "what-limitations-to-the-project-should-be-noted": "**Who took part and cultural change**\nA limitation of the work is that all workshops were carried out in mainstream education settings. Further work is needed to fully understand the rights implications for children who are not in mainstream school settings. This should include children who are educated in specialist school settings, residential schools, educated at home and children who are not regularly attending school. \nThe partners we worked with were self-selecting; they responded to the callout from SAIA and demonstrated, in doing so, a ready-made willingness to engage with a rights-based approach and a base-level understanding of the value to their work of consulting with children. Each organisation also had prior experience of working directly with children in some capacity. It does still raise the question of how culture change can be brought about across the full range of organisations working with AI, many of whom will have no experience at all of engaging in processes like this.\n\n**Embedding impact**\nWith the first two stages of the project concluded and a clear picture of children’s priorities on A.I. and children’s human rights established, the final stage of the project focused on driving change. In summer 2024, further funding was secured from the Scottish A.I. Alliance to embed the calls to action and develop resources to support the professionals involved in this process. The Children’s Parliament team developed two key outputs: an online learning resource for adults who work with A.I. called ‘Why Children’s Rights Matter in A.I.’, and the ‘Exploring Children’s Rights and A.I. Teaching Pack’ for educators to use with primary school children. Alongside this work, the team continued to share project findings and calls to action across Scotland and internationally to ensure that national decision makers were equipped with the knowledge they needed to take children’s views into account.\n",
+    "project-status": "Complete",
+    "headline-findings": "The children developed 12 calls to action from the key issues that had been identified by participating children in relation to A.I. and children’s human rights. These calls to action - written by the children in their own words - reflect the changes that participating children consider necessary for A.I. to play a role in supporting children’s human rights in Scotland, with additional protections to prevent harms resulting from the development and use of these technologies. \n\nThe 12 calls to action are below. Also in a video https://youtu.be/Mwgpf21B1GE?si=8_M31Q_WT1v2Ao4h\n\nFairness and Bias\n1. Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.\n2. Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.\n3. Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.\nSafety and Security \n1. There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.\n2. Companies should not use children’s data to train A.I. systems without children being asked.\n3. Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.\nA.I. in Education\n1. A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.\n2. Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.\n3. A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.\nLearning about A.I.\n1. A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.\n2. More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.\n\n1. Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.\n\n\n",
+    "participants": [
+      "exploring-childrens-rights-and-ai-classroom-workshops",
+      "exploring-childrens-rights-and-ai-survey",
+      "exploring-childrens-rights-and-ai-cross-school-group"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues",
+      "Future issues",
+      "Generative AI",
+      "Predictive AI"
+    ],
+    "messages": [
+      "children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr",
+      "lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they",
+      "adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex",
+      "teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t",
+      "there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co",
+      "companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked",
+      "children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a",
+      "ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers",
+      "teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh",
+      "ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi",
+      "ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un",
+      "more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will"
+    ],
+    "theme": [
+      "Youth"
+    ],
+    "what-year-did-the-project-start": 2022,
+    "funding-organisations": [
+      "scottish-ai-alliance",
+      "the-alan-turing-institute"
+    ],
+    "additional-acknowledgements": "Gregory Metcalfe (Children's Parliament), Rona Blackwood (Children's Parliament)",
+    "inclusion-efforts": "We worked with a range of schools across Scotland to **capture urban, rural and island communities.** We identified schools and children within those communities who are both **representative of the community and come from marginalised groups** including those from minority ethnic communities, refugees and asylum seekers and children with additional support needs. We worked with the Alan Turing Institute and skilled creative artists to help translate and articulate complex concepts to children through **playful and creative methods**. \n\nWe used a **child rights approach** ensuring children were able to participate  in a variety of ways to suit their own skills and interests and in ways which ensured they felt safe and supported. This project demonstrated a children’s rights approach through: \n\nBuilding the capacity and agency of children as rights-holders to claim their rights - we ensured children had a thorough knowledge of A.I. and children’s rights, and experienced being respected, listened to, and taken seriously. Project planning and delivery was inclusive and child friendly with fun, creative and easy to follow activities so children could explore the topic and share their thoughts confidently. \n\nSupporting children to defend their rights and those of others- we supported children to gather the views of other children through class missions and surveys and to articulate their collated calls for change with decision makers.\n\nBuilding the capacity of duty-bearers to fulfil their obligations to children - we facilitated the direct engagement of children with decision makers at the A.I. Summits and sharing events; the dissemination of calls to action and resources ensured duty bearers had a clear understanding of children’s views on A.I. in relation to their rights. \n\nRecognising relationships based in human rights values are necessary for realising children’s rights - we demonstrated the values of kindness, trust and respect for human dignity and encouraged participating children and adults to do the same. \n\nEstablishing an environment that supports children to participate and advocate effectively for themselves - we demonstrated in practice how children can meaningfully participate, disrupting adult-child hierarchies, and created an environment where children felt able to share their thoughts and ideas openly. We collaborated with artists throughout the process which provided children with new and hands-on experiences and empowered them to express their thoughts and ideas. \n\nEnabling adults to benefit from the rich learning intrinsic to a children’s rights approach - adults around the project - including parents and carers, teachers, project and A.I. partners, practitioners, policy leads, academics and decision makers - had the opportunity not only to see the calls to action and resulting resources but to experience the power of rights-based practice \n",
+    "project-title": "Exploring Children's Rights and AI",
+    "submitted-by": "Steph Wright",
+    "why-is-this-project-important-to-include-in-the": "This project deliberately centred children and children's rights and applied that lens to the exploration of AI, as opposed using the lens of AI. Using that lens ensures that children have a say and have a right to be taken seriously in AI governance. It was recognised internationally as being a ground-breaking initiative. \n\nThe work that the children have done over three years provides a wealth of evidence on what children think and feel about AI and its impacts. \n\nThe challenge of how to operationalise the project’s learnings from its engagement with the children remain and this is an opportunity to help drive implementation. \n\nEnsuring that children’s voices are meaningfully represented in the A.I. discourse mirrors a wider structural challenge in AI governance: moving beyond stated commitments to participation toward sustained, influential engagement with affected communities. \n\nThroughout the programme, it became clear that while the importance of hearing from children was widely acknowledged, sustained and embedded mechanisms eluded us. For children in particular, power imbalances, adult-centric decision making, and a reluctance to commit to formal pathways into policy and design processes meant that their insights and influence struggle to impact outcomes in a durable way.  \n\nChildren’s Parliament uses specific rights-based practice to create equitable spaces between children and adults where children feel able to express themselves fully and creatively. This approach allowed both for the complex nature of AI technologies to be explored accessibly with primary aged children, and for those children to speak openly about the ways in which they view these technologies as effecting the lives of children - both positively and negatively.",
+    "photos-and-images": [
+      {
+        "id": "attGzLWy30eTvdlzN",
+        "width": 4500,
+        "height": 3000,
+        "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN.jpg",
+        "filename": "ScotAISummit230328_10_ChildrensRight_StageD_HRes_29.jpg",
+        "size": 4126962,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attAAfxX8OQ4O5fBU",
+        "width": 3600,
+        "height": 3600,
+        "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU.jpg",
+        "filename": "ScotAISummit24_KidsAndAI_08.jpg",
+        "size": 3193913,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_small.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_large.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_full.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attadNkaKNSg6WjhX",
+        "width": 3600,
+        "height": 2400,
+        "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX.jpg",
+        "filename": "ScotAISummit24_05-ChildrenandAI_30.jpg",
+        "size": 2853297,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "Capacity: Build participant capacity to engage with AI",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "exploring-childrens-rights-and-ai-project-reports",
+      "exploring-childrens-rights-and-ai-teaching-pack",
+      "why-childrens-rights-matter-in-ai-a-resource-for-professionals",
+      "exploring-childrens-rights-and-ai-surveys",
+      "exploring-childrens-rights-and-ai-films",
+      "childrens-rights-and-ai-childrens-calls-to-action-findings-video",
+      "exploring-childrens-rights-and-ai-stage-1",
+      "exploring-childrens-rights-and-ai-stage-2"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Exploring AI with children aged 9-11 years across Scotland through the lens of children's rights",
+    "how-was-the-project-initiated": [
+      "Commissioned",
+      "Co-created"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "university-of-edinburghs-centre-for-research-in-digital-education",
+      "digital-skills-education",
+      "west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow",
+      "mesomorphic",
+      "science-ceilidh",
+      "star-of-the-sea-primary-school-edinburgh",
+      "oakwood-primary-school-glasgow",
+      "dunrossness-primary-school-shetland",
+      "doune-primary-school-stirlingshire",
+      "glebelands-primary-school-dundee",
+      "jhp-visuals",
+      "freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge"
+    ],
+    "curation-decision": "Featured Full Case",
+    "project-url": "https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/",
+    "locations": [
+      "doune-scotland-united-kingdom",
+      "dundee-scotland-united-kingdom",
+      "edinburgh-scotland-united-kingdom",
+      "glasgow-scotland-united-kingdom",
+      "shetland-scotland-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "exploring-childrens-rights-and-ai",
+    "data": {
+      "layout": "case",
+      "title": "Exploring Children's Rights and AI",
+      "airtable_id": "5f0fd43c4a76c2b1",
+      "slug": "exploring-childrens-rights-and-ai",
+      "redirect_from": [
+        "/c/5f0fd43c4a76c2b1/"
+      ],
+      "lead-organisations": [
+        "scottish-ai-alliance",
+        "childrens-parliament",
+        "the-alan-turing-institute"
+      ],
+      "provide-a-brief-description-of-the-project": "The Exploring Children’s Rights and A.I project (2022-2025), delivered in partnership with the Scottish A.I Alliance and The Alan Turing Institute, was an internationally trail blazing investigation into children’s views of A.I and its impact on their lives and rights.\n\nOver the course of the project, our team worked with 140 children aged 8 to 12 years from 6 schools across Scotland. The children were optimistic about A.I possibilities, but they had real concerns about the impact that A.I could have on their lives, and they shared ideas for what needs to change now to prevent potential future harm.\n\nThe project’s outputs included films, reports, resources, and children’s Calls to Action.\n",
+      "what-limitations-to-the-project-should-be-noted": "**Who took part and cultural change**\nA limitation of the work is that all workshops were carried out in mainstream education settings. Further work is needed to fully understand the rights implications for children who are not in mainstream school settings. This should include children who are educated in specialist school settings, residential schools, educated at home and children who are not regularly attending school. \nThe partners we worked with were self-selecting; they responded to the callout from SAIA and demonstrated, in doing so, a ready-made willingness to engage with a rights-based approach and a base-level understanding of the value to their work of consulting with children. Each organisation also had prior experience of working directly with children in some capacity. It does still raise the question of how culture change can be brought about across the full range of organisations working with AI, many of whom will have no experience at all of engaging in processes like this.\n\n**Embedding impact**\nWith the first two stages of the project concluded and a clear picture of children’s priorities on A.I. and children’s human rights established, the final stage of the project focused on driving change. In summer 2024, further funding was secured from the Scottish A.I. Alliance to embed the calls to action and develop resources to support the professionals involved in this process. The Children’s Parliament team developed two key outputs: an online learning resource for adults who work with A.I. called ‘Why Children’s Rights Matter in A.I.’, and the ‘Exploring Children’s Rights and A.I. Teaching Pack’ for educators to use with primary school children. Alongside this work, the team continued to share project findings and calls to action across Scotland and internationally to ensure that national decision makers were equipped with the knowledge they needed to take children’s views into account.\n",
+      "project-status": "Complete",
+      "headline-findings": "The children developed 12 calls to action from the key issues that had been identified by participating children in relation to A.I. and children’s human rights. These calls to action - written by the children in their own words - reflect the changes that participating children consider necessary for A.I. to play a role in supporting children’s human rights in Scotland, with additional protections to prevent harms resulting from the development and use of these technologies. \n\nThe 12 calls to action are below. Also in a video https://youtu.be/Mwgpf21B1GE?si=8_M31Q_WT1v2Ao4h\n\nFairness and Bias\n1. Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.\n2. Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.\n3. Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.\nSafety and Security \n1. There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.\n2. Companies should not use children’s data to train A.I. systems without children being asked.\n3. Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.\nA.I. in Education\n1. A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.\n2. Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.\n3. A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.\nLearning about A.I.\n1. A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.\n2. More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.\n\n1. Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.\n\n\n",
+      "participants": [
+        "exploring-childrens-rights-and-ai-classroom-workshops",
+        "exploring-childrens-rights-and-ai-survey",
+        "exploring-childrens-rights-and-ai-cross-school-group"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues",
+        "Future issues",
+        "Generative AI",
+        "Predictive AI"
+      ],
+      "messages": [
+        "children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr",
+        "lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they",
+        "adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex",
+        "teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t",
+        "there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co",
+        "companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked",
+        "children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a",
+        "ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers",
+        "teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh",
+        "ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi",
+        "ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un",
+        "more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will"
+      ],
+      "theme": [
+        "Youth"
+      ],
+      "what-year-did-the-project-start": 2022,
+      "funding-organisations": [
+        "scottish-ai-alliance",
+        "the-alan-turing-institute"
+      ],
+      "additional-acknowledgements": "Gregory Metcalfe (Children's Parliament), Rona Blackwood (Children's Parliament)",
+      "inclusion-efforts": "We worked with a range of schools across Scotland to **capture urban, rural and island communities.** We identified schools and children within those communities who are both **representative of the community and come from marginalised groups** including those from minority ethnic communities, refugees and asylum seekers and children with additional support needs. We worked with the Alan Turing Institute and skilled creative artists to help translate and articulate complex concepts to children through **playful and creative methods**. \n\nWe used a **child rights approach** ensuring children were able to participate  in a variety of ways to suit their own skills and interests and in ways which ensured they felt safe and supported. This project demonstrated a children’s rights approach through: \n\nBuilding the capacity and agency of children as rights-holders to claim their rights - we ensured children had a thorough knowledge of A.I. and children’s rights, and experienced being respected, listened to, and taken seriously. Project planning and delivery was inclusive and child friendly with fun, creative and easy to follow activities so children could explore the topic and share their thoughts confidently. \n\nSupporting children to defend their rights and those of others- we supported children to gather the views of other children through class missions and surveys and to articulate their collated calls for change with decision makers.\n\nBuilding the capacity of duty-bearers to fulfil their obligations to children - we facilitated the direct engagement of children with decision makers at the A.I. Summits and sharing events; the dissemination of calls to action and resources ensured duty bearers had a clear understanding of children’s views on A.I. in relation to their rights. \n\nRecognising relationships based in human rights values are necessary for realising children’s rights - we demonstrated the values of kindness, trust and respect for human dignity and encouraged participating children and adults to do the same. \n\nEstablishing an environment that supports children to participate and advocate effectively for themselves - we demonstrated in practice how children can meaningfully participate, disrupting adult-child hierarchies, and created an environment where children felt able to share their thoughts and ideas openly. We collaborated with artists throughout the process which provided children with new and hands-on experiences and empowered them to express their thoughts and ideas. \n\nEnabling adults to benefit from the rich learning intrinsic to a children’s rights approach - adults around the project - including parents and carers, teachers, project and A.I. partners, practitioners, policy leads, academics and decision makers - had the opportunity not only to see the calls to action and resulting resources but to experience the power of rights-based practice \n",
+      "project-title": "Exploring Children's Rights and AI",
+      "submitted-by": "Steph Wright",
+      "why-is-this-project-important-to-include-in-the": "This project deliberately centred children and children's rights and applied that lens to the exploration of AI, as opposed using the lens of AI. Using that lens ensures that children have a say and have a right to be taken seriously in AI governance. It was recognised internationally as being a ground-breaking initiative. \n\nThe work that the children have done over three years provides a wealth of evidence on what children think and feel about AI and its impacts. \n\nThe challenge of how to operationalise the project’s learnings from its engagement with the children remain and this is an opportunity to help drive implementation. \n\nEnsuring that children’s voices are meaningfully represented in the A.I. discourse mirrors a wider structural challenge in AI governance: moving beyond stated commitments to participation toward sustained, influential engagement with affected communities. \n\nThroughout the programme, it became clear that while the importance of hearing from children was widely acknowledged, sustained and embedded mechanisms eluded us. For children in particular, power imbalances, adult-centric decision making, and a reluctance to commit to formal pathways into policy and design processes meant that their insights and influence struggle to impact outcomes in a durable way.  \n\nChildren’s Parliament uses specific rights-based practice to create equitable spaces between children and adults where children feel able to express themselves fully and creatively. This approach allowed both for the complex nature of AI technologies to be explored accessibly with primary aged children, and for those children to speak openly about the ways in which they view these technologies as effecting the lives of children - both positively and negatively.",
+      "photos-and-images": [
+        {
+          "id": "attGzLWy30eTvdlzN",
+          "width": 4500,
+          "height": 3000,
+          "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN.jpg",
+          "filename": "ScotAISummit230328_10_ChildrensRight_StageD_HRes_29.jpg",
+          "size": 4126962,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attGzLWy30eTvdlzN_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attAAfxX8OQ4O5fBU",
+          "width": 3600,
+          "height": 3600,
+          "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU.jpg",
+          "filename": "ScotAISummit24_KidsAndAI_08.jpg",
+          "size": 3193913,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_small.jpg",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_large.jpg",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attAAfxX8OQ4O5fBU_full.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attadNkaKNSg6WjhX",
+          "width": 3600,
+          "height": 2400,
+          "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX.jpg",
+          "filename": "ScotAISummit24_05-ChildrenandAI_30.jpg",
+          "size": 2853297,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/5f0fd43c4a76c2b1_fldd4B6cpBOP3n3is_attadNkaKNSg6WjhX_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "Capacity: Build participant capacity to engage with AI",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "exploring-childrens-rights-and-ai-project-reports",
+        "exploring-childrens-rights-and-ai-teaching-pack",
+        "why-childrens-rights-matter-in-ai-a-resource-for-professionals",
+        "exploring-childrens-rights-and-ai-surveys",
+        "exploring-childrens-rights-and-ai-films",
+        "childrens-rights-and-ai-childrens-calls-to-action-findings-video",
+        "exploring-childrens-rights-and-ai-stage-1",
+        "exploring-childrens-rights-and-ai-stage-2"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Exploring AI with children aged 9-11 years across Scotland through the lens of children's rights",
+      "how-was-the-project-initiated": [
+        "Commissioned",
+        "Co-created"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "university-of-edinburghs-centre-for-research-in-digital-education",
+        "digital-skills-education",
+        "west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow",
+        "mesomorphic",
+        "science-ceilidh",
+        "star-of-the-sea-primary-school-edinburgh",
+        "oakwood-primary-school-glasgow",
+        "dunrossness-primary-school-shetland",
+        "doune-primary-school-stirlingshire",
+        "glebelands-primary-school-dundee",
+        "jhp-visuals",
+        "freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge"
+      ],
+      "curation-decision": "Featured Full Case",
+      "project-url": "https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/",
+      "locations": [
+        "doune-scotland-united-kingdom",
+        "dundee-scotland-united-kingdom",
+        "edinburgh-scotland-united-kingdom",
+        "glasgow-scotland-united-kingdom",
+        "shetland-scotland-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "exploring-childrens-rights-and-ai-classroom-workshops",
+        "data": {
+          "layout": "generic",
+          "title": "Exploring Children's Rights and AI-Classroom Workshops",
+          "airtable_id": "58ba79538a494800",
+          "slug": "exploring-childrens-rights-and-ai-classroom-workshops",
+          "locations": [
+            "edinburgh-scotland-united-kingdom",
+            "glasgow-scotland-united-kingdom",
+            "doune-scotland-united-kingdom",
+            "shetland-scotland-united-kingdom",
+            "dundee-scotland-united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+          "which-of-the-following-methods-were-used-to": [
+            "Participatory Arts",
+            "Scenario Workshop",
+            "Action Research",
+            "Capacity Building Workshop",
+            "Community-Based Participatory Research",
+            "Peer-Research",
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 70,
+          "name": "Exploring Children's Rights and AI-Classroom Workshops",
+          "group-description": "Classroom Workshops",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "additional-notes": "Here's a quote from one of the children we worked with\n\n\"Children should have a say in how and what they learn about AI because the future will be AI\"",
+          "how-many-people-took-part": 115,
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+          "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "exploring-childrens-rights-and-ai-survey",
+        "data": {
+          "layout": "generic",
+          "title": "Exploring Children's Rights and AI-Survey",
+          "airtable_id": "6d8aaeb94450f2a0",
+          "slug": "exploring-childrens-rights-and-ai-survey",
+          "locations": [
+            "edinburgh-scotland-united-kingdom",
+            "glasgow-scotland-united-kingdom",
+            "doune-scotland-united-kingdom",
+            "shetland-scotland-united-kingdom",
+            "dundee-scotland-united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.75,
+          "name": "Exploring Children's Rights and AI-Survey",
+          "group-description": "Survey",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 1269,
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+          "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "exploring-childrens-rights-and-ai-cross-school-group",
+        "data": {
+          "layout": "generic",
+          "title": "Exploring Children's Rights and AI-Cross-school group",
+          "airtable_id": "a5b8efbc07e3971e",
+          "slug": "exploring-childrens-rights-and-ai-cross-school-group",
+          "locations": [
+            "edinburgh-scotland-united-kingdom",
+            "glasgow-scotland-united-kingdom",
+            "doune-scotland-united-kingdom",
+            "shetland-scotland-united-kingdom",
+            "dundee-scotland-united-kingdom"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+          "which-of-the-following-methods-were-used-to": [
+            "Participatory Arts",
+            "Scenario Workshop",
+            "Action Research",
+            "Capacity Building Workshop",
+            "Community-Based Participatory Research",
+            "Peer-Research",
+            "Co-creation workshops"
+          ],
+          "on-average-how-many-hours-did-each-participant": 110,
+          "name": "Exploring Children's Rights and AI-Cross-school group",
+          "group-description": "Cross-school group",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "additional-notes": "Here's a quote from one of the children we worked with\n\n\"Children should have a say in how and what they learn about AI because the future will be AI\"",
+          "how-many-people-took-part": 25,
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+          "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "jhp-visuals",
+        "data": {
+          "layout": "organisation",
+          "title": "JHP Visuals",
+          "airtable_id": "e0eb1c71f322078a",
+          "slug": "jhp-visuals",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.jhpvisuals.co.uk/",
+          "name": "JHP Visuals",
+          "mission-statement": "To provide professional visual media production, videography, and photography services. (Source: https://www.jhpvisuals.co.uk/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "star-of-the-sea-primary-school-edinburgh",
+        "data": {
+          "layout": "organisation",
+          "title": "Star of the Sea Primary School, Edinburgh",
+          "airtable_id": "fdf022b2b61d6374",
+          "slug": "star-of-the-sea-primary-school-edinburgh",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.starofthesea.edin.sch.uk/",
+          "name": "Star of the Sea Primary School, Edinburgh",
+          "mission-statement": "To encourage our young people to be independent, curious, and responsible learners in a nurturing Catholic community. (Source: https://www.starofthesea.edin.sch.uk/)",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "doune-primary-school-stirlingshire",
+        "data": {
+          "layout": "organisation",
+          "title": "Doune Primary School, Stirlingshire",
+          "airtable_id": "90e3cb7ad7213787",
+          "slug": "doune-primary-school-stirlingshire",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.doune.stirling.sch.uk/",
+          "name": "Doune Primary School, Stirlingshire",
+          "mission-statement": "To work together to nurture happy, healthy, and successful learners within a supportive school community. (Source: https://www.doune.stirling.sch.uk/)",
+          "main-location": [
+            "doune-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "digital-skills-education",
+        "data": {
+          "layout": "organisation",
+          "title": "Digital Skills Education",
+          "airtable_id": "0cc0b24a373170b2",
+          "slug": "digital-skills-education",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://digitalskillseducation.com/",
+          "name": "Digital Skills Education",
+          "mission-statement": "To deliver engaging and accessible digital skills training that empowers people and businesses to succeed in a digital world. (Source: https://digitalskillseducation.com/)",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "scottish-ai-alliance",
+        "data": {
+          "layout": "organisation",
+          "title": "Scottish AI Alliance",
+          "airtable_id": "16cdbc074a55f716",
+          "slug": "scottish-ai-alliance",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.scottishai.com/",
+          "name": "Scottish AI Alliance",
+          "lead-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "mission-statement": "To facilitate the delivery of Scotland's AI Strategy, ensuring that AI is trustworthy, ethical, and inclusive. (Source: https://www.scottishai.com/)",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-edinburghs-centre-for-research-in-digital-education",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Edinburgh's Centre for Research in Digital Education",
+          "airtable_id": "40101a4aa2093889",
+          "slug": "university-of-edinburghs-centre-for-research-in-digital-education",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.de.ed.ac.uk/",
+          "name": "University of Edinburgh's Centre for Research in Digital Education",
+          "mission-statement": "To conduct research in digital education, exploring the intersection of technology, culture, and learning. (Source: https://www.de.ed.ac.uk/)",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "science-ceilidh",
+        "data": {
+          "layout": "organisation",
+          "title": "Science Ceilidh",
+          "airtable_id": "23d381c46e65b939",
+          "slug": "science-ceilidh",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.scienceceilidh.com/",
+          "name": "Science Ceilidh",
+          "mission-statement": "Supporting a Scotland where everyone’s creativity, curiosity and wellbeing are valued.",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "oakwood-primary-school-glasgow",
+        "data": {
+          "layout": "organisation",
+          "title": "Oakwood Primary School, Glasgow",
+          "airtable_id": "16effa3045abdecb",
+          "slug": "oakwood-primary-school-glasgow",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.oakwood-pri.glasgow.sch.uk/",
+          "name": "Oakwood Primary School, Glasgow",
+          "mission-statement": "To build a happy, inclusive, and nurturing school community where all children are inspired to learn and achieve their goals. (Source: https://www.oakwood-pri.glasgow.sch.uk/)",
+          "main-location": [
+            "glasgow-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "glebelands-primary-school-dundee",
+        "data": {
+          "layout": "organisation",
+          "title": "Glebelands Primary School, Dundee",
+          "airtable_id": "e625a392730c8b63",
+          "slug": "glebelands-primary-school-dundee",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.glebelands.dundee.sch.uk/",
+          "name": "Glebelands Primary School, Dundee",
+          "mission-statement": "To provide a safe, caring, and stimulating environment where children are supported to develop their skills and reach their full potential. (Source: https://www.glebelands.dundee.sch.uk/)",
+          "main-location": [
+            "dundee-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "the-alan-turing-institute",
+        "data": {
+          "layout": "organisation",
+          "title": "The Alan Turing Institute",
+          "airtable_id": "631d0beae3d2ed24",
+          "slug": "the-alan-turing-institute",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.turing.ac.uk/",
+          "name": "The Alan Turing Institute",
+          "lead-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "mission-statement": "To make great leaps in data science and AI research in order to change the world for the better. (Source: https://www.turing.ac.uk/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge",
+        "data": {
+          "layout": "organisation",
+          "title": "Freelance artists  - Zeo Fawcett, Eye Suriyanon, Jono Sandilands, Katy Beveridge",
+          "airtable_id": "548c04b755c5b909",
+          "slug": "freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://jonosandilands.com/",
+          "name": "Freelance artists  - Zeo Fawcett, Eye Suriyanon, Jono Sandilands, Katy Beveridge",
+          "mission-statement": "To create visual art, interactive installations, and designs that communicate complex societal issues and engage the public.",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mesomorphic",
+        "data": {
+          "layout": "organisation",
+          "title": "Mesomorphic",
+          "airtable_id": "893aa15c012ab707",
+          "slug": "mesomorphic",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://mesomorphic.co.uk/",
+          "name": "Mesomorphic",
+          "mission-statement": "To build beautiful, robust, and functional web applications that solve real-world business problems and support digital skills. (Source: https://mesomorphic.co.uk/)",
+          "main-location": [
+            "shetland-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "childrens-parliament",
+        "data": {
+          "layout": "organisation",
+          "title": "Children's Parliament",
+          "airtable_id": "1a8dbb7451a4d76f",
+          "slug": "childrens-parliament",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.childrensparliament.org.uk/",
+          "name": "Children's Parliament",
+          "lead-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "mission-statement": "To provide children up to 14 years old with opportunities to share their views and influence policy in Scotland. (Source: https://www.childrensparliament.org.uk/)",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "dunrossness-primary-school-shetland",
+        "data": {
+          "layout": "organisation",
+          "title": "Dunrossness Primary School, Shetland",
+          "airtable_id": "c04ace18d2ca9775",
+          "slug": "dunrossness-primary-school-shetland",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.dunrossness.shetland.sch.uk/",
+          "name": "Dunrossness Primary School, Shetland",
+          "mission-statement": "To provide a happy, safe, and stimulating environment where all children are supported to achieve their best. (Source: https://www.dunrossness.shetland.sch.uk/)",
+          "main-location": [
+            "shetland-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow",
+        "data": {
+          "layout": "organisation",
+          "title": "West of Scotland Innovation Hub (NHS GGC and University of Glasgow)",
+          "airtable_id": "29974d415fd9a674",
+          "slug": "west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.westofscotlandinnovation.scot/",
+          "name": "West of Scotland Innovation Hub (NHS GGC and University of Glasgow)",
+          "mission-statement": "To foster innovation in health and social care by bringing together healthcare professionals, industry, and academia. (Source: https://www.westofscotlandinnovation.scot/)",
+          "main-location": [
+            "glasgow-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a",
+        "data": {
+          "layout": "generic",
+          "title": "Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.",
+          "airtable_id": "51127e2c5eaa4050",
+          "slug": "children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Safety and Security ",
+          "name": "Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will",
+        "data": {
+          "layout": "generic",
+          "title": "More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.",
+          "airtable_id": "ef8b444b95c39445",
+          "slug": "more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Learning about A.I.",
+          "name": "More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t",
+        "data": {
+          "layout": "generic",
+          "title": "Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.",
+          "airtable_id": "a38e71b183daf166",
+          "slug": "teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Learning about A.I.",
+          "name": "Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked",
+        "data": {
+          "layout": "generic",
+          "title": "Companies should not use children’s data to train A.I. systems without children being asked.",
+          "airtable_id": "97eec24075352e50",
+          "slug": "companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Safety and Security ",
+          "name": "Companies should not use children’s data to train A.I. systems without children being asked.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un",
+        "data": {
+          "layout": "generic",
+          "title": "A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.",
+          "airtable_id": "884182a23d365d9d",
+          "slug": "ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Learning about A.I.",
+          "name": "A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi",
+        "data": {
+          "layout": "generic",
+          "title": "A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.",
+          "airtable_id": "f670a06d9b5faa9e",
+          "slug": "ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi",
+          "featured": [
+            "Education"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on A.I. in Education",
+          "name": "A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex",
+        "data": {
+          "layout": "generic",
+          "title": "Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.",
+          "airtable_id": "59c0b657c9a46267",
+          "slug": "adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex",
+          "featured": [
+            "Safety"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Fairness and Bias",
+          "name": "Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co",
+        "data": {
+          "layout": "generic",
+          "title": "There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.",
+          "airtable_id": "6fbee97464baa0b6",
+          "slug": "there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Safety and Security ",
+          "name": "There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers",
+        "data": {
+          "layout": "generic",
+          "title": "A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.",
+          "airtable_id": "fff9a93a0d3ec15b",
+          "slug": "ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers",
+          "featured": [
+            "Education"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on A.I. in Education",
+          "name": "A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they",
+        "data": {
+          "layout": "generic",
+          "title": "Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.",
+          "airtable_id": "4f0e8de0e020d53b",
+          "slug": "lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Fairness and Bias",
+          "name": "Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr",
+        "data": {
+          "layout": "generic",
+          "title": "Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.",
+          "airtable_id": "a2688f96e79ca9bf",
+          "slug": "children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on Fairness and Bias",
+          "name": "Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh",
+        "data": {
+          "layout": "generic",
+          "title": "Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.",
+          "airtable_id": "344fccba8e099940",
+          "slug": "teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh",
+          "type": "Recommendation",
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "additional-credit-line": "Calls to action on A.I. in Education",
+          "name": "Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "exploring-childrens-rights-and-ai"
+          ],
+          "layout": "generic",
+          "slug": "exploring-childrens-rights-and-ai-process",
+          "title": "Exploring Children's Rights and AI - Process",
+          "theme": [
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Future issues",
+            "Generative AI",
+            "Predictive AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Exploring Children's Rights and AI-Classroom Workshops",
+        "airtable_id": "58ba79538a494800",
+        "slug": "exploring-childrens-rights-and-ai-classroom-workshops",
+        "locations": [
+          "edinburgh-scotland-united-kingdom",
+          "glasgow-scotland-united-kingdom",
+          "doune-scotland-united-kingdom",
+          "shetland-scotland-united-kingdom",
+          "dundee-scotland-united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+        "which-of-the-following-methods-were-used-to": [
+          "Participatory Arts",
+          "Scenario Workshop",
+          "Action Research",
+          "Capacity Building Workshop",
+          "Community-Based Participatory Research",
+          "Peer-Research",
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 70,
+        "name": "Exploring Children's Rights and AI-Classroom Workshops",
+        "group-description": "Classroom Workshops",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "additional-notes": "Here's a quote from one of the children we worked with\n\n\"Children should have a say in how and what they learn about AI because the future will be AI\"",
+        "how-many-people-took-part": 115,
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+        "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Exploring Children's Rights and AI-Survey",
+        "airtable_id": "6d8aaeb94450f2a0",
+        "slug": "exploring-childrens-rights-and-ai-survey",
+        "locations": [
+          "edinburgh-scotland-united-kingdom",
+          "glasgow-scotland-united-kingdom",
+          "doune-scotland-united-kingdom",
+          "shetland-scotland-united-kingdom",
+          "dundee-scotland-united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.75,
+        "name": "Exploring Children's Rights and AI-Survey",
+        "group-description": "Survey",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 1269,
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+        "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Exploring Children's Rights and AI-Cross-school group",
+        "airtable_id": "a5b8efbc07e3971e",
+        "slug": "exploring-childrens-rights-and-ai-cross-school-group",
+        "locations": [
+          "edinburgh-scotland-united-kingdom",
+          "glasgow-scotland-united-kingdom",
+          "doune-scotland-united-kingdom",
+          "shetland-scotland-united-kingdom",
+          "dundee-scotland-united-kingdom"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Edinburgh, Glasgow, Doune, Shetland and Dundee, all in Scotland",
+        "which-of-the-following-methods-were-used-to": [
+          "Participatory Arts",
+          "Scenario Workshop",
+          "Action Research",
+          "Capacity Building Workshop",
+          "Community-Based Participatory Research",
+          "Peer-Research",
+          "Co-creation workshops"
+        ],
+        "on-average-how-many-hours-did-each-participant": 110,
+        "name": "Exploring Children's Rights and AI-Cross-school group",
+        "group-description": "Cross-school group",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "additional-notes": "Here's a quote from one of the children we worked with\n\n\"Children should have a say in how and what they learn about AI because the future will be AI\"",
+        "how-many-people-took-part": 25,
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "recruitment-description": "Identified urban, rural and Island communities 2) Identified schools in these areas with children from diverse communities and who were keen an able to commit to and support the project through dialogue with Local Authority Heads of Service  3) We worked with whole classes in these schools for the evidence gathering sessions and a smaller cohort of 25 children from across the schools for the analysis and presentation work - these children were selected based on ensuring diversity and interest",
+        "was-there-a-specific-target-population": "P5-P7 children across Scotland - aged 9-11 years",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "layout": "generic",
+        "slug": "exploring-childrens-rights-and-ai-process",
+        "title": "Exploring Children's Rights and AI - Process",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "JHP Visuals",
+        "airtable_id": "e0eb1c71f322078a",
+        "slug": "jhp-visuals",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.jhpvisuals.co.uk/",
+        "name": "JHP Visuals",
+        "mission-statement": "To provide professional visual media production, videography, and photography services. (Source: https://www.jhpvisuals.co.uk/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Star of the Sea Primary School, Edinburgh",
+        "airtable_id": "fdf022b2b61d6374",
+        "slug": "star-of-the-sea-primary-school-edinburgh",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.starofthesea.edin.sch.uk/",
+        "name": "Star of the Sea Primary School, Edinburgh",
+        "mission-statement": "To encourage our young people to be independent, curious, and responsible learners in a nurturing Catholic community. (Source: https://www.starofthesea.edin.sch.uk/)",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Doune Primary School, Stirlingshire",
+        "airtable_id": "90e3cb7ad7213787",
+        "slug": "doune-primary-school-stirlingshire",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.doune.stirling.sch.uk/",
+        "name": "Doune Primary School, Stirlingshire",
+        "mission-statement": "To work together to nurture happy, healthy, and successful learners within a supportive school community. (Source: https://www.doune.stirling.sch.uk/)",
+        "main-location": [
+          "doune-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Digital Skills Education",
+        "airtable_id": "0cc0b24a373170b2",
+        "slug": "digital-skills-education",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://digitalskillseducation.com/",
+        "name": "Digital Skills Education",
+        "mission-statement": "To deliver engaging and accessible digital skills training that empowers people and businesses to succeed in a digital world. (Source: https://digitalskillseducation.com/)",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Scottish AI Alliance",
+        "airtable_id": "16cdbc074a55f716",
+        "slug": "scottish-ai-alliance",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.scottishai.com/",
+        "name": "Scottish AI Alliance",
+        "lead-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "mission-statement": "To facilitate the delivery of Scotland's AI Strategy, ensuring that AI is trustworthy, ethical, and inclusive. (Source: https://www.scottishai.com/)",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Edinburgh's Centre for Research in Digital Education",
+        "airtable_id": "40101a4aa2093889",
+        "slug": "university-of-edinburghs-centre-for-research-in-digital-education",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.de.ed.ac.uk/",
+        "name": "University of Edinburgh's Centre for Research in Digital Education",
+        "mission-statement": "To conduct research in digital education, exploring the intersection of technology, culture, and learning. (Source: https://www.de.ed.ac.uk/)",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Science Ceilidh",
+        "airtable_id": "23d381c46e65b939",
+        "slug": "science-ceilidh",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.scienceceilidh.com/",
+        "name": "Science Ceilidh",
+        "mission-statement": "Supporting a Scotland where everyone’s creativity, curiosity and wellbeing are valued.",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Oakwood Primary School, Glasgow",
+        "airtable_id": "16effa3045abdecb",
+        "slug": "oakwood-primary-school-glasgow",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.oakwood-pri.glasgow.sch.uk/",
+        "name": "Oakwood Primary School, Glasgow",
+        "mission-statement": "To build a happy, inclusive, and nurturing school community where all children are inspired to learn and achieve their goals. (Source: https://www.oakwood-pri.glasgow.sch.uk/)",
+        "main-location": [
+          "glasgow-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Glebelands Primary School, Dundee",
+        "airtable_id": "e625a392730c8b63",
+        "slug": "glebelands-primary-school-dundee",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.glebelands.dundee.sch.uk/",
+        "name": "Glebelands Primary School, Dundee",
+        "mission-statement": "To provide a safe, caring, and stimulating environment where children are supported to develop their skills and reach their full potential. (Source: https://www.glebelands.dundee.sch.uk/)",
+        "main-location": [
+          "dundee-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "The Alan Turing Institute",
+        "airtable_id": "631d0beae3d2ed24",
+        "slug": "the-alan-turing-institute",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.turing.ac.uk/",
+        "name": "The Alan Turing Institute",
+        "lead-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "mission-statement": "To make great leaps in data science and AI research in order to change the world for the better. (Source: https://www.turing.ac.uk/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Freelance artists  - Zeo Fawcett, Eye Suriyanon, Jono Sandilands, Katy Beveridge",
+        "airtable_id": "548c04b755c5b909",
+        "slug": "freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://jonosandilands.com/",
+        "name": "Freelance artists  - Zeo Fawcett, Eye Suriyanon, Jono Sandilands, Katy Beveridge",
+        "mission-statement": "To create visual art, interactive installations, and designs that communicate complex societal issues and engage the public.",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mesomorphic",
+        "airtable_id": "893aa15c012ab707",
+        "slug": "mesomorphic",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://mesomorphic.co.uk/",
+        "name": "Mesomorphic",
+        "mission-statement": "To build beautiful, robust, and functional web applications that solve real-world business problems and support digital skills. (Source: https://mesomorphic.co.uk/)",
+        "main-location": [
+          "shetland-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Children's Parliament",
+        "airtable_id": "1a8dbb7451a4d76f",
+        "slug": "childrens-parliament",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.childrensparliament.org.uk/",
+        "name": "Children's Parliament",
+        "lead-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "mission-statement": "To provide children up to 14 years old with opportunities to share their views and influence policy in Scotland. (Source: https://www.childrensparliament.org.uk/)",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Dunrossness Primary School, Shetland",
+        "airtable_id": "c04ace18d2ca9775",
+        "slug": "dunrossness-primary-school-shetland",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.dunrossness.shetland.sch.uk/",
+        "name": "Dunrossness Primary School, Shetland",
+        "mission-statement": "To provide a happy, safe, and stimulating environment where all children are supported to achieve their best. (Source: https://www.dunrossness.shetland.sch.uk/)",
+        "main-location": [
+          "shetland-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "West of Scotland Innovation Hub (NHS GGC and University of Glasgow)",
+        "airtable_id": "29974d415fd9a674",
+        "slug": "west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.westofscotlandinnovation.scot/",
+        "name": "West of Scotland Innovation Hub (NHS GGC and University of Glasgow)",
+        "mission-statement": "To foster innovation in health and social care by bringing together healthcare professionals, industry, and academia. (Source: https://www.westofscotlandinnovation.scot/)",
+        "main-location": [
+          "glasgow-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.",
+        "airtable_id": "51127e2c5eaa4050",
+        "slug": "children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Safety and Security ",
+        "name": "Children feel A.I. can’t always be trusted and isn’t always safe –more child-friendly information about A.I. is needed, to help children make informed choices.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.",
+        "airtable_id": "ef8b444b95c39445",
+        "slug": "more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Learning about A.I.",
+        "name": "More children should know about A.I. so they can understand what’s happening when they use it. This will help to make sure children’s rights are respected. The more children learn about A.I., the more they will know how to keep themselves safe.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.",
+        "airtable_id": "a38e71b183daf166",
+        "slug": "teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Learning about A.I.",
+        "name": "Teachers should learn about A.I. and children’s rights to support children’s learning and help to keep them safe.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Companies should not use children’s data to train A.I. systems without children being asked.",
+        "airtable_id": "97eec24075352e50",
+        "slug": "companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Safety and Security ",
+        "name": "Companies should not use children’s data to train A.I. systems without children being asked.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.",
+        "airtable_id": "884182a23d365d9d",
+        "slug": "ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Learning about A.I.",
+        "name": "A.I. should be in the curriculum. A.I. will be a part of all children’s lives, so they need to learn and understand what it means before they grow up.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.",
+        "airtable_id": "f670a06d9b5faa9e",
+        "slug": "ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi",
+        "featured": [
+          "Education"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on A.I. in Education",
+        "name": "A.I. should support, not replace, teachers. Teachers understand children’s feelings and children think this is really important.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.",
+        "airtable_id": "59c0b657c9a46267",
+        "slug": "adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex",
+        "featured": [
+          "Safety"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Fairness and Bias",
+        "name": "Adults must ensure that the use of A.I. does not have a negative impact on any children’s rights, for example the right to appropriate and accurate information, or the right to protection from discrimination.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.",
+        "airtable_id": "6fbee97464baa0b6",
+        "slug": "there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Safety and Security ",
+        "name": "There should be rules about how much and what data companies are allowed to gather about children. Companies should not collect or share data from children unless it is absolutely necessary.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.",
+        "airtable_id": "fff9a93a0d3ec15b",
+        "slug": "ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers",
+        "featured": [
+          "Education"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on A.I. in Education",
+        "name": "A.I. might not understand neurodivergent children and how they learn in different ways. Decision-makers must take this into account when deciding what A.I. systems can be used in schools. A.I. systems need to include and support all children and their human rights.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.",
+        "airtable_id": "4f0e8de0e020d53b",
+        "slug": "lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Fairness and Bias",
+        "name": "Lots of different people, including children, should be involved in A.I. development. To avoid bias, they need to take everybody’s lives into account.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.",
+        "airtable_id": "a2688f96e79ca9bf",
+        "slug": "children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on Fairness and Bias",
+        "name": "Children have the right to be included, to have a say, and to be listened to. Adults need to ask children for their views when they are making decisions about designing or using A.I. If it is only adults making A.I. systems, the A.I. systems won’t understand children.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.",
+        "airtable_id": "344fccba8e099940",
+        "slug": "teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh",
+        "type": "Recommendation",
+        "cases": [
+          "exploring-childrens-rights-and-ai"
+        ],
+        "additional-credit-line": "Calls to action on A.I. in Education",
+        "name": "Teachers can use A.I. systems to help make learning fun – children learn better when it’s fun. Teachers should be supported to use A.I. appropriately in class.",
+        "theme": [
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Future issues",
+          "Generative AI",
+          "Predictive AI"
+        ]
+      }
+    ]
+  }
+}

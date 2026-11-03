@@ -1,0 +1,472 @@
+{
+  "slug": "faust-shop-participatory-arts-performance",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Faust-Shop Participatory Arts Performance ",
+    "airtable_id": "40acd61ab4d9a09d",
+    "slug": "faust-shop-participatory-arts-performance",
+    "redirect_from": [
+      "/c/40acd61ab4d9a09d/"
+    ],
+    "provide-a-brief-description-of-the-project": "In 2025, an academic research team initiated a process that used participatory arts, including multimedia documentary theatre and a long table discussion, to involve approximately 20 people in an interactive performance lecture to examine the interaction between humans and AI with the intended outcomes of building participant capacity to engage with AI and creating re-usable participation tools and methods.\n\nThis project brought together stakeholder groups that usually don’t share their attitudes to AI. This included voice and movement artists, actors, leaders from the private and public sectors, students, organisational consultants, technologists. It also, for the first time, introduced artistic research and performance based approach to the British Computer Society events series.\n",
+    "what-limitations-to-the-project-should-be-noted": "This was a ticketed event in London with a small ticket price. \n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "faust-shop-participatory-arts-performance-bcs-performance"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "cambridge-digital-humanities",
+      "cambridge-school-of-creative-industries-anglia-ruskin-university"
+    ],
+    "inclusion-efforts": "\n",
+    "project-title": "Faust-Shop Participatory Arts Performance ",
+    "submitted-by": "Dr Annja Neumann ",
+    "why-is-this-project-important-to-include-in-the": "This project brought together stakeholder groups that usually don’t share their attitudes to AI. This included voice and movement artists, actors, leaders from the private and public sectors, students, organisational consultants, technologists. It also for the first time introduced artistic research and performance based approach to the British Computer Society events series. I used this project as a case study for my certification as organisational consultant using a systems psychodynamics approach.",
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Capacity: Build participant capacity to engage with AI"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Human-AI systems: the interaction between humans and AI",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "geographic-scope": [
+      "london-united-kingdom"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "involved-organisations": [
+      "british-computer-society",
+      "tavistock-institute-of-human-relations"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://www.bcs.org/events-calendar/2025/july/human-ai-systems-are-here-to-stay-what-price-are-you-willing-to-pay/ ",
+    "locations": [
+      "london-united-kingdom"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "faust-shop-participatory-arts-performance",
+    "data": {
+      "layout": "case",
+      "title": "Faust-Shop Participatory Arts Performance ",
+      "airtable_id": "40acd61ab4d9a09d",
+      "slug": "faust-shop-participatory-arts-performance",
+      "redirect_from": [
+        "/c/40acd61ab4d9a09d/"
+      ],
+      "provide-a-brief-description-of-the-project": "In 2025, an academic research team initiated a process that used participatory arts, including multimedia documentary theatre and a long table discussion, to involve approximately 20 people in an interactive performance lecture to examine the interaction between humans and AI with the intended outcomes of building participant capacity to engage with AI and creating re-usable participation tools and methods.\n\nThis project brought together stakeholder groups that usually don’t share their attitudes to AI. This included voice and movement artists, actors, leaders from the private and public sectors, students, organisational consultants, technologists. It also, for the first time, introduced artistic research and performance based approach to the British Computer Society events series.\n",
+      "what-limitations-to-the-project-should-be-noted": "This was a ticketed event in London with a small ticket price. \n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "faust-shop-participatory-arts-performance-bcs-performance"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "cambridge-digital-humanities",
+        "cambridge-school-of-creative-industries-anglia-ruskin-university"
+      ],
+      "inclusion-efforts": "\n",
+      "project-title": "Faust-Shop Participatory Arts Performance ",
+      "submitted-by": "Dr Annja Neumann ",
+      "why-is-this-project-important-to-include-in-the": "This project brought together stakeholder groups that usually don’t share their attitudes to AI. This included voice and movement artists, actors, leaders from the private and public sectors, students, organisational consultants, technologists. It also for the first time introduced artistic research and performance based approach to the British Computer Society events series. I used this project as a case study for my certification as organisational consultant using a systems psychodynamics approach.",
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Capacity: Build participant capacity to engage with AI"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Human-AI systems: the interaction between humans and AI",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "geographic-scope": [
+        "london-united-kingdom"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "involved-organisations": [
+        "british-computer-society",
+        "tavistock-institute-of-human-relations"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://www.bcs.org/events-calendar/2025/july/human-ai-systems-are-here-to-stay-what-price-are-you-willing-to-pay/ ",
+      "locations": [
+        "london-united-kingdom"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "faust-shop-participatory-arts-performance-bcs-performance",
+        "data": {
+          "layout": "generic",
+          "title": "Faust-Shop Participatory Arts Performance -BCS Performance",
+          "airtable_id": "9277aaeaf001c90a",
+          "slug": "faust-shop-participatory-arts-performance-bcs-performance",
+          "locations": [
+            "london-united-kingdom"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Participatory Arts"
+          ],
+          "on-average-how-many-hours-did-each-participant": 2.5,
+          "name": "Faust-Shop Participatory Arts Performance -BCS Performance",
+          "group-description": "BCS Performance",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 20,
+          "cases": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "recruitment-description": "The event was advertised via the British Computer Society",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "british-computer-society",
+        "data": {
+          "layout": "organisation",
+          "title": "British Computer Society",
+          "airtable_id": "70dda42c894ed051",
+          "slug": "british-computer-society",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.bcs.org/",
+          "name": "British Computer Society",
+          "mission-statement": "To promote and share good practice, support computer professionals, and make IT good for society. (Source: https://www.bcs.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "tavistock-institute-of-human-relations",
+        "data": {
+          "layout": "organisation",
+          "title": "Tavistock Institute of Human Relations",
+          "airtable_id": "fcf7ef5966c32b1d",
+          "slug": "tavistock-institute-of-human-relations",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.tavistockinstitute.org/",
+          "name": "Tavistock Institute of Human Relations",
+          "mission-statement": "To apply social science research and consultancy to support organizational development and resolve social conflicts. (Source: https://www.tavistockinstitute.org/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cambridge-digital-humanities",
+        "data": {
+          "layout": "organisation",
+          "title": "Cambridge Digital Humanities",
+          "airtable_id": "d2a456e7e9b0cbba",
+          "slug": "cambridge-digital-humanities",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.cdh.cam.ac.uk/",
+          "name": "Cambridge Digital Humanities",
+          "mission-statement": "To promote, support, and execute digital research and innovation across the humanities and social sciences at the University of Cambridge. (Source: https://www.cdh.cam.ac.uk/)",
+          "main-location": [
+            "england-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cambridge-school-of-creative-industries-anglia-ruskin-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Cambridge School of Creative Industries, Anglia Ruskin University",
+          "airtable_id": "50834923ad632bc1",
+          "slug": "cambridge-school-of-creative-industries-anglia-ruskin-university",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.aru.ac.uk/creative-industries",
+          "name": "Cambridge School of Creative Industries, Anglia Ruskin University",
+          "mission-statement": "To deliver industry-aligned education, research, and collaborative practice that fosters creative innovation and professional excellence. (Source: https://www.aru.ac.uk/creative-industries)",
+          "main-location": [
+            "england-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "faust-shop-participatory-arts-performance"
+          ],
+          "layout": "generic",
+          "slug": "faust-shop-participatory-arts-performance-process",
+          "title": "Faust-Shop Participatory Arts Performance  - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Faust-Shop Participatory Arts Performance -BCS Performance",
+        "airtable_id": "9277aaeaf001c90a",
+        "slug": "faust-shop-participatory-arts-performance-bcs-performance",
+        "locations": [
+          "london-united-kingdom"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Participatory Arts"
+        ],
+        "on-average-how-many-hours-did-each-participant": 2.5,
+        "name": "Faust-Shop Participatory Arts Performance -BCS Performance",
+        "group-description": "BCS Performance",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 20,
+        "cases": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "recruitment-description": "The event was advertised via the British Computer Society",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "layout": "generic",
+        "slug": "faust-shop-participatory-arts-performance-process",
+        "title": "Faust-Shop Participatory Arts Performance  - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "British Computer Society",
+        "airtable_id": "70dda42c894ed051",
+        "slug": "british-computer-society",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.bcs.org/",
+        "name": "British Computer Society",
+        "mission-statement": "To promote and share good practice, support computer professionals, and make IT good for society. (Source: https://www.bcs.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Tavistock Institute of Human Relations",
+        "airtable_id": "fcf7ef5966c32b1d",
+        "slug": "tavistock-institute-of-human-relations",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.tavistockinstitute.org/",
+        "name": "Tavistock Institute of Human Relations",
+        "mission-statement": "To apply social science research and consultancy to support organizational development and resolve social conflicts. (Source: https://www.tavistockinstitute.org/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Cambridge Digital Humanities",
+        "airtable_id": "d2a456e7e9b0cbba",
+        "slug": "cambridge-digital-humanities",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.cdh.cam.ac.uk/",
+        "name": "Cambridge Digital Humanities",
+        "mission-statement": "To promote, support, and execute digital research and innovation across the humanities and social sciences at the University of Cambridge. (Source: https://www.cdh.cam.ac.uk/)",
+        "main-location": [
+          "england-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Cambridge School of Creative Industries, Anglia Ruskin University",
+        "airtable_id": "50834923ad632bc1",
+        "slug": "cambridge-school-of-creative-industries-anglia-ruskin-university",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.aru.ac.uk/creative-industries",
+        "name": "Cambridge School of Creative Industries, Anglia Ruskin University",
+        "mission-statement": "To deliver industry-aligned education, research, and collaborative practice that fosters creative innovation and professional excellence. (Source: https://www.aru.ac.uk/creative-industries)",
+        "main-location": [
+          "england-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "faust-shop-participatory-arts-performance"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

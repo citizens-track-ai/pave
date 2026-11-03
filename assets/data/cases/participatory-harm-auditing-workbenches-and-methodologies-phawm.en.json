@@ -1,0 +1,2070 @@
+{
+  "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  ",
+    "airtable_id": "55a5310189635e87",
+    "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+    "redirect_from": [
+      "/c/55a5310189635e87/"
+    ],
+    "lead-organisations": [
+      "university-of-glasgow",
+      "university-of-stirling",
+      "kcl",
+      "university-of-york",
+      "university-of-york-1",
+      "university-of-edinburgh-1",
+      "strathclyde-university"
+    ],
+    "provide-a-brief-description-of-the-project": "Through the novel concept of participatory AI auditing, PHAWM empowers a diverse set of stakeholders without a background in AI, such as domain experts, end-users, regulators, decision subjects, and communities, to undertake audits of AI to identify impacts, both positive and negative. Our research is grounded in four use cases: Health, Media Content, Cultural Heritage and Collaborative Content Generation. \n\nA significant barrier to fully understanding the implications of predictive and generative AI is their unassessed potential for impact. Hence, AI auditing has become imperative in responsible AI governance, in line with existing and impending regulatory frameworks. Yet, AI auditing has been haphazard, unsystematic, and left exclusively in the hands of people with technical AI expertise. PHAWM brings together a consortium of 7 academic institutions, and over 20 partner organisations in the United Kingdom, to fix this fundamental challenge. \n\nTo enable stakeholders to carry out a participatory audit, our project has produced an open-access workbench, which support stakeholders in evaluating the quality and potential impacts of AI. The participatory audit is embedded in our methodology, which guides the underlying principles and how, when and who carries out participatory audits. We are also developing training and resources to support for assurance and compliance for organisations to develop and deploy AI responsibly.\n\nInstead of a focus on technical model performance or optimisation, PHAWM promotes a socio-technical approach to evaluate the harms of an AI application throughout the AI lifecycle (from ideation to deployment) and to audit the AI application's impact in specific context that it is used. In addition, while traditional auditing requires access to both training data and model to complete an audit, PHAWM’s workbench and methodology can accommodate auditing in contexts where the model and/or the training data are not accessible.  \n\nOur research highlights that people with lived experience and domain expertise can uncover blind spots in AI application outcomes, complementing technical expertise in AI auditing and PHAWM’s workbench and methodology, therefore, helps address the urgent need for rigorous assessments of AI risks caused by the rapid expansion and adoption of the technology across a wide range of sectors.  \n",
+    "what-limitations-to-the-project-should-be-noted": "Working with organisations in the public sector and cultural heritage sector who have limited time and resources was a challenge to do in-depth co-design work, such as workshops, and conducting participatory audits. This limited organisational capacity, and arguably shift in culture towards participatory AI governance, is a hurdle to shift current practice and organisational priorities.    \n",
+    "project-status": "In Progress",
+    "headline-findings": "Participatory auditing empowers end-users: “To make decisions...to have the opportunity to feedback on what are the dangers with this, what are the potential harms. I assessed it, I fed data through, and the outcome is that if I'm living in a particular postcode, I always get rejected. That kind of thing, to explore these biases. I think that is really, really powerful.” \n\nParticipatory auditing centres the lived experience and domain knowledge of stakeholders: “It's like, I have value in my opinion.”  \n \nParticipatory auditing uncovers blind spots in in technically led audits: “How do we know if something is right or wrong unless you're an expert.” \n",
+    "participants": [
+      "participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "funding-organisations": [
+      "responsible-ai-uk"
+    ],
+    "additional-acknowledgements": "Mark Wong",
+    "inclusion-efforts": "Co-design workshops were used as part of stakeholder research in the development of the workbench and methodology. Making language comprehensible and accessible to people without an AI background was key to the success of these workshops. For some aspects of the research: monitoring of equity, diversity and inclusion metrics of co-design workshop participants; translation to non-English languages; considerations of under-served language communities of Wikipedia editors.  \n",
+    "project-title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  ",
+    "submitted-by": "Kate Simpson",
+    "why-is-this-project-important-to-include-in-the": "PHAWM is leading innovative research in methods of AI auditing, promoting participatory audits to be ‘gold standard’ to complement traditional AI audits. PHAWM’s approach to participatory audits is a 'game changer' in empowering diverse stakeholders and in centering the voices of the end-users, people, and communities whose life or working practices are impacted by AI, addressing a public accountability gap in current practice. This approach helps to actively involve stakeholders who are usually excluded from the AI audit process, including those who will be affected by the decisions made by an AI application, to produce fairer and more equitable outcomes of AI application. \n\nInstead of a focus on technical model performance or optimisation, PHAWM promotes a socio-technical approach to evaluate the harms of an AI application throughout the AI lifecycle (from ideation to deployment) and to audit the AI application's impact in specific context that it is used. In addition, while traditional auditing requires access to both training data and model to complete an audit, PHAWM’s workbench and methodology can accommodate auditing in contexts where the model and/or the training data are not accessible.  \n\nOur research highlights that people with lived experience and domain expertise can uncover blind spots in AI application outcomes, complementing technical expertise in AI auditing and ev PHAWM’s workbench and methodology, therefore, helps address the urgent need for rigorous assessments of AI risks caused by the rapid expansion and adoption of the technology across a wide range of sectors.  \n \nThe workbench and its accompanying methodology, which guides organisations and communities to use the tool effectively, are both publicly available and free to download from the project’s website. ",
+    "photos-and-images": [
+      {
+        "id": "att5DFiJEzCIxRNBV",
+        "width": 4032,
+        "height": 3024,
+        "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV.jpg",
+        "filename": "IMG_2970.jpg",
+        "size": 2597769,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_full.jpg",
+            "width": 3000,
+            "height": 2250
+          }
+        }
+      },
+      {
+        "id": "attBAZ5tBY15He6wL",
+        "width": 3602,
+        "height": 2446,
+        "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL.jpg",
+        "filename": "Media_1246776_smxx.jpg",
+        "size": 2553887,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_small.jpg",
+            "width": 53,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_large.jpg",
+            "width": 754,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_full.jpg",
+            "width": 3000,
+            "height": 2037
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Audit: Review design or implementation of AI tools"
+    ],
+    "supporting-resources": [
+      "phawm-resources",
+      "phawm-launch-event",
+      "responsible-ai-and-the-role-of-participatory-ai-auditing-webinar",
+      "what-should-an-auditing-system-for-predictive-ai-look-like",
+      "empowering-stakeholders-with-participatory-auditing-of-predictive-ai-perspectives-from-end-users-and",
+      "creating-an-effective-methodology-for-end-user-engagement-in-ai-auditing"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Enable a diverse set of stakeholders and publics to undertake participatory audits of AI impacts.",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2028,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "A method guide or toolkit"
+    ],
+    "involved-organisations": [
+      "west-dunbartonshire-health-social-care-partnership",
+      "our-ai-collective-cic",
+      "bradford-city-council-health-determinants-research-collective",
+      "national-museum-of-royal-navy",
+      "trip-ltd",
+      "national-library-of-scotland",
+      "full-fact",
+      "museum-data-service",
+      "david-livingstone-birthplace",
+      "microsoft",
+      "nokia-bell-labs",
+      "fujitsu",
+      "research-data-scotland",
+      "open-data-institute",
+      "scotlandis",
+      "sicsa",
+      "womens-business-centre",
+      "cybersalon",
+      "sobigdata",
+      "wikimedia-foundation",
+      "meta"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://phawm.org/",
+    "locations": [
+      "united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "UK"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+    "data": {
+      "layout": "case",
+      "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  ",
+      "airtable_id": "55a5310189635e87",
+      "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+      "redirect_from": [
+        "/c/55a5310189635e87/"
+      ],
+      "lead-organisations": [
+        "university-of-glasgow",
+        "university-of-stirling",
+        "kcl",
+        "university-of-york",
+        "university-of-york-1",
+        "university-of-edinburgh-1",
+        "strathclyde-university"
+      ],
+      "provide-a-brief-description-of-the-project": "Through the novel concept of participatory AI auditing, PHAWM empowers a diverse set of stakeholders without a background in AI, such as domain experts, end-users, regulators, decision subjects, and communities, to undertake audits of AI to identify impacts, both positive and negative. Our research is grounded in four use cases: Health, Media Content, Cultural Heritage and Collaborative Content Generation. \n\nA significant barrier to fully understanding the implications of predictive and generative AI is their unassessed potential for impact. Hence, AI auditing has become imperative in responsible AI governance, in line with existing and impending regulatory frameworks. Yet, AI auditing has been haphazard, unsystematic, and left exclusively in the hands of people with technical AI expertise. PHAWM brings together a consortium of 7 academic institutions, and over 20 partner organisations in the United Kingdom, to fix this fundamental challenge. \n\nTo enable stakeholders to carry out a participatory audit, our project has produced an open-access workbench, which support stakeholders in evaluating the quality and potential impacts of AI. The participatory audit is embedded in our methodology, which guides the underlying principles and how, when and who carries out participatory audits. We are also developing training and resources to support for assurance and compliance for organisations to develop and deploy AI responsibly.\n\nInstead of a focus on technical model performance or optimisation, PHAWM promotes a socio-technical approach to evaluate the harms of an AI application throughout the AI lifecycle (from ideation to deployment) and to audit the AI application's impact in specific context that it is used. In addition, while traditional auditing requires access to both training data and model to complete an audit, PHAWM’s workbench and methodology can accommodate auditing in contexts where the model and/or the training data are not accessible.  \n\nOur research highlights that people with lived experience and domain expertise can uncover blind spots in AI application outcomes, complementing technical expertise in AI auditing and PHAWM’s workbench and methodology, therefore, helps address the urgent need for rigorous assessments of AI risks caused by the rapid expansion and adoption of the technology across a wide range of sectors.  \n",
+      "what-limitations-to-the-project-should-be-noted": "Working with organisations in the public sector and cultural heritage sector who have limited time and resources was a challenge to do in-depth co-design work, such as workshops, and conducting participatory audits. This limited organisational capacity, and arguably shift in culture towards participatory AI governance, is a hurdle to shift current practice and organisational priorities.    \n",
+      "project-status": "In Progress",
+      "headline-findings": "Participatory auditing empowers end-users: “To make decisions...to have the opportunity to feedback on what are the dangers with this, what are the potential harms. I assessed it, I fed data through, and the outcome is that if I'm living in a particular postcode, I always get rejected. That kind of thing, to explore these biases. I think that is really, really powerful.” \n\nParticipatory auditing centres the lived experience and domain knowledge of stakeholders: “It's like, I have value in my opinion.”  \n \nParticipatory auditing uncovers blind spots in in technically led audits: “How do we know if something is right or wrong unless you're an expert.” \n",
+      "participants": [
+        "participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "funding-organisations": [
+        "responsible-ai-uk"
+      ],
+      "additional-acknowledgements": "Mark Wong",
+      "inclusion-efforts": "Co-design workshops were used as part of stakeholder research in the development of the workbench and methodology. Making language comprehensible and accessible to people without an AI background was key to the success of these workshops. For some aspects of the research: monitoring of equity, diversity and inclusion metrics of co-design workshop participants; translation to non-English languages; considerations of under-served language communities of Wikipedia editors.  \n",
+      "project-title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  ",
+      "submitted-by": "Kate Simpson",
+      "why-is-this-project-important-to-include-in-the": "PHAWM is leading innovative research in methods of AI auditing, promoting participatory audits to be ‘gold standard’ to complement traditional AI audits. PHAWM’s approach to participatory audits is a 'game changer' in empowering diverse stakeholders and in centering the voices of the end-users, people, and communities whose life or working practices are impacted by AI, addressing a public accountability gap in current practice. This approach helps to actively involve stakeholders who are usually excluded from the AI audit process, including those who will be affected by the decisions made by an AI application, to produce fairer and more equitable outcomes of AI application. \n\nInstead of a focus on technical model performance or optimisation, PHAWM promotes a socio-technical approach to evaluate the harms of an AI application throughout the AI lifecycle (from ideation to deployment) and to audit the AI application's impact in specific context that it is used. In addition, while traditional auditing requires access to both training data and model to complete an audit, PHAWM’s workbench and methodology can accommodate auditing in contexts where the model and/or the training data are not accessible.  \n\nOur research highlights that people with lived experience and domain expertise can uncover blind spots in AI application outcomes, complementing technical expertise in AI auditing and ev PHAWM’s workbench and methodology, therefore, helps address the urgent need for rigorous assessments of AI risks caused by the rapid expansion and adoption of the technology across a wide range of sectors.  \n \nThe workbench and its accompanying methodology, which guides organisations and communities to use the tool effectively, are both publicly available and free to download from the project’s website. ",
+      "photos-and-images": [
+        {
+          "id": "att5DFiJEzCIxRNBV",
+          "width": 4032,
+          "height": 3024,
+          "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV.jpg",
+          "filename": "IMG_2970.jpg",
+          "size": 2597769,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_att5DFiJEzCIxRNBV_full.jpg",
+              "width": 3000,
+              "height": 2250
+            }
+          }
+        },
+        {
+          "id": "attBAZ5tBY15He6wL",
+          "width": 3602,
+          "height": 2446,
+          "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL.jpg",
+          "filename": "Media_1246776_smxx.jpg",
+          "size": 2553887,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_small.jpg",
+              "width": 53,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_large.jpg",
+              "width": 754,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/55a5310189635e87_fldd4B6cpBOP3n3is_attBAZ5tBY15He6wL_full.jpg",
+              "width": 3000,
+              "height": 2037
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Audit: Review design or implementation of AI tools"
+      ],
+      "supporting-resources": [
+        "phawm-resources",
+        "phawm-launch-event",
+        "responsible-ai-and-the-role-of-participatory-ai-auditing-webinar",
+        "what-should-an-auditing-system-for-predictive-ai-look-like",
+        "empowering-stakeholders-with-participatory-auditing-of-predictive-ai-perspectives-from-end-users-and",
+        "creating-an-effective-methodology-for-end-user-engagement-in-ai-auditing"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Enable a diverse set of stakeholders and publics to undertake participatory audits of AI impacts.",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2028,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "A method guide or toolkit"
+      ],
+      "involved-organisations": [
+        "west-dunbartonshire-health-social-care-partnership",
+        "our-ai-collective-cic",
+        "bradford-city-council-health-determinants-research-collective",
+        "national-museum-of-royal-navy",
+        "trip-ltd",
+        "national-library-of-scotland",
+        "full-fact",
+        "museum-data-service",
+        "david-livingstone-birthplace",
+        "microsoft",
+        "nokia-bell-labs",
+        "fujitsu",
+        "research-data-scotland",
+        "open-data-institute",
+        "scotlandis",
+        "sicsa",
+        "womens-business-centre",
+        "cybersalon",
+        "sobigdata",
+        "wikimedia-foundation",
+        "meta"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://phawm.org/",
+      "locations": [
+        "united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "UK"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users",
+        "data": {
+          "layout": "generic",
+          "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  -Stakeholders and end-users",
+          "airtable_id": "1277efa46c8bfaaf",
+          "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users",
+          "locations": [
+            "united-kingdom"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "UK",
+          "name": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  -Stakeholders and end-users",
+          "group-description": "Stakeholders and end-users",
+          "how-many-people-took-part": 150,
+          "cases": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "recruitment-description": "snowballing, through partner organisations, advertising via social media",
+          "was-there-a-specific-target-population": "No",
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline",
+            "Hybrid"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "sobigdata",
+        "data": {
+          "layout": "organisation",
+          "title": "SOBIGDATA",
+          "airtable_id": "330c0db26e6fa57f",
+          "slug": "sobigdata",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.sobigdata.eu/",
+          "name": "SOBIGDATA",
+          "main-location": [
+            "europe"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "full-fact",
+        "data": {
+          "layout": "organisation",
+          "title": "Full Fact",
+          "airtable_id": "95af89e7ce91a5a3",
+          "slug": "full-fact",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://fullfact.org/",
+          "name": "Full Fact",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-stirling",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Stirling",
+          "airtable_id": "3840e039c95568d4",
+          "slug": "university-of-stirling",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.stir.ac.uk/",
+          "name": "University of Stirling",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "strathclyde-university",
+        "data": {
+          "layout": "organisation",
+          "title": "Strathclyde University",
+          "airtable_id": "eb608503928312cc",
+          "slug": "strathclyde-university",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.strath.ac.uk/",
+          "name": "Strathclyde University",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "glasgow-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-glasgow",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Glasgow",
+          "airtable_id": "fa4cd0a4329bddd7",
+          "slug": "university-of-glasgow",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.gla.ac.uk/",
+          "name": "University of Glasgow",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "glasgow-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "wikimedia-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Wikimedia Foundation",
+          "airtable_id": "72a4359386ca9e4e",
+          "slug": "wikimedia-foundation",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://wikimediafoundation.org/",
+          "name": "Wikimedia Foundation",
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "responsible-ai-uk",
+        "data": {
+          "layout": "organisation",
+          "title": "Responsible AI UK",
+          "airtable_id": "cb383b3f99145a2d",
+          "slug": "responsible-ai-uk",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://rai.ac.uk/",
+          "name": "Responsible AI UK",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "trip-ltd",
+        "data": {
+          "layout": "organisation",
+          "title": "Trip Ltd",
+          "airtable_id": "248f3accf49b8f46",
+          "slug": "trip-ltd",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.trip-ltd.co.uk/",
+          "name": "Trip Ltd",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "bradford-city-council-health-determinants-research-collective",
+        "data": {
+          "layout": "organisation",
+          "title": "Bradford City Council Health Determinants Research Collective",
+          "airtable_id": "3970cb703cb65fd0",
+          "slug": "bradford-city-council-health-determinants-research-collective",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Research",
+            "Public sector"
+          ],
+          "website-address": "https://www.bradford.gov.uk/",
+          "name": "Bradford City Council Health Determinants Research Collective",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "our-ai-collective-cic",
+        "data": {
+          "layout": "organisation",
+          "title": "Our AI Collective CIC",
+          "airtable_id": "64a3b20ebd68975a",
+          "slug": "our-ai-collective-cic",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.ouraicollective.org/",
+          "name": "Our AI Collective CIC",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "microsoft",
+        "data": {
+          "layout": "organisation",
+          "title": "Microsoft",
+          "airtable_id": "241e6537d2560587",
+          "slug": "microsoft",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.microsoft.com/",
+          "name": "Microsoft",
+          "lead-organisation-for": [
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "cybersalon",
+        "data": {
+          "layout": "organisation",
+          "title": "Cybersalon",
+          "airtable_id": "77c75c73bead6640",
+          "slug": "cybersalon",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://cybersalon.org/",
+          "name": "Cybersalon",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-edinburgh-1",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Edinburgh",
+          "airtable_id": "77c85310345833c7",
+          "slug": "university-of-edinburgh-1",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.ed.ac.uk/",
+          "name": "University of Edinburgh",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "museum-data-service",
+        "data": {
+          "layout": "organisation",
+          "title": "Museum Data Service",
+          "airtable_id": "317327fb21acfed2",
+          "slug": "museum-data-service",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://museumdataservice.org.uk/",
+          "name": "Museum Data Service",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "nokia-bell-labs",
+        "data": {
+          "layout": "organisation",
+          "title": "Nokia Bell Labs",
+          "airtable_id": "3575037012af838d",
+          "slug": "nokia-bell-labs",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Private sector",
+            "Research"
+          ],
+          "website-address": "https://www.bell-labs.com/",
+          "name": "Nokia Bell Labs",
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "research-data-scotland",
+        "data": {
+          "layout": "organisation",
+          "title": "Research Data Scotland",
+          "airtable_id": "c9914938fe94dec0",
+          "slug": "research-data-scotland",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Research",
+            "Public sector"
+          ],
+          "website-address": "https://www.researchdata.scot/",
+          "name": "Research Data Scotland",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "womens-business-centre",
+        "data": {
+          "layout": "organisation",
+          "title": "Women's Business Centre",
+          "airtable_id": "24a3823a199bcd2b",
+          "slug": "womens-business-centre",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.womensbusinesscentre.org/",
+          "name": "Women's Business Centre",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-york",
+        "data": {
+          "layout": "organisation",
+          "title": "University of York",
+          "airtable_id": "bc5612a1248b3b5a",
+          "slug": "university-of-york",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.york.ac.uk/",
+          "name": "University of York",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-york-1",
+        "data": {
+          "layout": "organisation",
+          "title": "University of York",
+          "airtable_id": "86fb568418728611",
+          "slug": "university-of-york-1",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.york.ac.uk/",
+          "name": "University of York",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "kcl",
+        "data": {
+          "layout": "organisation",
+          "title": "KCL",
+          "airtable_id": "79e5dad8868584e3",
+          "slug": "kcl",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.kcl.ac.uk/",
+          "name": "KCL",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "open-data-institute",
+        "data": {
+          "layout": "organisation",
+          "title": "Open Data Institute",
+          "airtable_id": "89c9a4ef846f7bd5",
+          "slug": "open-data-institute",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit",
+            "Research"
+          ],
+          "website-address": "https://theodi.org/",
+          "name": "Open Data Institute",
+          "mission-statement": "Our mission is to work with companies and governments to build an open, trustworthy data ecosystem, where people can make better decisions using data and manage its harmful impacts.\n\n(Source: https://theodi.org/about-the-odi/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "meta",
+        "data": {
+          "layout": "organisation",
+          "title": "Meta",
+          "airtable_id": "531dbb6ab36b8d39",
+          "slug": "meta",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "meta-community-forum-on-ai-wearables"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://about.meta.com/",
+          "name": "Meta",
+          "lead-organisation-for": [
+            "meta-community-forum-on-proactive-agents"
+          ],
+          "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+          "main-location": [
+            "stanford-california-usa"
+          ],
+          "funding-organisation-for": [
+            "meta-generative-ai-community-forum",
+            "meta-community-forum-on-proactive-agents",
+            "meta-community-forum-on-ai-wearables",
+            "industry-wide-forum-on-ai-agents"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "scotlandis",
+        "data": {
+          "layout": "organisation",
+          "title": "ScotlandIS",
+          "airtable_id": "a82e1f7bdd8f36d1",
+          "slug": "scotlandis",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "name": "ScotlandIS",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-museum-of-royal-navy",
+        "data": {
+          "layout": "organisation",
+          "title": "National Museum of Royal Navy",
+          "airtable_id": "6978d0efa16f8c7c",
+          "slug": "national-museum-of-royal-navy",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.nmrn.org.uk/",
+          "name": "National Museum of Royal Navy",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "fujitsu",
+        "data": {
+          "layout": "organisation",
+          "title": "Fujitsu",
+          "airtable_id": "13fe6e90ac5da414",
+          "slug": "fujitsu",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.fujitsu.com/",
+          "name": "Fujitsu",
+          "main-location": [
+            "tokyo-japan"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "david-livingstone-birthplace",
+        "data": {
+          "layout": "organisation",
+          "title": "David Livingstone Birthplace",
+          "airtable_id": "522c7d9221c93f29",
+          "slug": "david-livingstone-birthplace",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.david-livingstone-birthplace.org/",
+          "name": "David Livingstone Birthplace",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "sicsa",
+        "data": {
+          "layout": "organisation",
+          "title": "SICSA",
+          "airtable_id": "9e842e78f4a0b583",
+          "slug": "sicsa",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.sicsa.ac.uk/",
+          "name": "SICSA",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "west-dunbartonshire-health-social-care-partnership",
+        "data": {
+          "layout": "organisation",
+          "title": "West Dunbartonshire Health & Social Care Partnership",
+          "airtable_id": "520c0905da52c6f5",
+          "slug": "west-dunbartonshire-health-social-care-partnership",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.wdhscp.org.uk/",
+          "name": "West Dunbartonshire Health & Social Care Partnership",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "national-library-of-scotland",
+        "data": {
+          "layout": "organisation",
+          "title": "National Library of Scotland",
+          "airtable_id": "bfa5576600d91b5a",
+          "slug": "national-library-of-scotland",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.nls.uk/",
+          "name": "National Library of Scotland",
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+          ],
+          "layout": "generic",
+          "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm-process",
+          "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)   - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  -Stakeholders and end-users",
+        "airtable_id": "1277efa46c8bfaaf",
+        "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users",
+        "locations": [
+          "united-kingdom"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "UK",
+        "name": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)  -Stakeholders and end-users",
+        "group-description": "Stakeholders and end-users",
+        "how-many-people-took-part": 150,
+        "cases": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "recruitment-description": "snowballing, through partner organisations, advertising via social media",
+        "was-there-a-specific-target-population": "No",
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline",
+          "Hybrid"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "layout": "generic",
+        "slug": "participatory-harm-auditing-workbenches-and-methodologies-phawm-process",
+        "title": "Participatory Harm Auditing Workbenches and Methodologies (PHAWM)   - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "SOBIGDATA",
+        "airtable_id": "330c0db26e6fa57f",
+        "slug": "sobigdata",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.sobigdata.eu/",
+        "name": "SOBIGDATA",
+        "main-location": [
+          "europe"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Full Fact",
+        "airtable_id": "95af89e7ce91a5a3",
+        "slug": "full-fact",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://fullfact.org/",
+        "name": "Full Fact",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Stirling",
+        "airtable_id": "3840e039c95568d4",
+        "slug": "university-of-stirling",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.stir.ac.uk/",
+        "name": "University of Stirling",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Strathclyde University",
+        "airtable_id": "eb608503928312cc",
+        "slug": "strathclyde-university",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.strath.ac.uk/",
+        "name": "Strathclyde University",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "glasgow-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Glasgow",
+        "airtable_id": "fa4cd0a4329bddd7",
+        "slug": "university-of-glasgow",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.gla.ac.uk/",
+        "name": "University of Glasgow",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "glasgow-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Wikimedia Foundation",
+        "airtable_id": "72a4359386ca9e4e",
+        "slug": "wikimedia-foundation",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://wikimediafoundation.org/",
+        "name": "Wikimedia Foundation",
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Responsible AI UK",
+        "airtable_id": "cb383b3f99145a2d",
+        "slug": "responsible-ai-uk",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://rai.ac.uk/",
+        "name": "Responsible AI UK",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Trip Ltd",
+        "airtable_id": "248f3accf49b8f46",
+        "slug": "trip-ltd",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.trip-ltd.co.uk/",
+        "name": "Trip Ltd",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Bradford City Council Health Determinants Research Collective",
+        "airtable_id": "3970cb703cb65fd0",
+        "slug": "bradford-city-council-health-determinants-research-collective",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Research",
+          "Public sector"
+        ],
+        "website-address": "https://www.bradford.gov.uk/",
+        "name": "Bradford City Council Health Determinants Research Collective",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Our AI Collective CIC",
+        "airtable_id": "64a3b20ebd68975a",
+        "slug": "our-ai-collective-cic",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.ouraicollective.org/",
+        "name": "Our AI Collective CIC",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Microsoft",
+        "airtable_id": "241e6537d2560587",
+        "slug": "microsoft",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.microsoft.com/",
+        "name": "Microsoft",
+        "lead-organisation-for": [
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Cybersalon",
+        "airtable_id": "77c75c73bead6640",
+        "slug": "cybersalon",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://cybersalon.org/",
+        "name": "Cybersalon",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of Edinburgh",
+        "airtable_id": "77c85310345833c7",
+        "slug": "university-of-edinburgh-1",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.ed.ac.uk/",
+        "name": "University of Edinburgh",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Museum Data Service",
+        "airtable_id": "317327fb21acfed2",
+        "slug": "museum-data-service",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://museumdataservice.org.uk/",
+        "name": "Museum Data Service",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Nokia Bell Labs",
+        "airtable_id": "3575037012af838d",
+        "slug": "nokia-bell-labs",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Private sector",
+          "Research"
+        ],
+        "website-address": "https://www.bell-labs.com/",
+        "name": "Nokia Bell Labs",
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Research Data Scotland",
+        "airtable_id": "c9914938fe94dec0",
+        "slug": "research-data-scotland",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Research",
+          "Public sector"
+        ],
+        "website-address": "https://www.researchdata.scot/",
+        "name": "Research Data Scotland",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Women's Business Centre",
+        "airtable_id": "24a3823a199bcd2b",
+        "slug": "womens-business-centre",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.womensbusinesscentre.org/",
+        "name": "Women's Business Centre",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of York",
+        "airtable_id": "bc5612a1248b3b5a",
+        "slug": "university-of-york",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.york.ac.uk/",
+        "name": "University of York",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "University of York",
+        "airtable_id": "86fb568418728611",
+        "slug": "university-of-york-1",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.york.ac.uk/",
+        "name": "University of York",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "KCL",
+        "airtable_id": "79e5dad8868584e3",
+        "slug": "kcl",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.kcl.ac.uk/",
+        "name": "KCL",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Open Data Institute",
+        "airtable_id": "89c9a4ef846f7bd5",
+        "slug": "open-data-institute",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit",
+          "Research"
+        ],
+        "website-address": "https://theodi.org/",
+        "name": "Open Data Institute",
+        "mission-statement": "Our mission is to work with companies and governments to build an open, trustworthy data ecosystem, where people can make better decisions using data and manage its harmful impacts.\n\n(Source: https://theodi.org/about-the-odi/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Meta",
+        "airtable_id": "531dbb6ab36b8d39",
+        "slug": "meta",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "meta-community-forum-on-ai-wearables"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://about.meta.com/",
+        "name": "Meta",
+        "lead-organisation-for": [
+          "meta-community-forum-on-proactive-agents"
+        ],
+        "mission-statement": "To give people the power to build community and bring the world closer together. (Source: https://about.meta.com/)",
+        "main-location": [
+          "stanford-california-usa"
+        ],
+        "funding-organisation-for": [
+          "meta-generative-ai-community-forum",
+          "meta-community-forum-on-proactive-agents",
+          "meta-community-forum-on-ai-wearables",
+          "industry-wide-forum-on-ai-agents"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "ScotlandIS",
+        "airtable_id": "a82e1f7bdd8f36d1",
+        "slug": "scotlandis",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "name": "ScotlandIS",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Museum of Royal Navy",
+        "airtable_id": "6978d0efa16f8c7c",
+        "slug": "national-museum-of-royal-navy",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.nmrn.org.uk/",
+        "name": "National Museum of Royal Navy",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Fujitsu",
+        "airtable_id": "13fe6e90ac5da414",
+        "slug": "fujitsu",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.fujitsu.com/",
+        "name": "Fujitsu",
+        "main-location": [
+          "tokyo-japan"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "David Livingstone Birthplace",
+        "airtable_id": "522c7d9221c93f29",
+        "slug": "david-livingstone-birthplace",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.david-livingstone-birthplace.org/",
+        "name": "David Livingstone Birthplace",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "SICSA",
+        "airtable_id": "9e842e78f4a0b583",
+        "slug": "sicsa",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.sicsa.ac.uk/",
+        "name": "SICSA",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "West Dunbartonshire Health & Social Care Partnership",
+        "airtable_id": "520c0905da52c6f5",
+        "slug": "west-dunbartonshire-health-social-care-partnership",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.wdhscp.org.uk/",
+        "name": "West Dunbartonshire Health & Social Care Partnership",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "National Library of Scotland",
+        "airtable_id": "bfa5576600d91b5a",
+        "slug": "national-library-of-scotland",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.nls.uk/",
+        "name": "National Library of Scotland",
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

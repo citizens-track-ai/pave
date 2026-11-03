@@ -1,0 +1,1227 @@
+{
+  "slug": "the-peoples-panel-on-ai",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "The People's Panel on AI",
+    "airtable_id": "c303bcac18121f43",
+    "slug": "the-peoples-panel-on-ai",
+    "redirect_from": [
+      "/c/c303bcac18121f43/"
+    ],
+    "lead-organisations": [
+      "connected-by-data"
+    ],
+    "provide-a-brief-description-of-the-project": "The People’s Panel on AI brought together representative members of the public to attend, observe and discuss key events at the AI Fringe, which was held alongside the UK Government’s AI Safety Summit at the beginning of November 2023.\n\nThrough a deliberative process facilitated by Hopkins Van Mil the People’s Panel on AI produced a public report giving their verdict on AI and their recommendations to government, industry, civil society and academia for further action.\n",
+    "what-limitations-to-the-project-should-be-noted": "The People’s Panel on AI was an experiment in deliberation. While we followed common deliberation best practices, we also incorporated a number of innovative elements – both by necessity and by design. Using the AI Fringe as our primary expert input, and seeking to report our outcomes during the week of the AI Safety Summit, brought significant energy and dynamism to the process. It was an exhausting schedule for both participants and facilitators, but had significant benefits. \n\nThe Panel was engaged with live issues, following the same discussions that experts, decision shapers and makers were engaging with. We included some activities for the Panel to fill specific knowledge gaps; future panels should make time for induction and learning ahead of the deliberation. \n\nThe Panel was visible in the AI Fringe. Having members of the public ‘in the room’ during discussions can help change the conversation. Panel members were able to enter into ad-hoc conversations with experts at the Fringe and Hopes & Fears Lab as informed interlocutors. \n\nWe had access to experts and observers and used interest in the AI Safety Summit and Fringe to engage stakeholders. However, the timing of outputs (necessarily after the Summit), and the need to protect participants from intrusion early in the process, made it hard to secure media coverage. In their final deliberation session, the People’s Panel on AI developed a vision for future public engagement around AI. They described a model of informed citizens as decision makers, supported by evidence from diverse expert stakeholders, in a process similar to jury service. \n\nThe Panel highlighted the trust placed in juries to make life-altering decisions based on the evidence shared with them. They envisage similar panels providing guidance, recommendations or judgements about AI to industry, government, new institutions, elected officials and public media\n",
+    "project-status": "Complete",
+    "headline-findings": "On 3rd November 2023, the People’s Panel on AI made seven recommendations based on their deliberation of discussions at the AI Fringe and UK AI Safety Summit:\n\n1\\. A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.\n\n2\\. A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.\n\n3\\. Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.\n\n4\\. A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.\n\n5\\. A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens\ncan do jury service and as such are already trusted to make life-impacting and significant decisions.\n\n6\\. Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.\n\n7\\. Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong.\n",
+    "participants": [
+      "the-peoples-panel-on-ai-peoples-panel"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general"
+    ],
+    "messages": [
+      "a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr",
+      "a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing",
+      "awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c",
+      "a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one",
+      "a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l",
+      "focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance",
+      "stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig"
+    ],
+    "theme": [
+      "Artificial Intelligence"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "funding-organisations": [
+      "mozilla-foundation",
+      "kavli-center-for-the-ethics-science-and-the-public",
+      "accelerate-programme-for-scientific-discovery"
+    ],
+    "inclusion-efforts": "The People’s Panel on AI was made up of a randomly selected group of 11 people from across England with diverse backgrounds, experiences and perspectives.\n\n4,123 invitations were sent through Sortition Foundation’s opt-in list, reaching a broad sample of people across England. 490 people expressed Interest in taking part, completing a short question about their prior experience of AI. 12 people were selected in a stratified lottery delivering diversity of age, gender, region, urban/rural location, local level of deprivation and prior experience of AI. 11 people were in the final group as one participant had to drop out due to illness. \n\nWe set a higher target for ethnic minority representation because past research highlights disproportionate AI impacts on ethnic minorities. \n\nParticipants were paid a £600 honorarium for their participation, and had all travel, accommodation and meal expenses covered and were offered adaptations to help them take part if required. \n",
+    "project-title": "The People's Panel on AI",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "It explored the application of deliberative citizen review methods to a global policy event. \n\n\"The People’s Panel on AI was an experiment in deliberation. While we followed common deliberation best practices, we also incorporated a number of innovative elements – both\nby necessity and by design.\n\nUsing the AI Fringe as our primary expert input, and seeking to report our outcomes during the week of the AI Safety Summit, brought significant energy and dynamism to the process. It was an exhausting schedule for both participants and facilitators, but had significant benefits.\n\n1. The Panel was engaged with live issues, following the same discussions that experts, decision shapers and makers were engaging with. We included some activities for the Panel to fill specific knowledge gaps; future panels should make time for induction and learning ahead of the deliberation.\n\n2. The Panel was visible in the AI Fringe. Having members of the public ‘in the room’ during discussions can help change the conversation. Panel members were able to enter into ad-hoc conversations with experts at the Fringe and Hopes & Fears Lab as informed interlocutors.\n\n3. We had access to experts and observers and used interest in the AI Safety Summit and Fringe to engage stakeholders. However, the timing of outputs (necessarily after the Summit), and the need to protect participants from intrusion early in the process, made it hard to secure media coverage.\"",
+    "photos-and-images": [
+      {
+        "id": "attsUpwhcIq18xBvV",
+        "width": 5472,
+        "height": 3648,
+        "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV.jpg",
+        "filename": "DSC00435.jpg",
+        "size": 3338234,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "atteTxIOSpq0xuMy1",
+        "width": 5472,
+        "height": 3648,
+        "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1.jpg",
+        "filename": "DSC00475.jpg",
+        "size": 3183681,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attMHdaIAg52vMToG",
+        "width": 5472,
+        "height": 3648,
+        "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG.jpg",
+        "filename": "Panel-working-photo.jpg",
+        "size": 3508661,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_small.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_large.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_full.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        }
+      },
+      {
+        "id": "attd6trh9Ln8ptdD6",
+        "width": 2048,
+        "height": 1536,
+        "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6.jpg",
+        "filename": "WhatsApp Image 2023-11-03 at 10.10.50_269dfd61.jpg",
+        "size": 544073,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_full.jpg",
+            "width": 2048,
+            "height": 1536
+          }
+        }
+      },
+      {
+        "id": "attkSWujugFhHeHCM",
+        "width": 1536,
+        "height": 2048,
+        "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM.jpg",
+        "filename": "WhatsApp Image 2023-11-03 at 10.10.49_c1cda95d.jpg",
+        "size": 551084,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_small.jpg",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_large.jpg",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_full.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Methods: Create re-usable participation tools & methods",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process"
+    ],
+    "supporting-resources": [
+      "final-report-1",
+      "peoples-panel-video",
+      "independent-evaluation-1",
+      "detailed-findings-report"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The UK AI Safety Summit",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2023,
+    "involved-organisations": [
+      "hopkins-van-mil",
+      "sortition-foundation"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://connectedbydata.org/projects/2023-peoples-panel-on-ai",
+    "locations": [
+      "england-united-kingdom"
+    ],
+    "where-were-participants-from": [
+      "England"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "the-peoples-panel-on-ai",
+    "data": {
+      "layout": "case",
+      "title": "The People's Panel on AI",
+      "airtable_id": "c303bcac18121f43",
+      "slug": "the-peoples-panel-on-ai",
+      "redirect_from": [
+        "/c/c303bcac18121f43/"
+      ],
+      "lead-organisations": [
+        "connected-by-data"
+      ],
+      "provide-a-brief-description-of-the-project": "The People’s Panel on AI brought together representative members of the public to attend, observe and discuss key events at the AI Fringe, which was held alongside the UK Government’s AI Safety Summit at the beginning of November 2023.\n\nThrough a deliberative process facilitated by Hopkins Van Mil the People’s Panel on AI produced a public report giving their verdict on AI and their recommendations to government, industry, civil society and academia for further action.\n",
+      "what-limitations-to-the-project-should-be-noted": "The People’s Panel on AI was an experiment in deliberation. While we followed common deliberation best practices, we also incorporated a number of innovative elements – both by necessity and by design. Using the AI Fringe as our primary expert input, and seeking to report our outcomes during the week of the AI Safety Summit, brought significant energy and dynamism to the process. It was an exhausting schedule for both participants and facilitators, but had significant benefits. \n\nThe Panel was engaged with live issues, following the same discussions that experts, decision shapers and makers were engaging with. We included some activities for the Panel to fill specific knowledge gaps; future panels should make time for induction and learning ahead of the deliberation. \n\nThe Panel was visible in the AI Fringe. Having members of the public ‘in the room’ during discussions can help change the conversation. Panel members were able to enter into ad-hoc conversations with experts at the Fringe and Hopes & Fears Lab as informed interlocutors. \n\nWe had access to experts and observers and used interest in the AI Safety Summit and Fringe to engage stakeholders. However, the timing of outputs (necessarily after the Summit), and the need to protect participants from intrusion early in the process, made it hard to secure media coverage. In their final deliberation session, the People’s Panel on AI developed a vision for future public engagement around AI. They described a model of informed citizens as decision makers, supported by evidence from diverse expert stakeholders, in a process similar to jury service. \n\nThe Panel highlighted the trust placed in juries to make life-altering decisions based on the evidence shared with them. They envisage similar panels providing guidance, recommendations or judgements about AI to industry, government, new institutions, elected officials and public media\n",
+      "project-status": "Complete",
+      "headline-findings": "On 3rd November 2023, the People’s Panel on AI made seven recommendations based on their deliberation of discussions at the AI Fringe and UK AI Safety Summit:\n\n1\\. A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.\n\n2\\. A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.\n\n3\\. Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.\n\n4\\. A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.\n\n5\\. A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens\ncan do jury service and as such are already trusted to make life-impacting and significant decisions.\n\n6\\. Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.\n\n7\\. Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong.\n",
+      "participants": [
+        "the-peoples-panel-on-ai-peoples-panel"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general"
+      ],
+      "messages": [
+        "a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr",
+        "a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing",
+        "awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c",
+        "a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one",
+        "a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l",
+        "focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance",
+        "stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig"
+      ],
+      "theme": [
+        "Artificial Intelligence"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "funding-organisations": [
+        "mozilla-foundation",
+        "kavli-center-for-the-ethics-science-and-the-public",
+        "accelerate-programme-for-scientific-discovery"
+      ],
+      "inclusion-efforts": "The People’s Panel on AI was made up of a randomly selected group of 11 people from across England with diverse backgrounds, experiences and perspectives.\n\n4,123 invitations were sent through Sortition Foundation’s opt-in list, reaching a broad sample of people across England. 490 people expressed Interest in taking part, completing a short question about their prior experience of AI. 12 people were selected in a stratified lottery delivering diversity of age, gender, region, urban/rural location, local level of deprivation and prior experience of AI. 11 people were in the final group as one participant had to drop out due to illness. \n\nWe set a higher target for ethnic minority representation because past research highlights disproportionate AI impacts on ethnic minorities. \n\nParticipants were paid a £600 honorarium for their participation, and had all travel, accommodation and meal expenses covered and were offered adaptations to help them take part if required. \n",
+      "project-title": "The People's Panel on AI",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "It explored the application of deliberative citizen review methods to a global policy event. \n\n\"The People’s Panel on AI was an experiment in deliberation. While we followed common deliberation best practices, we also incorporated a number of innovative elements – both\nby necessity and by design.\n\nUsing the AI Fringe as our primary expert input, and seeking to report our outcomes during the week of the AI Safety Summit, brought significant energy and dynamism to the process. It was an exhausting schedule for both participants and facilitators, but had significant benefits.\n\n1. The Panel was engaged with live issues, following the same discussions that experts, decision shapers and makers were engaging with. We included some activities for the Panel to fill specific knowledge gaps; future panels should make time for induction and learning ahead of the deliberation.\n\n2. The Panel was visible in the AI Fringe. Having members of the public ‘in the room’ during discussions can help change the conversation. Panel members were able to enter into ad-hoc conversations with experts at the Fringe and Hopes & Fears Lab as informed interlocutors.\n\n3. We had access to experts and observers and used interest in the AI Safety Summit and Fringe to engage stakeholders. However, the timing of outputs (necessarily after the Summit), and the need to protect participants from intrusion early in the process, made it hard to secure media coverage.\"",
+      "photos-and-images": [
+        {
+          "id": "attsUpwhcIq18xBvV",
+          "width": 5472,
+          "height": 3648,
+          "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV.jpg",
+          "filename": "DSC00435.jpg",
+          "size": 3338234,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attsUpwhcIq18xBvV_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "atteTxIOSpq0xuMy1",
+          "width": 5472,
+          "height": 3648,
+          "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1.jpg",
+          "filename": "DSC00475.jpg",
+          "size": 3183681,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_atteTxIOSpq0xuMy1_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attMHdaIAg52vMToG",
+          "width": 5472,
+          "height": 3648,
+          "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG.jpg",
+          "filename": "Panel-working-photo.jpg",
+          "size": 3508661,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_small.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_large.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attMHdaIAg52vMToG_full.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          }
+        },
+        {
+          "id": "attd6trh9Ln8ptdD6",
+          "width": 2048,
+          "height": 1536,
+          "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6.jpg",
+          "filename": "WhatsApp Image 2023-11-03 at 10.10.50_269dfd61.jpg",
+          "size": 544073,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attd6trh9Ln8ptdD6_full.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          }
+        },
+        {
+          "id": "attkSWujugFhHeHCM",
+          "width": 1536,
+          "height": 2048,
+          "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM.jpg",
+          "filename": "WhatsApp Image 2023-11-03 at 10.10.49_c1cda95d.jpg",
+          "size": 551084,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_small.jpg",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_large.jpg",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/c303bcac18121f43_fldd4B6cpBOP3n3is_attkSWujugFhHeHCM_full.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Methods: Create re-usable participation tools & methods",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process"
+      ],
+      "supporting-resources": [
+        "final-report-1",
+        "peoples-panel-video",
+        "independent-evaluation-1",
+        "detailed-findings-report"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The UK AI Safety Summit",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2023,
+      "involved-organisations": [
+        "hopkins-van-mil",
+        "sortition-foundation"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://connectedbydata.org/projects/2023-peoples-panel-on-ai",
+      "locations": [
+        "england-united-kingdom"
+      ],
+      "where-were-participants-from": [
+        "England"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "the-peoples-panel-on-ai-peoples-panel",
+        "data": {
+          "layout": "generic",
+          "title": "The People's Panel on AI-People's Panel",
+          "airtable_id": "b138c8809210156f",
+          "slug": "the-peoples-panel-on-ai-peoples-panel",
+          "locations": [
+            "england-united-kingdom"
+          ],
+          "recruitment-method": "Demographic lottery",
+          "where-were-participants-from": "England",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens' Jury",
+            "Deliberation"
+          ],
+          "on-average-how-many-hours-did-each-participant": 24,
+          "name": "The People's Panel on AI-People's Panel",
+          "group-description": "People's Panel",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 11,
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "recruitment-description": "A pre-recruited sortition sample were asked to express interest in talking about AI, and from this opt-in group, 12 demographically diverse participants were selected.",
+          "was-there-a-specific-target-population": "Demographically descriptive sample of UK population",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "accelerate-programme-for-scientific-discovery",
+        "data": {
+          "layout": "organisation",
+          "title": "Accelerate Programme for Scientific Discovery",
+          "airtable_id": "202f091e4c6a00bf",
+          "slug": "accelerate-programme-for-scientific-discovery",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://acceleratescience.github.io/",
+          "name": "Accelerate Programme for Scientific Discovery",
+          "mission-statement": "To equip researchers with the skills and tools in AI and data science needed to accelerate scientific discovery. (Source: https://acceleratescience.github.io/)",
+          "main-location": [
+            "england-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "the-peoples-panel-on-ai"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "kavli-center-for-the-ethics-science-and-the-public",
+        "data": {
+          "layout": "organisation",
+          "title": "Kavli Center for the Ethics, Science and the Public",
+          "airtable_id": "bc6682f7f2ff6329",
+          "slug": "kavli-center-for-the-ethics-science-and-the-public",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.kcesp.ac.uk/",
+          "name": "Kavli Center for the Ethics, Science and the Public",
+          "mission-statement": "To connect the public with science, ensuring that scientific research and technological development align with human values and ethics. (Source: https://www.kcesp.ac.uk/)",
+          "main-location": [
+            "cambridge-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "the-peoples-panel-on-ai"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "hopkins-van-mil",
+        "data": {
+          "layout": "organisation",
+          "title": "Hopkins Van Mil",
+          "airtable_id": "db6058da3ae6f320",
+          "slug": "hopkins-van-mil",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "the-peoples-panel-on-ai"
+          ],
+          "organisation-type": [
+            "Private sector"
+          ],
+          "website-address": "https://www.hopkinsvanmil.org.uk/",
+          "name": "Hopkins Van Mil",
+          "mission-statement": "To facilitate public engagement and research that informs decision-making and shapes policy on complex social and ethical issues. (Source: https://www.hopkinsvanmil.org.uk/)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "sortition-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Sortition Foundation",
+          "airtable_id": "c200fcd5e14d226f",
+          "slug": "sortition-foundation",
+          "role": [
+            "Involved"
+          ],
+          "involved-organisation-for": [
+            "the-peoples-panel-on-ai",
+            "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://www.sortitionfoundation.org/",
+          "name": "Sortition Foundation",
+          "lead-organisation-for": [
+            "odyssean-process-on-ai"
+          ],
+          "mission-statement": "To campaign for, design, and run citizens' assemblies that use random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "connected-by-data",
+        "data": {
+          "layout": "organisation",
+          "title": "Connected by Data",
+          "airtable_id": "a64d6453923f2575",
+          "slug": "connected-by-data",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "collaborative-ai-governance-for-tomorrows-democracies-1"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://connectedbydata.org/",
+          "name": "Connected by Data",
+          "lead-organisation-for": [
+            "generative-ai-in-education-have-your-say",
+            "the-peoples-panel-on-ai"
+          ],
+          "mission-statement": "To campaign for communities to have a powerful voice in how data and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mozilla-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Mozilla Foundation",
+          "airtable_id": "c282203a5a0788cd",
+          "slug": "mozilla-foundation",
+          "role": [
+            "Funder"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://foundation.mozilla.org/",
+          "name": "Mozilla Foundation",
+          "lead-organisation-for": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+          "main-location": [
+            "mountain-view-california-usa"
+          ],
+          "funding-organisation-for": [
+            "the-peoples-panel-on-ai",
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig",
+        "data": {
+          "layout": "generic",
+          "title": "Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong",
+          "airtable_id": "e24dfa6cb458dca2",
+          "slug": "stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c",
+        "data": {
+          "layout": "generic",
+          "title": "Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.",
+          "airtable_id": "f3cec9e138c9a265",
+          "slug": "awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c",
+          "featured": [
+            "AI Literacy"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance",
+        "data": {
+          "layout": "generic",
+          "title": "Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.",
+          "airtable_id": "ebffe259ad1a417e",
+          "slug": "focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance",
+          "featured": [
+            "AI for Good"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing",
+        "data": {
+          "layout": "generic",
+          "title": "A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.",
+          "airtable_id": "a99887fb28b6d67f",
+          "slug": "a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing",
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr",
+        "data": {
+          "layout": "generic",
+          "title": "A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.",
+          "airtable_id": "33e96faa2ed591cc",
+          "slug": "a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr",
+          "featured": [
+            "Global"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l",
+        "data": {
+          "layout": "generic",
+          "title": "A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens can do jury service and as such are already trusted to make life-impacting and significant decisions.",
+          "airtable_id": "cc5fdec6908d42d0",
+          "slug": "a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens can do jury service and as such are already trusted to make life-impacting and significant decisions.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one",
+        "data": {
+          "layout": "generic",
+          "title": "A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.",
+          "airtable_id": "fbb058b3c8602969",
+          "slug": "a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one",
+          "featured": [
+            "Work"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "name": "A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "the-peoples-panel-on-ai"
+          ],
+          "layout": "generic",
+          "slug": "the-peoples-panel-on-ai-process",
+          "title": "The People's Panel on AI - Process",
+          "theme": [
+            "Artificial Intelligence"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "The People's Panel on AI-People's Panel",
+        "airtable_id": "b138c8809210156f",
+        "slug": "the-peoples-panel-on-ai-peoples-panel",
+        "locations": [
+          "england-united-kingdom"
+        ],
+        "recruitment-method": "Demographic lottery",
+        "where-were-participants-from": "England",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens' Jury",
+          "Deliberation"
+        ],
+        "on-average-how-many-hours-did-each-participant": 24,
+        "name": "The People's Panel on AI-People's Panel",
+        "group-description": "People's Panel",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 11,
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "recruitment-description": "A pre-recruited sortition sample were asked to express interest in talking about AI, and from this opt-in group, 12 demographically diverse participants were selected.",
+        "was-there-a-specific-target-population": "Demographically descriptive sample of UK population",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "layout": "generic",
+        "slug": "the-peoples-panel-on-ai-process",
+        "title": "The People's Panel on AI - Process",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Accelerate Programme for Scientific Discovery",
+        "airtable_id": "202f091e4c6a00bf",
+        "slug": "accelerate-programme-for-scientific-discovery",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://acceleratescience.github.io/",
+        "name": "Accelerate Programme for Scientific Discovery",
+        "mission-statement": "To equip researchers with the skills and tools in AI and data science needed to accelerate scientific discovery. (Source: https://acceleratescience.github.io/)",
+        "main-location": [
+          "england-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "the-peoples-panel-on-ai"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Kavli Center for the Ethics, Science and the Public",
+        "airtable_id": "bc6682f7f2ff6329",
+        "slug": "kavli-center-for-the-ethics-science-and-the-public",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.kcesp.ac.uk/",
+        "name": "Kavli Center for the Ethics, Science and the Public",
+        "mission-statement": "To connect the public with science, ensuring that scientific research and technological development align with human values and ethics. (Source: https://www.kcesp.ac.uk/)",
+        "main-location": [
+          "cambridge-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "the-peoples-panel-on-ai"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Hopkins Van Mil",
+        "airtable_id": "db6058da3ae6f320",
+        "slug": "hopkins-van-mil",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "the-peoples-panel-on-ai"
+        ],
+        "organisation-type": [
+          "Private sector"
+        ],
+        "website-address": "https://www.hopkinsvanmil.org.uk/",
+        "name": "Hopkins Van Mil",
+        "mission-statement": "To facilitate public engagement and research that informs decision-making and shapes policy on complex social and ethical issues. (Source: https://www.hopkinsvanmil.org.uk/)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Sortition Foundation",
+        "airtable_id": "c200fcd5e14d226f",
+        "slug": "sortition-foundation",
+        "role": [
+          "Involved"
+        ],
+        "involved-organisation-for": [
+          "the-peoples-panel-on-ai",
+          "national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://www.sortitionfoundation.org/",
+        "name": "Sortition Foundation",
+        "lead-organisation-for": [
+          "odyssean-process-on-ai"
+        ],
+        "mission-statement": "To campaign for, design, and run citizens' assemblies that use random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Connected by Data",
+        "airtable_id": "a64d6453923f2575",
+        "slug": "connected-by-data",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "collaborative-ai-governance-for-tomorrows-democracies-1"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://connectedbydata.org/",
+        "name": "Connected by Data",
+        "lead-organisation-for": [
+          "generative-ai-in-education-have-your-say",
+          "the-peoples-panel-on-ai"
+        ],
+        "mission-statement": "To campaign for communities to have a powerful voice in how data and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mozilla Foundation",
+        "airtable_id": "c282203a5a0788cd",
+        "slug": "mozilla-foundation",
+        "role": [
+          "Funder"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://foundation.mozilla.org/",
+        "name": "Mozilla Foundation",
+        "lead-organisation-for": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+        "main-location": [
+          "mountain-view-california-usa"
+        ],
+        "funding-organisation-for": [
+          "the-peoples-panel-on-ai",
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong",
+        "airtable_id": "e24dfa6cb458dca2",
+        "slug": "stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "Stakeholders acting with transparency at all times. An example of this might include a ‘black box flight recorder’ approach to AI models: protecting intellectual property but shared when things go wrong",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.",
+        "airtable_id": "f3cec9e138c9a265",
+        "slug": "awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c",
+        "featured": [
+          "AI Literacy"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "Awareness raising about AI across society. From the classroom to the home. From the workplace to the community. Highlighting risks such as addiction to social media, as well as the opportunities that AI offers.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.",
+        "airtable_id": "ebffe259ad1a417e",
+        "slug": "focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance",
+        "featured": [
+          "AI for Good"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "Focus on inclusive collaboration, to set out a vision of life where AI is used to enhance and balance human needs.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.",
+        "airtable_id": "a99887fb28b6d67f",
+        "slug": "a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing",
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "A system of governance for AI in the UK that places citizens at the heart of decision making drawing on input from scientists, researchers, ethicists, civil society, academia and industry to inform and provide evidence for government and citizens to then work together on decisions.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.",
+        "airtable_id": "33e96faa2ed591cc",
+        "slug": "a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr",
+        "featured": [
+          "Global"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "A global governing body for AI to bring together citizens, impartial experts and governments from across the world, and ensure regulatory collaboration that includes the global south.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens can do jury service and as such are already trusted to make life-impacting and significant decisions.",
+        "airtable_id": "cc5fdec6908d42d0",
+        "slug": "a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "A continued national conversation on AI, including retaining the People’s Panel to keep public voice live in a fast-changing AI landscape. We citizens can do jury service and as such are already trusted to make life-impacting and significant decisions.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.",
+        "airtable_id": "fbb058b3c8602969",
+        "slug": "a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one",
+        "featured": [
+          "Work"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "the-peoples-panel-on-ai"
+        ],
+        "name": "A safe transition, with training, to support people into a world of work alongside AI, ensuring no-one is left behind.",
+        "theme": [
+          "Artificial Intelligence"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general"
+        ]
+      }
+    ]
+  }
+}

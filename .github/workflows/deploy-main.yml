@@ -1,0 +1,55 @@
+name: Deploy Main Branch
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "main-deploy"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: Actions
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: |
+          bundle exec jekyll build
+          rm -f _site/.htaccess
+        env:
+          JEKYLL_ENV: production
+
+      - name: Setup SSH Key
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.MAIN_SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.MAIN_SSH_HOST }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/id_main
+          chmod 600 ~/.ssh/id_main
+          ssh-keyscan -H "$SSH_HOST" >> ~/.ssh/known_hosts
+
+      - name: Deploy via Rsync
+        env:
+          SSH_HOST: ${{ secrets.MAIN_SSH_HOST }}
+          SSH_USER: ${{ secrets.MAIN_SSH_USER }}
+          REMOTE_DIR: ${{ secrets.MAIN_REMOTE_DIR }}
+        run: |
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_main" _site/ "${SSH_USER}@${SSH_HOST}:${REMOTE_DIR}/"
+

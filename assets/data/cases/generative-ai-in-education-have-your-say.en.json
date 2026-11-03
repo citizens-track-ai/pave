@@ -1,0 +1,1043 @@
+{
+  "slug": "generative-ai-in-education-have-your-say",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Generative AI in Education - Have Your Say",
+    "airtable_id": "3c565662d49f8ad8",
+    "slug": "generative-ai-in-education-have-your-say",
+    "redirect_from": [
+      "/c/3c565662d49f8ad8/"
+    ],
+    "lead-organisations": [
+      "connected-by-data"
+    ],
+    "provide-a-brief-description-of-the-project": "In September 2025 the UK Department for Education commissioned a distributed dialogue to capture student views on Generative AI in Education, as preliminary work for an International Generative AI in Education Summit in January 2026. \n\nUsing a 'workshop in a box' approach, over 1000 students aged 10 to 18 took part in short (1 or 2 hour long) classroom workshops providing their views through a voting platform, structured feedback, and creative feedback activities. \n\nThe workshop in a box resources were designed to provide a balanced view of benefits and problems of AI in education, and to support students to discuss and develop their own views.\n\nA video of students from one participating site was edited to reflect the balance of views expressed across participating groups, and this, along with the project report, was featured at the AI in Education Summit. \n",
+    "what-limitations-to-the-project-should-be-noted": "The distributed dialogue approach can reach a larger group of participants than direct delivery of participatory workshops. However, this comes with compromises: \n\nThere is variation in session delivery. Facilitator feedback highlighted challenges covering all material in hour-long sessions, and some teachers reported adapting materials for their group. This can be a strength, but also means that teacher’s own views may skew conversations in some settings.\n\nWe have limited demographic information. To limit the data collection burden on participating groups, we collected only basic demographics about each setting. Whilst we can link voting responses to school demographics, we were not always able to link qualitative and quantitative responses to particular individual workshop sessions when a setting had run multiple workshops (e.g. with different year groups). \n\nWe used pol.is to gather group views rather than individual responses. Recognising that not all groups had access to individual devices, and working within the account limits on the Policy Lab pol.is platform, we asked groups to vote on their response to each statement, and take the majority view. This can lead to minority views on each question being underrepresented, and may affect some of the clustering of statements, particularly given a relatively low overall sample size. One setting invited individual students to respond to 10 starting statements in a Google Form, yielding 346 individual votes. Comparing agree/disagree positions to pol.is votes reveals that individual votes tightly track group votes on statements with high consensus, but there is greater variation in individual voting on lower consensus statements. \n\nEarly project proposals involved the idea of providing funding for groups to run targeted outreach to specifically affected or excluded communities: such as home educators, or children excluded from education. This wasn't possible in the available budget and time.\n\nThese limitations have been accounted for in how data is presented, focussing on highlighting general trends and themes, rather than presenting a representative statistical account of student views.\n",
+    "project-status": "Complete",
+    "headline-findings": "**Students expressed detailed, nuanced and critical views on how generative AI could or should be used in education**, emphasising:\n- the importance of the existing student-teacher relationship\n- specific uses of AI to enhance learning by:\n    - making lessons more engaging\n    - providing more personalised pathways\n    - supporting self-directed learning\n    - preparing students to navigate a future where AI is ubiquitous\n\n**Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.**\nStudents raised concerns about AI tools:\n- being inaccurate and giving false information\n- being too quick to offer easy answers, rather encouraging a process of learning\n**Students strongly value personal attention from their teachers and social interaction in the classroom with peers.** They are concerned that AI could disrupt this.\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.\nSome felt AI could:\n- support factual learning in subjects with right and wrong answers\n- help struggling students when teachers do not have capacity to provide personalised help\nSome younger students (Year 6) suggested AI tools might be smarter than their teachers, or expressed that “AI can’t get mad at you”, suggesting some may prefer feedback delivered through AI.\n- Students are split on whether AI use should be mandatory. 50% of groups disagreed (39% agreed, 10% unsure) that:\nGroups in favour of a requirement to use AI want it to be accurate and want AI tools to support students to clearly tell their teachers when they have completed work using AI.\nSome students expressed concerns about the environmental impacts of AI, although this was not widely considered to be a barrier to exploring the use of AI in education.\nA number expressed strong opposition to use of AI for creative work.\n**Students are concerned about the mental health impacts of AI.** They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n> _“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.”_ (Majority support)\nThey opposed AI tools pretending to have feelings, though some suggested it could help if AI tools offered light encouragement.\nStudents were generally in favour of the statement that:\n> _“Children from a young age should be educated on how to use AI most effectively and safely in their learning”_ (Generally supported)\n\n**Further work is needed to understand student views on the use of their data within AI.**\nA majority opposed the statement:\n> _“We should not place too many limits on the data that AI for education can use, so that AI can be as effective as possible”_ (Majority opposed)\nHowever, there was a degree of uncertainty on the statement:\n> _“AI needs a lot of data to be effective. We should wait until all the privacy and data protection issues are sorted out before we start to use it in education”_ (Uncertain response)\nStudents might not fully understand the kinds of data that personalised learning through AI uses. We observed students interpreting personal data as details such as name and address, rather than examples of past work and marks.\nSome students also expressed concerns that personalised learning would lead to feeling judged by AI, or to a loss of opportunities for peer-support when everyone is given different tasks.\n\n**Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use.** Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.\nA notable minority called for a ban or very limited AI use in education due to ethical concerns, and feeling AI is bad for learning. Others suggested ways of mitigating risks such as:\n- AI tools not giving direct answers but encouraging\n- step-by-step learning\n- AI tools that express uncertainty\n- restricting the use of AI for homework\n- daily time-limits or quotas on AI use\nOthers highlighted customising the tone of voice in AI for education; co-designing applications with student inputs; and involving students in the assurance of educational AI tools.\n\n### **Recommendations**\n**For generative AI to play a positive role in education, it is vital that AI developers, policy makers, school leaders and individual teachers engage in ongoing dialogue with students, and listen to their ideas and concerns.**\n- **Take the time to get generative AI in education right.** Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.\n- **Embed a role for students in decision-making on AI.** AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.\n- **Build student agency in a world of AI.** Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.\n\n",
+    "participants": [
+      "generative-ai-in-education-have-your-say-school-students"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "messages": [
+      "students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl",
+      "students-strongly-value-personal-attention-from-their-teachers-and-social-interaction-in-the-classro",
+      "students-are-concerned-about-the-mental-health-impacts-of-ai-they-do-not-want-ai-tools-to-be-involve",
+      "students-suggested-that-ai-for-education-needs-a-school-mode-adequate-restrictions-and-tightly-defin",
+      "take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an",
+      "embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude",
+      "build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its"
+    ],
+    "theme": [
+      "Education",
+      "Youth"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "uk-department-for-education"
+    ],
+    "inclusion-efforts": "School sign-ups were matched against the national database of schools (EduBase) to monitor the location, type (primary, secondary, special education) and pupil profile (e.g. single sex; mixed; free school meals rate as indicator of deprivation), and reviewed to check for a diversity of settings participating. \n\n",
+    "project-title": "Generative AI in Education - Have Your Say",
+    "method-image-caption": "Summary of participants and workshop resources",
+    "submitted-by": "Tim Davies",
+    "why-is-this-project-important-to-include-in-the": "The project demonstrated the potential of a distributed dialogue approach to both generate national findings and to support meaningful conversations about AI at the class and school level.\n\nThe process of securing peer-review from diverse experts for the 'workshop in a box' toolkit demonstrated good practice in provision of balanced learning materials. \n\nThe project also demonstrated the potential for agile participatory practice, gathering in-depth input from schools across the country over a short time window. ",
+    "photos-and-images": [
+      {
+        "id": "att2PWvVgyXuS89LT",
+        "width": 1380,
+        "height": 1035,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT.jpg",
+        "filename": "PXL_20260119_093359545.jpg",
+        "size": 426893,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_small.jpg",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_large.jpg",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_full.jpg",
+            "width": 1380,
+            "height": 1035
+          }
+        }
+      },
+      {
+        "id": "att7SBpB7J4HujNTA",
+        "width": 640,
+        "height": 360,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA.jpg",
+        "filename": "frame_0028.jpg",
+        "size": 26379,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_large.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_full.jpg",
+            "width": 640,
+            "height": 360
+          }
+        }
+      },
+      {
+        "id": "attFTMraeWDxqyVJv",
+        "width": 640,
+        "height": 360,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv.jpg",
+        "filename": "frame_0078.jpg",
+        "size": 27161,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_large.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_full.jpg",
+            "width": 640,
+            "height": 360
+          }
+        }
+      },
+      {
+        "id": "attxEuMT5z1D3Txsa",
+        "width": 640,
+        "height": 360,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa.jpg",
+        "filename": "frame_0031.jpg",
+        "size": 25455,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_large.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_full.jpg",
+            "width": 640,
+            "height": 360
+          }
+        }
+      },
+      {
+        "id": "att4WTGUXr40YUVWD",
+        "width": 640,
+        "height": 360,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD.jpg",
+        "filename": "frame_0097.jpg",
+        "size": 11532,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_small.jpg",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_large.jpg",
+            "width": 640,
+            "height": 360
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_full.jpg",
+            "width": 640,
+            "height": 360
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Empowerment: Build community power with respect to AI",
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "supporting-resources": [
+      "generative-ai-in-education-have-your-say-report",
+      "generative-ai-in-education-student-video",
+      "workshop-in-a-box-evaluation-report",
+      "generative-ai-in-education-workshop-in-a-box-toolkit"
+    ],
+    "method-image": [
+      {
+        "id": "attwWKoAhUrHftSbt",
+        "width": 954,
+        "height": 535,
+        "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt.png",
+        "filename": "Screenshot 2026-07-03 at 10.45.25.png",
+        "size": 390524,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_small.png",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_large.png",
+            "width": 913,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_full.png",
+            "width": 954,
+            "height": 535
+          }
+        }
+      }
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "The use of Generative AI in Education",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "National",
+    "what-year-did-the-project-conclude": 2025,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A project video",
+      "An independent evaluation",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://connectedbydata.org/ai-in-education/",
+    "locations": [
+      "england-united-kingdom"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "generative-ai-in-education-have-your-say",
+    "data": {
+      "layout": "case",
+      "title": "Generative AI in Education - Have Your Say",
+      "airtable_id": "3c565662d49f8ad8",
+      "slug": "generative-ai-in-education-have-your-say",
+      "redirect_from": [
+        "/c/3c565662d49f8ad8/"
+      ],
+      "lead-organisations": [
+        "connected-by-data"
+      ],
+      "provide-a-brief-description-of-the-project": "In September 2025 the UK Department for Education commissioned a distributed dialogue to capture student views on Generative AI in Education, as preliminary work for an International Generative AI in Education Summit in January 2026. \n\nUsing a 'workshop in a box' approach, over 1000 students aged 10 to 18 took part in short (1 or 2 hour long) classroom workshops providing their views through a voting platform, structured feedback, and creative feedback activities. \n\nThe workshop in a box resources were designed to provide a balanced view of benefits and problems of AI in education, and to support students to discuss and develop their own views.\n\nA video of students from one participating site was edited to reflect the balance of views expressed across participating groups, and this, along with the project report, was featured at the AI in Education Summit. \n",
+      "what-limitations-to-the-project-should-be-noted": "The distributed dialogue approach can reach a larger group of participants than direct delivery of participatory workshops. However, this comes with compromises: \n\nThere is variation in session delivery. Facilitator feedback highlighted challenges covering all material in hour-long sessions, and some teachers reported adapting materials for their group. This can be a strength, but also means that teacher’s own views may skew conversations in some settings.\n\nWe have limited demographic information. To limit the data collection burden on participating groups, we collected only basic demographics about each setting. Whilst we can link voting responses to school demographics, we were not always able to link qualitative and quantitative responses to particular individual workshop sessions when a setting had run multiple workshops (e.g. with different year groups). \n\nWe used pol.is to gather group views rather than individual responses. Recognising that not all groups had access to individual devices, and working within the account limits on the Policy Lab pol.is platform, we asked groups to vote on their response to each statement, and take the majority view. This can lead to minority views on each question being underrepresented, and may affect some of the clustering of statements, particularly given a relatively low overall sample size. One setting invited individual students to respond to 10 starting statements in a Google Form, yielding 346 individual votes. Comparing agree/disagree positions to pol.is votes reveals that individual votes tightly track group votes on statements with high consensus, but there is greater variation in individual voting on lower consensus statements. \n\nEarly project proposals involved the idea of providing funding for groups to run targeted outreach to specifically affected or excluded communities: such as home educators, or children excluded from education. This wasn't possible in the available budget and time.\n\nThese limitations have been accounted for in how data is presented, focussing on highlighting general trends and themes, rather than presenting a representative statistical account of student views.\n",
+      "project-status": "Complete",
+      "headline-findings": "**Students expressed detailed, nuanced and critical views on how generative AI could or should be used in education**, emphasising:\n- the importance of the existing student-teacher relationship\n- specific uses of AI to enhance learning by:\n    - making lessons more engaging\n    - providing more personalised pathways\n    - supporting self-directed learning\n    - preparing students to navigate a future where AI is ubiquitous\n\n**Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.**\nStudents raised concerns about AI tools:\n- being inaccurate and giving false information\n- being too quick to offer easy answers, rather encouraging a process of learning\n**Students strongly value personal attention from their teachers and social interaction in the classroom with peers.** They are concerned that AI could disrupt this.\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.\nSome felt AI could:\n- support factual learning in subjects with right and wrong answers\n- help struggling students when teachers do not have capacity to provide personalised help\nSome younger students (Year 6) suggested AI tools might be smarter than their teachers, or expressed that “AI can’t get mad at you”, suggesting some may prefer feedback delivered through AI.\n- Students are split on whether AI use should be mandatory. 50% of groups disagreed (39% agreed, 10% unsure) that:\nGroups in favour of a requirement to use AI want it to be accurate and want AI tools to support students to clearly tell their teachers when they have completed work using AI.\nSome students expressed concerns about the environmental impacts of AI, although this was not widely considered to be a barrier to exploring the use of AI in education.\nA number expressed strong opposition to use of AI for creative work.\n**Students are concerned about the mental health impacts of AI.** They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n> _“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.”_ (Majority support)\nThey opposed AI tools pretending to have feelings, though some suggested it could help if AI tools offered light encouragement.\nStudents were generally in favour of the statement that:\n> _“Children from a young age should be educated on how to use AI most effectively and safely in their learning”_ (Generally supported)\n\n**Further work is needed to understand student views on the use of their data within AI.**\nA majority opposed the statement:\n> _“We should not place too many limits on the data that AI for education can use, so that AI can be as effective as possible”_ (Majority opposed)\nHowever, there was a degree of uncertainty on the statement:\n> _“AI needs a lot of data to be effective. We should wait until all the privacy and data protection issues are sorted out before we start to use it in education”_ (Uncertain response)\nStudents might not fully understand the kinds of data that personalised learning through AI uses. We observed students interpreting personal data as details such as name and address, rather than examples of past work and marks.\nSome students also expressed concerns that personalised learning would lead to feeling judged by AI, or to a loss of opportunities for peer-support when everyone is given different tasks.\n\n**Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use.** Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.\nA notable minority called for a ban or very limited AI use in education due to ethical concerns, and feeling AI is bad for learning. Others suggested ways of mitigating risks such as:\n- AI tools not giving direct answers but encouraging\n- step-by-step learning\n- AI tools that express uncertainty\n- restricting the use of AI for homework\n- daily time-limits or quotas on AI use\nOthers highlighted customising the tone of voice in AI for education; co-designing applications with student inputs; and involving students in the assurance of educational AI tools.\n\n### **Recommendations**\n**For generative AI to play a positive role in education, it is vital that AI developers, policy makers, school leaders and individual teachers engage in ongoing dialogue with students, and listen to their ideas and concerns.**\n- **Take the time to get generative AI in education right.** Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.\n- **Embed a role for students in decision-making on AI.** AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.\n- **Build student agency in a world of AI.** Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.\n\n",
+      "participants": [
+        "generative-ai-in-education-have-your-say-school-students"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "messages": [
+        "students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl",
+        "students-strongly-value-personal-attention-from-their-teachers-and-social-interaction-in-the-classro",
+        "students-are-concerned-about-the-mental-health-impacts-of-ai-they-do-not-want-ai-tools-to-be-involve",
+        "students-suggested-that-ai-for-education-needs-a-school-mode-adequate-restrictions-and-tightly-defin",
+        "take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an",
+        "embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude",
+        "build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its"
+      ],
+      "theme": [
+        "Education",
+        "Youth"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "uk-department-for-education"
+      ],
+      "inclusion-efforts": "School sign-ups were matched against the national database of schools (EduBase) to monitor the location, type (primary, secondary, special education) and pupil profile (e.g. single sex; mixed; free school meals rate as indicator of deprivation), and reviewed to check for a diversity of settings participating. \n\n",
+      "project-title": "Generative AI in Education - Have Your Say",
+      "method-image-caption": "Summary of participants and workshop resources",
+      "submitted-by": "Tim Davies",
+      "why-is-this-project-important-to-include-in-the": "The project demonstrated the potential of a distributed dialogue approach to both generate national findings and to support meaningful conversations about AI at the class and school level.\n\nThe process of securing peer-review from diverse experts for the 'workshop in a box' toolkit demonstrated good practice in provision of balanced learning materials. \n\nThe project also demonstrated the potential for agile participatory practice, gathering in-depth input from schools across the country over a short time window. ",
+      "photos-and-images": [
+        {
+          "id": "att2PWvVgyXuS89LT",
+          "width": 1380,
+          "height": 1035,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT.jpg",
+          "filename": "PXL_20260119_093359545.jpg",
+          "size": 426893,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_small.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_large.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att2PWvVgyXuS89LT_full.jpg",
+              "width": 1380,
+              "height": 1035
+            }
+          }
+        },
+        {
+          "id": "att7SBpB7J4HujNTA",
+          "width": 640,
+          "height": 360,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA.jpg",
+          "filename": "frame_0028.jpg",
+          "size": 26379,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_large.jpg",
+              "width": 640,
+              "height": 360
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att7SBpB7J4HujNTA_full.jpg",
+              "width": 640,
+              "height": 360
+            }
+          }
+        },
+        {
+          "id": "attFTMraeWDxqyVJv",
+          "width": 640,
+          "height": 360,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv.jpg",
+          "filename": "frame_0078.jpg",
+          "size": 27161,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_large.jpg",
+              "width": 640,
+              "height": 360
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attFTMraeWDxqyVJv_full.jpg",
+              "width": 640,
+              "height": 360
+            }
+          }
+        },
+        {
+          "id": "attxEuMT5z1D3Txsa",
+          "width": 640,
+          "height": 360,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa.jpg",
+          "filename": "frame_0031.jpg",
+          "size": 25455,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_large.jpg",
+              "width": 640,
+              "height": 360
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_attxEuMT5z1D3Txsa_full.jpg",
+              "width": 640,
+              "height": 360
+            }
+          }
+        },
+        {
+          "id": "att4WTGUXr40YUVWD",
+          "width": 640,
+          "height": 360,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD.jpg",
+          "filename": "frame_0097.jpg",
+          "size": 11532,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_small.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_large.jpg",
+              "width": 640,
+              "height": 360
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldd4B6cpBOP3n3is_att4WTGUXr40YUVWD_full.jpg",
+              "width": 640,
+              "height": 360
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Empowerment: Build community power with respect to AI",
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "supporting-resources": [
+        "generative-ai-in-education-have-your-say-report",
+        "generative-ai-in-education-student-video",
+        "workshop-in-a-box-evaluation-report",
+        "generative-ai-in-education-workshop-in-a-box-toolkit"
+      ],
+      "method-image": [
+        {
+          "id": "attwWKoAhUrHftSbt",
+          "width": 954,
+          "height": 535,
+          "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt.png",
+          "filename": "Screenshot 2026-07-03 at 10.45.25.png",
+          "size": 390524,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_small.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_large.png",
+              "width": 913,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/3c565662d49f8ad8_fldgrmlTFHIgHExO6_attwWKoAhUrHftSbt_full.png",
+              "width": 954,
+              "height": 535
+            }
+          }
+        }
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "The use of Generative AI in Education",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "National",
+      "what-year-did-the-project-conclude": 2025,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A project video",
+        "An independent evaluation",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://connectedbydata.org/ai-in-education/",
+      "locations": [
+        "england-united-kingdom"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "generative-ai-in-education-have-your-say-school-students",
+        "data": {
+          "layout": "generic",
+          "title": "Generative AI in Education - Have Your Say-School students",
+          "airtable_id": "dcecae47dd3b2042",
+          "slug": "generative-ai-in-education-have-your-say-school-students",
+          "locations": [
+            "england-united-kingdom"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberation",
+            "Distributed dialogue"
+          ],
+          "on-average-how-many-hours-did-each-participant": 1.5,
+          "name": "Generative AI in Education - Have Your Say-School students",
+          "group-description": "School students",
+          "do-any-of-the-following-apply": [
+            "There was a learning phase for participants",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 1000,
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "recruitment-description": "Invitation to teachers, who then selected students to be involved. ",
+          "was-there-a-specific-target-population": "School students",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "uk-department-for-education",
+        "data": {
+          "layout": "organisation",
+          "title": "UK Department for Education",
+          "airtable_id": "6e2e4d82a4ff7624",
+          "slug": "uk-department-for-education",
+          "role": [
+            "Funder"
+          ],
+          "organisation-type": [
+            "Public sector"
+          ],
+          "website-address": "https://www.gov.uk/government/organisations/department-for-education",
+          "name": "UK Department for Education",
+          "mission-statement": "To create a highly educated society in which opportunity is equal for all, through excellent education and care. (Source: https://www.gov.uk/government/organisations/department-for-education)",
+          "main-location": [
+            "london-united-kingdom"
+          ],
+          "funding-organisation-for": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "connected-by-data",
+        "data": {
+          "layout": "organisation",
+          "title": "Connected by Data",
+          "airtable_id": "a64d6453923f2575",
+          "slug": "connected-by-data",
+          "role": [
+            "Lead"
+          ],
+          "involved-organisation-for": [
+            "collaborative-ai-governance-for-tomorrows-democracies-1"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://connectedbydata.org/",
+          "name": "Connected by Data",
+          "lead-organisation-for": [
+            "generative-ai-in-education-have-your-say",
+            "the-peoples-panel-on-ai"
+          ],
+          "mission-statement": "To campaign for communities to have a powerful voice in how data and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)",
+          "main-location": [
+            "united-kingdom"
+          ],
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an",
+        "data": {
+          "layout": "generic",
+          "title": "Take the time to get generative AI in education right. Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.",
+          "airtable_id": "04f8d0a37e725d77",
+          "slug": "take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an",
+          "type": "Recommendation",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Take the time to get generative AI in education right. Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its",
+        "data": {
+          "layout": "generic",
+          "title": "Build student agency in a world of AI. Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.",
+          "airtable_id": "7124a6909fd7238c",
+          "slug": "build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Build student agency in a world of AI. Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude",
+        "data": {
+          "layout": "generic",
+          "title": "Embed a role for students in decision-making on AI. AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.",
+          "airtable_id": "8d294583ae1624b7",
+          "slug": "embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude",
+          "featured": [
+            "Participation"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Embed a role for students in decision-making on AI. AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl",
+        "data": {
+          "layout": "generic",
+          "title": "Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.",
+          "airtable_id": "5634ee2873f99dd9",
+          "slug": "students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl",
+          "featured": [
+            "Safety"
+          ],
+          "type": "Issue",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "students-strongly-value-personal-attention-from-their-teachers-and-social-interaction-in-the-classro",
+        "data": {
+          "layout": "generic",
+          "title": "Students strongly value personal attention from their teachers and social interaction in the classroom with peers. They are concerned that AI could disrupt this.\n\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.",
+          "airtable_id": "b085c81dfddcaaeb",
+          "slug": "students-strongly-value-personal-attention-from-their-teachers-and-social-interaction-in-the-classro",
+          "featured": [
+            "Education"
+          ],
+          "type": "Issue",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Students strongly value personal attention from their teachers and social interaction in the classroom with peers. They are concerned that AI could disrupt this.\n\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "students-are-concerned-about-the-mental-health-impacts-of-ai-they-do-not-want-ai-tools-to-be-involve",
+        "data": {
+          "layout": "generic",
+          "title": "Students are concerned about the mental health impacts of AI. They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n\n“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.” (Majority support)",
+          "airtable_id": "2b9998e7f7936c6b",
+          "slug": "students-are-concerned-about-the-mental-health-impacts-of-ai-they-do-not-want-ai-tools-to-be-involve",
+          "type": "Issue",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Students are concerned about the mental health impacts of AI. They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n\n“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.” (Majority support)",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "students-suggested-that-ai-for-education-needs-a-school-mode-adequate-restrictions-and-tightly-defin",
+        "data": {
+          "layout": "generic",
+          "title": "Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use. Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.",
+          "airtable_id": "68bc696045834f42",
+          "slug": "students-suggested-that-ai-for-education-needs-a-school-mode-adequate-restrictions-and-tightly-defin",
+          "featured": [
+            "Education"
+          ],
+          "type": "Issue",
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "name": "Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use. Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "generative-ai-in-education-have-your-say"
+          ],
+          "layout": "generic",
+          "slug": "generative-ai-in-education-have-your-say-process",
+          "title": "Generative AI in Education - Have Your Say - Process",
+          "theme": [
+            "Education",
+            "Youth"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Generative AI in Education - Have Your Say-School students",
+        "airtable_id": "dcecae47dd3b2042",
+        "slug": "generative-ai-in-education-have-your-say-school-students",
+        "locations": [
+          "england-united-kingdom"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberation",
+          "Distributed dialogue"
+        ],
+        "on-average-how-many-hours-did-each-participant": 1.5,
+        "name": "Generative AI in Education - Have Your Say-School students",
+        "group-description": "School students",
+        "do-any-of-the-following-apply": [
+          "There was a learning phase for participants",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 1000,
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "recruitment-description": "Invitation to teachers, who then selected students to be involved. ",
+        "was-there-a-specific-target-population": "School students",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "layout": "generic",
+        "slug": "generative-ai-in-education-have-your-say-process",
+        "title": "Generative AI in Education - Have Your Say - Process",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "UK Department for Education",
+        "airtable_id": "6e2e4d82a4ff7624",
+        "slug": "uk-department-for-education",
+        "role": [
+          "Funder"
+        ],
+        "organisation-type": [
+          "Public sector"
+        ],
+        "website-address": "https://www.gov.uk/government/organisations/department-for-education",
+        "name": "UK Department for Education",
+        "mission-statement": "To create a highly educated society in which opportunity is equal for all, through excellent education and care. (Source: https://www.gov.uk/government/organisations/department-for-education)",
+        "main-location": [
+          "london-united-kingdom"
+        ],
+        "funding-organisation-for": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Connected by Data",
+        "airtable_id": "a64d6453923f2575",
+        "slug": "connected-by-data",
+        "role": [
+          "Lead"
+        ],
+        "involved-organisation-for": [
+          "collaborative-ai-governance-for-tomorrows-democracies-1"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://connectedbydata.org/",
+        "name": "Connected by Data",
+        "lead-organisation-for": [
+          "generative-ai-in-education-have-your-say",
+          "the-peoples-panel-on-ai"
+        ],
+        "mission-statement": "To campaign for communities to have a powerful voice in how data and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)",
+        "main-location": [
+          "united-kingdom"
+        ],
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "Take the time to get generative AI in education right. Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.",
+        "airtable_id": "04f8d0a37e725d77",
+        "slug": "take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an",
+        "type": "Recommendation",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Take the time to get generative AI in education right. Students want assurance that AI is accurate, and that bias and safety risks of AI are well addressed before it is deployed in the classroom. Focus on limited classroom and homework uses of AI, rather than AI everywhere.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Build student agency in a world of AI. Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.",
+        "airtable_id": "7124a6909fd7238c",
+        "slug": "build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Build student agency in a world of AI. Young people hold a diversity of attitudes towards AI and its future use. Support students to learn about the pros and cons of particular uses of AI, and to make informed individual and collective choices about when and how they engage with it.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Embed a role for students in decision-making on AI. AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.",
+        "airtable_id": "8d294583ae1624b7",
+        "slug": "embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude",
+        "featured": [
+          "Participation"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Embed a role for students in decision-making on AI. AI for education should be co-designed with student input. Support should be available for teachers and education leaders to have ongoing and informed dialogue with students about shared expectations around AI in education. The ‘workshop in a box’ demonstrates the feasibility and value of a deliberative approach.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.",
+        "airtable_id": "5634ee2873f99dd9",
+        "slug": "students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl",
+        "featured": [
+          "Safety"
+        ],
+        "type": "Issue",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Students want AI tools to be checked for safety, accuracy and fairness before they are used in the classroom.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Students strongly value personal attention from their teachers and social interaction in the classroom with peers. They are concerned that AI could disrupt this.\n\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.",
+        "airtable_id": "b085c81dfddcaaeb",
+        "slug": "students-strongly-value-personal-attention-from-their-teachers-and-social-interaction-in-the-classro",
+        "featured": [
+          "Education"
+        ],
+        "type": "Issue",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Students strongly value personal attention from their teachers and social interaction in the classroom with peers. They are concerned that AI could disrupt this.\n\nStudents prefer human teachers and human markers, even if AI might be faster or fairer.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Students are concerned about the mental health impacts of AI. They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n\n“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.” (Majority support)",
+        "airtable_id": "2b9998e7f7936c6b",
+        "slug": "students-are-concerned-about-the-mental-health-impacts-of-ai-they-do-not-want-ai-tools-to-be-involve",
+        "type": "Issue",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Students are concerned about the mental health impacts of AI. They do not want AI tools to be involved in personal, emotional and social support. A clear majority of groups agreed that:\n\n“AI tutors should never be able to have conversations with pupils about personal issues, like friendships or family problems.” (Majority support)",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use. Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.",
+        "airtable_id": "68bc696045834f42",
+        "slug": "students-suggested-that-ai-for-education-needs-a-school-mode-adequate-restrictions-and-tightly-defin",
+        "featured": [
+          "Education"
+        ],
+        "type": "Issue",
+        "cases": [
+          "generative-ai-in-education-have-your-say"
+        ],
+        "name": "Students suggested that AI for education needs a ‘school mode’, adequate restrictions, and tightly defined scope of use. Students strongly preferred a focus on safe educational AI tools that can support independent learning or personalised consolidation of learning.",
+        "theme": [
+          "Education",
+          "Youth"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ]
+  }
+}

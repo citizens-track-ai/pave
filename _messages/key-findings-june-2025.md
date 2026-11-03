@@ -1,0 +1,17 @@
+---
+layout: generic
+title: 'Key findings: June 2025'
+airtable_id: ce04f65cd3fba8d1
+slug: key-findings-june-2025
+# Name
+name: "Consciousness Attribution: 30% of people globally have at some point thought\
+  \ their AI chatbot might be self-aware, driven by AI exhibiting empathy, curiosity,\
+  \ and creativity\u2014qualities already present in leading frontier LLMs."
+# Type
+type: Issue
+# Additional Credit Line
+additional-credit-line: 'Key findings: June 2025'
+# Cases
+cases:
+- collective-intelligence-project-global-dialogues
+---

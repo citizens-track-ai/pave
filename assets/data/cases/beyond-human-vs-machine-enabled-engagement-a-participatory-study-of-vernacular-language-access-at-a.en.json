@@ -1,0 +1,274 @@
+{
+  "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum",
+    "airtable_id": "966dc879918d7197",
+    "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+    "redirect_from": [
+      "/c/966dc879918d7197/"
+    ],
+    "lead-organisations": [
+      "indian-institute-of-technology-jodhpur"
+    ],
+    "provide-a-brief-description-of-the-project": "Led by at team from the Indian Institute of Technology, Jodhpur in 2026, this research project engaged 50 Rajasthani-speaking villagers to audit and compare human, machine, and post-edited translations of museum texts. By positioning community translators as co-creators and adhering to the CARE Principles for Indigenous Data Governance, the study generated mixed-methods evidence to evaluate AI translation tools.\n\nThis project is a participatory action research study examining how Rajasthani-speaking visitors engage with artefact descriptions at a cultural heritage museum in Jodhpur, Rajasthan. The study compared three types of translation of museum texts -- human translation by native speakers, machine translation using state-of-the-art systems, and human post-editing of machine output -- and evaluated visitor engagement through a mixed-methods approach combining Likert-scale preference ratings and comprehension MCQs. Community translators were positioned as co-creators rather than passive data sources. The project adhered to the CARE Principles for Indigenous Data Governance throughout.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "In Progress",
+    "headline-findings": "\n",
+    "participants": [
+      "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Specific AI system(s)"
+    ],
+    "what-year-did-the-project-start": 2026,
+    "funding-organisations": [
+      "indian-institute-of-technology-jodhpur"
+    ],
+    "additional-acknowledgements": "Sabeela Rasheed, Supreet Kaur",
+    "inclusion-efforts": "\n",
+    "project-title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum",
+    "submitted-by": "Himanshu Sihag",
+    "why-is-this-project-important-to-include-in-the": "This project is significant on several counts.\nFirst, it engages a community that is almost entirely absent from AI governance and NLP research: Rajasthani speakers, whose language has no official recognition in Rajasthan, is absent from school curricula, courts, and the state legislature, and is unrepresented in commercial machine translation systems. Second, the project deliberately shifts evaluation authority away from technical experts and heritage professionals toward community members themselves, i.e., using the preferences of indegenous people as the primary measure of translation quality rather than automated benchmark scores. Third, we also discover traces of language colonialism which limits the capacity of native speakers to read in their own language. and also the finding that commercial MT systems perform poorly in culturally and heritage-specific domains, and that community judgements diverge significantly from what automated models would predict, is directly relevant to policymakers and developers building or procuring AI language tools for diverse communities. Finally, the study's design, i.e, reaching communities outside formal institutions, in the villages where they live, reflects a deliberate methodological choice to go to where marginalised speakers are, rather than expecting them to come to the institution. \n\nOverall, this study provides a strong case how participatory input from indegenous communities can be irreplaceable for present AI systems.",
+    "project-goals": [
+      "Audit: Review design or implementation of AI tools"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "Comparing human, machine, and post-edited translations into Rajasthani",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2026,
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://doi.org/10.5281/zenodo.20480222",
+    "locations": [
+      "jodhpur-india"
+    ],
+    "where-were-participants-from": [
+      "Jodhpur"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+    "data": {
+      "layout": "case",
+      "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum",
+      "airtable_id": "966dc879918d7197",
+      "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+      "redirect_from": [
+        "/c/966dc879918d7197/"
+      ],
+      "lead-organisations": [
+        "indian-institute-of-technology-jodhpur"
+      ],
+      "provide-a-brief-description-of-the-project": "Led by at team from the Indian Institute of Technology, Jodhpur in 2026, this research project engaged 50 Rajasthani-speaking villagers to audit and compare human, machine, and post-edited translations of museum texts. By positioning community translators as co-creators and adhering to the CARE Principles for Indigenous Data Governance, the study generated mixed-methods evidence to evaluate AI translation tools.\n\nThis project is a participatory action research study examining how Rajasthani-speaking visitors engage with artefact descriptions at a cultural heritage museum in Jodhpur, Rajasthan. The study compared three types of translation of museum texts -- human translation by native speakers, machine translation using state-of-the-art systems, and human post-editing of machine output -- and evaluated visitor engagement through a mixed-methods approach combining Likert-scale preference ratings and comprehension MCQs. Community translators were positioned as co-creators rather than passive data sources. The project adhered to the CARE Principles for Indigenous Data Governance throughout.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "In Progress",
+      "headline-findings": "\n",
+      "participants": [
+        "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Specific AI system(s)"
+      ],
+      "what-year-did-the-project-start": 2026,
+      "funding-organisations": [
+        "indian-institute-of-technology-jodhpur"
+      ],
+      "additional-acknowledgements": "Sabeela Rasheed, Supreet Kaur",
+      "inclusion-efforts": "\n",
+      "project-title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum",
+      "submitted-by": "Himanshu Sihag",
+      "why-is-this-project-important-to-include-in-the": "This project is significant on several counts.\nFirst, it engages a community that is almost entirely absent from AI governance and NLP research: Rajasthani speakers, whose language has no official recognition in Rajasthan, is absent from school curricula, courts, and the state legislature, and is unrepresented in commercial machine translation systems. Second, the project deliberately shifts evaluation authority away from technical experts and heritage professionals toward community members themselves, i.e., using the preferences of indegenous people as the primary measure of translation quality rather than automated benchmark scores. Third, we also discover traces of language colonialism which limits the capacity of native speakers to read in their own language. and also the finding that commercial MT systems perform poorly in culturally and heritage-specific domains, and that community judgements diverge significantly from what automated models would predict, is directly relevant to policymakers and developers building or procuring AI language tools for diverse communities. Finally, the study's design, i.e, reaching communities outside formal institutions, in the villages where they live, reflects a deliberate methodological choice to go to where marginalised speakers are, rather than expecting them to come to the institution. \n\nOverall, this study provides a strong case how participatory input from indegenous communities can be irreplaceable for present AI systems.",
+      "project-goals": [
+        "Audit: Review design or implementation of AI tools"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "Comparing human, machine, and post-edited translations into Rajasthani",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2026,
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://doi.org/10.5281/zenodo.20480222",
+      "locations": [
+        "jodhpur-india"
+      ],
+      "where-were-participants-from": [
+        "Jodhpur"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+        "data": {
+          "layout": "generic",
+          "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum-Rajasthani Speakers from Jodhpur Villages",
+          "airtable_id": "278b9729ac328939",
+          "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+          "locations": [
+            "jodhpur-india"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "where-were-participants-from": "Jodhpur",
+          "which-of-the-following-methods-were-used-to": [
+            "Community-led Audit",
+            "Survey"
+          ],
+          "on-average-how-many-hours-did-each-participant": 0.25,
+          "name": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum-Rajasthani Speakers from Jodhpur Villages",
+          "group-description": "Rajasthani Speakers from Jodhpur Villages",
+          "how-many-people-took-part": 50,
+          "cases": [
+            "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+          ],
+          "recruitment-description": "Approached them personally to take part in this study.",
+          "was-there-a-specific-target-population": "Selection criteria was anyone who could read in devanagri script so as to be able to evaluate the four types of texts shown to them. ",
+          "where-did-engagement-take-place": [
+            "Offline",
+            "Hybrid"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "indian-institute-of-technology-jodhpur",
+        "data": {
+          "layout": "organisation",
+          "title": "Indian Institute of Technology, Jodhpur",
+          "airtable_id": "2c4ccab88d062d3f",
+          "slug": "indian-institute-of-technology-jodhpur",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.iitj.ac.in/",
+          "name": "Indian Institute of Technology, Jodhpur",
+          "lead-organisation-for": [
+            "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+          ],
+          "main-location": [
+            "jodhpur-india"
+          ],
+          "funding-organisation-for": [
+            "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+          ],
+          "layout": "generic",
+          "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a-process",
+          "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum - Process",
+          "what-form-of-ai-is-the-project-about": [
+            "Specific AI system(s)"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum-Rajasthani Speakers from Jodhpur Villages",
+        "airtable_id": "278b9729ac328939",
+        "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a",
+        "locations": [
+          "jodhpur-india"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "where-were-participants-from": "Jodhpur",
+        "which-of-the-following-methods-were-used-to": [
+          "Community-led Audit",
+          "Survey"
+        ],
+        "on-average-how-many-hours-did-each-participant": 0.25,
+        "name": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum-Rajasthani Speakers from Jodhpur Villages",
+        "group-description": "Rajasthani Speakers from Jodhpur Villages",
+        "how-many-people-took-part": 50,
+        "cases": [
+          "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+        ],
+        "recruitment-description": "Approached them personally to take part in this study.",
+        "was-there-a-specific-target-population": "Selection criteria was anyone who could read in devanagri script so as to be able to evaluate the four types of texts shown to them. ",
+        "where-did-engagement-take-place": [
+          "Offline",
+          "Hybrid"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+        ],
+        "layout": "generic",
+        "slug": "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a-process",
+        "title": "Beyond Human vs. Machine-Enabled Engagement: A Participatory Study of Vernacular Language Access at a Jodhpur Heritage Museum - Process",
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Indian Institute of Technology, Jodhpur",
+        "airtable_id": "2c4ccab88d062d3f",
+        "slug": "indian-institute-of-technology-jodhpur",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.iitj.ac.in/",
+        "name": "Indian Institute of Technology, Jodhpur",
+        "lead-organisation-for": [
+          "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+        ],
+        "main-location": [
+          "jodhpur-india"
+        ],
+        "funding-organisation-for": [
+          "beyond-human-vs-machine-enabled-engagement-a-participatory-study-of-vernacular-language-access-at-a"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Specific AI system(s)"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

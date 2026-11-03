@@ -1,0 +1,490 @@
+{
+  "slug": "unesco-guidelines-for-the-governance-of-digital-platforms",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "UNESCO Guidelines for the Governance of Digital Platforms",
+    "airtable_id": "81f6cced231d94cd",
+    "slug": "unesco-guidelines-for-the-governance-of-digital-platforms",
+    "redirect_from": [
+      "/c/81f6cced231d94cd/"
+    ],
+    "lead-organisations": [
+      "i4policy"
+    ],
+    "provide-a-brief-description-of-the-project": "To expand the development of the _Guidelines for the Governance of Digital Platforms_ beyond a narrow group of expert contributors, UNESCO partnered with the Innovation for Policy Foundation (i4Policy) between April and June 2023 to run an open grassroots consultation process, drawing on distributed dialogue and deliberative workshop methods. \n\nMoving away from earlier open public comment or conference formats, the engagement design used a three-stage deliberative methodology—learning, small-group deliberation, and anonymous feedback. \n\ni4Policy facilitated a number of online and in-person deliberation sessions, and provided resources, micro-grants and training to support local partners or organise distributed deliberative consultation sessions. \n\nThese microgrants directly removed financial barriers in under-resourced communities by covering infrastructure costs like venue space and internet access. \n\nAs a result, the initiative successfully gathered an additional 6,214 comments from 1,349 new participants across 70 countries. This contributed to a substantial shift in the demographic balance of the project, causing participation from the African continent to increase from just 5% in the first phase to 54% in the third phase, and directly introduced  new policy concepts such as youth-led Media and Information Literacy (MIL) frameworks into the final Guidelines. \n",
+    "what-limitations-to-the-project-should-be-noted": "The primary insight derived from this case study is that passive openness and digital accessibility alone are fundamentally insufficient to ensure the representation of diverse global voices. While publishing drafts online or hosting centralized international conferences creates a theoretical channel for public engagement, these methods naturally default to sector-specific professionals who already possess the resources and familiarity to participate. Truly democratic and inclusive policy-making requires a proactive, resource-intensive commitment to dismantle structural, financial, and technical barriers for marginalized communities. As demonstrated by the i4Policy intervention—where surveys revealed that 72% of the decentralized participants had not engaged in any public consultation in the previous six months—meaningful inclusion hinges on a willingness to invest both time and funding into grassroots partnerships. Furthermore, the process highlighted that utilizing neutral local facilitators creates an essential environment of trust, validating that early and authentic stakeholder engagement produces a far more balanced, highly contextualized, and globally relevant framework. \n",
+    "project-status": "Complete",
+    "participants": [
+      "unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference",
+      "unesco-guidelines-for-the-governance-of-digital-platforms-pilot-deliberative-consultations",
+      "unesco-guidelines-for-the-governance-of-digital-platforms-distributed-deliberative-consultations"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "AI in general",
+      "Current issues",
+      "Generative AI"
+    ],
+    "theme": [
+      "Social media"
+    ],
+    "what-year-did-the-project-start": 2023,
+    "funding-organisations": [
+      "unesco"
+    ],
+    "project-title": "UNESCO Guidelines for the Governance of Digital Platforms",
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "supporting-resources": [
+      "ai-governance-from-the-global-south-lessons-from-decentralized-deliberation",
+      "how-to-organise-3d-distributed-consultations-a-practical-guide",
+      "how-to-organised-deliberative-consultations-a-practical-guide",
+      "case-study-participatory-development-of-the-guidelines-for-the-governance-of-digital-platforms"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "This project looked at AI systems used by digital platforms to manage and shape online content, with a focus on responsible governance that protects human rights while addressing issues such as misinformation, harmful content, and the rise of generative AI.",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "Global",
+    "what-year-did-the-project-conclude": 2023,
+    "which-of-the-following-resources-are-available": [
+      "A project report",
+      "A method guide or toolkit"
+    ],
+    "curation-decision": "Mapping Entry",
+    "project-url": "https://unesdoc.unesco.org/ark:/48223/pf0000387339",
+    "where-did-engagement-take-place": [
+      "Hybrid",
+      "Offline",
+      "Online"
+    ],
+    "locations": [
+      "lusaka",
+      "new-york-new-york-usa"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "unesco-guidelines-for-the-governance-of-digital-platforms",
+    "data": {
+      "layout": "case",
+      "title": "UNESCO Guidelines for the Governance of Digital Platforms",
+      "airtable_id": "81f6cced231d94cd",
+      "slug": "unesco-guidelines-for-the-governance-of-digital-platforms",
+      "redirect_from": [
+        "/c/81f6cced231d94cd/"
+      ],
+      "lead-organisations": [
+        "i4policy"
+      ],
+      "provide-a-brief-description-of-the-project": "To expand the development of the _Guidelines for the Governance of Digital Platforms_ beyond a narrow group of expert contributors, UNESCO partnered with the Innovation for Policy Foundation (i4Policy) between April and June 2023 to run an open grassroots consultation process, drawing on distributed dialogue and deliberative workshop methods. \n\nMoving away from earlier open public comment or conference formats, the engagement design used a three-stage deliberative methodology—learning, small-group deliberation, and anonymous feedback. \n\ni4Policy facilitated a number of online and in-person deliberation sessions, and provided resources, micro-grants and training to support local partners or organise distributed deliberative consultation sessions. \n\nThese microgrants directly removed financial barriers in under-resourced communities by covering infrastructure costs like venue space and internet access. \n\nAs a result, the initiative successfully gathered an additional 6,214 comments from 1,349 new participants across 70 countries. This contributed to a substantial shift in the demographic balance of the project, causing participation from the African continent to increase from just 5% in the first phase to 54% in the third phase, and directly introduced  new policy concepts such as youth-led Media and Information Literacy (MIL) frameworks into the final Guidelines. \n",
+      "what-limitations-to-the-project-should-be-noted": "The primary insight derived from this case study is that passive openness and digital accessibility alone are fundamentally insufficient to ensure the representation of diverse global voices. While publishing drafts online or hosting centralized international conferences creates a theoretical channel for public engagement, these methods naturally default to sector-specific professionals who already possess the resources and familiarity to participate. Truly democratic and inclusive policy-making requires a proactive, resource-intensive commitment to dismantle structural, financial, and technical barriers for marginalized communities. As demonstrated by the i4Policy intervention—where surveys revealed that 72% of the decentralized participants had not engaged in any public consultation in the previous six months—meaningful inclusion hinges on a willingness to invest both time and funding into grassroots partnerships. Furthermore, the process highlighted that utilizing neutral local facilitators creates an essential environment of trust, validating that early and authentic stakeholder engagement produces a far more balanced, highly contextualized, and globally relevant framework. \n",
+      "project-status": "Complete",
+      "participants": [
+        "unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference",
+        "unesco-guidelines-for-the-governance-of-digital-platforms-pilot-deliberative-consultations",
+        "unesco-guidelines-for-the-governance-of-digital-platforms-distributed-deliberative-consultations"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "AI in general",
+        "Current issues",
+        "Generative AI"
+      ],
+      "theme": [
+        "Social media"
+      ],
+      "what-year-did-the-project-start": 2023,
+      "funding-organisations": [
+        "unesco"
+      ],
+      "project-title": "UNESCO Guidelines for the Governance of Digital Platforms",
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "supporting-resources": [
+        "ai-governance-from-the-global-south-lessons-from-decentralized-deliberation",
+        "how-to-organise-3d-distributed-consultations-a-practical-guide",
+        "how-to-organised-deliberative-consultations-a-practical-guide",
+        "case-study-participatory-development-of-the-guidelines-for-the-governance-of-digital-platforms"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "This project looked at AI systems used by digital platforms to manage and shape online content, with a focus on responsible governance that protects human rights while addressing issues such as misinformation, harmful content, and the rise of generative AI.",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "Global",
+      "what-year-did-the-project-conclude": 2023,
+      "which-of-the-following-resources-are-available": [
+        "A project report",
+        "A method guide or toolkit"
+      ],
+      "curation-decision": "Mapping Entry",
+      "project-url": "https://unesdoc.unesco.org/ark:/48223/pf0000387339",
+      "where-did-engagement-take-place": [
+        "Hybrid",
+        "Offline",
+        "Online"
+      ],
+      "locations": [
+        "lusaka",
+        "new-york-new-york-usa"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-distributed-deliberative-consultations",
+        "data": {
+          "layout": "generic",
+          "title": "UNESCO Guidelines for the Governance of Digital Platforms-Distributed deliberative consultations",
+          "airtable_id": "72c8aad5b803a11f",
+          "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-distributed-deliberative-consultations",
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberation"
+          ],
+          "name": "UNESCO Guidelines for the Governance of Digital Platforms-Distributed deliberative consultations",
+          "group-description": "Distributed deliberative consultations",
+          "how-many-people-took-part": 1349,
+          "cases": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline"
+          ],
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference",
+        "data": {
+          "layout": "generic",
+          "title": "UNESCO Guidelines for the Governance of Digital Platforms-Internet for Trust Conference",
+          "airtable_id": "00b5f4e02089c87a",
+          "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference",
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Survey",
+            "Public Hearing"
+          ],
+          "name": "UNESCO Guidelines for the Governance of Digital Platforms-Internet for Trust Conference",
+          "group-description": "Internet for Trust Conference",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved"
+          ],
+          "how-many-people-took-part": 4000,
+          "cases": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "recruitment-description": "Participants registered to take part in the Internet for Trust conference online or in-person",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "participants",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-pilot-deliberative-consultations",
+        "data": {
+          "layout": "generic",
+          "title": "UNESCO Guidelines for the Governance of Digital Platforms-Pilot deliberative consultations",
+          "airtable_id": "7e75502f69ef6a35",
+          "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-pilot-deliberative-consultations",
+          "locations": [
+            "new-york-new-york-usa",
+            "lusaka"
+          ],
+          "which-of-the-following-methods-were-used-to": [
+            "Deliberation"
+          ],
+          "name": "UNESCO Guidelines for the Governance of Digital Platforms-Pilot deliberative consultations",
+          "group-description": "Pilot deliberative consultations",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "cases": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "where-did-engagement-take-place": [
+            "Online",
+            "Offline"
+          ],
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "unesco",
+        "data": {
+          "layout": "organisation",
+          "title": "UNESCO",
+          "airtable_id": "50776231b6fb73f8",
+          "slug": "unesco",
+          "role": [
+            "Funder"
+          ],
+          "involved-organisation-for": [
+            "chilean-national-ai-policy-participatory-design-and-update",
+            "we-the-internet"
+          ],
+          "name": "UNESCO",
+          "funding-organisation-for": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "i4policy",
+        "data": {
+          "layout": "organisation",
+          "title": "i4Policy",
+          "airtable_id": "776fe2abc408310d",
+          "slug": "i4policy",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "name": "i4Policy",
+          "lead-organisation-for": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "unesco-guidelines-for-the-governance-of-digital-platforms"
+          ],
+          "layout": "generic",
+          "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-process",
+          "title": "UNESCO Guidelines for the Governance of Digital Platforms - Process",
+          "theme": [
+            "Social media"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "AI in general",
+            "Current issues",
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "UNESCO Guidelines for the Governance of Digital Platforms-Distributed deliberative consultations",
+        "airtable_id": "72c8aad5b803a11f",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-distributed-deliberative-consultations",
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberation"
+        ],
+        "name": "UNESCO Guidelines for the Governance of Digital Platforms-Distributed deliberative consultations",
+        "group-description": "Distributed deliberative consultations",
+        "how-many-people-took-part": 1349,
+        "cases": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline"
+        ],
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "UNESCO Guidelines for the Governance of Digital Platforms-Internet for Trust Conference",
+        "airtable_id": "00b5f4e02089c87a",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference",
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Survey",
+          "Public Hearing"
+        ],
+        "name": "UNESCO Guidelines for the Governance of Digital Platforms-Internet for Trust Conference",
+        "group-description": "Internet for Trust Conference",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved"
+        ],
+        "how-many-people-took-part": 4000,
+        "cases": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "recruitment-description": "Participants registered to take part in the Internet for Trust conference online or in-person",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "UNESCO Guidelines for the Governance of Digital Platforms-Pilot deliberative consultations",
+        "airtable_id": "7e75502f69ef6a35",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-pilot-deliberative-consultations",
+        "locations": [
+          "new-york-new-york-usa",
+          "lusaka"
+        ],
+        "which-of-the-following-methods-were-used-to": [
+          "Deliberation"
+        ],
+        "name": "UNESCO Guidelines for the Governance of Digital Platforms-Pilot deliberative consultations",
+        "group-description": "Pilot deliberative consultations",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "cases": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "where-did-engagement-take-place": [
+          "Online",
+          "Offline"
+        ],
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "layout": "generic",
+        "slug": "unesco-guidelines-for-the-governance-of-digital-platforms-process",
+        "title": "UNESCO Guidelines for the Governance of Digital Platforms - Process",
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "UNESCO",
+        "airtable_id": "50776231b6fb73f8",
+        "slug": "unesco",
+        "role": [
+          "Funder"
+        ],
+        "involved-organisation-for": [
+          "chilean-national-ai-policy-participatory-design-and-update",
+          "we-the-internet"
+        ],
+        "name": "UNESCO",
+        "funding-organisation-for": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "i4Policy",
+        "airtable_id": "776fe2abc408310d",
+        "slug": "i4policy",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "name": "i4Policy",
+        "lead-organisation-for": [
+          "unesco-guidelines-for-the-governance-of-digital-platforms"
+        ],
+        "theme": [
+          "Social media"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "AI in general",
+          "Current issues",
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": []
+  }
+}

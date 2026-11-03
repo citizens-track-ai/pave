@@ -1,0 +1,145 @@
+---
+layout: case
+title: 'Initiative for the Development of Artificial Intelligence '
+airtable_id: 054acc4481127db0
+slug: initiative-for-the-development-of-artificial-intelligence
+redirect_from:
+- /c/054acc4481127db0/
+description: The Initiative for the Development of Artificial Intelligence (IDIA)
+  led by Niyel, with its two phases, is a research and advocacy project that translates...
+# Project Title
+project-title: 'Initiative for the Development of Artificial Intelligence '
+# Headline findings
+headline-findings: '
+
+  '
+# Project URL
+project-url: 'https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/initiative-development-artificial-intelligence-idia  -  https://niyel.net/fr/project/multi-annual-project-test/ '
+# What year did the project start?
+what-year-did-the-project-start: 2024
+# Provide a brief description of the project
+provide-a-brief-description-of-the-project: "The Initiative for the Development of\
+  \ Artificial Intelligence (IDIA) led by Niyel, with its two phases, is a research\
+  \ and advocacy project that translates evidence into inclusive AI public policies\
+  \ across Francophone Africa,  from knowledge production to meaningful public participation.\
+  \ \nOver the first three years ( 2021-2024), the project laid the foundations for\
+  \ a policy research ecosystem on AI in Francophone Africa. In partnership with UNCHK,\
+  \ CURI, and IPAR, the project produced analyses covering Benin, Burkina Faso, C\xF4\
+  te d'Ivoire, and Senegal, and translated them into direct engagement with decision-makers\
+  \ at national and regional levels. The research teams were able to identify the\
+  \ political, legal, institutional and ethical frameworks related to AI, draw up\
+  \ recommendations for the development of national documents on AI ethics in West\
+  \ Africa, present a data skills continuum, outline the state of AI development in\
+  \ the region, highlight the impact of AI on economic growth, the labor market and\
+  \ well-being of Africans, and document the state of AI resources in Senegal, with\
+  \ a focus on skills, resources and mastery of the regulatory framework. From the\
+  \ research conducted, findings capable of facilitating rapid and evidence-based\
+  \ decision-making by policymakers were produced for the second phase of the project.\
+  \ \nThe goal is to convert the conversations initiated into concrete, measurable\
+  \ actions and to ensure that no community is left behind as AI governance frameworks\
+  \ take shape. During the second phase, the project : \nCreated a structured space\
+  \ for dialogue on the role of AI in shaping the future of Francophone Africa, with\
+  \ accountability mechanisms for national and regional leaders -A technical workshop\
+  \ was conducted with representatives from five African francophone governments,\
+  \ ministries, research institutions such as the  Prosperous, Agricole, and Rural\
+  \ Initiative  (IPAR), The Centre of interdisciplinary excellency on AI for development\
+  \ ( CITADEL),  and regional bodies such as the African Union Development Agency\
+  \ (AUDA-NEPAD). One of the key outputs of the workshop is the development of the\
+  \ first francophone Guidelines for Ethical, Responsible, and Inclusive AI for Francophone\
+  \ Africa. The guidelines represent the result of a participatory approach, including\
+  \ technicians, policy makers, and experts, to provide a common normative foundation\
+  \ for countries in the region, grounded in shared principles and recognized international\
+  \ and African standards, to strengthen institutional capacities in AI governance,\
+  \ through practical recommendations tailored to countries specificity - to encourage\
+  \ the integration of ethics throughout the public policy lifecycle, from the design\
+  \ to the regulation of AI systems. \nLaunched the NIYEL Fellowship - a nine-month\
+  \ capacity-building program designed to equip public sector professionals with the\
+  \ skills, tools, and network needed to influence policies and practices within their\
+  \ institutions and their sector. Through targeted training, mentorship, and collaborative\
+  \ learning, the program strengthens participants\u2019 advocacy, leadership, and\
+  \ communication skills, enabling them to champion ethical and responsible decision-making\
+  \ in Artificial Intelligence. The Fellowship also contributes to the development\
+  \ of more inclusive, ethical, and context-responsive AI policies and governance\
+  \ frameworks. By fostering peer learning, strengthening regional networks, and facilitating\
+  \ strategic partnerships among policymakers, AI experts, and other key stakeholders,\
+  \ the program helps build a vibrant community of leaders committed to advancing\
+  \ responsible and inclusive AI across the region. \nThe project created the space\
+  \ for civil society, academia, innovators, and grand public to interact and exchange\
+  \ ideas on AI development and its impact on our daily lives. These open spaces provide\
+  \ a safe space to address their concerns.   \nCollaboration and partnership with\
+  \ civil society organizations: The project facilitates technical and funding support\
+  \ to 10 civil society organizations from the West Africa region, to conduct national\
+  \ mobilization on AI and to engage with communities in concrete actions to inform\
+  \ decision makers and influence existing and current policy processes on AI at national\
+  \ and regional levels. The civil society organizations from Benin, Mali, Togo, Burkina\
+  \ Faso, the Ivory Coast, Senegal, the RDC, Guinea, Niger, and Cameroon shared a\
+  \ common goal, which is to improve the human condition through knowledge translation\
+  \ and contribute to crafting policies that address societal challenges related to\
+  \ AI understanding, use, and adoption in their respective countries. They make sure\
+  \ communities, and underrepresented groups are in the room to discuss AI risks,\
+  \ impact, and opportunities. \n"
+# Submitted by
+submitted-by: Yossra Kallali
+# Why is this project important to include in the case book?
+why-is-this-project-important-to-include-in-the: "As the global AI governance debate\
+  \ accelerates, IDIA offers a documented, multi-year example of how research translation,\
+  \ civil society engagement, and policy dialogue can work together to make AI governance\
+  \ genuinely participatory.  IDIA is important to be included in the case book because:\
+  \ \n \nIDIA built participation into its architecture from the start:  researchers,\
+  \ policymakers, and civil society co-constructed the research agenda and outputs\
+  \ rather than being consulted after the fact. \nResearch on AI readiness in Benin,\
+  \ Burkina Faso, C\xF4te d'Ivoire, and Senegal was translated into policy briefs,\
+  \ national strategy inputs, and parliamentary engagement,  closing the gap between\
+  \ knowledge and action. \nUnlike many global AI initiatives, IDIA is led by African\
+  \ institutions. It models what it means for the Global South to set its own AI governance\
+  \ agenda rather than adapt frameworks designed elsewhere. \nThe IDIA methodology,\
+  \ throughout the two phases:  research consortia, policy translation, civil society\
+  \ mobilization, and policy engagement, offers a learning model for participatory\
+  \ AI governance that other Francophone and African countries can adapt. \nIDIA provides\
+  \ concrete evidence of what this looks like in practice across Francophone Africa,\
+  \ a region of 400 million people whose perspectives have been largely absent from\
+  \ global AI norm-setting processes."
+# What year did the project conclude?
+what-year-did-the-project-conclude: 2028
+# Inclusion efforts
+inclusion-efforts: '
+
+  '
+# What limitations to the project should be noted?
+what-limitations-to-the-project-should-be-noted: '
+
+  '
+# Curation decision
+curation-decision: Mapping Entry
+# Project status
+project-status: In Progress
+# Level of engagement
+level-of-engagement: National
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
+- Community Led
+- Co-created
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A research poster
+# Involved organisations
+involved-organisations:
+- african-union-development-agency
+# Supporting resources
+supporting-resources:
+- ai-impact-summit-outcome-paper
+- ai-pulse-bulletin-dinformation-sur-lintelligence-artificielle-premiere-edition
+- regulation-de-lia-en-afrique-francophone-frein-ou-catalyseur-dinnovation
+- levolution-des-politiques-publiques-sur-lia
+---

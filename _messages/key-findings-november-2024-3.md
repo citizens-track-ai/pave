@@ -1,0 +1,16 @@
+---
+layout: generic
+title: 'Key findings: November 2024'
+airtable_id: 207e8e6c0257a2cd
+slug: key-findings-november-2024-3
+# Name
+name: When it comes to life-changing decisions requiring moral or ethical judgment,
+  51% want to maintain human control.
+# Type
+type: Issue
+# Additional Credit Line
+additional-credit-line: 'Key findings: November 2024'
+# Cases
+cases:
+- collective-intelligence-project-global-dialogues
+---

@@ -1,0 +1,1563 @@
+{
+  "slug": "imaginative-intelligences-hollywood-edition",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Imaginative Intelligences- Hollywood Edition",
+    "airtable_id": "564748a27ac5a9e4",
+    "slug": "imaginative-intelligences-hollywood-edition",
+    "redirect_from": [
+      "/c/564748a27ac5a9e4/"
+    ],
+    "lead-organisations": [
+      "mozilla-foundation",
+      "berggruen-institute",
+      "republico"
+    ],
+    "provide-a-brief-description-of-the-project": "Imaginative Intelligences was a series of participatory assemblies with creators from across Hollywood's production pipeline: executives, gig workers, creative technologists, and scholars. Over five assemblies in Los Angeles, participants examined a central prompt: \"creative purpose at the dawn of AI.\" \n\nDepending on the group's makeup, each assembly coalesced around unique themes specific to them. For example, gig workers in session 1 chose pain as their theme, relating to job loss, economic precarity, and what they described as the distinguishing factor between humans and a model. Central to many conversations was the idea of creative purpose: how do creators maintain it as the value and logic behind it increasingly diminishes? Each session generated extensive qualitative material, over 30 hours of recorded conversation, later synthesized into a 35-page report outlining cross-industry pain points and eight design principles to inform more equitable creative-tech development. \n\nImaginative Intelligences is a form of collective sense-making: a process that maps where narratives and beliefs around AI land across different sectors of the creative industry.\n",
+    "what-limitations-to-the-project-should-be-noted": "\n",
+    "project-status": "Complete",
+    "headline-findings": "If you have to pay to be in the space that protects your humanity… what the hell's the point?”\n\n1. Creative labor is increasingly precarious and devalued.\nParticipants repeatedly expressed concern that AI is compounding long-standing\npressures on artists and creatives: invisible labor, derivative training data, and the erosion\nof sustainable careers. The emotional tone was often grief, especially among those in film,\nmusic, and media.\nOne participant described the growing precarity:\n“It's become a lot less sustainable for artists to be able to pursue an artistic career if they\ndo not already come from money. The big fear with AI right now is that this is another way\nto devalue the work of artists… because it is “\neasy to produce”, because “\nall you got to do is\nput a bunch of prompts in and generate something out of that””\n.\nIt means that your value as an artist is going to go down, and it means that it's going to be a\nlot less sustainable for you to pursue it as a career… Do you know how many gigs I have\nright now just to be able to sustain my living right now?... Five… And 20 years ago, I could\nhave just been able to live off of one of those gigs.”\n",
+    "participants": [
+      "imaginative-intelligences-hollywood-edition-gig-workers-freelancers-union-reps-media-executives-info"
+    ],
+    "participation-locations": "USA",
+    "what-form-of-ai-is-the-project-about": [
+      "Future issues",
+      "Generative AI",
+      "AI in general",
+      "Current issues"
+    ],
+    "messages": [
+      "an-artist-has-a-value-based-on-their-style-their-worldview-the-themes-that-they-keep-on-coming-to-is",
+      "participant-ai-is-not-going-to-replace-or-displace-people-who-make-art-or-creativity-but-it-is-defin",
+      "if-you-have-to-pay-to-be-in-the-space-that-protects-your-humanity-what-the-hells-the-point",
+      "the-current-technology-allowed-people-like-me-to-be-able-to-write-orchestral-music-without-having-th",
+      "so-theres-this-concept-of-the-broken-telephone-if-i-say-one-thing-i-tell-to-that-person-they-tell-it",
+      "ai-accelerates-output-but-displaces-process",
+      "simulation-is-not-experience-tactile-interactions-are-irreplaceable",
+      "human-uniqueness-lies-in-legacy-and-interpretation",
+      "the-role-of-the-artist-is-shifting-from-maker-to-editor-curator-or-systems-designer",
+      "creative-labor-is-increasingly-precarious-and-devalued",
+      "ai-challenges-the-moral-and-economic-logic-of-creation",
+      "generative-ai-is-the-latest-development-in-the-trend-towards-a-frictionless-world",
+      "ai-has-the-power-to-randomizeor-homogenize-machine-intelligence-is-systemic-not-sentient",
+      "resistance-is-not-rejection-but-redesign",
+      "build-for-process-not-just-output",
+      "encourage-randomness-and-glitchiness",
+      "keep-friction-in-the-creative-flow",
+      "protect-lineage-and-give-credit",
+      "put-human-purpose-at-the-center",
+      "make-ai-transparent-and-conversational",
+      "value-deliberate-slowness-and-depth",
+      "design-for-the-whole-creative-ecosystem"
+    ],
+    "theme": [
+      "Work"
+    ],
+    "what-year-did-the-project-start": 2025,
+    "funding-organisations": [
+      "mozilla-foundation"
+    ],
+    "additional-acknowledgements": "Gabriel Kahan, Ziyaad Bhorat",
+    "inclusion-efforts": "We wanted each assembly to have gig workers, creative freelancers, and executives, so we set a limit to however much each group could constitute in our assembly makeup. We tried reaching out to institutional and grassroots players that would have connections to each of these groups for recruitment processes.\n",
+    "project-title": "Imaginative Intelligences- Hollywood Edition",
+    "submitted-by": "Hannah Ismael",
+    "why-is-this-project-important-to-include-in-the": "This project is uniquely positioned at the intersection of labor and industry: it brought together Hollywood union workers, media executives, and creative technologists in the same participatory process, something no comparable method has done. The eight design principles it produced have already been cited in a California Senate backgrounder, demonstrating real policy impact. Most importantly, the project is preemptive rather than reactive. Where most participatory AI efforts serve as feedback mechanisms on systems already built, Imaginative Intelligences surfaces community-grounded principles before technology is optimized, created, deployed, or regulated, making it a first-mover in shaping more equitable creative-tech development.",
+    "project-goals": [
+      "Qualitative: Capture qualitative evidence on public attitudes to AI",
+      "Policy: Inform a policy-making process",
+      "AI Development: Shape the development of AI tools",
+      "Empowerment: Build community power with respect to AI"
+    ],
+    "supporting-resources": [
+      "hollywoods-8-rules-for-ai",
+      "pairs2026-imaginative-intelligences"
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "AI's effect on creativity and creative purpose",
+    "how-was-the-project-initiated": [
+      "Commissioned"
+    ],
+    "level-of-engagement": "Professional",
+    "what-year-did-the-project-conclude": 2026,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://www.mozillafoundation.org/en/what-we-do/mobilize/imaginative-intelligences/",
+    "locations": [
+      "hollywood-united-states"
+    ],
+    "where-were-participants-from": [
+      "Hollywood"
+    ],
+    "where-did-engagement-take-place": [
+      "Offline"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "imaginative-intelligences-hollywood-edition",
+    "data": {
+      "layout": "case",
+      "title": "Imaginative Intelligences- Hollywood Edition",
+      "airtable_id": "564748a27ac5a9e4",
+      "slug": "imaginative-intelligences-hollywood-edition",
+      "redirect_from": [
+        "/c/564748a27ac5a9e4/"
+      ],
+      "lead-organisations": [
+        "mozilla-foundation",
+        "berggruen-institute",
+        "republico"
+      ],
+      "provide-a-brief-description-of-the-project": "Imaginative Intelligences was a series of participatory assemblies with creators from across Hollywood's production pipeline: executives, gig workers, creative technologists, and scholars. Over five assemblies in Los Angeles, participants examined a central prompt: \"creative purpose at the dawn of AI.\" \n\nDepending on the group's makeup, each assembly coalesced around unique themes specific to them. For example, gig workers in session 1 chose pain as their theme, relating to job loss, economic precarity, and what they described as the distinguishing factor between humans and a model. Central to many conversations was the idea of creative purpose: how do creators maintain it as the value and logic behind it increasingly diminishes? Each session generated extensive qualitative material, over 30 hours of recorded conversation, later synthesized into a 35-page report outlining cross-industry pain points and eight design principles to inform more equitable creative-tech development. \n\nImaginative Intelligences is a form of collective sense-making: a process that maps where narratives and beliefs around AI land across different sectors of the creative industry.\n",
+      "what-limitations-to-the-project-should-be-noted": "\n",
+      "project-status": "Complete",
+      "headline-findings": "If you have to pay to be in the space that protects your humanity… what the hell's the point?”\n\n1. Creative labor is increasingly precarious and devalued.\nParticipants repeatedly expressed concern that AI is compounding long-standing\npressures on artists and creatives: invisible labor, derivative training data, and the erosion\nof sustainable careers. The emotional tone was often grief, especially among those in film,\nmusic, and media.\nOne participant described the growing precarity:\n“It's become a lot less sustainable for artists to be able to pursue an artistic career if they\ndo not already come from money. The big fear with AI right now is that this is another way\nto devalue the work of artists… because it is “\neasy to produce”, because “\nall you got to do is\nput a bunch of prompts in and generate something out of that””\n.\nIt means that your value as an artist is going to go down, and it means that it's going to be a\nlot less sustainable for you to pursue it as a career… Do you know how many gigs I have\nright now just to be able to sustain my living right now?... Five… And 20 years ago, I could\nhave just been able to live off of one of those gigs.”\n",
+      "participants": [
+        "imaginative-intelligences-hollywood-edition-gig-workers-freelancers-union-reps-media-executives-info"
+      ],
+      "participation-locations": "USA",
+      "what-form-of-ai-is-the-project-about": [
+        "Future issues",
+        "Generative AI",
+        "AI in general",
+        "Current issues"
+      ],
+      "messages": [
+        "an-artist-has-a-value-based-on-their-style-their-worldview-the-themes-that-they-keep-on-coming-to-is",
+        "participant-ai-is-not-going-to-replace-or-displace-people-who-make-art-or-creativity-but-it-is-defin",
+        "if-you-have-to-pay-to-be-in-the-space-that-protects-your-humanity-what-the-hells-the-point",
+        "the-current-technology-allowed-people-like-me-to-be-able-to-write-orchestral-music-without-having-th",
+        "so-theres-this-concept-of-the-broken-telephone-if-i-say-one-thing-i-tell-to-that-person-they-tell-it",
+        "ai-accelerates-output-but-displaces-process",
+        "simulation-is-not-experience-tactile-interactions-are-irreplaceable",
+        "human-uniqueness-lies-in-legacy-and-interpretation",
+        "the-role-of-the-artist-is-shifting-from-maker-to-editor-curator-or-systems-designer",
+        "creative-labor-is-increasingly-precarious-and-devalued",
+        "ai-challenges-the-moral-and-economic-logic-of-creation",
+        "generative-ai-is-the-latest-development-in-the-trend-towards-a-frictionless-world",
+        "ai-has-the-power-to-randomizeor-homogenize-machine-intelligence-is-systemic-not-sentient",
+        "resistance-is-not-rejection-but-redesign",
+        "build-for-process-not-just-output",
+        "encourage-randomness-and-glitchiness",
+        "keep-friction-in-the-creative-flow",
+        "protect-lineage-and-give-credit",
+        "put-human-purpose-at-the-center",
+        "make-ai-transparent-and-conversational",
+        "value-deliberate-slowness-and-depth",
+        "design-for-the-whole-creative-ecosystem"
+      ],
+      "theme": [
+        "Work"
+      ],
+      "what-year-did-the-project-start": 2025,
+      "funding-organisations": [
+        "mozilla-foundation"
+      ],
+      "additional-acknowledgements": "Gabriel Kahan, Ziyaad Bhorat",
+      "inclusion-efforts": "We wanted each assembly to have gig workers, creative freelancers, and executives, so we set a limit to however much each group could constitute in our assembly makeup. We tried reaching out to institutional and grassroots players that would have connections to each of these groups for recruitment processes.\n",
+      "project-title": "Imaginative Intelligences- Hollywood Edition",
+      "submitted-by": "Hannah Ismael",
+      "why-is-this-project-important-to-include-in-the": "This project is uniquely positioned at the intersection of labor and industry: it brought together Hollywood union workers, media executives, and creative technologists in the same participatory process, something no comparable method has done. The eight design principles it produced have already been cited in a California Senate backgrounder, demonstrating real policy impact. Most importantly, the project is preemptive rather than reactive. Where most participatory AI efforts serve as feedback mechanisms on systems already built, Imaginative Intelligences surfaces community-grounded principles before technology is optimized, created, deployed, or regulated, making it a first-mover in shaping more equitable creative-tech development.",
+      "project-goals": [
+        "Qualitative: Capture qualitative evidence on public attitudes to AI",
+        "Policy: Inform a policy-making process",
+        "AI Development: Shape the development of AI tools",
+        "Empowerment: Build community power with respect to AI"
+      ],
+      "supporting-resources": [
+        "hollywoods-8-rules-for-ai",
+        "pairs2026-imaginative-intelligences"
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "AI's effect on creativity and creative purpose",
+      "how-was-the-project-initiated": [
+        "Commissioned"
+      ],
+      "level-of-engagement": "Professional",
+      "what-year-did-the-project-conclude": 2026,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://www.mozillafoundation.org/en/what-we-do/mobilize/imaginative-intelligences/",
+      "locations": [
+        "hollywood-united-states"
+      ],
+      "where-were-participants-from": [
+        "Hollywood"
+      ],
+      "where-did-engagement-take-place": [
+        "Offline"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "imaginative-intelligences-hollywood-edition-gig-workers-freelancers-union-reps-media-executives-info",
+        "data": {
+          "layout": "generic",
+          "title": "Imaginative Intelligences- Hollywood Edition-gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+          "airtable_id": "36cd29dbd31a3e03",
+          "slug": "imaginative-intelligences-hollywood-edition-gig-workers-freelancers-union-reps-media-executives-info",
+          "locations": [
+            "hollywood-united-states"
+          ],
+          "recruitment-method": "Other",
+          "where-were-participants-from": "Hollywood",
+          "which-of-the-following-methods-were-used-to": [
+            "Co-creation workshops",
+            "Collective Intelligence Process",
+            "Public Dialogue",
+            "Citizens’ Assembly"
+          ],
+          "on-average-how-many-hours-did-each-participant": 6,
+          "name": "Imaginative Intelligences- Hollywood Edition-gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+          "group-description": "gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "Materials from the learning phase have been published"
+          ],
+          "how-many-people-took-part": 91,
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "recruitment-description": "Advertised across job boards, sent to universities, sent to friends and posted on creator economy networks, sent through media recruitment channels",
+          "was-there-a-specific-target-population": "artists, technologists, academics, creator economy",
+          "where-did-engagement-take-place": [
+            "Offline"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "republico",
+        "data": {
+          "layout": "organisation",
+          "title": "Republico",
+          "airtable_id": "aa76eb9ac28f74cc",
+          "slug": "republico",
+          "role": [
+            "Lead"
+          ],
+          "name": "Republico",
+          "lead-organisation-for": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "berggruen-institute",
+        "data": {
+          "layout": "organisation",
+          "title": "Berggruen Institute",
+          "airtable_id": "19d3544658281c74",
+          "slug": "berggruen-institute",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research",
+            "Non-profit"
+          ],
+          "website-address": "https://www.berggruen.org/",
+          "name": "Berggruen Institute",
+          "lead-organisation-for": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "main-location": [
+            "united-states"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "mozilla-foundation",
+        "data": {
+          "layout": "organisation",
+          "title": "Mozilla Foundation",
+          "airtable_id": "c282203a5a0788cd",
+          "slug": "mozilla-foundation",
+          "role": [
+            "Lead",
+            "Funder"
+          ],
+          "involved-organisation-for": [
+            "we-the-internet"
+          ],
+          "organisation-type": [
+            "Non-profit"
+          ],
+          "website-address": "https://foundation.mozilla.org/",
+          "name": "Mozilla Foundation",
+          "lead-organisation-for": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+          "main-location": [
+            "mountain-view-california-usa"
+          ],
+          "funding-organisation-for": [
+            "the-peoples-panel-on-ai",
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "make-ai-transparent-and-conversational",
+        "data": {
+          "layout": "generic",
+          "title": " Make AI Transparent and Conversational",
+          "airtable_id": "e1888e5aae08c5b7",
+          "slug": "make-ai-transparent-and-conversational",
+          "featured": [
+            "AI development"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": " Make AI Transparent and Conversational",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "put-human-purpose-at-the-center",
+        "data": {
+          "layout": "generic",
+          "title": "Put Human Purpose at the Center",
+          "airtable_id": "ed5e6ca9d37ed4d8",
+          "slug": "put-human-purpose-at-the-center",
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Put Human Purpose at the Center",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "resistance-is-not-rejection-but-redesign",
+        "data": {
+          "layout": "generic",
+          "title": "Resistance is not rejection, but redesign.",
+          "airtable_id": "e56db9c1cd9026c5",
+          "slug": "resistance-is-not-rejection-but-redesign",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "Resistance is not rejection, but redesign.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-accelerates-output-but-displaces-process",
+        "data": {
+          "layout": "generic",
+          "title": "AI accelerates output but displaces process",
+          "airtable_id": "d1e79076e80b57c6",
+          "slug": "ai-accelerates-output-but-displaces-process",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "AI accelerates output but displaces process",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "design-for-the-whole-creative-ecosystem",
+        "data": {
+          "layout": "generic",
+          "title": "Design for the Whole Creative Ecosystem",
+          "airtable_id": "e25aa7ebb3621e52",
+          "slug": "design-for-the-whole-creative-ecosystem",
+          "featured": [
+            "AI development"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Design for the Whole Creative Ecosystem",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "human-uniqueness-lies-in-legacy-and-interpretation",
+        "data": {
+          "layout": "generic",
+          "title": "Human uniqueness lies in legacy and interpretation.",
+          "airtable_id": "dcb923f54036f77c",
+          "slug": "human-uniqueness-lies-in-legacy-and-interpretation",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "Human uniqueness lies in legacy and interpretation.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-current-technology-allowed-people-like-me-to-be-able-to-write-orchestral-music-without-having-th",
+        "data": {
+          "layout": "generic",
+          "title": "\"The current technology allowed people like me to be able to write orchestral music\nwithout having the resources to hire an orchestra, and eventually got me to gigs\nwhere I could hire the orchestra.”",
+          "airtable_id": "cee7daf04e120f50",
+          "slug": "the-current-technology-allowed-people-like-me-to-be-able-to-write-orchestral-music-without-having-th",
+          "type": "Quote",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Assembly 4: Performance",
+          "name": "\"The current technology allowed people like me to be able to write orchestral music\nwithout having the resources to hire an orchestra, and eventually got me to gigs\nwhere I could hire the orchestra.”",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "an-artist-has-a-value-based-on-their-style-their-worldview-the-themes-that-they-keep-on-coming-to-is",
+        "data": {
+          "layout": "generic",
+          "title": "“An artist has a value based on their style, their worldview, the themes that they keep on coming to is…based on their life experience. [For] AI to succeed at being able to produce something that is equivalent to that like rate at a high level, it's going to have to feel pain. It's going to have to learn to have setbacks and have to have failure, because that informs the stories that we tell.”",
+          "airtable_id": "11e561ffac625ab9",
+          "slug": "an-artist-has-a-value-based-on-their-style-their-worldview-the-themes-that-they-keep-on-coming-to-is",
+          "type": "Quote",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Assembly 1: Pain",
+          "name": "“An artist has a value based on their style, their worldview, the themes that they keep on coming to is…based on their life experience. [For] AI to succeed at being able to produce something that is equivalent to that like rate at a high level, it's going to have to feel pain. It's going to have to learn to have setbacks and have to have failure, because that informs the stories that we tell.”",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "build-for-process-not-just-output",
+        "data": {
+          "layout": "generic",
+          "title": "Build For Process, Not Just Output",
+          "airtable_id": "5d25fe493ef96aac",
+          "slug": "build-for-process-not-just-output",
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Build For Process, Not Just Output",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "protect-lineage-and-give-credit",
+        "data": {
+          "layout": "generic",
+          "title": "Protect Lineage and Give Credit",
+          "airtable_id": "68b39ab9bc4dbd75",
+          "slug": "protect-lineage-and-give-credit",
+          "featured": [
+            "Governance"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Protect Lineage and Give Credit",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-has-the-power-to-randomizeor-homogenize-machine-intelligence-is-systemic-not-sentient",
+        "data": {
+          "layout": "generic",
+          "title": "AI has the power to randomize….Or homogenize. Machine intelligence is systemic, not sentient.",
+          "airtable_id": "43cceebbee351c8b",
+          "slug": "ai-has-the-power-to-randomizeor-homogenize-machine-intelligence-is-systemic-not-sentient",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "AI has the power to randomize….Or homogenize. Machine intelligence is systemic, not sentient.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "ai-challenges-the-moral-and-economic-logic-of-creation",
+        "data": {
+          "layout": "generic",
+          "title": "AI challenges the moral and economic logic of creation.",
+          "airtable_id": "d8194727ad02b933",
+          "slug": "ai-challenges-the-moral-and-economic-logic-of-creation",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "AI challenges the moral and economic logic of creation.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "generative-ai-is-the-latest-development-in-the-trend-towards-a-frictionless-world",
+        "data": {
+          "layout": "generic",
+          "title": "Generative AI is the latest development in the trend towards a frictionless world.",
+          "airtable_id": "18926e82f0812615",
+          "slug": "generative-ai-is-the-latest-development-in-the-trend-towards-a-frictionless-world",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": " Synthesis and Core Insights",
+          "name": "Generative AI is the latest development in the trend towards a frictionless world.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "creative-labor-is-increasingly-precarious-and-devalued",
+        "data": {
+          "layout": "generic",
+          "title": "Creative labor is increasingly precarious and devalued.",
+          "airtable_id": "313982d165acd38d",
+          "slug": "creative-labor-is-increasingly-precarious-and-devalued",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "Creative labor is increasingly precarious and devalued.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "participant-ai-is-not-going-to-replace-or-displace-people-who-make-art-or-creativity-but-it-is-defin",
+        "data": {
+          "layout": "generic",
+          "title": "Participant: “AI is not going to replace or displace people who make art or creativity, but it is definitely taking away resources from people who are saying, we're going to do what we want to do no matter how much time it takes or how much money it takes.”",
+          "airtable_id": "525cb03f58bebe29",
+          "slug": "participant-ai-is-not-going-to-replace-or-displace-people-who-make-art-or-creativity-but-it-is-defin",
+          "type": "Quote",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Assembly 2: Stream/Flow",
+          "name": "Participant: “AI is not going to replace or displace people who make art or creativity, but it is definitely taking away resources from people who are saying, we're going to do what we want to do no matter how much time it takes or how much money it takes.”",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "so-theres-this-concept-of-the-broken-telephone-if-i-say-one-thing-i-tell-to-that-person-they-tell-it",
+        "data": {
+          "layout": "generic",
+          "title": "“So there's this concept of the [Broken Telephone], if I say one thing, I tell to\nthat person, they tell it to the next person. Eventually after a few cycles, it's going to be a totally different message. But that act of metamorphosis and interpretation of something is the importance of creativity and that aspect of it. So as much as we're focusing on transmission, I think really what we're talking about is also the interpretation of the message and what it means to each act of interpretation from me to you to another person and so on and so on.”",
+          "airtable_id": "8e2d89c63c8dc2b0",
+          "slug": "so-theres-this-concept-of-the-broken-telephone-if-i-say-one-thing-i-tell-to-that-person-they-tell-it",
+          "type": "Quote",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Assembly 5: Transmission",
+          "name": "“So there's this concept of the [Broken Telephone], if I say one thing, I tell to\nthat person, they tell it to the next person. Eventually after a few cycles, it's going to be a totally different message. But that act of metamorphosis and interpretation of something is the importance of creativity and that aspect of it. So as much as we're focusing on transmission, I think really what we're talking about is also the interpretation of the message and what it means to each act of interpretation from me to you to another person and so on and so on.”",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "value-deliberate-slowness-and-depth",
+        "data": {
+          "layout": "generic",
+          "title": "Value Deliberate Slowness and Depth",
+          "airtable_id": "9ed154208d6e3c38",
+          "slug": "value-deliberate-slowness-and-depth",
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Value Deliberate Slowness and Depth",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "simulation-is-not-experience-tactile-interactions-are-irreplaceable",
+        "data": {
+          "layout": "generic",
+          "title": "Simulation is not experience. Tactile interactions are irreplaceable.",
+          "airtable_id": "df5291180398734d",
+          "slug": "simulation-is-not-experience-tactile-interactions-are-irreplaceable",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "Simulation is not experience. Tactile interactions are irreplaceable.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "keep-friction-in-the-creative-flow",
+        "data": {
+          "layout": "generic",
+          "title": "Keep Friction In The Creative Flow",
+          "airtable_id": "a7a1f5eb1ef83d92",
+          "slug": "keep-friction-in-the-creative-flow",
+          "featured": [
+            "AI development"
+          ],
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Keep Friction In The Creative Flow",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "the-role-of-the-artist-is-shifting-from-maker-to-editor-curator-or-systems-designer",
+        "data": {
+          "layout": "generic",
+          "title": "The role of the artist is shifting from maker to editor, curator, or systems designer.",
+          "airtable_id": "9133d593b80e7fb1",
+          "slug": "the-role-of-the-artist-is-shifting-from-maker-to-editor-curator-or-systems-designer",
+          "type": "Issue",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+          "name": "The role of the artist is shifting from maker to editor, curator, or systems designer.",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "encourage-randomness-and-glitchiness",
+        "data": {
+          "layout": "generic",
+          "title": "Encourage Randomness and Glitchiness",
+          "airtable_id": "07e631c9941b3dcd",
+          "slug": "encourage-randomness-and-glitchiness",
+          "type": "Recommendation",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Hollywood’s 8 Rules For AI",
+          "name": "Encourage Randomness and Glitchiness",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "if-you-have-to-pay-to-be-in-the-space-that-protects-your-humanity-what-the-hells-the-point",
+        "data": {
+          "layout": "generic",
+          "title": "“If you have to pay to be in the space that protects your humanity… what the hell's\nthe point?”",
+          "airtable_id": "3fd98472518910d6",
+          "slug": "if-you-have-to-pay-to-be-in-the-space-that-protects-your-humanity-what-the-hells-the-point",
+          "type": "Quote",
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "additional-credit-line": "Assembly 3: Attention",
+          "name": "“If you have to pay to be in the space that protects your humanity… what the hell's\nthe point?”",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "imaginative-intelligences-hollywood-edition"
+          ],
+          "layout": "generic",
+          "slug": "imaginative-intelligences-hollywood-edition-process",
+          "title": "Imaginative Intelligences- Hollywood Edition - Process",
+          "theme": [
+            "Work"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Future issues",
+            "Generative AI",
+            "AI in general",
+            "Current issues"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Imaginative Intelligences- Hollywood Edition-gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+        "airtable_id": "36cd29dbd31a3e03",
+        "slug": "imaginative-intelligences-hollywood-edition-gig-workers-freelancers-union-reps-media-executives-info",
+        "locations": [
+          "hollywood-united-states"
+        ],
+        "recruitment-method": "Other",
+        "where-were-participants-from": "Hollywood",
+        "which-of-the-following-methods-were-used-to": [
+          "Co-creation workshops",
+          "Collective Intelligence Process",
+          "Public Dialogue",
+          "Citizens’ Assembly"
+        ],
+        "on-average-how-many-hours-did-each-participant": 6,
+        "name": "Imaginative Intelligences- Hollywood Edition-gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+        "group-description": "gig workers, freelancers, union reps, media executives, information academics, across film / tv, new media, and music",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "Materials from the learning phase have been published"
+        ],
+        "how-many-people-took-part": 91,
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "recruitment-description": "Advertised across job boards, sent to universities, sent to friends and posted on creator economy networks, sent through media recruitment channels",
+        "was-there-a-specific-target-population": "artists, technologists, academics, creator economy",
+        "where-did-engagement-take-place": [
+          "Offline"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "layout": "generic",
+        "slug": "imaginative-intelligences-hollywood-edition-process",
+        "title": "Imaginative Intelligences- Hollywood Edition - Process",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "Republico",
+        "airtable_id": "aa76eb9ac28f74cc",
+        "slug": "republico",
+        "role": [
+          "Lead"
+        ],
+        "name": "Republico",
+        "lead-organisation-for": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Berggruen Institute",
+        "airtable_id": "19d3544658281c74",
+        "slug": "berggruen-institute",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research",
+          "Non-profit"
+        ],
+        "website-address": "https://www.berggruen.org/",
+        "name": "Berggruen Institute",
+        "lead-organisation-for": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "main-location": [
+          "united-states"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "organisation",
+        "title": "Mozilla Foundation",
+        "airtable_id": "c282203a5a0788cd",
+        "slug": "mozilla-foundation",
+        "role": [
+          "Lead",
+          "Funder"
+        ],
+        "involved-organisation-for": [
+          "we-the-internet"
+        ],
+        "organisation-type": [
+          "Non-profit"
+        ],
+        "website-address": "https://foundation.mozilla.org/",
+        "name": "Mozilla Foundation",
+        "lead-organisation-for": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "mission-statement": "To ensure that the internet is a global public resource, open and accessible to all. (Source: https://foundation.mozilla.org/)",
+        "main-location": [
+          "mountain-view-california-usa"
+        ],
+        "funding-organisation-for": [
+          "the-peoples-panel-on-ai",
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": " Make AI Transparent and Conversational",
+        "airtable_id": "e1888e5aae08c5b7",
+        "slug": "make-ai-transparent-and-conversational",
+        "featured": [
+          "AI development"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": " Make AI Transparent and Conversational",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Put Human Purpose at the Center",
+        "airtable_id": "ed5e6ca9d37ed4d8",
+        "slug": "put-human-purpose-at-the-center",
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Put Human Purpose at the Center",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Resistance is not rejection, but redesign.",
+        "airtable_id": "e56db9c1cd9026c5",
+        "slug": "resistance-is-not-rejection-but-redesign",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "Resistance is not rejection, but redesign.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI accelerates output but displaces process",
+        "airtable_id": "d1e79076e80b57c6",
+        "slug": "ai-accelerates-output-but-displaces-process",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "AI accelerates output but displaces process",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Design for the Whole Creative Ecosystem",
+        "airtable_id": "e25aa7ebb3621e52",
+        "slug": "design-for-the-whole-creative-ecosystem",
+        "featured": [
+          "AI development"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Design for the Whole Creative Ecosystem",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Human uniqueness lies in legacy and interpretation.",
+        "airtable_id": "dcb923f54036f77c",
+        "slug": "human-uniqueness-lies-in-legacy-and-interpretation",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "Human uniqueness lies in legacy and interpretation.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "\"The current technology allowed people like me to be able to write orchestral music\nwithout having the resources to hire an orchestra, and eventually got me to gigs\nwhere I could hire the orchestra.”",
+        "airtable_id": "cee7daf04e120f50",
+        "slug": "the-current-technology-allowed-people-like-me-to-be-able-to-write-orchestral-music-without-having-th",
+        "type": "Quote",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Assembly 4: Performance",
+        "name": "\"The current technology allowed people like me to be able to write orchestral music\nwithout having the resources to hire an orchestra, and eventually got me to gigs\nwhere I could hire the orchestra.”",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "“An artist has a value based on their style, their worldview, the themes that they keep on coming to is…based on their life experience. [For] AI to succeed at being able to produce something that is equivalent to that like rate at a high level, it's going to have to feel pain. It's going to have to learn to have setbacks and have to have failure, because that informs the stories that we tell.”",
+        "airtable_id": "11e561ffac625ab9",
+        "slug": "an-artist-has-a-value-based-on-their-style-their-worldview-the-themes-that-they-keep-on-coming-to-is",
+        "type": "Quote",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Assembly 1: Pain",
+        "name": "“An artist has a value based on their style, their worldview, the themes that they keep on coming to is…based on their life experience. [For] AI to succeed at being able to produce something that is equivalent to that like rate at a high level, it's going to have to feel pain. It's going to have to learn to have setbacks and have to have failure, because that informs the stories that we tell.”",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Build For Process, Not Just Output",
+        "airtable_id": "5d25fe493ef96aac",
+        "slug": "build-for-process-not-just-output",
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Build For Process, Not Just Output",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Protect Lineage and Give Credit",
+        "airtable_id": "68b39ab9bc4dbd75",
+        "slug": "protect-lineage-and-give-credit",
+        "featured": [
+          "Governance"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Protect Lineage and Give Credit",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI has the power to randomize….Or homogenize. Machine intelligence is systemic, not sentient.",
+        "airtable_id": "43cceebbee351c8b",
+        "slug": "ai-has-the-power-to-randomizeor-homogenize-machine-intelligence-is-systemic-not-sentient",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "AI has the power to randomize….Or homogenize. Machine intelligence is systemic, not sentient.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "AI challenges the moral and economic logic of creation.",
+        "airtable_id": "d8194727ad02b933",
+        "slug": "ai-challenges-the-moral-and-economic-logic-of-creation",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "AI challenges the moral and economic logic of creation.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Generative AI is the latest development in the trend towards a frictionless world.",
+        "airtable_id": "18926e82f0812615",
+        "slug": "generative-ai-is-the-latest-development-in-the-trend-towards-a-frictionless-world",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": " Synthesis and Core Insights",
+        "name": "Generative AI is the latest development in the trend towards a frictionless world.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Creative labor is increasingly precarious and devalued.",
+        "airtable_id": "313982d165acd38d",
+        "slug": "creative-labor-is-increasingly-precarious-and-devalued",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "Creative labor is increasingly precarious and devalued.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Participant: “AI is not going to replace or displace people who make art or creativity, but it is definitely taking away resources from people who are saying, we're going to do what we want to do no matter how much time it takes or how much money it takes.”",
+        "airtable_id": "525cb03f58bebe29",
+        "slug": "participant-ai-is-not-going-to-replace-or-displace-people-who-make-art-or-creativity-but-it-is-defin",
+        "type": "Quote",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Assembly 2: Stream/Flow",
+        "name": "Participant: “AI is not going to replace or displace people who make art or creativity, but it is definitely taking away resources from people who are saying, we're going to do what we want to do no matter how much time it takes or how much money it takes.”",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "“So there's this concept of the [Broken Telephone], if I say one thing, I tell to\nthat person, they tell it to the next person. Eventually after a few cycles, it's going to be a totally different message. But that act of metamorphosis and interpretation of something is the importance of creativity and that aspect of it. So as much as we're focusing on transmission, I think really what we're talking about is also the interpretation of the message and what it means to each act of interpretation from me to you to another person and so on and so on.”",
+        "airtable_id": "8e2d89c63c8dc2b0",
+        "slug": "so-theres-this-concept-of-the-broken-telephone-if-i-say-one-thing-i-tell-to-that-person-they-tell-it",
+        "type": "Quote",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Assembly 5: Transmission",
+        "name": "“So there's this concept of the [Broken Telephone], if I say one thing, I tell to\nthat person, they tell it to the next person. Eventually after a few cycles, it's going to be a totally different message. But that act of metamorphosis and interpretation of something is the importance of creativity and that aspect of it. So as much as we're focusing on transmission, I think really what we're talking about is also the interpretation of the message and what it means to each act of interpretation from me to you to another person and so on and so on.”",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Value Deliberate Slowness and Depth",
+        "airtable_id": "9ed154208d6e3c38",
+        "slug": "value-deliberate-slowness-and-depth",
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Value Deliberate Slowness and Depth",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Simulation is not experience. Tactile interactions are irreplaceable.",
+        "airtable_id": "df5291180398734d",
+        "slug": "simulation-is-not-experience-tactile-interactions-are-irreplaceable",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "Simulation is not experience. Tactile interactions are irreplaceable.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Keep Friction In The Creative Flow",
+        "airtable_id": "a7a1f5eb1ef83d92",
+        "slug": "keep-friction-in-the-creative-flow",
+        "featured": [
+          "AI development"
+        ],
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Keep Friction In The Creative Flow",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "The role of the artist is shifting from maker to editor, curator, or systems designer.",
+        "airtable_id": "9133d593b80e7fb1",
+        "slug": "the-role-of-the-artist-is-shifting-from-maker-to-editor-curator-or-systems-designer",
+        "type": "Issue",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Creativity to AI: Synthesis and Core Insights",
+        "name": "The role of the artist is shifting from maker to editor, curator, or systems designer.",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "Encourage Randomness and Glitchiness",
+        "airtable_id": "07e631c9941b3dcd",
+        "slug": "encourage-randomness-and-glitchiness",
+        "type": "Recommendation",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Hollywood’s 8 Rules For AI",
+        "name": "Encourage Randomness and Glitchiness",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "“If you have to pay to be in the space that protects your humanity… what the hell's\nthe point?”",
+        "airtable_id": "3fd98472518910d6",
+        "slug": "if-you-have-to-pay-to-be-in-the-space-that-protects-your-humanity-what-the-hells-the-point",
+        "type": "Quote",
+        "cases": [
+          "imaginative-intelligences-hollywood-edition"
+        ],
+        "additional-credit-line": "Assembly 3: Attention",
+        "name": "“If you have to pay to be in the space that protects your humanity… what the hell's\nthe point?”",
+        "theme": [
+          "Work"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Future issues",
+          "Generative AI",
+          "AI in general",
+          "Current issues"
+        ]
+      }
+    ]
+  }
+}

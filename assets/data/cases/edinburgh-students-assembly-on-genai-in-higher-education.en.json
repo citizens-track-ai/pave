@@ -1,0 +1,1125 @@
+{
+  "slug": "edinburgh-students-assembly-on-genai-in-higher-education",
+  "lang": "en",
+  "structure": "flat",
+  "case_data": {
+    "layout": "case",
+    "title": "Edinburgh Students' Assembly on GenAI in Higher Education",
+    "airtable_id": "cadde2a63a907f6c",
+    "slug": "edinburgh-students-assembly-on-genai-in-higher-education",
+    "redirect_from": [
+      "/c/cadde2a63a907f6c/"
+    ],
+    "lead-organisations": [
+      "university-of-edinburgh-1"
+    ],
+    "provide-a-brief-description-of-the-project": "In the context of rising concerns regarding GenAI use, a **two-day deliberative process** was organized and hosted at the University of Edinburgh’s Edinburgh Futures Institute. A total of **17 students from 6 disciplines**, gathered and deliberated on the question **“How can we reimagine teaching, learning, and research methods to align with the advancements in AI and ethics?”**. In total, 6 deliberative sessions were facilitated and 5 presentations were given by experts. \n\nAfter two days, the members of the students’ assembly presented 7 principles to guide the use of GenAI at EFI. This output aimed to provide a strong and consensual signal that the University of Edinburgh Futures Institute, as a future-oriented Institute of Higher Education as well as a community of practice, must work towards a **bolder, more democratic, fair, empathetic, sustainable and transparent approach to GenAI in teaching, learning and research.**\n\nThe project took placed over a number of months, drawing upon a pre-deliberative workshop to work with students to set the topic focus, and interviews with experts to inform assembly design, followed by two days of deliberation, and the presentation of a response, as well as inviting institutional responses to the principles put forward by students. \n\n",
+    "what-limitations-to-the-project-should-be-noted": "An [abstract submitted to the Participatory AI Research & Practice Symposium](https://file.notion.so/f/f/b0312a1b-11ca-4b77-bf10-8cc57979536b/f68d7cf7-1ad0-454f-bf63-5944f2f0cc72/Extended_abstract_-_GenAI_in_HE_-_Deliberation.pdf?table=block&id=263260e2-4e1a-813d-8fa3-dc10f5572abc&spaceId=b0312a1b-11ca-4b77-bf10-8cc57979536b&expirationTimestamp=1782504000000&signature=asgkRRLMCwIlDYF42sqjXlrgliPk-RIMeAt61PA3kyk&downloadName=Extended+abstract+-+GenAI+in+HE+-+Deliberation.pdf) explains that:\n> These findings are faced with several limitations, including the small scale and limited duration of the students’ assembly, which restricted the diversity of expert perspectives and the ability to translate principles into an actionable roadmap. Additionally, the ad hoc nature of the process, the lack of institutionalization, and the absence of strong implementation mechanisms raise concerns about the long-term relevance and impact of the outcomes, especially given the evolving discussions around GenAI and broader challenges like the datafication and neoliberalization of universities. Future research should explore whether institutionalizing deliberative processes in higher education can ensure adaptability, relevance, and effectiveness in addressing AI governance issues. The same research could also be applied to governments’ deliberative approach to AI governance.\n",
+    "project-status": "Complete",
+    "participants": [
+      "edinburgh-students-assembly-on-genai-in-higher-education-students"
+    ],
+    "what-form-of-ai-is-the-project-about": [
+      "Generative AI"
+    ],
+    "messages": [
+      "1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen",
+      "2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons",
+      "3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r",
+      "4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t",
+      "5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w",
+      "6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of",
+      "7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi"
+    ],
+    "theme": [
+      "Education"
+    ],
+    "what-year-did-the-project-start": 2024,
+    "additional-acknowledgements": "Eloïse Gabadou",
+    "inclusion-efforts": "Specific effort was undertaken to engage students from a range of disciplines. \n",
+    "project-title": "Edinburgh Students' Assembly on GenAI in Higher Education",
+    "method-image-caption": "Timeline of the student assembly process. Source: Project Website",
+    "why-is-this-project-important-to-include-in-the": "The project write-up contains details of the different components of a two-day deliberation, which may be useful for others to review. ",
+    "photos-and-images": [
+      {
+        "id": "attu2DDB9h200snOs",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs.JPG",
+        "filename": "IMG_6058.JPG",
+        "size": 2173488,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attyMfS9cJfndbSee",
+        "width": 6030,
+        "height": 3936,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee.JPG",
+        "filename": "IMG_6078.JPG",
+        "size": 6607237,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_small.JPG",
+            "width": 55,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_large.JPG",
+            "width": 784,
+            "height": 512
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_full.JPG",
+            "width": 3000,
+            "height": 1958
+          }
+        }
+      },
+      {
+        "id": "att53Ou0w7ljuo4n1",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1.JPG",
+        "filename": "IMG_6053.JPG",
+        "size": 4205628,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attU8q6O1VOhQMllS",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS.JPG",
+        "filename": "IMG_6077.JPG",
+        "size": 3516035,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7gtBFNq12fds4p",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p.JPG",
+        "filename": "IMG_6055.JPG",
+        "size": 3103826,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attNWHylRt9YbmLnS",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS.JPG",
+        "filename": "IMG_6057.JPG",
+        "size": 3217603,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attsROGUtZ6uRXQ3Z",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z.JPG",
+        "filename": "IMG_6067.JPG",
+        "size": 2556272,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attbFKK5UO6OgRDzj",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj.JPG",
+        "filename": "IMG_6085.JPG",
+        "size": 2128969,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attKpFHnt7tQaNCXc",
+        "width": 3024,
+        "height": 4032,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc.JPG",
+        "filename": "IMG_6086.JPG",
+        "size": 1648963,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_small.JPG",
+            "width": 27,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_large.JPG",
+            "width": 512,
+            "height": 683
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_full.JPG",
+            "width": 2250,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "project-goals": [
+      "Policy: Inform a policy-making process",
+      "Methods: Create re-usable participation tools & methods"
+    ],
+    "supporting-resources": [
+      "project-report",
+      "project-website-2",
+      "genai-in-higher-education-leveraging-deliberation-to-tackle-complex-policy-issues",
+      "generative-ai-in-higher-education-harnessing-deliberation-to-tackle-complex-policy-issues-msc-disser",
+      "polis-report"
+    ],
+    "method-image": [
+      {
+        "id": "attRfS4KAuBP7Usta",
+        "width": 688,
+        "height": 377,
+        "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta.png",
+        "filename": "StudentAssemblyTimeline.png",
+        "size": 88344,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_small.png",
+            "width": 66,
+            "height": 36
+          },
+          "large": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_large.png",
+            "width": 688,
+            "height": 377
+          },
+          "full": {
+            "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_full.png",
+            "width": 688,
+            "height": 377
+          }
+        }
+      }
+    ],
+    "describe-the-subject-matter-in-your-own-words-one": "How can we reimagine teaching, learning, and research methods to align with the advancements in AI and ethics?",
+    "how-was-the-project-initiated": [
+      "Academic research"
+    ],
+    "level-of-engagement": "Community",
+    "what-year-did-the-project-conclude": 2024,
+    "which-of-the-following-resources-are-available": [
+      "A project report"
+    ],
+    "curation-decision": "Full Case",
+    "project-url": "https://egabadou.wixsite.com/my-site-1/timeline-sessions",
+    "locations": [
+      "edinburgh-scotland-united-kingdom"
+    ],
+    "where-did-engagement-take-place": [
+      "Hybrid"
+    ]
+  },
+  "tree": {
+    "type": "case",
+    "slug": "edinburgh-students-assembly-on-genai-in-higher-education",
+    "data": {
+      "layout": "case",
+      "title": "Edinburgh Students' Assembly on GenAI in Higher Education",
+      "airtable_id": "cadde2a63a907f6c",
+      "slug": "edinburgh-students-assembly-on-genai-in-higher-education",
+      "redirect_from": [
+        "/c/cadde2a63a907f6c/"
+      ],
+      "lead-organisations": [
+        "university-of-edinburgh-1"
+      ],
+      "provide-a-brief-description-of-the-project": "In the context of rising concerns regarding GenAI use, a **two-day deliberative process** was organized and hosted at the University of Edinburgh’s Edinburgh Futures Institute. A total of **17 students from 6 disciplines**, gathered and deliberated on the question **“How can we reimagine teaching, learning, and research methods to align with the advancements in AI and ethics?”**. In total, 6 deliberative sessions were facilitated and 5 presentations were given by experts. \n\nAfter two days, the members of the students’ assembly presented 7 principles to guide the use of GenAI at EFI. This output aimed to provide a strong and consensual signal that the University of Edinburgh Futures Institute, as a future-oriented Institute of Higher Education as well as a community of practice, must work towards a **bolder, more democratic, fair, empathetic, sustainable and transparent approach to GenAI in teaching, learning and research.**\n\nThe project took placed over a number of months, drawing upon a pre-deliberative workshop to work with students to set the topic focus, and interviews with experts to inform assembly design, followed by two days of deliberation, and the presentation of a response, as well as inviting institutional responses to the principles put forward by students. \n\n",
+      "what-limitations-to-the-project-should-be-noted": "An [abstract submitted to the Participatory AI Research & Practice Symposium](https://file.notion.so/f/f/b0312a1b-11ca-4b77-bf10-8cc57979536b/f68d7cf7-1ad0-454f-bf63-5944f2f0cc72/Extended_abstract_-_GenAI_in_HE_-_Deliberation.pdf?table=block&id=263260e2-4e1a-813d-8fa3-dc10f5572abc&spaceId=b0312a1b-11ca-4b77-bf10-8cc57979536b&expirationTimestamp=1782504000000&signature=asgkRRLMCwIlDYF42sqjXlrgliPk-RIMeAt61PA3kyk&downloadName=Extended+abstract+-+GenAI+in+HE+-+Deliberation.pdf) explains that:\n> These findings are faced with several limitations, including the small scale and limited duration of the students’ assembly, which restricted the diversity of expert perspectives and the ability to translate principles into an actionable roadmap. Additionally, the ad hoc nature of the process, the lack of institutionalization, and the absence of strong implementation mechanisms raise concerns about the long-term relevance and impact of the outcomes, especially given the evolving discussions around GenAI and broader challenges like the datafication and neoliberalization of universities. Future research should explore whether institutionalizing deliberative processes in higher education can ensure adaptability, relevance, and effectiveness in addressing AI governance issues. The same research could also be applied to governments’ deliberative approach to AI governance.\n",
+      "project-status": "Complete",
+      "participants": [
+        "edinburgh-students-assembly-on-genai-in-higher-education-students"
+      ],
+      "what-form-of-ai-is-the-project-about": [
+        "Generative AI"
+      ],
+      "messages": [
+        "1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen",
+        "2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons",
+        "3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r",
+        "4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t",
+        "5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w",
+        "6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of",
+        "7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi"
+      ],
+      "theme": [
+        "Education"
+      ],
+      "what-year-did-the-project-start": 2024,
+      "additional-acknowledgements": "Eloïse Gabadou",
+      "inclusion-efforts": "Specific effort was undertaken to engage students from a range of disciplines. \n",
+      "project-title": "Edinburgh Students' Assembly on GenAI in Higher Education",
+      "method-image-caption": "Timeline of the student assembly process. Source: Project Website",
+      "why-is-this-project-important-to-include-in-the": "The project write-up contains details of the different components of a two-day deliberation, which may be useful for others to review. ",
+      "photos-and-images": [
+        {
+          "id": "attu2DDB9h200snOs",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs.JPG",
+          "filename": "IMG_6058.JPG",
+          "size": 2173488,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attu2DDB9h200snOs_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attyMfS9cJfndbSee",
+          "width": 6030,
+          "height": 3936,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee.JPG",
+          "filename": "IMG_6078.JPG",
+          "size": 6607237,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_small.JPG",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_large.JPG",
+              "width": 784,
+              "height": 512
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attyMfS9cJfndbSee_full.JPG",
+              "width": 3000,
+              "height": 1958
+            }
+          }
+        },
+        {
+          "id": "att53Ou0w7ljuo4n1",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1.JPG",
+          "filename": "IMG_6053.JPG",
+          "size": 4205628,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att53Ou0w7ljuo4n1_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attU8q6O1VOhQMllS",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS.JPG",
+          "filename": "IMG_6077.JPG",
+          "size": 3516035,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attU8q6O1VOhQMllS_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att7gtBFNq12fds4p",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p.JPG",
+          "filename": "IMG_6055.JPG",
+          "size": 3103826,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_att7gtBFNq12fds4p_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attNWHylRt9YbmLnS",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS.JPG",
+          "filename": "IMG_6057.JPG",
+          "size": 3217603,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attNWHylRt9YbmLnS_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attsROGUtZ6uRXQ3Z",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z.JPG",
+          "filename": "IMG_6067.JPG",
+          "size": 2556272,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attsROGUtZ6uRXQ3Z_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attbFKK5UO6OgRDzj",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj.JPG",
+          "filename": "IMG_6085.JPG",
+          "size": 2128969,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attbFKK5UO6OgRDzj_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attKpFHnt7tQaNCXc",
+          "width": 3024,
+          "height": 4032,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc.JPG",
+          "filename": "IMG_6086.JPG",
+          "size": 1648963,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_small.JPG",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_large.JPG",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldd4B6cpBOP3n3is_attKpFHnt7tQaNCXc_full.JPG",
+              "width": 2250,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "project-goals": [
+        "Policy: Inform a policy-making process",
+        "Methods: Create re-usable participation tools & methods"
+      ],
+      "supporting-resources": [
+        "project-report",
+        "project-website-2",
+        "genai-in-higher-education-leveraging-deliberation-to-tackle-complex-policy-issues",
+        "generative-ai-in-higher-education-harnessing-deliberation-to-tackle-complex-policy-issues-msc-disser",
+        "polis-report"
+      ],
+      "method-image": [
+        {
+          "id": "attRfS4KAuBP7Usta",
+          "width": 688,
+          "height": 377,
+          "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta.png",
+          "filename": "StudentAssemblyTimeline.png",
+          "size": 88344,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_small.png",
+              "width": 66,
+              "height": 36
+            },
+            "large": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_large.png",
+              "width": 688,
+              "height": 377
+            },
+            "full": {
+              "url": "/assets/attachments/cadde2a63a907f6c_fldgrmlTFHIgHExO6_attRfS4KAuBP7Usta_full.png",
+              "width": 688,
+              "height": 377
+            }
+          }
+        }
+      ],
+      "describe-the-subject-matter-in-your-own-words-one": "How can we reimagine teaching, learning, and research methods to align with the advancements in AI and ethics?",
+      "how-was-the-project-initiated": [
+        "Academic research"
+      ],
+      "level-of-engagement": "Community",
+      "what-year-did-the-project-conclude": 2024,
+      "which-of-the-following-resources-are-available": [
+        "A project report"
+      ],
+      "curation-decision": "Full Case",
+      "project-url": "https://egabadou.wixsite.com/my-site-1/timeline-sessions",
+      "locations": [
+        "edinburgh-scotland-united-kingdom"
+      ],
+      "where-did-engagement-take-place": [
+        "Hybrid"
+      ]
+    },
+    "children": [
+      {
+        "type": "participants",
+        "slug": "edinburgh-students-assembly-on-genai-in-higher-education-students",
+        "data": {
+          "layout": "generic",
+          "title": "Edinburgh Students' Assembly on GenAI in Higher Education-Students",
+          "airtable_id": "996ea153056a5ade",
+          "slug": "edinburgh-students-assembly-on-genai-in-higher-education-students",
+          "locations": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "recruitment-method": "Self selected / volunteered",
+          "which-of-the-following-methods-were-used-to": [
+            "Citizens’ Assembly"
+          ],
+          "on-average-how-many-hours-did-each-participant": 12,
+          "name": "Edinburgh Students' Assembly on GenAI in Higher Education-Students",
+          "group-description": "Students",
+          "do-any-of-the-following-apply": [
+            "There were trained facilitators involved",
+            "There was a learning phase for participants"
+          ],
+          "how-many-people-took-part": 17,
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "was-there-a-specific-target-population": "Edinburgh University Students",
+          "where-did-engagement-take-place": [
+            "Hybrid"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "organisation",
+        "slug": "university-of-edinburgh-1",
+        "data": {
+          "layout": "organisation",
+          "title": "University of Edinburgh",
+          "airtable_id": "77c85310345833c7",
+          "slug": "university-of-edinburgh-1",
+          "role": [
+            "Lead"
+          ],
+          "organisation-type": [
+            "Research"
+          ],
+          "website-address": "https://www.ed.ac.uk/",
+          "name": "University of Edinburgh",
+          "lead-organisation-for": [
+            "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "main-location": [
+            "edinburgh-scotland-united-kingdom"
+          ],
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t",
+        "data": {
+          "layout": "generic",
+          "title": "4) We advocate for an empathetic understanding of individuality. \n\nWe respect individual approaches to the use of GenAI, and we believe in the right to refusal in the use of GenAI for both students and teachers to be respected. The choice of using or not using GenAI is left up to the individual, with the understanding that it serves to further learning and teaching and is not detrimental to the integrity of EFI. This means that students and teachers can refuse to be judged for using GenAI and refuse to use it in their work in so far as this use respects the principles hereby mentioned.  ​  \n\nWe strive to be conscious of the impact of GenAI use. We will be mindful of individuals' rights, needs, and desires both at EFI and within society. We acknowledge the possibility of human and AI error and the biases and human cost that may be present. We support improvements in the broader social contexts and aim for positive future developments in this area.",
+          "airtable_id": "dfd514a528beeb47",
+          "slug": "4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "4) We advocate for an empathetic understanding of individuality. \n\nWe respect individual approaches to the use of GenAI, and we believe in the right to refusal in the use of GenAI for both students and teachers to be respected. The choice of using or not using GenAI is left up to the individual, with the understanding that it serves to further learning and teaching and is not detrimental to the integrity of EFI. This means that students and teachers can refuse to be judged for using GenAI and refuse to use it in their work in so far as this use respects the principles hereby mentioned.  ​  \n\nWe strive to be conscious of the impact of GenAI use. We will be mindful of individuals' rights, needs, and desires both at EFI and within society. We acknowledge the possibility of human and AI error and the biases and human cost that may be present. We support improvements in the broader social contexts and aim for positive future developments in this area.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons",
+        "data": {
+          "layout": "generic",
+          "title": "2) We embrace sustainability-driven innovation and conscious change. \n\nWe believe that it is our responsibility to be conscious and proactive of the environmental impacts of our AI uses. We must question the appropriateness and scope of the GenAI tools based on a cost-benefit analysis of their environmental footprint. Is the task at hand worthwhile, considering its ecological impact? If so, go create great things. If not, use other, more suitable and sustainable tools. As importantly, we believe that the university should openly communicate on the ecological consequences of the use of GenAI.",
+          "airtable_id": "b6c77a5ad598aa80",
+          "slug": "2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "2) We embrace sustainability-driven innovation and conscious change. \n\nWe believe that it is our responsibility to be conscious and proactive of the environmental impacts of our AI uses. We must question the appropriateness and scope of the GenAI tools based on a cost-benefit analysis of their environmental footprint. Is the task at hand worthwhile, considering its ecological impact? If so, go create great things. If not, use other, more suitable and sustainable tools. As importantly, we believe that the university should openly communicate on the ecological consequences of the use of GenAI.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi",
+        "data": {
+          "layout": "generic",
+          "title": "7) We strive towards equality, inclusion and accessibility. GenAI must not be a tool that excludes individuals or creates further inequalities in EFI. Democratizing access to GenAI to support a variety of learning needs is crucial. GenAIs that are introduced in the learning experience should have user-friendly interfaces to accommodate accessibility needs, including those of students, staff or academics with disabilities. We aim to foster an inclusive and just environment where GenAI serves as a catalyst for learning.",
+          "airtable_id": "630264717e2ed7da",
+          "slug": "7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "7) We strive towards equality, inclusion and accessibility. GenAI must not be a tool that excludes individuals or creates further inequalities in EFI. Democratizing access to GenAI to support a variety of learning needs is crucial. GenAIs that are introduced in the learning experience should have user-friendly interfaces to accommodate accessibility needs, including those of students, staff or academics with disabilities. We aim to foster an inclusive and just environment where GenAI serves as a catalyst for learning.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w",
+        "data": {
+          "layout": "generic",
+          "title": "5) We strive towards trust and transparency. \n\nWe should be able to be held accountable for the way in which we use GenAI. This means we should be able to verbalize why and how we’ve used GenAI. We should take responsibility for its use and how it is implemented in assignments and projects; recognizing that it is a tool, not a secret to be kept. We should honor the principles of how to use genAI by using clear guidelines/rules that foster the implementations of these principles. We need to be honest, genuine and respectful.  ​  \n\nIn a similar manner, we expect EFI [The University] to overtly disclose all uses of GenAI (e.g., in communications, feedback, marking, teaching materials, or other organizational tasks). The institute should be open about the investment choices and procurement processes underway, as well as the third party tech providers involved. In the spirit of transparency, we believe in open source technologies and democratically-governed technologies.",
+          "airtable_id": "71972cae196df68b",
+          "slug": "5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "5) We strive towards trust and transparency. \n\nWe should be able to be held accountable for the way in which we use GenAI. This means we should be able to verbalize why and how we’ve used GenAI. We should take responsibility for its use and how it is implemented in assignments and projects; recognizing that it is a tool, not a secret to be kept. We should honor the principles of how to use genAI by using clear guidelines/rules that foster the implementations of these principles. We need to be honest, genuine and respectful.  ​  \n\nIn a similar manner, we expect EFI [The University] to overtly disclose all uses of GenAI (e.g., in communications, feedback, marking, teaching materials, or other organizational tasks). The institute should be open about the investment choices and procurement processes underway, as well as the third party tech providers involved. In the spirit of transparency, we believe in open source technologies and democratically-governed technologies.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of",
+        "data": {
+          "layout": "generic",
+          "title": "6) We believe in a democratically governed GenAI. \n\nWe encourage active participation and open lines of dialogue between the institution and students during any regulation drafting about GenAI and throughout the implementation phase. We believe in the active role of student representatives in co-designing new regulatory measures or guidelines regarding GenAI.\n\nWe believe that the engagement of students allows for the development of an AI governance grounded in community concerns, narratives and social justice. This principle is presented in the spirit of encouraging an institutionalized culture of deliberation and collaboration throughout all levels of EFI [Edinburgh Futures Institute].",
+          "airtable_id": "79f20e1da00d146c",
+          "slug": "6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "6) We believe in a democratically governed GenAI. \n\nWe encourage active participation and open lines of dialogue between the institution and students during any regulation drafting about GenAI and throughout the implementation phase. We believe in the active role of student representatives in co-designing new regulatory measures or guidelines regarding GenAI.\n\nWe believe that the engagement of students allows for the development of an AI governance grounded in community concerns, narratives and social justice. This principle is presented in the spirit of encouraging an institutionalized culture of deliberation and collaboration throughout all levels of EFI [Edinburgh Futures Institute].",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen",
+        "data": {
+          "layout": "generic",
+          "title": "1) We value experimentation. We believe in embracing emerging technologies, including generative AI (GenAI), and their capacity to enhance learning and development. We should not be afraid to experiment, unlock our inner creativity and use these tools to foster both imagination and innovation. We value playfulness in teaching and learning. We should feel inspired.",
+          "airtable_id": "7dcc646898243398",
+          "slug": "1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "1) We value experimentation. We believe in embracing emerging technologies, including generative AI (GenAI), and their capacity to enhance learning and development. We should not be afraid to experiment, unlock our inner creativity and use these tools to foster both imagination and innovation. We value playfulness in teaching and learning. We should feel inspired.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "output",
+        "slug": "3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r",
+        "data": {
+          "layout": "generic",
+          "title": "3) We believe in upholding the integrity of education. \n\nGenAI should be used as a tool to enhance, not replace learning and teaching experiences. We value assessments and learning opportunities which emphasize engaged, thoughtful, critical, and creative contributions through multiple approaches, which may or may not include the use of GenAI tools. Intentionality is needed wherever these tools are encouraged or restricted.",
+          "airtable_id": "287a3a2648c290d8",
+          "slug": "3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r",
+          "type": "Issue",
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "additional-credit-line": "Principles from the student assembly",
+          "name": "3) We believe in upholding the integrity of education. \n\nGenAI should be used as a tool to enhance, not replace learning and teaching experiences. We value assessments and learning opportunities which emphasize engaged, thoughtful, critical, and creative contributions through multiple approaches, which may or may not include the use of GenAI tools. Intentionality is needed wherever these tools are encouraged or restricted.",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      },
+      {
+        "type": "process",
+        "slug": "process",
+        "data": {
+          "cases": [
+            "edinburgh-students-assembly-on-genai-in-higher-education"
+          ],
+          "layout": "generic",
+          "slug": "edinburgh-students-assembly-on-genai-in-higher-education-process",
+          "title": "Edinburgh Students' Assembly on GenAI in Higher Education - Process",
+          "theme": [
+            "Education"
+          ],
+          "what-form-of-ai-is-the-project-about": [
+            "Generative AI"
+          ]
+        }
+      }
+    ]
+  },
+  "flat": {
+    "participants": [
+      {
+        "layout": "generic",
+        "title": "Edinburgh Students' Assembly on GenAI in Higher Education-Students",
+        "airtable_id": "996ea153056a5ade",
+        "slug": "edinburgh-students-assembly-on-genai-in-higher-education-students",
+        "locations": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "recruitment-method": "Self selected / volunteered",
+        "which-of-the-following-methods-were-used-to": [
+          "Citizens’ Assembly"
+        ],
+        "on-average-how-many-hours-did-each-participant": 12,
+        "name": "Edinburgh Students' Assembly on GenAI in Higher Education-Students",
+        "group-description": "Students",
+        "do-any-of-the-following-apply": [
+          "There were trained facilitators involved",
+          "There was a learning phase for participants"
+        ],
+        "how-many-people-took-part": 17,
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "was-there-a-specific-target-population": "Edinburgh University Students",
+        "where-did-engagement-take-place": [
+          "Hybrid"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "processes": [
+      {
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "layout": "generic",
+        "slug": "edinburgh-students-assembly-on-genai-in-higher-education-process",
+        "title": "Edinburgh Students' Assembly on GenAI in Higher Education - Process",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "layout": "organisation",
+        "title": "University of Edinburgh",
+        "airtable_id": "77c85310345833c7",
+        "slug": "university-of-edinburgh-1",
+        "role": [
+          "Lead"
+        ],
+        "organisation-type": [
+          "Research"
+        ],
+        "website-address": "https://www.ed.ac.uk/",
+        "name": "University of Edinburgh",
+        "lead-organisation-for": [
+          "participatory-harm-auditing-workbenches-and-methodologies-phawm",
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "main-location": [
+          "edinburgh-scotland-united-kingdom"
+        ],
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "layout": "generic",
+        "title": "4) We advocate for an empathetic understanding of individuality. \n\nWe respect individual approaches to the use of GenAI, and we believe in the right to refusal in the use of GenAI for both students and teachers to be respected. The choice of using or not using GenAI is left up to the individual, with the understanding that it serves to further learning and teaching and is not detrimental to the integrity of EFI. This means that students and teachers can refuse to be judged for using GenAI and refuse to use it in their work in so far as this use respects the principles hereby mentioned.  ​  \n\nWe strive to be conscious of the impact of GenAI use. We will be mindful of individuals' rights, needs, and desires both at EFI and within society. We acknowledge the possibility of human and AI error and the biases and human cost that may be present. We support improvements in the broader social contexts and aim for positive future developments in this area.",
+        "airtable_id": "dfd514a528beeb47",
+        "slug": "4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "4) We advocate for an empathetic understanding of individuality. \n\nWe respect individual approaches to the use of GenAI, and we believe in the right to refusal in the use of GenAI for both students and teachers to be respected. The choice of using or not using GenAI is left up to the individual, with the understanding that it serves to further learning and teaching and is not detrimental to the integrity of EFI. This means that students and teachers can refuse to be judged for using GenAI and refuse to use it in their work in so far as this use respects the principles hereby mentioned.  ​  \n\nWe strive to be conscious of the impact of GenAI use. We will be mindful of individuals' rights, needs, and desires both at EFI and within society. We acknowledge the possibility of human and AI error and the biases and human cost that may be present. We support improvements in the broader social contexts and aim for positive future developments in this area.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "2) We embrace sustainability-driven innovation and conscious change. \n\nWe believe that it is our responsibility to be conscious and proactive of the environmental impacts of our AI uses. We must question the appropriateness and scope of the GenAI tools based on a cost-benefit analysis of their environmental footprint. Is the task at hand worthwhile, considering its ecological impact? If so, go create great things. If not, use other, more suitable and sustainable tools. As importantly, we believe that the university should openly communicate on the ecological consequences of the use of GenAI.",
+        "airtable_id": "b6c77a5ad598aa80",
+        "slug": "2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "2) We embrace sustainability-driven innovation and conscious change. \n\nWe believe that it is our responsibility to be conscious and proactive of the environmental impacts of our AI uses. We must question the appropriateness and scope of the GenAI tools based on a cost-benefit analysis of their environmental footprint. Is the task at hand worthwhile, considering its ecological impact? If so, go create great things. If not, use other, more suitable and sustainable tools. As importantly, we believe that the university should openly communicate on the ecological consequences of the use of GenAI.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "7) We strive towards equality, inclusion and accessibility. GenAI must not be a tool that excludes individuals or creates further inequalities in EFI. Democratizing access to GenAI to support a variety of learning needs is crucial. GenAIs that are introduced in the learning experience should have user-friendly interfaces to accommodate accessibility needs, including those of students, staff or academics with disabilities. We aim to foster an inclusive and just environment where GenAI serves as a catalyst for learning.",
+        "airtable_id": "630264717e2ed7da",
+        "slug": "7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "7) We strive towards equality, inclusion and accessibility. GenAI must not be a tool that excludes individuals or creates further inequalities in EFI. Democratizing access to GenAI to support a variety of learning needs is crucial. GenAIs that are introduced in the learning experience should have user-friendly interfaces to accommodate accessibility needs, including those of students, staff or academics with disabilities. We aim to foster an inclusive and just environment where GenAI serves as a catalyst for learning.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "5) We strive towards trust and transparency. \n\nWe should be able to be held accountable for the way in which we use GenAI. This means we should be able to verbalize why and how we’ve used GenAI. We should take responsibility for its use and how it is implemented in assignments and projects; recognizing that it is a tool, not a secret to be kept. We should honor the principles of how to use genAI by using clear guidelines/rules that foster the implementations of these principles. We need to be honest, genuine and respectful.  ​  \n\nIn a similar manner, we expect EFI [The University] to overtly disclose all uses of GenAI (e.g., in communications, feedback, marking, teaching materials, or other organizational tasks). The institute should be open about the investment choices and procurement processes underway, as well as the third party tech providers involved. In the spirit of transparency, we believe in open source technologies and democratically-governed technologies.",
+        "airtable_id": "71972cae196df68b",
+        "slug": "5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "5) We strive towards trust and transparency. \n\nWe should be able to be held accountable for the way in which we use GenAI. This means we should be able to verbalize why and how we’ve used GenAI. We should take responsibility for its use and how it is implemented in assignments and projects; recognizing that it is a tool, not a secret to be kept. We should honor the principles of how to use genAI by using clear guidelines/rules that foster the implementations of these principles. We need to be honest, genuine and respectful.  ​  \n\nIn a similar manner, we expect EFI [The University] to overtly disclose all uses of GenAI (e.g., in communications, feedback, marking, teaching materials, or other organizational tasks). The institute should be open about the investment choices and procurement processes underway, as well as the third party tech providers involved. In the spirit of transparency, we believe in open source technologies and democratically-governed technologies.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "6) We believe in a democratically governed GenAI. \n\nWe encourage active participation and open lines of dialogue between the institution and students during any regulation drafting about GenAI and throughout the implementation phase. We believe in the active role of student representatives in co-designing new regulatory measures or guidelines regarding GenAI.\n\nWe believe that the engagement of students allows for the development of an AI governance grounded in community concerns, narratives and social justice. This principle is presented in the spirit of encouraging an institutionalized culture of deliberation and collaboration throughout all levels of EFI [Edinburgh Futures Institute].",
+        "airtable_id": "79f20e1da00d146c",
+        "slug": "6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "6) We believe in a democratically governed GenAI. \n\nWe encourage active participation and open lines of dialogue between the institution and students during any regulation drafting about GenAI and throughout the implementation phase. We believe in the active role of student representatives in co-designing new regulatory measures or guidelines regarding GenAI.\n\nWe believe that the engagement of students allows for the development of an AI governance grounded in community concerns, narratives and social justice. This principle is presented in the spirit of encouraging an institutionalized culture of deliberation and collaboration throughout all levels of EFI [Edinburgh Futures Institute].",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "1) We value experimentation. We believe in embracing emerging technologies, including generative AI (GenAI), and their capacity to enhance learning and development. We should not be afraid to experiment, unlock our inner creativity and use these tools to foster both imagination and innovation. We value playfulness in teaching and learning. We should feel inspired.",
+        "airtable_id": "7dcc646898243398",
+        "slug": "1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "1) We value experimentation. We believe in embracing emerging technologies, including generative AI (GenAI), and their capacity to enhance learning and development. We should not be afraid to experiment, unlock our inner creativity and use these tools to foster both imagination and innovation. We value playfulness in teaching and learning. We should feel inspired.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      },
+      {
+        "layout": "generic",
+        "title": "3) We believe in upholding the integrity of education. \n\nGenAI should be used as a tool to enhance, not replace learning and teaching experiences. We value assessments and learning opportunities which emphasize engaged, thoughtful, critical, and creative contributions through multiple approaches, which may or may not include the use of GenAI tools. Intentionality is needed wherever these tools are encouraged or restricted.",
+        "airtable_id": "287a3a2648c290d8",
+        "slug": "3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r",
+        "type": "Issue",
+        "cases": [
+          "edinburgh-students-assembly-on-genai-in-higher-education"
+        ],
+        "additional-credit-line": "Principles from the student assembly",
+        "name": "3) We believe in upholding the integrity of education. \n\nGenAI should be used as a tool to enhance, not replace learning and teaching experiences. We value assessments and learning opportunities which emphasize engaged, thoughtful, critical, and creative contributions through multiple approaches, which may or may not include the use of GenAI tools. Intentionality is needed wherever these tools are encouraged or restricted.",
+        "theme": [
+          "Education"
+        ],
+        "what-form-of-ai-is-the-project-about": [
+          "Generative AI"
+        ]
+      }
+    ]
+  }
+}

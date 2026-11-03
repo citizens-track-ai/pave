@@ -183,21 +183,23 @@ menu_order: 4
     </div>
   </div>
 
-  <!-- Card 2: Explore participatory AI with PAIRS -->
+
+  <!-- Card 4: Contribute case studies -->
   <div class="involved-card">
     <div>
       <div class="involved-card-header">
-        <h2>Explore with PAIRS</h2>
-        <img src="{{ '/assets/logos/pairs.png' | relative_url }}" class="card-header-logo" alt="PAIRS logo">
+        <h2>Contribute Case Studies</h2>
       </div>
-      <p>The PAVE case book is supported by the <strong>Participatory AI Research and Practice Symposium</strong>.</p>
-      <p>Visit the <a href="https://pairs.site" target="_blank">PAIRS website</a> to see papers and recordings from our conferences in <a href="https://www.pairs.site/PAIRS-2025-26a260e24e1a804c9f79c8ae7cbf2615?pvs=25" target="_blank">2025 (Paris)</a> and <a href="https://www.pairs.site/Session-recordings-326260e24e1a8079a826f5ff07c4bc14" target="_blank">2026 (New Delhi)</a>.</p>
+      <p>Have you been involved in running a participatory process focussed on AI?</p>
+      <p>We're crowdsourcing new submissions to the case book, and expanding existing entries. Tell us about a new case by filling in the submission form, or get in touch if you can add detail to an existing case.</p>
     </div>
     <div class="involved-btn-group">
-      <a href="https://discord.gg/6StuwmSY9x" target="_blank" class="involved-btn-link">Join PAIRS Discord</a>
-      <a href="https://site.us18.list-manage.com/subscribe?u=b32e89a4c494679851cd59767&id=bb85bf6e23" target="_blank" class="involved-btn-link involved-btn-secondary">Sign-up to the mailing list</a>
+      <a href="https://forms.fillout.com/t/u7vQQNPRhpus" target="_blank" class="involved-btn-link">Submit a case study</a>
+      <a href="mailto:pave@pairs.site" class="involved-btn-link involved-btn-secondary">Get in touch via email</a>
     </div>
   </div>
+</div>
+
 
   <!-- Card 3: Organise a community assembly -->
   <div class="involved-card">
@@ -216,19 +218,18 @@ menu_order: 4
     </div>
   </div>
 
-  <!-- Card 4: Contribute case studies -->
-  <div class="involved-card">
+ <!-- Card 4: Explore participatory AI with PAIRS -->
+<div class="involved-card">
     <div>
       <div class="involved-card-header">
-        <h2>Contribute Case Studies</h2>
+        <h2>Explore with PAIRS</h2>
+        <img src="{{ '/assets/logos/pairs.png' | relative_url }}" class="card-header-logo" alt="PAIRS logo">
       </div>
-      <p>Have you been involved in running a participatory process focussed on AI?</p>
-      <p>We're crowdsourcing new submissions to the case book, and expanding existing entries. Tell us about a new case by filling in the submission form, or get in touch if you can add detail to an existing case.</p>
+      <p>The PAVE case book is supported by the <strong>Participatory AI Research and Practice Symposium</strong>.</p>
+      <p>Visit the <a href="https://pairs.site" target="_blank">PAIRS website</a> to see papers and recordings from our conferences in <a href="https://www.pairs.site/PAIRS-2025-26a260e24e1a804c9f79c8ae7cbf2615?pvs=25" target="_blank">2025 (Paris)</a> and <a href="https://www.pairs.site/Session-recordings-326260e24e1a8079a826f5ff07c4bc14" target="_blank">2026 (New Delhi)</a>.</p>
     </div>
     <div class="involved-btn-group">
-      <a href="https://forms.fillout.com/t/u7vQQNPRhpus" target="_blank" class="involved-btn-link">Submit a case study</a>
-      <a href="mailto:pave@pairs.site" class="involved-btn-link involved-btn-secondary">Get in touch via email</a>
+      <a href="https://discord.gg/6StuwmSY9x" target="_blank" class="involved-btn-link">Join PAIRS Discord</a>
+      <a href="https://site.us18.list-manage.com/subscribe?u=b32e89a4c494679851cd59767&id=bb85bf6e23" target="_blank" class="involved-btn-link involved-btn-secondary">Sign-up to the mailing list</a>
     </div>
   </div>
-</div>
-

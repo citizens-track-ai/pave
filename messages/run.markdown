@@ -573,6 +573,19 @@ qrcode: true
     border-top-color: rgba(20, 32, 17, 0.95);
   }
 
+  /* Edge navigation zones start below the top header banner */
+  .slideshow-container .edge-nav-zone {
+    top: var(--banner-height);
+    height: calc(100vh - var(--banner-height));
+  }
+
+  @media (max-width: 1024px) {
+    .slideshow-container .edge-nav-zone {
+      top: auto;
+      height: auto;
+    }
+  }
+
   /* Responsive Styling */
   @media (max-width: 1200px) {
     .bottom-left-panel {

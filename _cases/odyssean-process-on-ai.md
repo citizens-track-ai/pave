@@ -13,10 +13,23 @@ project-title: Odyssean Process (on AI)
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
+- Other
 # Project URL
 project-url: www.odysseaninstitute.org
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Odyssean Process is a methodology\
   \ developed in 2023 designed to integrate expert elicitation with exploratory modelling\
@@ -41,12 +54,21 @@ why-is-this-project-important-to-include-in-the: 'Primarily this is a novel meth
   the knowledge materials '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Future issues
+- Current issues
 # Additional acknowledgements
 additional-acknowledgements: Jacob Haimes, James Balzer, Renske van Vroonhoven, Jonathan
   Salter, Matthew Ball
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'How to understand and govern AI
   for ourselves, the world, and future generations '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'We utilised the Sortition Foundation who had previously used 30,000
   randomly selected addresses for postal invites. Due to time and budget constraints,
@@ -62,39 +84,11 @@ what-limitations-to-the-project-should-be-noted: "Funding and availability of id
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Future issues
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Safety
-# Funding Organisations
-funding-organisations:
-- kristian-ronn
-- greg-colbourn
-- survival-and-flourishing-fund
-- kings-college-cambridge
+# Level of engagement
+level-of-engagement: National
 # Involved organisations
 involved-organisations:
 - sortition-foundation
@@ -110,6 +104,12 @@ supporting-resources:
 - documentary-trailer-human-intelligence
 - why-most-efforts-toward-democratic-ai-fall-short
 - an-odyssey-launched-update-on-the-first-odyssean-process
+# Funding Organisations
+funding-organisations:
+- kristian-ronn
+- greg-colbourn
+- survival-and-flourishing-fund
+- kings-college-cambridge
 # Participants
 participants:
 - odyssean-process-on-ai-citizen-assembly

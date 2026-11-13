@@ -10,11 +10,16 @@ description: "Lets Talk AI co-developed comics that share people\u2019s real sto
 # Project Title
 project-title: 'Let''s Talk AI: a people-centred approach to AI literacy'
 # Headline findings
-headline-findings: "AI literacy can be addressed through a general AI awareness-raising\
-  \ campaign, especially when it is designed to promote discussion through story-telling\n\
-  A social-impact-focused AI awareness campaign demonstrated unexpected educational\
-  \ value for audiences who identified as being AI literate, despite the materials\
-  \ being designed for beginners. \n\n\n"
+headline-findings: 'AI literacy can be addressed through a general AI awareness-raising
+  campaign, especially when it is designed to promote discussion through story-telling
+
+  A social-impact-focused AI awareness campaign demonstrated unexpected educational
+  value for audiences who identified as being AI literate, despite the materials being
+  designed for beginners.'
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
+- Co-created
 # Participation locations
 participation-locations: "UK: Morecambe Bay and Lancaster; Sheffield; Plymouth. \n\
   Some online groups took place with London-based participants at the trial stage\
@@ -23,6 +28,11 @@ participation-locations: "UK: Morecambe Bay and Lancaster; Sheffield; Plymouth. 
 project-url: https://www.letstalkai.org.uk/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Empowerment: Build community power with respect to AI'
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Let\u2019s Talk AI is a first-of-its-kind\
   \ AI literacy campaign. It\u2019s designed to bring conversations about artificial\
@@ -35,13 +45,13 @@ provide-a-brief-description-of-the-project: "**Let\u2019s Talk AI is a first-of-
   \ AI literacy campaign to encourage everyone to feel they can join conversations\
   \ around AI in their lives. Three comics exist as the first phase, enabling people\
   \ to reflect on how AI is changing people\u2019s work and leisure, how we learn\
-  \ and how we look at the news and media.\n\nWe are inspired by a few things:\n-\
-  \ Dr Susan Oman\u2019s research \u2013 especially on the [Public Voices in AI project](https://digitalgood.net/dg-outputs/peoples-feelings-about-ai/)\n\
+  \ and how we look at the news and media.\n\nWe are inspired by a few things:\n\n\
+  - Dr Susan Oman\u2019s research \u2013 especially on the [Public Voices in AI project](https://digitalgood.net/dg-outputs/peoples-feelings-about-ai/)\n\
   - A wider movement to include all citizens in AI decision-making\n- The belief that\
   \ people deserve better understanding of AI in an AI-driven society\n- The artwork\
   \ of webtoon artist, Kitty McEwan\n- The passion of Margaret Colling, a retired\
   \ librarian from Morecambe Bay \n- The communities and experts we\u2019ve spoken\
-  \ to along the way \n"
+  \ to along the way"
 # Submitted by
 submitted-by: Susan Oman
 # Why is this project important to include in the case book?
@@ -58,9 +68,17 @@ why-is-this-project-important-to-include-in-the: "It is the first, as far as we 
   \ Impact summit, organised by the British Council and the UK's Foreign office. Deputy\
   \ Prime Minister David Lammy featured it on his social media highlights, as did\
   \ local Delhi residents and the British Council's Alison Barrett MBE. \nhttps://sheffield.ac.uk/machine-intelligence/news/dr-susan-oman-represents-sheffield-india-ai-impact-summit-2026\
-  \ \n\nhttps://www.linkedin.com/posts/susan-oman-8a297456_my-post-ai-summit-highlights-a-huge-honour-ugcPost-7431787214293954560-xslr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAvjovoBlqkL7eB8t2I4mnp8bERQBRHmYjQ "
+  \ \n\nhttps://www.linkedin.com/posts/susan-oman-8a297456_my-post-ai-summit-highlights-a-huge-honour-ugcPost-7431787214293954560-xslr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAvjovoBlqkL7eB8t2I4mnp8bERQBRHmYjQ"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Predictive AI
+- Specific AI system(s)
+- AI in general
+- Current issues
+- Future issues
 # Photos and images
 photos-and-images:
 # Id
@@ -477,104 +495,20 @@ photos-and-images:
       url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_atzl16ppy5ldcj14_card_cover.jpg
       width: null
       height: null
-# Id
-- id: at78cn93ij4djraq
-  url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at78cn93ij4djraq.jpg
-  filename: Presenting LTAI to Deputy PM, David Lammy at AI Impact Summit, Delhi.jpg
-  width: 1677
-  height: 1078
-  size: 290934
-  # Type
-  type: image/jpeg
-  thumbnails:
-    tiny:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at78cn93ij4djraq_tiny.jpg
-      width: null
-      height: null
-    small:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at78cn93ij4djraq_small.jpg
-      width: null
-      height: null
-    card_cover:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at78cn93ij4djraq_card_cover.jpg
-      width: null
-      height: null
-# Id
-- id: at1blvj42yuw8miz
-  url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at1blvj42yuw8miz.jpg
-  filename: Local radio coverage of LTAI.jpg
-  width: 700
-  height: 591
-  size: 84247
-  # Type
-  type: image/jpeg
-  thumbnails:
-    tiny:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at1blvj42yuw8miz_tiny.jpg
-      width: null
-      height: null
-    small:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at1blvj42yuw8miz_small.jpg
-      width: null
-      height: null
-    card_cover:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_at1blvj42yuw8miz_card_cover.jpg
-      width: null
-      height: null
-# Id
-- id: ati7ycpj0dxrrf7w
-  url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_ati7ycpj0dxrrf7w.png
-  filename: BBC-NEWS-Margaret.png
-  width: 700
-  height: 727
-  size: 465681
-  # Type
-  type: image/png
-  thumbnails:
-    tiny:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_ati7ycpj0dxrrf7w_tiny.png
-      width: null
-      height: null
-    small:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_ati7ycpj0dxrrf7w_small.png
-      width: null
-      height: null
-    card_cover:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_ati7ycpj0dxrrf7w_card_cover.png
-      width: null
-      height: null
-# Id
-- id: atee05bkruu972cj
-  url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_atee05bkruu972cj
-  filename: LTAI in the Guardian in response to Pope's speechjpeg
-  width: 1145
-  height: 1880
-  size: 239182
-  # Type
-  type: image/jpeg
-  thumbnails:
-    tiny:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_atee05bkruu972cj_tiny
-      width: null
-      height: null
-    small:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_atee05bkruu972cj_small
-      width: null
-      height: null
-    card_cover:
-      url: https://cdn.pavecasebook.org/attachments/706eaa35b5ba6018_photos-and-images_atee05bkruu972cj_card_cover
-      width: null
-      height: null
 # Additional acknowledgements
 additional-acknowledgements: "This is not academic research in the strictest sense.\
   \ It is instead the outcome of a call to action from the People\u2019s Advisory\
   \ Panel for the Public Voices in AI project that was coordinated by Connected By\
   \ Data. Most specifically, it was executed as closely as possible to the vision\
   \ of one specific participant, Margaret Colling, with the details co-produced through\
-  \ workshops in three locations and in collaboration with comic artist Kitty McEwan. "
+  \ workshops in three locations and in collaboration with comic artist Kitty McEwan."
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: "Lets Talk AI co-developed comics\
-  \ that share people\u2019s real stories surrounding AI uses. "
+  \ that share people\u2019s real stories surrounding AI uses."
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A research poster
 # Inclusion efforts
 inclusion-efforts: '**Inclusion was prioritised across four dimensions:**
 
@@ -592,9 +526,7 @@ inclusion-efforts: '**Inclusion was prioritised across four dimensions:**
   / infrastructure in the three locations, based on our networks.
 
 
-  **Accessibility**: Accessibility checks of materials in workshops and final products.
-
-  '
+  **Accessibility**: Accessibility checks of materials in workshops and final products.'
 # What limitations to the project should be noted?
 what-limitations-to-the-project-should-be-noted: "**Resources**: \n\nFollowing action\
   \ points from non-experts enables us to envisage doing things differently. It is\
@@ -608,43 +540,22 @@ what-limitations-to-the-project-should-be-noted: "**Resources**: \n\nFollowing a
   \ is not possible for most academics and should be recognised. \n\n**Accessibility:**\n\
   \nMaking something universally accessible is not always possible. We had disagreements\
   \ across the team on how to overcome issues. Accessibility advice on non-traditional\
-  \ outputs and presentation is not as well-established as for more typical products.\
-  \ \n"
+  \ outputs and presentation is not as well-established as for more typical products."
 # Curation decision
 curation-decision: Featured Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# Method image caption
-method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-- AI in general
-- Predictive AI
-- Current issues
-- Future issues
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A research poster
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- engineering-and-physical-sciences-research-council-ukri
+# Level of engagement
+level-of-engagement: Community
+# Method image caption
+method-image-caption: 'Source:'
+# Messages
+messages:
+- ai-literacy-can-be-addressed-through-a-general-ai-awareness-raising-campaign-especially-when-it-is-d
+- a-social-impact-focused-ai-awareness-campaign-demonstrated-unexpected-educational-value-for-audience
 # Lead organisations
 lead-organisations:
 - the-university-of-sheffield
@@ -655,10 +566,9 @@ supporting-resources:
 - we-all-deserve-a-voice-in-how-ai-is-used
 - uks-first-community-designed-ai-awareness-campaign-launched-by-university-of-sheffield-researchers
 - project-website
-# Messages
-messages:
-- ai-literacy-can-be-addressed-through-a-general-ai-awareness-raising-campaign-especially-when-it-is-d
-- a-social-impact-focused-ai-awareness-campaign-demonstrated-unexpected-educational-value-for-audience
+# Funding Organisations
+funding-organisations:
+- engineering-and-physical-sciences-research-council-ukri
 # Participants
 participants:
 - lets-talk-ai-a-people-centred-approach-to-ai-literacy-100-people-were-consulted

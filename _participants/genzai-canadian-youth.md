@@ -7,6 +7,9 @@ slug: genzai-canadian-youth
 how-many-people-took-part: 100
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 30
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: 'Canadian youth '
 # Recruitment method
@@ -19,9 +22,6 @@ was-there-a-specific-target-population: Canadian youth, aged 17-23
 # Where were participants from?
 where-were-participants-from: Toronto, Ontario; Montreal, Quebec; Vancouver, British
   Columbia; Halifax, Nova Scotia
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - "Citizens\u2019 Assembly"

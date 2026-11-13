@@ -9,10 +9,17 @@ description: This project looked at AI systems used by digital platforms to mana
   and shape online content, with a focus on responsible governance that protects human...
 # Project Title
 project-title: UNESCO Guidelines for the Governance of Digital Platforms
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://unesdoc.unesco.org/ark:/48223/pf0000387339
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "To expand the development of the _Guidelines\
   \ for the Governance of Digital Platforms_ beyond a narrow group of expert contributors,\
@@ -34,11 +41,20 @@ provide-a-brief-description-of-the-project: "To expand the development of the _G
   \ into the final Guidelines. \n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: This project looked at AI systems
   used by digital platforms to manage and shape online content, with a focus on responsible
   governance that protects human rights while addressing issues such as misinformation,
   harmful content, and the rise of generative AI.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # What limitations to the project should be noted?
 what-limitations-to-the-project-should-be-noted: "The primary insight derived from\
   \ this case study is that passive openness and digital accessibility alone are fundamentally\
@@ -59,30 +75,11 @@ what-limitations-to-the-project-should-be-noted: "The primary insight derived fr
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Social media
-# Funding Organisations
-funding-organisations:
-- unesco
+# Level of engagement
+level-of-engagement: Global
 # Lead organisations
 lead-organisations:
 - i4policy
@@ -92,6 +89,9 @@ supporting-resources:
 - how-to-organise-3d-distributed-consultations-a-practical-guide
 - how-to-organised-deliberative-consultations-a-practical-guide
 - case-study-participatory-development-of-the-guidelines-for-the-governance-of-digital-platforms
+# Funding Organisations
+funding-organisations:
+- unesco
 # Participants
 participants:
 - unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference

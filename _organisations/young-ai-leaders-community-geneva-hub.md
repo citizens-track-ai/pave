@@ -7,12 +7,12 @@ slug: young-ai-leaders-community-geneva-hub
 name: Young AI Leaders Community - Geneva Hub
 # Website address
 website-address: https://www.youngaileaders.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To cultivate a community of young leaders driving the ethical
-  development and governance of AI. (Source: https://www.youngaileaders.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To cultivate a community of young leaders driving the ethical
+  development and governance of AI. (Source: https://www.youngaileaders.org/)'
 # Main Location
 main-location:
 - geneva-switzerland

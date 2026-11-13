@@ -7,6 +7,9 @@ slug: taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-netizens
 how-many-people-took-part: 476
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Netizens
 # Recruitment method
@@ -17,9 +20,6 @@ recruitment-description: These are the people who participated in the conversati
   into an opinion group.
 # Where were participants from?
 where-were-participants-from: Taiwan
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

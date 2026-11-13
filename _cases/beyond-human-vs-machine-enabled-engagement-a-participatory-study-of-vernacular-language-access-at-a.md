@@ -14,10 +14,16 @@ project-title: 'Beyond Human vs. Machine-Enabled Engagement: A Participatory Stu
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://doi.org/10.5281/zenodo.20480222
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'Led by at team from the Indian Institute
   of Technology, Jodhpur in 2026, this research project engaged 50 Rajasthani-speaking
@@ -62,6 +68,9 @@ why-is-this-project-important-to-include-in-the: "This project is significant on
   \ input from indegenous communities can be irreplaceable for present AI systems."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Additional acknowledgements
 additional-acknowledgements: Sabeela Rasheed, Supreet Kaur
 # Describe the subject matter in your own words (one line)
@@ -81,20 +90,11 @@ curation-decision: Mapping Entry
 project-status: In Progress
 # Level of engagement
 level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Funding Organisations
-funding-organisations:
-- indian-institute-of-technology-jodhpur
 # Lead organisations
 lead-organisations:
+- indian-institute-of-technology-jodhpur
+# Funding Organisations
+funding-organisations:
 - indian-institute-of-technology-jodhpur
 # Participants
 participants:

@@ -8,6 +8,10 @@ slug: expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-struc
 how-many-people-took-part: 124
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 2
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
 # Group description
 group-description: Semi-structured interviews
 # Recruitment method
@@ -20,16 +24,12 @@ was-there-a-specific-target-population: 'People living in rural villages in Togo
 # Where were participants from?
 where-were-participants-from: 'Five villages in rural Togo in the north, middle, and
   south of the country '
-# Additional notes
-additional-notes: 'Semi-structured interviews (not currently included in the list
-  of methods above) '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
 # Do any of the following apply?
 do-any-of-the-following-apply:
 - There were trained facilitators involved
+# Additional notes
+additional-notes: 'Semi-structured interviews (not currently included in the list
+  of methods above) '
 # Cases
 cases:
 - expanding-perspectives-on-data-privacy-insights-from-rural-togo

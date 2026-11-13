@@ -1,12 +1,11 @@
 ---
 layout: generic
-title: "Future-focused and ambitious - AI should advance humanity\u2019s needs, recognising\
-  \ children and future generations."
+title: Recommendation 2
 airtable_id: d0a81a521ebf7336
 slug: future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener
-# Name
-name: "Future-focused and ambitious - AI should advance humanity\u2019s needs, recognising\
-  \ children and future generations."
+# Message
+message: "Future-focused and ambitious - AI should advance humanity\u2019s needs,\
+  \ recognising children and future generations."
 # Type
 type: Recommendation
 # Featured (Theme)

@@ -70,6 +70,9 @@ why-is-this-project-important-to-include-in-the: This was an exploratory piece o
   public conversations on AI in the context of sensitive data research.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -82,9 +85,6 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Supporting resources
 supporting-resources:
 - dare-uk-a-pilot-public-dialogue-exploring-views-towards-the-development-and-use-of-ai-trained-on-sen

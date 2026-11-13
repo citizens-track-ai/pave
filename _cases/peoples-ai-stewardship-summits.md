@@ -31,10 +31,19 @@ headline-findings: " The key five insights from the series have been summarised 
   \ As an academic/researcher, I have only gained access to these hopes and fears\
   \ through data analysis. I think the 'human' side of the human-AI interaction had\
   \ really popped up during the summit.\u201D (Participant- AI expert, London)\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Project URL
 project-url: https://raeng.org.uk/policy-and-resources/engineering-policy/futures-and-dialogue/peoples-ai-stewardship-summits/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "A series of 5 one-day public dialogue\
   \ events bringing together members of the public with experts, innovators, entrepreneurs\
@@ -105,6 +114,12 @@ why-is-this-project-important-to-include-in-the: "These summits brought 148 memb
   \ AI that could be societally beneficial, safe and responsible."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Generative AI
+- Current issues
+- Future issues
 # Additional acknowledgements
 additional-acknowledgements: " G\xFCl\u0219en G\xFCler"
 # Describe the subject matter in your own words (one line)
@@ -112,6 +127,10 @@ describe-the-subject-matter-in-your-own-words-one: A series of public dialogue e
   bringing together members of the public with experts, innovators, entrepreneurs
   and other stakeholders to explore hopes, fears and expectations of AI to enable
   positive change and improve people's lives.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
 # Inclusion efforts
 inclusion-efforts: 'We worked with a professional recruitment agency, Fieldmouse Research
   Ltd, to recruit members of the public local to the 5 locations the summits were
@@ -145,33 +164,21 @@ what-limitations-to-the-project-should-be-noted: "For each summit 30 members of 
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Generative AI
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- royal-academy-of-engineering
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- deliberating-future-of-ai-both-stakeholders-and-members-of-the-public-want-to-have-more-opportunitie
+- environmental-impacts-people-want-more-considerations-for-the-longer-term-impacts-of-ai-such-as-wate
+- human-oversight-and-connection-one-of-the-biggest-fears-was-ai-hindering-or-even-replacing-human-con
+- regulation-robust-regulations-on-local-national-and-international-levels-for-safe-and-responsible-ai
+- ai-must-benefit-everyone-ai-should-be-used-to-actively-reduce-inequalities-and-not-do-more-harm-thos
+- i-felt-respected-when-speaking-my-views-and-listened-to-by-stakeholders-i-felt-my-voice-and-opinion
+- it-has-been-truly-inspiring-to-hear-different-voices-thoughts-concerns-and-ideas-about-ai-and-how-it
+- for-the-first-time-i-have-experienced-the-raw-fears-and-some-hope-of-the-public-regarding-the-develo
 # Involved organisations
 involved-organisations:
 - fieldmouse-research-ltd
@@ -189,16 +196,9 @@ supporting-resources:
 - swansea-summary-document
 - london-summary-document
 - public-opinions-on-ai-belfast-glasgow-liverpool-swansea-and-london
-# Messages
-messages:
-- messages-from-across-five-regional-peoples-summit-events
-- messages-from-across-five-regional-peoples-summit-events-1
-- messages-from-across-five-regional-peoples-summit-events-2
-- messages-from-across-five-regional-peoples-summit-events-3
-- messages-from-across-five-regional-peoples-summit-events-4
-- public-participant-liverpool
-- participant-ai-expert-in-healthcare-london
-- participant-ai-expert-london
+# Funding Organisations
+funding-organisations:
+- royal-academy-of-engineering
 # Participants
 participants:
 - peoples-ai-stewardship-summits-summit-public-participants

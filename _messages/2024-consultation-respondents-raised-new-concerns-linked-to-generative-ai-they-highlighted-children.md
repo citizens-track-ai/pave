@@ -1,14 +1,11 @@
 ---
 layout: generic
-title: 2024 consultation respondents raised new concerns linked to generative AI.
-  They highlighted children and adolescents, intellectual property, culture and heritage,
-  cybersecurity, disinformation, digital violence and safe digital ecosystems as issues
-  needing stronger treatment in the updated policy.
+title: Recommendation 10
 airtable_id: 957f676eead89884
 slug: 2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children
-# Name
-name: 2024 consultation respondents raised new concerns linked to generative AI. They
-  highlighted children and adolescents, intellectual property, culture and heritage,
+# Message
+message: 2024 consultation respondents raised new concerns linked to generative AI.
+  They highlighted children and adolescents, intellectual property, culture and heritage,
   cybersecurity, disinformation, digital violence and safe digital ecosystems as issues
   needing stronger treatment in the updated policy.
 # Type

@@ -7,12 +7,12 @@ slug: mesomorphic
 name: Mesomorphic
 # Website address
 website-address: https://mesomorphic.co.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To build beautiful, robust, and functional web applications that
-  solve real-world business problems and support digital skills. (Source: https://mesomorphic.co.uk/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To build beautiful, robust, and functional web applications that
+  solve real-world business problems and support digital skills. (Source: https://mesomorphic.co.uk/)'
 # Main Location
 main-location:
 - shetland-scotland-united-kingdom

@@ -201,9 +201,13 @@
       <h2 class="print-section-title">Key Messages</h2>
       <ul class="print-messages-list" contenteditable="true">
         {% for msg in all_messages limit: 7 %}
-        <li class="print-message-item">
-          <strong class="print-message-type">[{{ msg.type }}]</strong>
-          <span class="print-message-text">&ldquo;{{ msg.title }}&rdquo;</span>
+        {% assign msg_type_class = msg.type | downcase %}
+        <li class="print-message-item print-message-{{ msg_type_class }}">
+          <strong class="print-message-type">[{{ msg.title | default: msg.type }}]</strong>
+          <span class="print-message-text">&ldquo;{{ msg.message }}&rdquo;</span>
+          {% if msg.additional-credit-line %}
+          <div class="print-message-credit">{{ msg.additional-credit-line }}</div>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>

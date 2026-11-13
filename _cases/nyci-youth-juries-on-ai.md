@@ -24,12 +24,19 @@ headline-findings: "1. AI & the Environment (Young people recognise the economic
   \ recommendations include prohibiting invasive age\u2010verification methods, requiring\
   \ disclosure of AI training data, protecting artists from data scraping, and introducing\
   \ independent audits and liability structures for AI companies.)\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Participation locations
 participation-locations: Ireland
 # Project URL
 project-url: https://www.youth.ie/documents/irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The National Youth Council of Ireland\
   \ hosted a series of Citizens\u2019 Youth Juries on AI, involving 48 young people\
@@ -47,11 +54,19 @@ why-is-this-project-important-to-include-in-the: Ireland has been actively debat
   that the voices of young people must be central to these discussions
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Future issues
+- Current issues
 # Additional acknowledgements
 additional-acknowledgements: Orla Matthews,  Ervands Mumdzjans
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Putting young voices at the centre
   of key policy debates on AI.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "NYCI launched an open call for young people to apply to the citizen\u2019\
   s juries. Applicants were not asked to detail their experience or interest in AI.\
@@ -81,23 +96,6 @@ what-limitations-to-the-project-should-be-noted: 'We did not succeed in recruiti
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Future issues
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Education
@@ -106,16 +104,8 @@ theme:
 - Environment
 - Safety
 - Internet governance
-# Funding Organisations
-funding-organisations:
-- research-ireland
-# Lead organisations
-lead-organisations:
-- ombudsman-for-children-ireland
-- insight-research-ireland-centre-for-data-analytics-dcu-ireland
-# Supporting resources
-supporting-resources:
-- irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries
+# Level of engagement
+level-of-engagement: National
 # Messages
 messages:
 - ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con
@@ -124,6 +114,16 @@ messages:
 - ai-in-education-they-propose-a-publicly-owned-ethical-free-ai-chatbot-for-students-supporting-learni
 - ai-the-future-of-jobs-they-recommend-clearer-regulation-of-ai-use-by-employers-required-disclosure-w
 - ai-laws-regulation-their-recommendations-include-prohibiting-invasive-age-verification-methods-requi
+# Lead organisations
+lead-organisations:
+- ombudsman-for-children-ireland
+- insight-research-ireland-centre-for-data-analytics-dcu-ireland
+# Supporting resources
+supporting-resources:
+- irish-young-people-decode-ai-verdicts-from-nycis-citizens-youth-juries
+# Funding Organisations
+funding-organisations:
+- research-ireland
 # Participants
 participants:
 - nyci-youth-juries-on-ai-jurors

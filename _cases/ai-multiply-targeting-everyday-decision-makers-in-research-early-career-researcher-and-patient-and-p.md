@@ -41,10 +41,20 @@ headline-findings: "1 - PPIE needs to reach \u201Ceveryday decision makers\u201D
   \ contributors felt sidelined when others dominated; and explaining AI concepts\
   \ to lay audiences remained difficult. The team responded by adapting the format,\
   \ including capping attendance at 10 contributors per session.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
 # Project URL
 project-url: https://link.springer.com/article/10.1186/s40900-025-00753-9 and https://ai-multiply.co.uk/
 # What year did the project start?
 what-year-did-the-project-start: 2021
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Between 2021 and 2025, AI MULTIPLY\
   \ initiated a process that used co-creation workshops, community-based participatory\
@@ -101,12 +111,20 @@ why-is-this-project-important-to-include-in-the: "This case is important because
   \ which AI research is shaped."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Predictive AI
 # Additional acknowledgements
 additional-acknowledgements: Victoria Bartle, Sue Mountain, Elizabeth Remfry, Alexandra
   Thompson, Michael R Barnes, Nick J Reynolds
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Using and creating various AI tools
   to benefit patients with multiple long term conditions and experiencing polypharmacy.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A research poster
 # Inclusion efforts
 inclusion-efforts: 'Specific efforts were made to make recruitment and engagement
   accessible and inclusive, although these were pragmatic rather than based on a formal
@@ -165,32 +183,18 @@ what-limitations-to-the-project-should-be-noted: "The main limitation is that th
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Predictive AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A research poster
 # Theme
 theme:
 - Healthcare
-# Funding Organisations
-funding-organisations:
-- nihr
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers
+- early-stage-technical-decisions-are-not-merely-technical
+- dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research
+- the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle
+- the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea
 # Involved organisations
 involved-organisations:
 - nihr
@@ -201,13 +205,9 @@ lead-organisations:
 supporting-resources:
 - targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-public-involv
 - poster-for-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-pu
-# Messages
-messages:
-- ppie-needs-to-reach-everyday-decision-makers-not-only-senior-researchers
-- early-stage-technical-decisions-are-not-merely-technical
-- dedicated-ecr-meet-ppie-sessions-created-a-more-direct-route-for-public-input-into-ai-research
-- the-sessions-led-to-concrete-changes-in-ai-research-practice-evidence-includes-ecrs-adding-lifestyle
-- the-model-was-useful-but-not-frictionless-the-paper-notes-several-limitations-the-sessions-began-nea
+# Funding Organisations
+funding-organisations:
+- nihr
 # Participants
 participants:
 - ai-multiply-targeting-everyday-decision-makers-in-research-early-career-researcher-and-patient-and-p

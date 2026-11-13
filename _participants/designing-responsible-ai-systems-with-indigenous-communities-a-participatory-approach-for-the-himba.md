@@ -8,15 +8,15 @@ slug: designing-responsible-ai-systems-with-indigenous-communities-a-participato
 how-many-people-took-part: 30
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 10
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Community Members
 # Recruitment method
 recruitment-method: Peer recruitment (snowball)
 # Where were participants from?
 where-were-participants-from: Namibia
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Prototyping

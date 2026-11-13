@@ -7,12 +7,12 @@ slug: scottish-ai-alliance
 name: Scottish AI Alliance
 # Website address
 website-address: https://www.scottishai.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To facilitate the delivery of Scotland''s AI Strategy, ensuring
-  that AI is trustworthy, ethical, and inclusive. (Source: https://www.scottishai.com/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To facilitate the delivery of Scotland''s AI Strategy, ensuring
+  that AI is trustworthy, ethical, and inclusive. (Source: https://www.scottishai.com/)'
 # Main Location
 main-location:
 - edinburgh-scotland-united-kingdom

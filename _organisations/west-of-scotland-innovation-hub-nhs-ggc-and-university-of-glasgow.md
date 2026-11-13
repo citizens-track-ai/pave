@@ -7,12 +7,12 @@ slug: west-of-scotland-innovation-hub-nhs-ggc-and-university-of-glasgow
 name: West of Scotland Innovation Hub (NHS GGC and University of Glasgow)
 # Website address
 website-address: https://www.westofscotlandinnovation.scot/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To foster innovation in health and social care by bringing together
-  healthcare professionals, industry, and academia. (Source: https://www.westofscotlandinnovation.scot/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To foster innovation in health and social care by bringing together
+  healthcare professionals, industry, and academia. (Source: https://www.westofscotlandinnovation.scot/)'
 # Main Location
 main-location:
 - glasgow-scotland-united-kingdom

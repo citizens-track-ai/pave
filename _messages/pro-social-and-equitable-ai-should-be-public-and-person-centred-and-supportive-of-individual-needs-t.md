@@ -1,11 +1,10 @@
 ---
 layout: generic
-title: Pro-social and equitable - AI should be public- and person-centred, and supportive
-  of individual needs, talents and abilities.
+title: Recommendation 4
 airtable_id: d98ed4f802758a14
 slug: pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t
-# Name
-name: Pro-social and equitable - AI should be public- and person-centred, and supportive
+# Message
+message: Pro-social and equitable - AI should be public- and person-centred, and supportive
   of individual needs, talents and abilities.
 # Type
 type: Recommendation

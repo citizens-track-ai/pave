@@ -42,10 +42,20 @@ headline-findings: "The results from the dialogues were jointly analyzed by an i
   \ for governing these technologies, while paying attention to local factors, such\
   \ as prevailing narratives that influence perceptions, to help question technology\
   \ narratives and technology deployment. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://designxdiscourse.com/global-ai-dialogues/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2024, the Technical University of\
   \ Munich initiated a process that used participatory futures workshops and surveys\
@@ -85,6 +95,12 @@ why-is-this-project-important-to-include-in-the: "The Global AI Dialogues is one
   \ through joint analysis workshops."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Predictive AI
+- Current issues
+- Future issues
 # Photos and images
 photos-and-images:
 # Id
@@ -516,6 +532,11 @@ additional-acknowledgements: "Arisa Ema, Bukola Onyekwelu, Nidhi Singh, Shashank
 describe-the-subject-matter-in-your-own-words-one: 'Desirable developments and non-deployments
   of generative AI in education, public service, and the arts, as well as facial processing
   AI for public safety, policing, corporate contexts, and social interactions. '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A research poster
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "With the aim of providing a space for laypeople across different\
   \ countries to explore and express their opinions on desirable AI development and\
@@ -562,37 +583,41 @@ what-limitations-to-the-project-should-be-noted: "One limitation of conducting d
 curation-decision: Featured Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Predictive AI
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A research poster
-- A method guide or toolkit
 # Theme
 theme:
 - Artificial Intelligence
 - Education
 - Safety
-# Funding Organisations
-funding-organisations:
-- institute-of-electrical-and-electronics-engineers
+# Level of engagement
+level-of-engagement: Global
+# Messages
+messages:
+- when-developing-genai-systems-it-is-essential-to-respect-inclusivity-from-the-beginning-and-refrain
+- interfaces-should-be-easy-to-navigate-and-system-designs-should-run-on-low-tech-devices-and-not-requ
+- genai-systems-should-only-be-released-if-their-outputs-are-of-high-quality-respecting-individuals-pr
+- to-test-the-systems-open-source-code-should-be-released-or-systems-be-tested-in-sandboxes-tequ
+- models-must-only-be-trained-on-data-for-which-data-owners-have-given-explicit-and-informed-consent-w
+- to-ensure-the-accessibility-of-genai-to-all-people-the-tools-must-remain-financially-affordable
+- societies-require-genai-flagship-projects-that-manage-to-bridge-the-socio-technical-gap-and-showcase
+- promote-awareness-of-the-use-of-genai-for-institutionalized-learning-and-teaching-for-counter-balanc
+- the-promotion-of-genai-awareness-must-be-accompanied-by-providing-training-through-established-educa
+- to-ensure-adequate-support-and-education-and-the-use-of-genai-by-conscious-societies-programs-to-enh
+- possibilities-for-public-discourse-and-participation-must-be-implemented-to-allow-different-stakehol
+- genai-industry-players-must-not-become-further-entrenched-as-monopolies-to-prevent-one-dimensional-d
+- adaptable-regulations-and-guidelines-must-be-implemented-to-govern-illegal-or-unethical-genai-system
+- societies-must-be-supported-during-periods-of-rapid-change-eg-job-market-impact-caused-by-genai-soci
+- governments-must-ensure-sufficient-financial-resources-for-infrastructure-innovation-research-and-ed
+- taking-up-the-topic-of-awareness-it-is-relevant-to-emphasize-that-both-users-and-non-users-should-no
+- the-commitment-to-a-reflective-understanding-of-opportunities-and-risks-ensures-a-non-agitated-explo
+- all-stakeholders-must-ensure-that-capacities-are-built-for-the-roll-out-of-genai-in-their-specific-c
+- appropriate-infrastructure-contributing-to-the-accessibility-of-genai-systems-must-be-ensured-on-dif
+- nigerian-participants-emphasized-the-importance-of-bridging-the-digital-divide-by-providing-systems
+- japanese-participants-highlighted-companies-should-avoid-the-monopolization-of-information-and-provi
+- german-participants-emphasized-the-need-for-industry-to-ensure-privacy-protection-and-informed-conse
+- japanese-participants-requested-that-researchers-should-provide-high-quality-educational-content-als
+- german-participants-recommended-researchers-implement-best-practices-and-positive-use-cases-as-well
+- nigerian-participants-suggested-the-government-could-foster-the-development-of-its-own-genai-tools-f
+- japanese-participants-called-on-the-government-and-political-actors-to-create-standardized-guideline
 # Involved organisations
 involved-organisations:
 - the-university-of-tokyo
@@ -611,34 +636,9 @@ supporting-resources:
 - anticipating-risks-and-identifying-governance-measures-for-the-use-of-genai-and-fpt-citizens-perspec
 - perspectives-from-the-global-ai-dialogues-in-mexico-bolivia-india-nigeria-japan-and-germany
 - about-the-global-ai-dialogues
-# Messages
-messages:
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan-1
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan-2
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan-3
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan-4
-- recommendations-to-ai-developers-and-industry-nigeria-germany-and-japan-5
-- recommendations-to-researchers-and-science-actors-nigeria-germany-and-japan
-- recommendations-to-intermediaries-eg-educators-public-administrations-nigeria-germany-and-japan
-- recommendations-to-intermediaries-eg-educators-public-administrations-nigeria-germany-and-japan-1
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan-1
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan-2
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan-3
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan-4
-- recommendations-to-governments-and-political-actors-nigeria-germany-and-japan-5
-- recommendations-to-users-and-all-laypeople-nigeria-germany-and-japan
-- recommendations-to-users-and-all-laypeople-nigeria-germany-and-japan-1
-- recommendations-to-all-stakeholders-nigeria-germany-and-japan
-- recommendations-to-all-stakeholders-nigeria-germany-and-japan-1
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-1
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-2
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-3
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-4
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-5
-- initiating-the-global-ai-dialogues-laypeople-perspectives-on-the-future-role-of-genai-in-society-fro-6
+# Funding Organisations
+funding-organisations:
+- institute-of-electrical-and-electronics-engineers
 # Participants
 participants:
 - global-ai-dialogues-mini-public

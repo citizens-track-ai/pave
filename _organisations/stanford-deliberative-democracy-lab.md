@@ -7,12 +7,12 @@ slug: stanford-deliberative-democracy-lab
 name: Stanford Deliberative Democracy Lab
 # Website address
 website-address: https://ddl.stanford.edu/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To conduct research on deliberative democracy and public consultation
-  processes worldwide. (Source: https://ddl.stanford.edu/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To conduct research on deliberative democracy and public consultation
+  processes worldwide. (Source: https://ddl.stanford.edu/)'
 # Main Location
 main-location:
 - stanford-california-usa

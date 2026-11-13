@@ -7,13 +7,13 @@ slug: the-ronald-s-roadburg-foundation
 name: The Ronald S. Roadburg Foundation
 # Website address
 website-address: https://roadburg.org/
+# Organisation type
+organisation-type:
+- Funder
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'To fund and support charitable organizations that strengthen communities,
   promote social justice, and assist vulnerable populations in Canada and Israel.
   (Source: https://roadburg.org/)'
-# Organisation type
-organisation-type:
-- Funder
 # Main Location
 main-location:
 - vancouver-canada

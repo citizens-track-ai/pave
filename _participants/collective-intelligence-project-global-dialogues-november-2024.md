@@ -7,6 +7,9 @@ slug: collective-intelligence-project-global-dialogues-november-2024
 how-many-people-took-part: 1253
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: November 2024
 # Recruitment method
@@ -17,9 +20,6 @@ recruitment-description: Participants were recruited through a global research a
 # Was there a specific target population?
 was-there-a-specific-target-population: Adults (18 +) with internet access across
   multiple world regions
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Collective Intelligence Process
@@ -35,8 +35,8 @@ locations:
 - united-arab-emirates
 - armenia
 - angola
-- trinidad-tobago
 - argentina
+- trinidad-tobago
 - austria
 - australia
 - bangladesh
@@ -100,8 +100,8 @@ locations:
 - turkey
 - tanzania
 - ukraine
-- united-states
 - georgia
+- united-states
 - uzbekistan
 - venezuela
 - vietnam

@@ -7,12 +7,12 @@ slug: odyssean-institute
 name: Odyssean Institute
 # Website address
 website-address: https://www.odysseaninstitute.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To research and design institutional reforms, mechanisms, and
-  tools to improve public governance and collective decision-making. (Source: https://www.odysseaninstitute.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To research and design institutional reforms, mechanisms, and
+  tools to improve public governance and collective decision-making. (Source: https://www.odysseaninstitute.org/)'
 # Main Location
 main-location:
 - london-united-kingdom

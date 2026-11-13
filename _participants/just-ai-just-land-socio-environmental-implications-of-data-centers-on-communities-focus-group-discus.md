@@ -8,6 +8,9 @@ slug: just-ai-just-land-socio-environmental-implications-of-data-centers-on-comm
 how-many-people-took-part: 36
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Focus group discussions
 # Recruitment method
@@ -28,6 +31,10 @@ was-there-a-specific-target-population: The target population was local communit
 # Where were participants from?
 where-were-participants-from: Mekaguda, Rangareddy district, Telangana, India; Begarikancha,
   Rangareddy district, Telangana, India
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Focus Group
+- Capacity Building Workshop
 # Additional notes
 additional-notes: In Begarikancha, focus group discussions included farmers, Panchayati
   Raj Institution representatives, and diverse community stakeholders. In Mekaguda,
@@ -36,13 +43,6 @@ additional-notes: In Begarikancha, focus group discussions included farmers, Pan
   informed consent, confidentiality, voluntary participation, and sensitivity to local
   power dynamics. It is also an important consideration that 'community' is not a
   monolith category.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Focus Group
-- Capacity Building Workshop
 # Cases
 cases:
 - just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities

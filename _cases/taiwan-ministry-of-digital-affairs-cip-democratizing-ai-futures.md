@@ -48,12 +48,18 @@ headline-findings: '- **(I) Individual level: labor force release and empowermen
 
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Participation locations
 participation-locations: Taipai, Tainan
 # Project URL
 project-url: https://moda.gov.tw/en/press/press-releases/5243
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2023, the Taiwan Ministry of Digital\
   \ Affairs, the Center for Innovative Democracy and Sustainability, and National\
@@ -111,6 +117,10 @@ why-is-this-project-important-to-include-in-the: An example of national-level po
   development
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: The Needs and Risks Associated
   with Artificial Intelligence
@@ -168,24 +178,16 @@ what-limitations-to-the-project-should-be-noted: "The project reports note three
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- AI in general
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- taiwan-ministry-of-digital-affairs
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re
+- for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product
+- individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat
 # Involved organisations
 involved-organisations:
 - collective-intelligence-project
@@ -200,11 +202,9 @@ supporting-resources:
 - httpsmodagovtwenmajor-policiesalignment-assemblies2023-ideathon1459
 - httpspolistwreportr8x8ffn5fe7ktnwrhdkar
 - httpstttc2modagovtwgenailangus
-# Messages
-messages:
-- most-people-believe-regulations-must-be-clear-at-the-national-governance-level-so-that-innovation-re
-- for-the-stakeholder-communities-closely-related-to-this-issue-ai-is-believed-to-upgrade-core-product
-- individuals-believe-ai-will-significantly-impact-working-conditions-and-rhythm-regardless-of-occupat
+# Funding Organisations
+funding-organisations:
+- taiwan-ministry-of-digital-affairs
 # Participants
 participants:
 - taiwan-ministry-of-digital-affairs-cip-democratizing-ai-futures-experts-and-volunteers

@@ -34,10 +34,17 @@ headline-findings: "Experiential experts living in rural Togo surfaced a differe
   \ community. Rather than argue one is right and the other is wrong, we demonstrate\
   \ that the privacy concerns of domain experts and experiential experts are both\
   \ important. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://dl.acm.org/doi/abs/10.1145/3710968
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'Passively collected "big" data sources
   are increasingly used to inform critical development policy decisions in low- and
@@ -75,6 +82,9 @@ why-is-this-project-important-to-include-in-the: "1) ENGAGING DIVERSE COMMUNITIE
   \ poverty or religiosity. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Predictive AI
 # Photos and images
 photos-and-images:
 # Id
@@ -150,6 +160,9 @@ additional-acknowledgements: "M\xE9y\xE9binesso Farida Carelle PERE, Emily Aiken
 describe-the-subject-matter-in-your-own-words-one: How do people living in rural villages
   in Togo feel about the use of emerging technologies - including predictive AI trained
   on mobile phone data - in aid programs.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "1) To recruit participants in way that respects local norms, the\
   \ research team first met and developed relationships with local leadership. \n\n\
@@ -176,33 +189,20 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Predictive AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Privacy
+# Level of engagement
+level-of-engagement: Community
+# Supporting resources
+supporting-resources:
+- record-37
 # Funding Organisations
 funding-organisations:
 - social-science-research-council-ssrc
 - uc-berkeley-ai-policy-hub
 - lab-for-inclusive-fintech-lift-at-the-university-of-california-berkeley
 - jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres
-# Supporting resources
-supporting-resources:
-- record-37
 # Participants
 participants:
 - expanding-perspectives-on-data-privacy-insights-from-rural-togo-semi-structured-interviews

@@ -29,12 +29,19 @@ headline-findings: 'Across the three cases, several transferable practices emerg
   grounded, ethical, and resilient AI futures.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Participation locations
 participation-locations: Namibia
 # Project URL
 project-url: https://www.pairs.site/Designing-Responsible-AI-Systems-with-Indigenous-Communities-A-Participatory-Approach-for-the-Himba-263260e24e1a8197b229c6cf9c772c6e
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'AI Development: Shape the development of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Led by academic researchers in collaboration\
   \ with local elders, this 2024 initiative engaged at least 30 members of Namibia's\
@@ -62,6 +69,10 @@ provide-a-brief-description-of-the-project: "**Led by academic researchers in co
 submitted-by: Naftali Ndeapo Indongo (see above)
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: NAFTALI NDEAPO INDONGO, RACHEL CHARLOTTE SMITH, SHORTY
   KANDJENGO, UARIAIKE MBINGE, HEIKE WINSCHIERS-THEOPHILUS
@@ -70,6 +81,9 @@ describe-the-subject-matter-in-your-own-words-one: "This research investigates p
   \ and responsible Artificial Intelligence (RAI) practices within three interconnected\
   \ AI-driven projects focused on Namibia\u2019s Indigenous communities, specifically\
   \ the Ovahimba and San. "
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "In each community, the processes were led by a community elder,\
   \ who recruited m/f members of the youth and community to join on a voluntary basis.\
@@ -84,25 +98,16 @@ inclusion-efforts: "In each community, the processes were led by a community eld
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'AI Development: Shape the development of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools
+- ground-transparency-in-culturally-meaningful-metaphors
+- embed-learning-and-capacity-building-as-core-design-outcomes
 # Involved organisations
 involved-organisations:
 - namibia-university-of-science-technology
@@ -118,11 +123,6 @@ lead-organisations:
 supporting-resources:
 - httpsdlacmorgdoifull10114537966243796667
 - designing-responsible-ai-with-indigenous-communitiestowards-participatory-ai-with-ovahimba-and-san-p
-# Messages
-messages:
-- treat-ai-systems-as-evolving-collaborators-rather-than-fixed-tools
-- ground-transparency-in-culturally-meaningful-metaphors
-- embed-learning-and-capacity-building-as-core-design-outcomes
 # Participants
 participants:
 - designing-responsible-ai-systems-with-indigenous-communities-a-participatory-approach-for-the-himba

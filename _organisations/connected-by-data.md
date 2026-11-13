@@ -7,12 +7,12 @@ slug: connected-by-data
 name: Connected by Data
 # Website address
 website-address: https://connectedbydata.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To campaign for communities to have a powerful voice in how data
-  and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To campaign for communities to have a powerful voice in how data
+  and AI are used, ensuring technology serves the public good. (Source: https://connectedbydata.org/)'
 # Main Location
 main-location:
 - united-kingdom

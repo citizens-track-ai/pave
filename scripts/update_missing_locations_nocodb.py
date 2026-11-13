@@ -85,18 +85,18 @@ LOCATION_OVERRIDES = {
 
 
 def find_locations_table_id():
-    """Locate Locations table ID from schema maps, or return default."""
+    """Locate Locations table ID from schema map, or return default."""
     if yaml is not None:
-        for schema_candidate in [Path("_data/schema_map_nocodb.yml"), Path("_data/schema_map.yml")]:
-            if schema_candidate.exists():
-                try:
-                    with open(schema_candidate, "r", encoding="utf-8") as f:
-                        data = yaml.safe_load(f) or {}
-                    for tbl_id, tbl_info in data.items():
-                        if isinstance(tbl_info, dict) and tbl_info.get("name") == "Locations":
-                            return tbl_id
-                except Exception:
-                    pass
+        schema_candidate = Path("_data/schema_map.yml")
+        if schema_candidate.exists():
+            try:
+                with open(schema_candidate, "r", encoding="utf-8") as f:
+                    data = yaml.safe_load(f) or {}
+                for tbl_id, tbl_info in data.items():
+                    if isinstance(tbl_info, dict) and tbl_info.get("name") == "Locations":
+                        return tbl_id
+            except Exception:
+                pass
     return DEFAULT_LOCATIONS_TABLE_ID
 
 

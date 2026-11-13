@@ -9,10 +9,16 @@ description: Enabling discussion and understanding of participants' views on com
   polarizing topics via linked offline and online processes.
 # Project Title
 project-title: Making AI Transparent and Accountable by Rappler
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Project URL
 project-url: https://www.rappler.com/technology/features/generative-ai-use-enriching-democratic-consultations/
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2023, OpenAI commissioned Rappler\
   \ to develop a process that used surveys and focus groups to involve approximately\
@@ -43,6 +49,9 @@ provide-a-brief-description-of-the-project: "In 2023, OpenAI commissioned Rapple
   \ similarities and differences, and to determine next steps in terms of policy ideas.\n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: Gemma B. Mendoza, Gilian Uy, Don Kevin Hapal, Ogoy San
   Juan, and Maria Ressa
@@ -54,25 +63,13 @@ describe-the-subject-matter-in-your-own-words-one: Enabling discussion and under
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Artificial Intelligence
 # Level of engagement
 level-of-engagement: Global
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Theme
-theme:
-- Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- open-ai
 # Involved organisations
 involved-organisations:
 - rappler
@@ -83,6 +80,9 @@ lead-organisations:
 supporting-resources:
 - can-we-use-ai-to-enrich-democratic-consultations
 - preliminary-report-making-ai-systems-accountable-through-a-transparent-grassroots-based-consultation
+# Funding Organisations
+funding-organisations:
+- open-ai
 # Participants
 participants:
 - making-ai-transparent-and-accountable-by-rappler-survey-participants

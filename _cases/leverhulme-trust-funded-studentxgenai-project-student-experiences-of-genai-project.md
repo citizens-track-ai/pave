@@ -23,10 +23,20 @@ headline-findings: "1. Students were asked if they used GenAI when they weren't 
   \ and assessment process but are stopping short, in most cases, of directly editing\
   \ their assessments. The problem is, we are unsure what impact the cognitive offloading\
   \ of reading, brainstorming and structuring of assessments has on students. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://osf.io/jzruf/overview
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "This project consisted of a survey of\
   \ over 7000 UK university students, interviews with 20 students and a GenAI assisted\
@@ -50,6 +60,12 @@ why-is-this-project-important-to-include-in-the: Students are a key user group f
   are vital to understanding GenAI impact on learning and education.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- AI in general
+- Current issues
+- Future issues
 # Additional acknowledgements
 additional-acknowledgements: Professor Sam Illingworth  (s.illingworth@napier.ac.uk)
 # Inclusion efforts
@@ -69,28 +85,12 @@ curation-decision: Mapping Entry
 project-status: In Progress
 # Level of engagement
 level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- AI in general
-- Current issues
-- Future issues
-# Funding Organisations
-funding-organisations:
-- leverhulme-trust
 # Lead organisations
 lead-organisations:
 - edinburgh-napier-university
+# Funding Organisations
+funding-organisations:
+- leverhulme-trust
 # Participants
 participants:
 - leverhulme-trust-funded-studentxgenai-project-student-experiences-of-genai-project-university-studen

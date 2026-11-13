@@ -8,6 +8,9 @@ slug: just-ai-just-land-socio-environmental-implications-of-data-centers-on-comm
 how-many-people-took-part: 14
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Semi-structured interviews
 # Recruitment method
@@ -36,6 +39,9 @@ was-there-a-specific-target-population: The target population included community
 where-were-participants-from: "Mekaguda, Rangareddy district, Telangana, India; Begarikancha,\
   \ Rangareddy district, Telangana, India; Vavilakunta, Telangana, India; Telangana,\
   \ India; India; EU, S\xE3o Paulo, Brazil"
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Interviews
 # Additional notes
 additional-notes: "The semi-structured interviews complemented the focus group discussions\
   \ by providing deeper and more specialised perspectives on land acquisition, water\
@@ -46,12 +52,6 @@ additional-notes: "The semi-structured interviews complemented the focus group d
   \ data center expansion and global AI infrastructure development. The report notes\
   \ that the research followed ethical practices including informed consent, confidentiality,\
   \ voluntary participation, and sensitivity to local power dynamics."
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Interviews
 # Cases
 cases:
 - just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities

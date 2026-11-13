@@ -1,10 +1,10 @@
 ---
 layout: generic
-title: Early-stage technical decisions are not merely technical.
+title: Recommendation 2
 airtable_id: 552bed7f5221c46d
 slug: early-stage-technical-decisions-are-not-merely-technical
-# Name
-name: Early-stage technical decisions are not merely technical.
+# Message
+message: Early-stage technical decisions are not merely technical.
 # Type
 type: Recommendation
 # Cases

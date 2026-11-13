@@ -64,9 +64,7 @@ R2_JURISDICTION = os.getenv("R2_JURISDICTION", "").strip().lower()
 R2_ENDPOINT_URL = os.getenv("R2_ENDPOINT_URL")
 R2_PREFIX = os.getenv("R2_PREFIX", "attachments").strip("/")
 
-SCHEMA_PATH = Path("_data/schema_map_nocodb.yml")
-if not SCHEMA_PATH.exists():
-    SCHEMA_PATH = Path("_data/schema_map.yml")
+SCHEMA_PATH = Path("_data/schema_map.yml")
 
 ATTACHMENT_DIR = Path("assets/attachments")
 
@@ -463,7 +461,7 @@ def get_record_title(fields, table_id, schema_map, record_id):
             return str(fields[f_name])
 
     for f_name, f_val in fields.items():
-        if f_val and f_name.strip().lower() in ["title", "project title", "name", "case name"]:
+        if f_val and f_name.strip().lower() in ["title", "project title", "name", "case name", "message"]:
             return str(f_val)
 
     return f"record-{record_id}"
@@ -798,7 +796,8 @@ def main():
             perm_id = get_record_permalink_id(t_name, fields, rec_id_str)
             id_to_perm[(t_id, rec_id_str)] = perm_id
 
-            base_slug = slugify(title)
+            slug_source = (fields.get("Message") or fields.get("Name") or title) if t_name == "Messages" else title
+            base_slug = slugify(slug_source)
             if not base_slug:
                 base_slug = perm_id
 
@@ -961,9 +960,14 @@ def main():
 
             case_desc = derive_case_description(final_data) if table_name == "Cases" else None
 
+            record_frontmatter_title = title
+            if table_name == "Messages":
+                raw_msg_title = fields.get("Title")
+                record_frontmatter_title = str(raw_msg_title).strip() if raw_msg_title else ""
+
             front_matter = {
                 "layout": layout,
-                "title": title,
+                "title": record_frontmatter_title,
                 "airtable_id": perm_id,
                 "slug": slug,
             }

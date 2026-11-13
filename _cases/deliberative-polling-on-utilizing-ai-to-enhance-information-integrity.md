@@ -21,12 +21,18 @@ headline-findings: "About 85% citizen participants support stronger self-regulat
   \ AI regulatory framework and standards; 2) Improving platform capabilities in AI\
   \ for analysis and identification of information; 3) Establishment and refinement\
   \ of evaluation mechanisms.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Participation locations
 participation-locations: Taiwain
 # Project URL
 project-url: https://participedia.net/case/deliberative-polling-on-utilizing-ai-to-enhance-information-integrity
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Institute of Science, Technology and\
   \ Society at National Yang Ming Chiao Tung University (NYCU), commissioned by the\
@@ -61,12 +67,6 @@ inclusion-efforts: "Recruitment involved sending survey through the official \u2
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
 # Involved organisations
 involved-organisations:
 - taiwan-ministry-of-digital-affairs

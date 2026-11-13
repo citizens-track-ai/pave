@@ -1077,13 +1077,13 @@ qrcode: true
                  {% if bg_url %}data-bg-image="{{ bg_url | relative_url }}"{% endif %}>
 
               <!-- Center: Quote / Recommendation Body -->
-              <div class="slide-quote-content">
+              <div class="slide-quote-content slide-type-{{ message.type | downcase }}">
                 <div class="quote-header">
                   <span class="quote-icon-open">“</span>
-                  <span class="quote-type">{{ message.type }}</span>
+                  <span class="quote-type">{{ message.title | default: message.type }}</span>
                 </div>
                 <div class="quote-body">
-                  {{ message.title }}
+                  {{ message.message }}
                 </div>
                 {% if message.additional-credit-line %}
                   <div class="quote-footer">

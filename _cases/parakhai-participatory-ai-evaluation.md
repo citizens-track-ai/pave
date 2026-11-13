@@ -12,10 +12,16 @@ project-title: 'ParakhAI - Participatory AI Evaluation '
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
 # Project URL
 project-url: https://civicdatalab.in/work/dpg/parakhai/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Between 2024 and 2025, CivicDataLab initiated\
   \ a process of broad stakeholder engagement, involving technical, domain and cultural\
@@ -75,6 +81,9 @@ why-is-this-project-important-to-include-in-the: 'ParakhAI is significant for th
   engagement and real technical improvement.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Photos and images
 photos-and-images:
 # Id
@@ -133,6 +142,10 @@ photos-and-images:
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'Co-design of a participatory AI
   auditing platform. '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -149,19 +162,6 @@ project-status: In Progress
 level-of-engagement: Professional
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-# Project goals
-project-goals:
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Involved organisations
 involved-organisations:
 - indiaai-mission

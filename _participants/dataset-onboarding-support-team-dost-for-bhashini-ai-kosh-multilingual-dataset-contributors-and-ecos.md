@@ -8,6 +8,9 @@ slug: dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dat
 how-many-people-took-part: 50
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Multilingual Dataset Contributors and Ecosystem Partners
 # Recruitment method
@@ -30,18 +33,6 @@ was-there-a-specific-target-population: 'Government departments, universities, r
 # Where were participants from?
 where-were-participants-from: 'Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu;
   Karnataka; Delhi; India '
-# Additional notes
-additional-notes: 'DOST adopts a facilitative rather than extractive model of engagement.
-  Instead of collecting new datasets directly, the initiative works with organizations
-  and communities that already working to create or are sitting on  valuable multilingual
-  language resources, supporting them in identifying, preparing, documenting, and
-  sharing datasets for AI use. Contributors remain owners of their datasets and determine
-  licensing and access conditions, while receiving technical support, attribution,
-  and long-term ecosystem engagement. The project seeks to establish sustainable data
-  streams rather than one-time dataset contributions. '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Capacity Building Workshop
@@ -52,6 +43,15 @@ do-any-of-the-following-apply:
 - There were trained facilitators involved
 - There was a learning phase for participants
 - Materials from the learning phase have been published
+# Additional notes
+additional-notes: 'DOST adopts a facilitative rather than extractive model of engagement.
+  Instead of collecting new datasets directly, the initiative works with organizations
+  and communities that already working to create or are sitting on  valuable multilingual
+  language resources, supporting them in identifying, preparing, documenting, and
+  sharing datasets for AI use. Contributors remain owners of their datasets and determine
+  licensing and access conditions, while receiving technical support, attribution,
+  and long-term ecosystem engagement. The project seeks to establish sustainable data
+  streams rather than one-time dataset contributions. '
 # Cases
 cases:
 - dataset-onboarding-support-team-dost-for-bhashini-ai-kosh

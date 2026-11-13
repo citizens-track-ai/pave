@@ -7,6 +7,9 @@ slug: genzai-makeorg-online-platform
 how-many-people-took-part: 5000
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Make.org Online Platform
 # Recruitment method
@@ -18,9 +21,6 @@ recruitment-description: Advertised via social media; recruited via email throug
 was-there-a-specific-target-population: Canadian youth, aged 17-23
 # Where were participants from?
 where-were-participants-from: Canada
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Collective Intelligence Process

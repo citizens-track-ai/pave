@@ -5,6 +5,9 @@ airtable_id: fc150a8bcb9b8644
 slug: online-focus-group-paraguay
 # How many people took part?
 how-many-people-took-part: 15
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Online Focus Group - Paraguay
 # Recruitment method
@@ -15,9 +18,6 @@ was-there-a-specific-target-population: 'Online focus groups were conducted in t
 
   the private sector and another with academics and activists engaged in the local
   AI landscape.'
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Focus Group

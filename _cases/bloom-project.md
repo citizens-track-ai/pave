@@ -10,10 +10,19 @@ description: "In 2026, BLOOM is asking one question across communities: what wou
   \ responsibly?"
 # Project Title
 project-title: Bloom Project
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Other
 # Project URL
 project-url: https://bloom-project.org/
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "BLOOM is a nonprofit. Our tools are free.\
   \ We work with civic leaders to run public conversations that go beyond talk: surfacing\
@@ -24,6 +33,9 @@ provide-a-brief-description-of-the-project: "BLOOM is a nonprofit. Our tools are
   \ of trained community leaders who run and steward local deliberations\n\n**Headline\
   \ Deliberations**\nLarge-scale pilots led by place-based civic partners, with BLOOM\
   \ support, that demonstrate what\u2019s possible and develop the model\n"
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: "In 2026, BLOOM is asking one question\
   \ across communities: what would it take for AI to benefit our communities \u2014\
@@ -32,23 +44,11 @@ describe-the-subject-matter-in-your-own-words-one: "In 2026, BLOOM is asking one
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Other
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - american-public-trust

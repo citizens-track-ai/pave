@@ -49,12 +49,21 @@ headline-findings: "1\n\nFollowing a participatory workshop, courier David said 
   \ exploring upskilling courses and advice sessions for gig workers, and a charter\
   \ to improve the working conditions for the growing number of gig economy workers\
   \ in our city.\u201D\n\nSource for 6: https://www.scotsman.com/news/opinion/columnists/time-to-stop-the-rough-ride-for-food-delivery-workers-5289255\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Participation locations
 participation-locations: Edinburgh, UK
 # Project URL
 project-url: https://workersobservatory.org/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Since 2024, the Workers\u2019 Observatory\
   \ (WO) has involved food delivery riders in participatory research that explored\
@@ -143,6 +152,9 @@ why-is-this-project-important-to-include-in-the: "As AI-driven labour platforms 
   \ those in the AI-driven gig economy. \n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Photos and images
 photos-and-images:
 # Id
@@ -223,6 +235,10 @@ photos-and-images:
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Monitoring and challenging exploitative
   AI-driven labour platforms
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Recruitment and engagement were carried out by the Workers' Observatory,\
   \ a charity and research collaboration that involved food delivery riders and other\
@@ -253,35 +269,22 @@ what-limitations-to-the-project-should-be-noted: "**Inclusion and representation
 curation-decision: Featured Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# Method image caption
-method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Work
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- esrc-digital-good
-- university-of-st-andrews
-- university-of-edinburgh-1
+# Level of engagement
+level-of-engagement: Community
+# Method image caption
+method-image-caption: 'Source: '
+# Messages
+messages:
+- ive-been-a-cycle-courier-for-the-past-six-years-and-ive-seen-the-whole-development-of-these-algorith
+- uber-and-deliveroo-are-for-the-first-time-you-know-reporting-profit-and-theyre-paying-the-lowest-rat
+- i-really-think-through-this-movement-we-can-bring-a-revolution-in-the-industry-and-we-can-get-the-fa
+- the-collective-is-very-useful-to-organise-us-to-have-a-voice-i-think-that-we-alls-hare-the-same-thou
+- they-time-you-for-every-second-you-are-working-and-if-the-time-you-take-doesnt-match-with-the-time-t
+- if-we-are-serious-in-our-commitment-to-making-edinburgh-a-safer-and-fairer-city-to-work-in-where-wor
 # Lead organisations
 lead-organisations:
 - the-workers-observatory
@@ -289,14 +292,11 @@ lead-organisations:
 supporting-resources:
 - organising-a-worker-led-survey
 - digital-worker-inquiry-and-the-critical-potential-of-participatory-worker-data-science-for-on-demand
-# Messages
-messages:
-- courier-david
-- xabier-reflecting-on-the-impact-of-dynamic-pricing
-- tejas-reflects-during-an-outreach-session-speaking-to-workers-in-princes-street
-- anonymous-rider
-- rider-quote-on-automatic-deactivation
-- edinburghs-depute-lord-provost
+# Funding Organisations
+funding-organisations:
+- esrc-digital-good
+- university-of-st-andrews
+- university-of-edinburgh-1
 # Participants
 participants:
 - building-platform-worker-power-with-participatory-data-science-worker-research-participants

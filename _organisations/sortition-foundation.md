@@ -7,12 +7,12 @@ slug: sortition-foundation
 name: Sortition Foundation
 # Website address
 website-address: https://www.sortitionfoundation.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To campaign for, design, and run citizens'' assemblies that use
-  random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To campaign for, design, and run citizens'' assemblies that use
+  random selection to ensure fair representation. (Source: https://www.sortitionfoundation.org/)'
 # Main Location
 main-location:
 - united-kingdom

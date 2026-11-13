@@ -8,6 +8,9 @@ slug: bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-
 how-many-people-took-part: 61
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.15
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Online survey policymaker
 # Recruitment method
@@ -36,9 +39,6 @@ where-were-participants-from: Andorra; Argentina; Austria; Belgium; Canada; Chil
   Italy; Japan; Kenya; Latvia; Liechtenstein; Lithuania; Malta; Mauritius; Mexico;
   Peru; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Turkey; Ukraine; Uruguay;
   USA
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

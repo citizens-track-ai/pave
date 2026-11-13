@@ -1,0 +1,13 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Curation Type
+type: string
+oneOf:
+  - const: "Featured"
+    title:
+      en: "Featured"
+  - const: "Case"
+    title:
+      en: "Case"
+  - const: "Mapping"
+    title:
+      en: "Mapping"

@@ -7,13 +7,13 @@ slug: social-science-research-council-ssrc
 name: Social Science Research Council (SSRC)
 # Website address
 website-address: https://www.ssrc.org/
+# Organisation type
+organisation-type:
+- Research
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'To foster innovative research, nurture new generations of social
   scientists, and mobilize necessary knowledge on important public issues. (Source:
   https://www.ssrc.org/)'
-# Organisation type
-organisation-type:
-- Research
 # Main Location
 main-location:
 - brooklyn-new-york-usa

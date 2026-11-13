@@ -1,6 +1,6 @@
 ---
 layout: case
-title: 'Youth dialogue on generative AI '
+title: Youth dialogue on generative AI
 airtable_id: 576560632e75c3a0
 slug: youth-dialogue-on-generative-ai
 redirect_from:
@@ -9,7 +9,7 @@ description: "Young people\u2019s experiences, concerns, and expectations regard
   \ the role of generative AI in education, relationships, and society, explored through\
   \ a..."
 # Project Title
-project-title: 'Youth dialogue on generative AI '
+project-title: Youth dialogue on generative AI
 # Headline findings
 headline-findings: "### Use of Generative AI in Education\n\nParticipants in the youth\
   \ dialogue were generally positive about the use of generative AI in education.\
@@ -66,11 +66,20 @@ headline-findings: "### Use of Generative AI in Education\n\nParticipants in the
   - They are concerned that society may become less socially connected in the future.\n\
   - Some use AI for job searches, hobbies, and everyday practical tasks.\n- Very few\
   \ use AI to discuss sensitive personal issues.\n- They are concerned about the misuse\
-  \ of personal data.\n"
+  \ of personal data."
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Project URL
 project-url: https://videnogdemokrati.dk/de-unges-stemme-i-samtalen-om-generativ-ai/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**To explore the impact of generative\
   \ AI on education, Democracy x engaged 375 students and educational stakeholders\
@@ -139,7 +148,7 @@ provide-a-brief-description-of-the-project: "**To explore the impact of generati
   \ connect knowledge, policy, and citizens, ensuring that technological developments\
   \ are informed by the experiences and needs of those most affected by them. \n\n\
   Results were presented at an open event as well as for the Children\u2019s, Education\
-  \ and Research Committee \n"
+  \ and Research Committee"
 # Submitted by
 submitted-by: Sigrid Vedel Neuhaus
 # Why is this project important to include in the case book?
@@ -165,6 +174,9 @@ why-is-this-project-important-to-include-in-the: 'This case is particularly rele
   of inclusive and impactful public engagement on AI.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Additional acknowledgements
 additional-acknowledgements: Niels-Kristian Tjelle Holm, Lise Bitsch, Sofie Ozanne,
   Bergliot Borg Christensen
@@ -173,6 +185,10 @@ describe-the-subject-matter-in-your-own-words-one: "Young people\u2019s experien
   \ concerns, and expectations regarding the role of generative AI in education, relationships,\
   \ and society, explored through a national participatory dialogue and co-creation\
   \ process."
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'The primary inclusion effort focused on engaging young people
   from diverse educational backgrounds, including both upper secondary schools and
@@ -184,10 +200,7 @@ inclusion-efforts: 'The primary inclusion effort focused on engaging young peopl
   To make participation accessible, the dialogue was integrated into regular teaching
   activities and conducted during school hours, reducing barriers to participation.
   The process was adjusted based on dialogue with participating schools and teachers,
-  who provided input on how the dialogue format could best fit their educational settings.
-
-
-  '
+  who provided input on how the dialogue format could best fit their educational settings.'
 # What limitations to the project should be noted?
 what-limitations-to-the-project-should-be-noted: 'While the project successfully engaged
   a large number of young people, some limitations should be noted. The self-facilitated
@@ -200,38 +213,23 @@ what-limitations-to-the-project-should-be-noted: 'While the project successfully
   to language and materials, particularly for vocational education students. Finally,
   participant feedback suggested that the dialogue often reinforced existing views
   on generative AI rather than significantly changing perspectives, and some evaluation
-  questions had a relatively high non-response rate.
-
-  '
+  questions had a relatively high non-response rate.'
 # Curation decision
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Youth
 - Education
-# Funding Organisations
-funding-organisations:
-- tryg-fonden
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- the-deepfakes-they-encounter-are-mostly-entertainment-oriented-1
+- they-are-concerned-that-deepfakes-could-undermine-trust-in-society-1
+- they-find-it-worrying-that-deepfakes-can-be-used-to-misrepresent-people-1
+- they-are-particularly-concerned-about-their-use-for-revenge-bullying-and-blackmail-1
 # Involved organisations
 involved-organisations:
 - dataetisk-rad
@@ -251,12 +249,9 @@ supporting-resources:
 - method-guide
 - educational-recourses
 - results-from-stakeholder-workshop
-# Messages
-messages:
-- establish-clearer-national-frameworks-for-the-use-of-generative-ai-in-education
-- review-and-update-existing-governance-and-policy-documents
-- strengthen-local-and-national-professional-networks-among-educators
-- promote-dialogue-experimentation-and-practical-learning-about-ai-in-classrooms
+# Funding Organisations
+funding-organisations:
+- tryg-fonden
 # Participants
 participants:
 - youth-dialogue-on-generative-ai-europesay-method-youth-dialogue

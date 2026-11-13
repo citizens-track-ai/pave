@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: 'Educational recourses '
+title: Educational recourses
 airtable_id: 955e193444d6e7cd
 slug: educational-recourses
 # Attachments
@@ -17,7 +17,7 @@ select: Facilitation guide
 # License
 license: published under an open license with reference
 # Short description
-short-description: 'Overview of process and rescourses '
+short-description: Overview of process and rescourses
 # Featured Video / Resource
 featured-video-resource: false
 # Cases

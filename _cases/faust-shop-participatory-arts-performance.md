@@ -12,10 +12,17 @@ project-title: 'Faust-Shop Participatory Arts Performance '
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: 'https://www.bcs.org/events-calendar/2025/july/human-ai-systems-are-here-to-stay-what-price-are-you-willing-to-pay/ '
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2025, an academic research team initiated\
   \ a process that used participatory arts, including multimedia documentary theatre\
@@ -40,9 +47,15 @@ why-is-this-project-important-to-include-in-the: "This project brought together 
   \ consultant using a systems psychodynamics approach."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'Human-AI systems: the interaction
   between humans and AI'
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -54,32 +67,19 @@ what-limitations-to-the-project-should-be-noted: "This was a ticketed event in L
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Capacity: Build participant capacity to engage with AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- cambridge-digital-humanities
-- cambridge-school-of-creative-industries-anglia-ruskin-university
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - british-computer-society
 - tavistock-institute-of-human-relations
+# Funding Organisations
+funding-organisations:
+- cambridge-digital-humanities
+- cambridge-school-of-creative-industries-anglia-ruskin-university
 # Participants
 participants:
 - faust-shop-participatory-arts-performance-bcs-performance

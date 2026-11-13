@@ -9,6 +9,9 @@ slug: making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-com
 how-many-people-took-part: 47
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 25
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Community participants recruited through place-based, community-led
   engagement across three UK locations.
@@ -38,19 +41,6 @@ was-there-a-specific-target-population: People from communities whose perspectiv
   community-rooted perspectives.
 # Where were participants from?
 where-were-participants-from: Belfast; Brixton (London); Southampton
-# Additional notes
-additional-notes: The project adopted a community-led research model in which six
-  community researchers worked alongside Ada researchers through co-design, recruitment,
-  facilitation and co-analysis. Alongside structured deliberative workshops and learning
-  sessions, participants were invited to contribute through a flexible enquiry process
-  including diaries, interviews, audio reflections and other creative methods. The
-  project therefore combined deliberative engagement with ethnographic and participatory
-  research methods to build a richer understanding of how people made sense of AI
-  and the public good. Participants also reconvened after analysis to review and challenge
-  the emerging findings before publication.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-Based Participatory Research
@@ -63,13 +53,23 @@ which-of-the-following-methods-were-used-to:
 do-any-of-the-following-apply:
 - There were trained facilitators involved
 - There was a learning phase for participants
+# Additional notes
+additional-notes: The project adopted a community-led research model in which six
+  community researchers worked alongside Ada researchers through co-design, recruitment,
+  facilitation and co-analysis. Alongside structured deliberative workshops and learning
+  sessions, participants were invited to contribute through a flexible enquiry process
+  including diaries, interviews, audio reflections and other creative methods. The
+  project therefore combined deliberative engagement with ethnographic and participatory
+  research methods to build a richer understanding of how people made sense of AI
+  and the public good. Participants also reconvened after analysis to review and challenge
+  the emerging findings before publication.
 # Cases
 cases:
 - making-good-insights-on-ai-and-public-good-from-diverse-uk-communities
 # Locations
 locations:
-- united-kingdom
 - belfast-northern-ireland-united-kingdom
 - london-united-kingdom
+- united-kingdom
 - southampton
 ---

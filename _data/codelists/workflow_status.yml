@@ -1,0 +1,16 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Workflow Status
+type: string
+oneOf:
+  - const: "Submission"
+    title:
+      en: "Submission"
+  - const: "Draft"
+    title:
+      en: "Draft"
+  - const: "Completed"
+    title:
+      en: "Completed"
+  - const: "Duplicate"
+    title:
+      en: "Duplicate"

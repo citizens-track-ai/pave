@@ -7,12 +7,12 @@ slug: jacobs-foundation-connecting-the-edtech-research-ecosystem-ceres
 name: Jacobs Foundation Connecting the EdTech Research EcoSystem (CERES)
 # Website address
 website-address: https://jacobsfoundation.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To support research, policy, and practice that enhances child
-  development and learning opportunities globally. (Source: https://jacobsfoundation.org/)'
 # Organisation type
 organisation-type:
 - Funder
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To support research, policy, and practice that enhances child
+  development and learning opportunities globally. (Source: https://jacobsfoundation.org/)'
 # Main Location
 main-location:
 - zurich-switzerland

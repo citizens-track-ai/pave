@@ -7,12 +7,12 @@ slug: kavli-center-for-the-ethics-science-and-the-public
 name: Kavli Center for the Ethics, Science and the Public
 # Website address
 website-address: https://www.kcesp.ac.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To connect the public with science, ensuring that scientific research
-  and technological development align with human values and ethics. (Source: https://www.kcesp.ac.uk/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To connect the public with science, ensuring that scientific research
+  and technological development align with human values and ethics. (Source: https://www.kcesp.ac.uk/)'
 # Main Location
 main-location:
 - cambridge-united-kingdom

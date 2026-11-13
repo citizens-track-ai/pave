@@ -6,9 +6,9 @@ slug: united-kingdom
 # Name
 name: United Kingdom
 # Latitude
-latitude: 55.3781
+latitude: 54.7023545
 # Longitude
-longitude: -3.436
+longitude: -3.2765753
 # Country Code
 country-code: GB
 # Organisations

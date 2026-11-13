@@ -8,6 +8,9 @@ slug: human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-i
 how-many-people-took-part: 15
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 12
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Foresight workshop participants
 # Recruitment method
@@ -20,15 +23,6 @@ recruitment-description: Digital Futures Lab invited each participant based on t
 was-there-a-specific-target-population: 'Domain experts, practitioners, researchers '
 # Where were participants from?
 where-were-participants-from: Urban and semi-urban India
-# Additional notes
-additional-notes: 'Participants were first introduced to the project and to foresight
-  as a methodology before being presented with insights from the horizon-scanning
-  exercise. Based on the larger group''s validation and discussion of these insights,
-  they were split into smaller groups that collaborated to map out specific scenarios
-  related to a GenAI use case in a specific sector. '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Scenario Workshop
@@ -36,6 +30,12 @@ which-of-the-following-methods-were-used-to:
 # Do any of the following apply?
 do-any-of-the-following-apply:
 - There was a learning phase for participants
+# Additional notes
+additional-notes: 'Participants were first introduced to the project and to foresight
+  as a methodology before being presented with insights from the horizon-scanning
+  exercise. Based on the larger group''s validation and discussion of these insights,
+  they were split into smaller groups that collaborated to map out specific scenarios
+  related to a GenAI use case in a specific sector. '
 # Cases
 cases:
 - human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india

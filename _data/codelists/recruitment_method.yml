@@ -1,0 +1,19 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Recruitment Method
+type: string
+oneOf:
+  - const: "Self selected / volunteered"
+    title:
+      en: "Self selected / volunteered"
+  - const: "Demographic lottery"
+    title:
+      en: "Demographic lottery"
+  - const: "Statistical sample"
+    title:
+      en: "Statistical sample"
+  - const: "Peer recruitment (snowball)"
+    title:
+      en: "Peer recruitment (snowball)"
+  - const: "Other"
+    title:
+      en: "Other"

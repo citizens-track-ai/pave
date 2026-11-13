@@ -7,12 +7,12 @@ slug: youth-ai-governance-forum
 name: Youth AI Governance Forum
 # Website address
 website-address: https://www.yaigf.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To provide a platform for young people to engage in global conversations
-  and decision-making on AI policy, ethics, and governance. (Source: https://www.yaigf.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To provide a platform for young people to engage in global conversations
+  and decision-making on AI policy, ethics, and governance. (Source: https://www.yaigf.org/)'
 # Main Location
 main-location:
 - global

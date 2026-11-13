@@ -8,6 +8,9 @@ slug: co-designing-animated-videos-to-explain-large-language-models-and-their-us
 how-many-people-took-part: 6
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 15
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: PPIE contributor group
 # Recruitment method
@@ -18,9 +21,6 @@ recruitment-description: Recruitment from community events
 was-there-a-specific-target-population: Through the partner organisation SAFH
 # Where were participants from?
 where-were-participants-from: East London
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Co-creation workshops

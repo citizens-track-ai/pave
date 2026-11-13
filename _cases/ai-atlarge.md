@@ -12,10 +12,17 @@ project-title: AI AtLarge
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
 # Project URL
 project-url: https://www.aiatlarge.org/
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Launched in 2026, AI AtLarge is exploring\
   \ the use of capacity-building workshops and structured listening to help everyday\
@@ -73,6 +80,9 @@ why-is-this-project-important-to-include-in-the: 'AI AtLarge addresses a central
   understand its implications or participate confidently in shaping its use. It seeks
   to create a credible bridge between public experience and institutional AI debates,
   beginning with understanding and listening rather than claiming representation.'
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: Khaled Koubaa
 # Describe the subject matter in your own words (one line)
@@ -94,16 +104,6 @@ project-status: In Progress
 level-of-engagement: Community
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-# Project goals
-project-goals:
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
 # Lead organisations
 lead-organisations:
 - ai-atlarge-inc

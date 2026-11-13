@@ -7,15 +7,15 @@ slug: paris-student-assembly-on-ai-students
 how-many-people-took-part: 70
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 12
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Students
 # Recruitment description
 recruitment-description: Students from the ENS-PSL
 # Was there a specific target population?
 was-there-a-specific-target-population: Students
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - "Citizens\u2019 Assembly"

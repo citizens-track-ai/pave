@@ -235,10 +235,21 @@ headline-findings: "The Gen(Z)AI forums covered four distinct policy issues, eac
   \ by requiring digital safety and compliance reporting;\nRequiring that AI generated\
   \ media content be identified through digital watermarking technology; and Reducing\
   \ sycophancy and positive reinforcement in AI chatbots.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
+- Other
 # Project URL
 project-url: https://www.sfu.ca/dialogue/what-we-do/initiatives/dot/gen-z-ai.html
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
+- 'Evaluate: Check the quality of evidence or engagement processes'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Gen(Z)AI engaged one hundred randomly\
   \ selected young Canadians, aged seventeen to twenty-three, across four regional\
@@ -290,6 +301,11 @@ why-is-this-project-important-to-include-in-the: "What distinguishes Gen(Z)AI fr
   \ that provenance that gives them their claim to democratic authority. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Current issues
+- Future issues
 # Photos and images
 photos-and-images:
 # Id
@@ -346,6 +362,11 @@ additional-acknowledgements: Fergus Linley-Mota
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'AI Chatbots; Information Integrity;
   Data Privacy; Age Assurance '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A research poster
 # Inclusion efforts
 inclusion-efforts: "Participants were recruited through a national outreach process\
   \ and selected via civic lottery to reflect Canada\u2019s geographic, linguistic,\
@@ -371,6 +392,9 @@ what-limitations-to-the-project-should-be-noted: "The \u201Clayered deliberation
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Youth
 # Level of engagement
 level-of-engagement: National
 # Method Image
@@ -399,35 +423,34 @@ method-image:
       height: null
 # Method image caption
 method-image-caption: 'Project timeline. Source: Project website'
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-- 'Evaluate: Check the quality of evidence or engagement processes'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A research poster
-# Theme
-theme:
-- Youth
-# Funding Organisations
-funding-organisations:
-- cifar
-- waltons-trust
-- the-ronald-s-roadburg-foundation
+# Messages
+messages:
+- mandate-that-ai-platforms-address-the-addictive-design-of-ai-chatbots-by-requiring-measures-such-as
+- mandate-accessible-flagging-capacity-for-users-require-platforms-to-regularly-report-these-instances
+- mandate-that-social-media-platforms-and-search-engines-have-explicitly-and-easy-to-navigate-opt-out
+- establish-a-funding-program-to-support-organizations-offering-critical-ai-literacy-programming-and-r
+- establish-a-new-independent-government-body-to-enforce-ai-safety-standards-conduct-systems-evaluatio
+- mandate-that-digital-platforms-explicitly-label-ai-generated-content-and-give-users-the-functionalit
+- give-people-copyright-over-their-own-features-and-likeness-and-create-an-online-regulator-to-enforce
+- mandate-that-platforms-monitor-flag-and-transparently-share-information-with-both-the-public-and-gov
+- require-that-platforms-introduce-standards-for-ai-recommendation-systems-and-data-profiling-processe
+- mandate-that-platforms-implement-an-independent-third-party-authentication-mechanism-for-content-pos
+- mandate-that-platforms-and-ai-companies-implement-meaningful-and-informed-consent-mechanisms-to-user
+- impose-privacy-by-default-standards-for-all-ai-systems
+- develop-enforceable-data-privacy-standards-that-require-that-platforms-and-ai-companies-prevent-purp
+- create-a-standardized-age-verification-system-to-restrict-users-access-to-generative-ai-platforms-th
+- mandate-in-cases-where-age-assurance-is-used-that-companies-adhere-to-stronger-regulation-enforced-b
+- mandate-that-any-ai-platforms-accessible-to-children-including-in-educational-contexts-implement-saf
+- introduce-measures-to-minimize-young-users-exposure-to-harmful-design-features-and-content-across-di
+- genzai-allowed-me-to-engage-deeply-with-relevant-issues-of-my-generation-i-am-proud-of-the-work-we-h
+- it-is-essential-to-gather-the-input-of-a-broader-share-of-the-population-given-that-decisions-about
+- genzai-was-an-extraordinary-opportunity-not-only-to-engage-as-a-youth-but-to-deliberate-discuss-and
+- transparency
+- individual-onus
+- engagement-maximization
+- accountability
+- generational-stakes
+- the-participation-deficit
 # Involved organisations
 involved-organisations:
 - mila
@@ -440,34 +463,11 @@ supporting-resources:
 - genzai-final-report
 - genzai-mini-documentary
 - makeorg-gen-z-ai-platform
-# Messages
-messages:
-- genzai-recommendations-on-ai-chatbots
-- genzai-recommendations-on-ai-chatbots-1
-- genzai-recommendations-on-ai-chatbots-2
-- genzai-recommendations-on-ai-chatbots-3
-- genzai-recommendations-on-ai-chatbots-4
-- genzai-recommendations-on-ai-information-integrity
-- genzai-recommendations-on-ai-information-integrity-1
-- genzai-recommendations-on-ai-information-integrity-2
-- genzai-recommendations-on-ai-information-integrity-3
-- genzai-recommendations-on-ai-information-integrity-4
-- genzai-recommendations-on-ai-data-privacy
-- genzai-recommendations-on-ai-data-privacy-1
-- genzai-recommendations-on-ai-data-privacy-2
-- genzai-recommendations-on-ai-age-assurance
-- genzai-recommendations-on-ai-age-assurance-1
-- genzai-recommendations-on-ai-age-assurance-2
-- genzai-recommendations-on-ai-age-assurance-3
-- participant-testimonials-final-report
-- participant-testimonials-final-report-1
-- participant-testimonials-final-report-2
-- issues-arising-from-genzai-dialouges
-- issues-arising-from-genzai-dialouges-1
-- issues-arising-from-genzai-dialouges-2
-- issues-arising-from-genzai-dialouges-3
-- issues-arising-from-genzai-dialouges-4
-- issues-arising-from-genzai-dialouges-5
+# Funding Organisations
+funding-organisations:
+- cifar
+- waltons-trust
+- the-ronald-s-roadburg-foundation
 # Participants
 participants:
 - genzai-canadian-youth

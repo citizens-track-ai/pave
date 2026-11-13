@@ -1,0 +1,25 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Resource Type
+type: string
+oneOf:
+  - const: "Photo"
+    title:
+      en: "Photo"
+  - const: "Video"
+    title:
+      en: "Video"
+  - const: "Report"
+    title:
+      en: "Report"
+  - const: "Media coverage"
+    title:
+      en: "Media coverage"
+  - const: "Academic write-up"
+    title:
+      en: "Academic write-up"
+  - const: "Learning resources"
+    title:
+      en: "Learning resources"
+  - const: "Facilitation guide"
+    title:
+      en: "Facilitation guide"

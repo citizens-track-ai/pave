@@ -9,10 +9,17 @@ description: How can we reimagine teaching, learning, and research methods to al
   with the advancements in AI and ethics?
 # Project Title
 project-title: Edinburgh Students' Assembly on GenAI in Higher Education
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://egabadou.wixsite.com/my-site-1/timeline-sessions
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In the context of rising concerns regarding\
   \ GenAI use, a **two-day deliberative process** was organized and hosted at the\
@@ -37,6 +44,9 @@ why-is-this-project-important-to-include-in-the: 'The project write-up contains 
   to review. '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Photos and images
 photos-and-images:
 # Id
@@ -190,6 +200,9 @@ additional-acknowledgements: "Elo\xEFse Gabadou"
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: How can we reimagine teaching,
   learning, and research methods to align with the advancements in AI and ethics?
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "Specific effort was undertaken to engage students from a range\
   \ of disciplines. \n"
@@ -211,6 +224,9 @@ what-limitations-to-the-project-should-be-noted: "An [abstract submitted to the 
 curation-decision: Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Education
 # Level of engagement
 level-of-engagement: Community
 # Method Image
@@ -239,22 +255,15 @@ method-image:
       height: null
 # Method image caption
 method-image-caption: 'Timeline of the student assembly process. Source: Project Website'
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-# Theme
-theme:
-- Education
+# Messages
+messages:
+- 1-we-value-experimentation-we-believe-in-embracing-emerging-technologies-including-generative-ai-gen
+- 2-we-embrace-sustainability-driven-innovation-and-conscious-change-we-believe-that-it-is-our-respons
+- 3-we-believe-in-upholding-the-integrity-of-education-genai-should-be-used-as-a-tool-to-enhance-not-r
+- 4-we-advocate-for-an-empathetic-understanding-of-individuality-we-respect-individual-approaches-to-t
+- 5-we-strive-towards-trust-and-transparency-we-should-be-able-to-be-held-accountable-for-the-way-in-w
+- 6-we-believe-in-a-democratically-governed-genai-we-encourage-active-participation-and-open-lines-of
+- 7-we-strive-towards-equality-inclusion-and-accessibility-genai-must-not-be-a-tool-that-excludes-indi
 # Lead organisations
 lead-organisations:
 - university-of-edinburgh
@@ -265,15 +274,6 @@ supporting-resources:
 - genai-in-higher-education-leveraging-deliberation-to-tackle-complex-policy-issues
 - generative-ai-in-higher-education-harnessing-deliberation-to-tackle-complex-policy-issues-msc-disser
 - polis-report
-# Messages
-messages:
-- principles-from-the-student-assembly
-- principles-from-the-student-assembly-1
-- principles-from-the-student-assembly-2
-- principles-from-the-student-assembly-3
-- principles-from-the-student-assembly-4
-- principles-from-the-student-assembly-5
-- principles-from-the-student-assembly-6
 # Participants
 participants:
 - edinburgh-students-assembly-on-genai-in-higher-education-students

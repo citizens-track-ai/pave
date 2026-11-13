@@ -58,10 +58,21 @@ headline-findings: "1. Local farmers said AI infrastructure is not immaterial; i
   \ For people living near data centres, AI is experienced through land loss, water\
   \ pressure, energy allocation, uncertain jobs, health fears, and lack of consent,\
   \ not as an abstract \u201Ccloud.\u201D\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Community Led
 # Project URL
 project-url: https://drive.google.com/drive/folders/11OX3XR4ReczqdQhrjoPZQTqnerPxRQL3?usp=sharing
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Between 2025 and 2026, the Digital Empowerment\
   \ Foundation initiated a process that used community-based participatory research\
@@ -135,6 +146,10 @@ why-is-this-project-important-to-include-in-the: "This project is important to i
   \ at the frontlines of digital infrastructure expansion."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
 # Photos and images
 photos-and-images:
 # Id
@@ -261,6 +276,10 @@ additional-acknowledgements: Maitri Singh, Mili Dangwal
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Who benefits, who bears the costs,
   and how can affected communities participate in decisions about digital infrastructure?
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'The fieldwork was designed to make the recruitment and engagement
   process inclusive by reaching people who are usually absent from AI governance and
@@ -338,34 +357,17 @@ what-limitations-to-the-project-should-be-noted: 'The project has some important
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Community Led
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Environment
 - Infrastructure
-# Funding Organisations
-funding-organisations:
-- association-for-progressive-communications
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- ai-governance-cannot-stop-at-algorithms-for-people-living-near-data-centres-ai-is-experienced-throug
+- if-data-centers-are-treated-as-essential-like-milk-or-food-then-in-times-of-shortage-will-they-be-gi
+- local-farmers-said-ai-infrastructure-is-not-immaterial-it-is-experienced-through-land-water-and-live
 # Involved organisations
 involved-organisations:
 - ai-planetary-justice-alliance
@@ -379,11 +381,9 @@ supporting-resources:
 - what-should-we-know-and-what-should-we-ask-about-data-centers-a-citizen-awareness-module-to-understa
 - just-ai-just-land-perspectives-from-the-field
 - data-land-livelihood-whose-digital-future-just-ai-just-land-factsheets
-# Messages
-messages:
-- key-findings
-- key-findings-1
-- key-findings-2
+# Funding Organisations
+funding-organisations:
+- association-for-progressive-communications
 # Participants
 participants:
 - just-ai-just-land-socio-environmental-implications-of-data-centers-on-communities-focus-group-discus

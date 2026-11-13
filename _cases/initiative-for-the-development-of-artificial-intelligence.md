@@ -13,10 +13,21 @@ project-title: 'Initiative for the Development of Artificial Intelligence '
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
+- Community Led
+- Co-created
 # Project URL
 project-url: 'https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/initiative-development-artificial-intelligence-idia  -  https://niyel.net/fr/project/multi-annual-project-test/ '
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Initiative for the Development of\
   \ Artificial Intelligence (IDIA) led by Niyel, with its two phases, is a research\
@@ -101,6 +112,13 @@ why-is-this-project-important-to-include-in-the: "As the global AI governance de
   \ global AI norm-setting processes."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2028
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A research poster
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -115,24 +133,6 @@ curation-decision: Mapping Entry
 project-status: In Progress
 # Level of engagement
 level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-- Community Led
-- Co-created
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A research poster
 # Involved organisations
 involved-organisations:
 - african-union-development-agency

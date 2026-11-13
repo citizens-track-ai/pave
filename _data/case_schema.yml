@@ -1,0 +1,166 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Hierarchical Case Schema
+description: Detailed schema for validating case study structures, including nested author, project, organization, participant, resource, and output details.
+type: object
+required:
+  - project
+properties:
+  source:
+    type: object
+    description: Metadata about the platform/source where the case was obtained.
+    properties:
+      platform:
+        type: string
+      title:
+        type: string
+      url:
+        type: string
+
+  author:
+    type: object
+    description: Information about the author or submitter.
+    properties:
+      name:
+        type: string
+      email:
+        type: string
+        description: Hashed or verbatim email address.
+      url:
+        type: string
+      method:
+        type: array
+        items:
+          type: string
+          enum:
+            - Submitted
+            - Scraped
+            - Research
+      acknowledgements:
+        type: string
+
+  curation:
+    type: object
+    description: Internal curation and workflow details.
+    properties:
+      type:
+        $ref: "codelists/curation_type.yml"
+      workflow:
+        $ref: "codelists/workflow_status.yml"
+      notes:
+        type: string
+      photos_available:
+        type: [boolean, string]
+
+  project:
+    type: object
+    description: Core details of the project/case study.
+    required:
+      - title
+    properties:
+      title:
+        type: string
+      status:
+        $ref: "codelists/project_status.yml"
+      subject_matter:
+        type: string
+        description: The main question or topic addressed by the project in one line or less.
+      url:
+        type: string
+      start_year:
+        type: [integer, string]
+      end_year:
+        type: [integer, string]
+      themes:
+        type: array
+        items:
+          $ref: "codelists/theme.yml"
+        description: Array of thematic tags.
+
+  organisations:
+    type: object
+    description: Associated organisations categorized by role.
+    properties:
+      lead:
+        type: array
+        items:
+          type: string
+      funding:
+        type: array
+        items:
+          type: string
+      involved:
+        type: array
+        items:
+          type: string
+
+  participants:
+    type: array
+    description: Array of participant groups involved in the project.
+    items:
+      type: object
+      properties:
+        description:
+          type: string
+        locations:
+          type: array
+          items:
+            type: object
+            required:
+              - title
+            properties:
+              title:
+                type: string
+              lat:
+                type: number
+              lng:
+                type: number
+              country_code:
+                type: string
+        recruitment_method:
+          $ref: "codelists/recruitment_method.yml"
+        target_population:
+          type: string
+        recruitment_description:
+          type: string
+        participation_methods:
+          type: array
+          items:
+            $ref: "codelists/participation_method.yml"
+        method_features:
+          type: array
+          items:
+            $ref: "codelists/method_feature.yml"
+        number_of_participants:
+          type: [integer, string]
+        average_hours:
+          type: [number, string]
+        modality:
+          $ref: "codelists/modality.yml"
+
+  resources:
+    type: array
+    description: List of deliverables, files, or attachments.
+    items:
+      type: object
+      properties:
+        title:
+          type: string
+        type:
+          $ref: "codelists/resource_type.yml"
+        url:
+          type: string
+        notes:
+          type: string
+
+  outputs:
+    type: array
+    description: Outcomes, messages, recommendations, or quotes from the project.
+    items:
+      type: object
+      properties:
+        type:
+          $ref: "codelists/output_type.yml"
+        text:
+          type: string
+        notes:
+          type: string

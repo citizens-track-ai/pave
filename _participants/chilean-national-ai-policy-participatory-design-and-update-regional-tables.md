@@ -7,6 +7,9 @@ slug: chilean-national-ai-policy-participatory-design-and-update-regional-tables
 how-many-people-took-part: 400
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Regional Tables
 # Recruitment method
@@ -23,6 +26,9 @@ where-were-participants-from: "Arica y Parinacota; Tarapac\xE1; Antofagasta; Ata
   \ O\u2019Higgins; Maule; \xD1uble; Biob\xEDo; La Araucan\xEDa; Los R\xEDos; Los\
   \ Lagos; Ays\xE9n del General Carlos Ib\xE1\xF1ez del Campo; Magallanes y de la\
   \ Ant\xE1rtica Chilena"
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Roundtable Discussion
 # Additional notes
 additional-notes: The regional roundtables involved approximately 400 participants
   across 69 Ministry-led discussions. They brought together regional actors from academia,
@@ -33,12 +39,6 @@ additional-notes: The regional roundtables involved approximately 400 participan
   priorities, including digital literacy, data governance, local productive development,
   public-sector modernization, links between universities and industry, and concerns
   about work, privacy and inclusion.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Roundtable Discussion
 # Cases
 cases:
 - chilean-national-ai-policy-participatory-design-and-update

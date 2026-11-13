@@ -212,18 +212,17 @@
             <div class="msg-carousel" id="msg-carousel">
               <div class="msg-carousel-track" id="msg-track">
                 {% for msg in all_messages %}
-                <div class="msg-slide">
+                {% assign msg_type_class = msg.type | downcase %}
+                <div class="msg-slide msg-type-{{ msg_type_class }}">
                   <div class="msg-slide-left">
                     <div class="msg-open-quote">&ldquo;</div>
-                    <div class="msg-type-label">{{ msg.type }}</div>
-                    <div class="msg-body">{{ msg.title }}</div>
+                    <div class="msg-type-label">{{ msg.title | default: msg.type }}</div>
+                    <div class="msg-body">{{ msg.message }}</div>
                     <div class="msg-close-quote">&rdquo;</div>
+                    {% if msg.additional-credit-line %}
+                    <div class="msg-credit">{{ msg.additional-credit-line }}</div>
+                    {% endif %}
                   </div>
-                  {% if msg.additional-credit-line %}
-                  <div class="msg-slide-right">
-                    <span class="msg-credit">{{ msg.additional-credit-line }}</span>
-                  </div>
-                  {% endif %}
                 </div>
                 {% endfor %}
               </div>
@@ -600,8 +599,8 @@
               {% for item in recs %}
               <div class="recommendation-card outcome-recommendation" {% if forloop.first %}id="recommendations-start"
                 {% endif %}>
-                <span class="rec-badge badge-recommendation">{{ item.type }}</span>
-                <p class="rec-text">{{ item.title }}</p>
+                <span class="rec-badge badge-recommendation">{{ item.title | default: item.type }}</span>
+                <p class="rec-text">{{ item.message }}</p>
                 {% if item.additional-credit-line %}
                 <div class="rec-credit">{{ item.additional-credit-line }}</div>
                 {% endif %}
@@ -612,8 +611,8 @@
               {% if quotes.size > 0 %}
               {% for item in quotes %}
               <div class="recommendation-card outcome-quote" {% if forloop.first %}id="quotes-start" {% endif %}>
-                <span class="rec-badge badge-quote">{{ item.type }}</span>
-                <p class="rec-text">&ldquo;{{ item.title }}&rdquo;</p>
+                <span class="rec-badge badge-quote">{{ item.title | default: item.type }}</span>
+                <p class="rec-text">&ldquo;{{ item.message }}&rdquo;</p>
                 {% if item.additional-credit-line %}
                 <div class="rec-credit">{{ item.additional-credit-line }}</div>
                 {% endif %}
@@ -624,8 +623,8 @@
               {% if issues.size > 0 %}
               {% for item in issues %}
               <div class="recommendation-card outcome-issue" {% if forloop.first %}id="issues-start" {% endif %}>
-                <span class="rec-badge badge-issue">{{ item.type }}</span>
-                <p class="rec-text">{{ item.title }}</p>
+                <span class="rec-badge badge-issue">{{ item.title | default: item.type }}</span>
+                <p class="rec-text">{{ item.message }}</p>
                 {% if item.additional-credit-line %}
                 <div class="rec-credit">{{ item.additional-credit-line }}</div>
                 {% endif %}

@@ -32,6 +32,9 @@ participation-locations: Ireland
 project-url: https://ipposi.ie/wp-content/uploads/2025/02/Citizens-Jury-Verdict-Report-21.02.25.pdf
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "A citizens\u2019 jury is a deliberative\
   \ process whereby members of the public explore a complex issue (or \u2018tricky\u2019\
@@ -52,9 +55,16 @@ why-is-this-project-important-to-include-in-the: AI's implications in healthcare
   good, reality-based policy.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Current issues
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Should Ireland increase the use
   of AI in healthcare?
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: '509 initial expressions of interest were received from across
   the 26 counties with 371 applicants completing a more detailed follow-up application
@@ -72,21 +82,11 @@ inclusion-efforts: '509 initial expressions of interest were received from acros
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Healthcare
+# Level of engagement
+level-of-engagement: National
 # Involved organisations
 involved-organisations:
 - irish-platform-for-patient-organisations-science-and-industry

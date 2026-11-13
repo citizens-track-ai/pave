@@ -27,12 +27,23 @@ headline-findings: "\"Teaching subjects is not a school\u2019s only job. They ar
   \ school's AI policies. \n\nA majority of students and teachers also both believed\
   \ that students should be allowed to use AI tools as a resource for school work\
   \ and that AI tools should not be banned in school settings. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Academic research
 # Participation locations
 participation-locations: Across the United States
 # Project URL
 project-url: https://deliberation.stanford.edu/ai-education
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The AI in Education Deliberative Polls,\
   \ spearheaded by the Stanford Deliberative Democracy Lab, engage high school students\
@@ -85,11 +96,20 @@ why-is-this-project-important-to-include-in-the: "This project directly embodies
   \ wider. This ongoing series of deliberations is proof it doesn't have to be. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- AI in general
+- Current issues
+- Future issues
 # Additional acknowledgements
 additional-acknowledgements: Alice Siu, Estelle Ciesla
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: AI policy in high school education,
   as deliberated by the students and teachers living it.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'The students whose futures are being shaped by AI were the ones
   who built this process. This initiative was conceived and demanded by high school
@@ -118,31 +138,19 @@ what-limitations-to-the-project-should-be-noted: "The sample from these Delibera
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- AI in general
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Education
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- teaching-subjects-is-not-a-schools-only-job-they-are-supposed-to-teach-you-how-to-be-a-good-person-a
+- we-are-not-going-to-be-able-to-avoid-this-the-sooner-we-provide-training-and-educate-teachers-and-he
+- the-most-supported-policy-proposal-amongst-both-students-and-teachers-was-that-schools-should-provid
+- students-particularly-dont-just-fear-cheating-but-they-fear-losing-the-ability-to-think-even-more-so
+- students-and-teachers-both-agreed-to-corrective-penalties-over-punitive-ones-when-students-violate-t
+- a-majority-of-students-and-teachers-also-both-believed-that-students-should-be-allowed-to-use-ai-too
 # Lead organisations
 lead-organisations:
 - stanford-deliberative-democracy-lab
@@ -152,14 +160,6 @@ supporting-resources:
 - student-and-teacher-deliberation-findings
 - student-perspectives-on-ai-in-education-california-school-board-association-fact-sheet
 - educators-perspectives-on-ai-in-education-california-school-board-association-fact-sheet
-# Messages
-messages:
-- high-school-student
-- high-school-teacher
-- the-most-supported-policy-proposal-amongst-both-students-and-teachers-was-that-schools-should-provid
-- students-particularly-dont-just-fear-cheating-but-they-fear-losing-the-ability-to-think-even-more-so
-- students-and-teachers-both-agreed-to-corrective-penalties-over-punitive-ones-when-students-violate-t
-- a-majority-of-students-and-teachers-also-both-believed-that-students-should-be-allowed-to-use-ai-too
 # Participants
 participants:
 - nationwide-deliberation-on-use-of-ai-in-high-schools-online-surveys-and-small-group-online-discussio

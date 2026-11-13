@@ -7,6 +7,9 @@ slug: children-global-ai-summit-on-africa-young-participants
 how-many-people-took-part: 50
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 7
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Young Participants
 # Recruitment method
@@ -16,9 +19,6 @@ recruitment-description: 'The participants were recruited from an existing netwo
   of 300 ''youth ambassadors'' across 70 countries, supported by partner organisations. '
 # Was there a specific target population?
 was-there-a-specific-target-population: Children and young people aged 13 to 22
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Capacity Building Workshop

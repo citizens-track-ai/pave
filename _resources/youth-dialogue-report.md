@@ -17,7 +17,7 @@ select: Project report
 # License
 license: published under an open license with reference
 # Short description
-short-description: 'Full project report with results method and reflections '
+short-description: Full project report with results method and reflections
 # Featured Video / Resource
 featured-video-resource: false
 # Cases

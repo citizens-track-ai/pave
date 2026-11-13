@@ -25,10 +25,21 @@ headline-findings: "Government departments, universities, civil society organiza
   \ in AI systems, while also expressing a strong need for sustained capacity building\
   \ to transform existing resources such as archives, reports, educational materials,\
   \ and public documents into AI-ready datasets. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Co-created
+- Other
 # Project URL
 project-url: https://civicdatalab.in/work/dpg/dost/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Dataset Onboarding Support Team (DOST)\
   \ is an initiative led by CivicDataLab, in partnership with the Gates Foundation\
@@ -59,6 +70,11 @@ why-is-this-project-important-to-include-in-the: 'DOST demonstrates that partici
   of AI. '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2027
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Current issues
+- Future issues
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -114,6 +130,9 @@ photos-and-images:
 describe-the-subject-matter-in-your-own-words-one: 'Participatory stewardship of multilingual
   language datasets for strengthening India''s Digital Public Infrastructure and enabling
   inclusive AI development. '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'The project intentionally prioritized participation from organizations
   and communities working with low-resource and underrepresented Indian languages.
@@ -145,35 +164,13 @@ what-limitations-to-the-project-should-be-noted: "The project operates within a 
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
+# Theme
+theme:
+- Language
 # Level of engagement
 level-of-engagement: Professional
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Co-created
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Current issues
-- Future issues
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A method guide or toolkit
-# Theme
-theme:
-- Language
-# Funding Organisations
-funding-organisations:
-- gates-foundation
 # Involved organisations
 involved-organisations:
 - digital-india-bhashini-division-dibd
@@ -184,6 +181,9 @@ lead-organisations:
 supporting-resources:
 - civicsabha-20-multilingual-ai-roundtable-report
 - record-109
+# Funding Organisations
+funding-organisations:
+- gates-foundation
 # Participants
 participants:
 - dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-multilingual-dataset-contributors-and-ecos

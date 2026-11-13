@@ -7,12 +7,12 @@ slug: centre-for-media-technology-and-democracy
 name: 'Centre for Media Technology and Democracy '
 # Website address
 website-address: https://www.media-tech-democracy.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To produce public-interest research and policy guidance on the
-  impact of media and technology on democratic institutions. (Source: https://www.media-tech-democracy.com/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To produce public-interest research and policy guidance on the
+  impact of media and technology on democratic institutions. (Source: https://www.media-tech-democracy.com/)'
 # Main Location
 main-location:
 - montreal-canada

@@ -1,10 +1,10 @@
 ---
 layout: generic
-title: Protect people and the environment from the resource needs of AI
+title: Recommendation 2
 airtable_id: db8ffbe00c73fe7a
 slug: protect-people-and-the-environment-from-the-resource-needs-of-ai
-# Name
-name: Protect people and the environment from the resource needs of AI
+# Message
+message: Protect people and the environment from the resource needs of AI
 # Type
 type: Recommendation
 # Cases

@@ -7,12 +7,12 @@ slug: glebelands-primary-school-dundee
 name: Glebelands Primary School, Dundee
 # Website address
 website-address: https://www.glebelands.dundee.sch.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To provide a safe, caring, and stimulating environment where children
-  are supported to develop their skills and reach their full potential. (Source: https://www.glebelands.dundee.sch.uk/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To provide a safe, caring, and stimulating environment where children
+  are supported to develop their skills and reach their full potential. (Source: https://www.glebelands.dundee.sch.uk/)'
 # Main Location
 main-location:
 - dundee-scotland-united-kingdom

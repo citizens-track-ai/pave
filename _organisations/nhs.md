@@ -7,12 +7,12 @@ slug: nhs
 name: NHS
 # Website address
 website-address: https://www.nhs.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To provide high-quality healthcare that is free at the point of
-  delivery and meets the needs of everyone in the United Kingdom. (Source: https://www.nhs.uk/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To provide high-quality healthcare that is free at the point of
+  delivery and meets the needs of everyone in the United Kingdom. (Source: https://www.nhs.uk/)'
 # Main Location
 main-location:
 - united-kingdom

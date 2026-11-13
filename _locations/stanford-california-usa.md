@@ -15,7 +15,4 @@ country-code: US
 organisations:
 - stanford-deliberative-democracy-lab
 - meta
-# Participants
-participants:
-- engaged-california-impact-of-ai-on-work-govocal-online-engagement
 ---

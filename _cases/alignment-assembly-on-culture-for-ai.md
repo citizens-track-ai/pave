@@ -20,10 +20,18 @@ headline-findings: "Statements by participants and voted on by participants:\n\n
   \n\u201CHeritage organisations should reject partnerships with AI companies that\
   \ fail to comply with ethical labour and data practices globally.\u201D\n(87% agree,\
   \ 6% disagree, 6% pass)\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: https://zenodo.org/records/17252598
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**To map worker perspectives on AI within\
   \ the European digital heritage sector, the Alignment Assembly on Culture for AI\
@@ -84,6 +92,10 @@ why-is-this-project-important-to-include-in-the: "We used a relatively accessibl
   \ was completely anonymous, for this reason we don't have data on the voters. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
 # Additional acknowledgements
 additional-acknowledgements: "O'Hare, E., Bo\u010Dyt\u0117, R., Oomen, J., Aldana,\
   \ L., Isaac, A., Verwayen, H.& Charles, V"
@@ -92,6 +104,9 @@ describe-the-subject-matter-in-your-own-words-one: "Alignment Assembly on \u2018
   \ for AI\u2019 is a participatory collective intelligence activity and consultation\
   \ process that helped us clarify the cultural heritage community\u2019s position\
   \ on AI development, implementation and use."
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "We started with a list of 20 statements compiled during an online\
   \ workshop with a selected group of participants. After that, the survey was widely\
@@ -131,30 +146,17 @@ what-limitations-to-the-project-should-be-noted: "**From the authors' interim re
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Professional
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Work
 - Culture
-# Funding Organisations
-funding-organisations:
-- european-commission
+# Level of engagement
+level-of-engagement: Professional
+# Messages
+messages:
+- the-cultural-heritage-sector-should-develop-its-own-narrative-about-ai-ones-that-are-grounded-in-our
+- environmental-responsibility-standards-should-be-developed-by-the-cultural-heritage-sector-as-a-requ
+- heritage-organisations-should-reject-partnerships-with-ai-companies-that-fail-to-comply-with-ethical
 # Lead organisations
 lead-organisations:
 - netherlands-institute-for-sound-vision
@@ -162,11 +164,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - alignment-paper-on-ai-and-the-data-space-for-cultural-heritage-boundary-setters-and-opportunity-seek
-# Messages
-messages:
-- the-cultural-heritage-sector-should-develop-its-own-narrative-about-ai-ones-that-are-grounded-in-our
-- environmental-responsibility-standards-should-be-developed-by-the-cultural-heritage-sector-as-a-requ
-- heritage-organisations-should-reject-partnerships-with-ai-companies-that-fail-to-comply-with-ethical
+# Funding Organisations
+funding-organisations:
+- european-commission
 # Participants
 participants:
 - alignment-assembly-on-culture-for-ai-online-survey

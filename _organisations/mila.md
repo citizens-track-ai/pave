@@ -7,12 +7,12 @@ slug: mila
 name: MILA
 # Website address
 website-address: https://mila.quebec/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To be a global hub of scientific excellence that inspires innovation
-  and the growth of AI for the benefit of all. (Source: https://mila.quebec/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To be a global hub of scientific excellence that inspires innovation
+  and the growth of AI for the benefit of all. (Source: https://mila.quebec/)'
 # Main Location
 main-location:
 - montreal-canada

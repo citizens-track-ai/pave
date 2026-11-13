@@ -7,12 +7,12 @@ slug: tavistock-institute-of-human-relations
 name: Tavistock Institute of Human Relations
 # Website address
 website-address: https://www.tavistockinstitute.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To apply social science research and consultancy to support organizational
-  development and resolve social conflicts. (Source: https://www.tavistockinstitute.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To apply social science research and consultancy to support organizational
+  development and resolve social conflicts. (Source: https://www.tavistockinstitute.org/)'
 # Main Location
 main-location:
 - london-united-kingdom

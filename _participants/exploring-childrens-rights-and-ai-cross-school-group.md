@@ -7,6 +7,11 @@ slug: exploring-childrens-rights-and-ai-cross-school-group
 how-many-people-took-part: 25
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 110
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
+- Hybrid
 # Group description
 group-description: Cross-school group
 # Recruitment method
@@ -25,17 +30,6 @@ was-there-a-specific-target-population: P5-P7 children across Scotland - aged 9-
 # Where were participants from?
 where-were-participants-from: Edinburgh, Glasgow, Doune, Shetland and Dundee, all
   in Scotland
-# Additional notes
-additional-notes: 'Here''s a quote from one of the children we worked with
-
-
-  "Children should have a say in how and what they learn about AI because the future
-  will be AI"'
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Participatory Arts
@@ -50,6 +44,12 @@ do-any-of-the-following-apply:
 - There were trained facilitators involved
 - There was a learning phase for participants
 - Materials from the learning phase have been published
+# Additional notes
+additional-notes: 'Here''s a quote from one of the children we worked with
+
+
+  "Children should have a say in how and what they learn about AI because the future
+  will be AI"'
 # Cases
 cases:
 - exploring-childrens-rights-and-ai

@@ -7,12 +7,12 @@ slug: google
 name: Google
 # Website address
 website-address: https://about.google/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To organize the world''s information and make it universally accessible
-  and useful. (Source: https://about.google/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To organize the world''s information and make it universally accessible
+  and useful. (Source: https://about.google/)'
 # Main Location
 main-location:
 - mountain-view-california-usa

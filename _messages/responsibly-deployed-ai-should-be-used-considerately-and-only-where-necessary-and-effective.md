@@ -1,11 +1,10 @@
 ---
 layout: generic
-title: Responsibly deployed - AI should be used considerately, and only where necessary
-  and effective.
+title: Recommendation 1
 airtable_id: 3f50089c02a2e8f3
 slug: responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective
-# Name
-name: Responsibly deployed - AI should be used considerately, and only where necessary
+# Message
+message: Responsibly deployed - AI should be used considerately, and only where necessary
   and effective.
 # Type
 type: Recommendation

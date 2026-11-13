@@ -7,12 +7,12 @@ slug: meta
 name: Meta
 # Website address
 website-address: https://about.meta.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To give people the power to build community and bring the world
-  closer together. (Source: https://about.meta.com/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To give people the power to build community and bring the world
+  closer together. (Source: https://about.meta.com/)'
 # Main Location
 main-location:
 - stanford-california-usa

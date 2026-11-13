@@ -8,6 +8,9 @@ slug: policycraft-supporting-collaborative-and-participatory-policy-design-throu
 how-many-people-took-part: 68
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 72
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: University Students
 # Recruitment method
@@ -20,9 +23,6 @@ recruitment-description: We collaborate with university instructors who are inte
 was-there-a-specific-target-population: students from participating classes
 # Where were participants from?
 where-were-participants-from: universities in the U.S.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-Based Participatory Research

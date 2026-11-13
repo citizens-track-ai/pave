@@ -46,10 +46,20 @@ headline-findings: "The children developed 12 calls to action from the key issue
   \ The more children learn about A.I., the more they will know how to keep themselves\
   \ safe.\n\n1. Teachers should learn about A.I. and children\u2019s rights to support\
   \ children\u2019s learning and help to keep them safe.\n\n\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Co-created
 # Project URL
 project-url: https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Exploring Children\u2019s Rights\
   \ and A.I project (2022-2025), delivered in partnership with the Scottish A.I Alliance\
@@ -89,6 +99,13 @@ why-is-this-project-important-to-include-in-the: "This project deliberately cent
   \ children - both positively and negatively."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
+- Future issues
+- Generative AI
+- Predictive AI
 # Photos and images
 photos-and-images:
 # Id
@@ -137,6 +154,11 @@ additional-acknowledgements: Gregory Metcalfe (Children's Parliament), Rona Blac
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Exploring AI with children aged
   9-11 years across Scotland through the lens of children's rights
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "We worked with a range of schools across Scotland to **capture\
   \ urban, rural and island communities.** We identified schools and children within\
@@ -205,37 +227,25 @@ what-limitations-to-the-project-should-be-noted: "**Who took part and cultural c
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Co-created
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-- Future issues
-- Generative AI
-- Predictive AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Youth
-# Funding Organisations
-funding-organisations:
-- scottish-ai-alliance
-- the-alan-turing-institute
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- children-have-the-right-to-be-included-to-have-a-say-and-to-be-listened-to-adults-need-to-ask-childr
+- lots-of-different-people-including-children-should-be-involved-in-ai-development-to-avoid-bias-they
+- adults-must-ensure-that-the-use-of-ai-does-not-have-a-negative-impact-on-any-childrens-rights-for-ex
+- teachers-should-learn-about-ai-and-childrens-rights-to-support-childrens-learning-and-help-to-keep-t
+- there-should-be-rules-about-how-much-and-what-data-companies-are-allowed-to-gather-about-children-co
+- companies-should-not-use-childrens-data-to-train-ai-systems-without-children-being-asked
+- children-feel-ai-cant-always-be-trusted-and-isnt-always-safe-more-child-friendly-information-about-a
+- ai-might-not-understand-neurodivergent-children-and-how-they-learn-in-different-ways-decision-makers
+- teachers-can-use-ai-systems-to-help-make-learning-fun-children-learn-better-when-its-fun-teachers-sh
+- ai-should-support-not-replace-teachers-teachers-understand-childrens-feelings-and-children-think-thi
+- ai-should-be-in-the-curriculum-ai-will-be-a-part-of-all-childrens-lives-so-they-need-to-learn-and-un
+- more-children-should-know-about-ai-so-they-can-understand-whats-happening-when-they-use-it-this-will
 # Involved organisations
 involved-organisations:
 - university-of-edinburghs-centre-for-research-in-digital-education
@@ -265,20 +275,10 @@ supporting-resources:
 - childrens-rights-and-ai-childrens-calls-to-action-findings-video
 - exploring-childrens-rights-and-ai-stage-1
 - exploring-childrens-rights-and-ai-stage-2
-# Messages
-messages:
-- calls-to-action-on-fairness-and-bias
-- calls-to-action-on-fairness-and-bias-1
-- calls-to-action-on-fairness-and-bias-2
-- calls-to-action-on-learning-about-ai
-- calls-to-action-on-safety-and-security
-- calls-to-action-on-safety-and-security-1
-- calls-to-action-on-safety-and-security-2
-- calls-to-action-on-ai-in-education
-- calls-to-action-on-ai-in-education-1
-- calls-to-action-on-ai-in-education-2
-- calls-to-action-on-learning-about-ai-1
-- calls-to-action-on-learning-about-ai-2
+# Funding Organisations
+funding-organisations:
+- scottish-ai-alliance
+- the-alan-turing-institute
 # Participants
 participants:
 - exploring-childrens-rights-and-ai-classroom-workshops

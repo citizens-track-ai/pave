@@ -7,6 +7,10 @@ slug: open-data-institute
 name: Open Data Institute
 # Website address
 website-address: https://theodi.org/
+# Organisation type
+organisation-type:
+- Non-profit
+- Research
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'Our mission is to work with companies and governments to build
   an open, trustworthy data ecosystem, where people can make better decisions using
@@ -14,10 +18,6 @@ mission-statement: 'Our mission is to work with companies and governments to bui
 
 
   (Source: https://theodi.org/about-the-odi/)'
-# Organisation type
-organisation-type:
-- Non-profit
-- Research
 # Main Location
 main-location:
 - london-united-kingdom

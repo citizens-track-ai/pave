@@ -13,10 +13,20 @@ project-title: AIAAIC
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: https://www.aiaaic.org/
 # What year did the project start?
 what-year-did-the-project-start: 2021
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'The AIAAIC is an open, independent, grassroots
   public interest collection of incidents and ethical controversies caused by and
@@ -53,9 +63,17 @@ why-is-this-project-important-to-include-in-the: 'Although very imperfect in the
   the case book (and arguably, its limits are also interesting to evaluate: difficulty
   of maintaining an active community with a global scope, lack of resources despite
   relative influence...).'
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Crowd sourcing incidents and ethical
   controversies caused by and associated with AI, algorithms, and automation.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- An independent evaluation
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -68,29 +86,11 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- An independent evaluation
-- A method guide or toolkit
 # Theme
 theme:
 - Safety
+# Level of engagement
+level-of-engagement: Global
 # Supporting resources
 supporting-resources:
 - a-collaborative-human-centred-taxonomy-of-ai-algorithmic-and-automation-harms

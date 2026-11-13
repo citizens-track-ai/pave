@@ -61,10 +61,17 @@ headline-findings: 'We found that policymakers and their advisors generally perc
   mechanisms.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://doi.org/10.1145/3715335.3735470
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "We are witnessing a rapid global roll-out\
   \ of generative AI (genAI) and facial processing technologies (FPT). How these technologies\
@@ -105,6 +112,13 @@ why-is-this-project-important-to-include-in-the: "This research represents a com
   \ address country-specifics when applicable."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Predictive AI
+- Current issues
+- Future issues
+- Specific AI system(s)
 # Photos and images
 photos-and-images:
 # Id
@@ -178,6 +192,9 @@ additional-acknowledgements: Nikhil Sharma, Simeon Emilov Ivanov, Georgi Tsipov
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: deployment of generative AI and
   facial processing technologies in selected contexts
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A research poster
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -194,23 +211,6 @@ curation-decision: Mapping Entry
 project-status: Complete
 # Level of engagement
 level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Predictive AI
-- Current issues
-- Future issues
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A research poster
 # Lead organisations
 lead-organisations:
 - technical-university-of-munich

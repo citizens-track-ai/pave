@@ -1,13 +1,11 @@
 ---
 layout: generic
-title: Our recommendation in the application of AI in health care is that it must
-  be continually evaluated to ensure the benefits to patients and health care professionals
-  outweigh the harms
+title: Recommendation 13
 airtable_id: 0860cfbc61858402
 slug: our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated
-# Name
-name: Our recommendation in the application of AI in health care is that it must be
-  continually evaluated to ensure the benefits to patients and health care professionals
+# Message
+message: Our recommendation in the application of AI in health care is that it must
+  be continually evaluated to ensure the benefits to patients and health care professionals
   outweigh the harms
 # Type
 type: Recommendation

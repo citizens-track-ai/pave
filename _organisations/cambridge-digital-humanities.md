@@ -7,13 +7,13 @@ slug: cambridge-digital-humanities
 name: Cambridge Digital Humanities
 # Website address
 website-address: https://www.cdh.cam.ac.uk/
+# Organisation type
+organisation-type:
+- Public sector
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'To promote, support, and execute digital research and innovation
   across the humanities and social sciences at the University of Cambridge. (Source:
   https://www.cdh.cam.ac.uk/)'
-# Organisation type
-organisation-type:
-- Public sector
 # Main Location
 main-location:
 - england-united-kingdom

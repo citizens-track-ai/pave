@@ -18,6 +18,9 @@ headline-findings: '
 project-url: https://www.sheai.co/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'SheAI is bridging the gender gap in artificial
   intelligence through accessible, community-driven education. We offer personalized
@@ -39,6 +42,10 @@ what-year-did-the-project-conclude: 2050
 describe-the-subject-matter-in-your-own-words-one: SheAI is an inclusive AI learning
   initiative designed to close the gender gap in artificial intelligence through accessible
   education, ethical AI training, and a supportive global community.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Addressing the gender gap in AI: SheAI's core mission is to increase\
   \ women's participation in AI by providing education, networking, and career development\
@@ -61,16 +68,9 @@ what-limitations-to-the-project-should-be-noted: 'SheAI promotes inclusion by re
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Global
-# Project goals
-project-goals:
-- 'Capacity: Build participant capacity to engage with AI'
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Education
+# Level of engagement
+level-of-engagement: Global
 ---

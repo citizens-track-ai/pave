@@ -31,12 +31,18 @@ headline-findings: "Trust: \n\u2022 Engage credible and trusted members of the c
   s values and priorities through meaningful dialog \n\u2022 Cultural and diverse\
   \ perspectives should be respected while aligning the goals of the AI tool to the\
   \ community\u2019s values\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Participation locations
 participation-locations: Canada
 # Project URL
 project-url: https://cifar.ca/ai/cifar-solution-networks/ai-for-diabetes-prediction-and-prevention/
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'This AI Solution Network focuses on the
   socially responsible deployment of a set of already-validated machine learning-based
@@ -57,8 +63,14 @@ why-is-this-project-important-to-include-in-the: "Engaging a community often not
   \ which leads to what has been termed a \u201Ccascade of care.\u201D"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: AI tools for Diabetes
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'Identification of participants used both convenient and purposive
   recruitment methods. Due to the capacity limits of the venue, we planned for approximately
@@ -116,18 +128,6 @@ curation-decision: Mapping Entry
 project-status: In Progress
 # Level of engagement
 level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Involved organisations
 involved-organisations:
 - dalla-lana-school-of-public-health-university-of-toronto

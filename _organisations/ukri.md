@@ -7,12 +7,12 @@ slug: ukri
 name: UKRI
 # Website address
 website-address: https://www.ukri.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To foster an outstanding research and innovation system in the
-  UK that gives everyone the opportunity to contribute and to benefit. (Source: https://www.ukri.org/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To foster an outstanding research and innovation system in the
+  UK that gives everyone the opportunity to contribute and to benefit. (Source: https://www.ukri.org/)'
 # Main Location
 main-location:
 - united-kingdom

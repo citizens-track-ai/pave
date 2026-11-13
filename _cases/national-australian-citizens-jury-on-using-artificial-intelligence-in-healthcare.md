@@ -20,10 +20,16 @@ headline-findings: "The jurors recommended an overarching, independently governe
   \ to manage the charter. We recommend representation from across all stakeholder\
   \ groups. We recommend the board chair is independent of the health system and investors\
   \ to avoid bias.\"\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://www.uow.edu.au/research/australian-centre-for-health-engagement-evidence-and-values/artificial-intelligence-in-health/
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Between 2022 and 2023, the Australian\
   \ Centre for Health Engagement, Evidence and Values at the University of Wollongong\
@@ -50,9 +56,15 @@ why-is-this-project-important-to-include-in-the: 'This is the first ever nationa
   health systems to detect or diagnose disease?'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: AI applications in Australian health
   systems to detect or diagnose disease
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'Each juror received $1015 as compensation for their participation,
   and we booked and paid for travel, accommodation, and all meals for the face-to-face
@@ -81,37 +93,11 @@ what-limitations-to-the-project-should-be-noted: "**From the submitter:**\nThe f
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Healthcare
-# Funding Organisations
-funding-organisations:
-- national-health-and-medical-research-council
-# Involved organisations
-involved-organisations:
-- sortition-foundation
-# Lead organisations
-lead-organisations:
-- australian-centre-for-health-engagement-evidence-and-values
-- university-of-wollongong
-# Supporting resources
-supporting-resources:
-- peer-reviewed-article
-- participant-information-booklet
+# Level of engagement
+level-of-engagement: National
 # Messages
 messages:
 - we-recommend-that-there-is-a-comprehensive-and-fully-funded-community-education-program-this-will-en
@@ -129,6 +115,20 @@ messages:
 - our-recommendation-in-the-application-of-ai-in-health-care-is-that-it-must-be-continually-evaluated
 - there-must-be-an-independent-decision-making-body-to-manage-the-charter-we-recommend-representation
 - we-must-have-a-charter-for-ai-in-the-australian-health-system-and-services-the-charter-must-include
+# Involved organisations
+involved-organisations:
+- sortition-foundation
+# Lead organisations
+lead-organisations:
+- australian-centre-for-health-engagement-evidence-and-values
+- university-of-wollongong
+# Supporting resources
+supporting-resources:
+- peer-reviewed-article
+- participant-information-booklet
+# Funding Organisations
+funding-organisations:
+- national-health-and-medical-research-council
 # Participants
 participants:
 - national-australian-citizens-jury-on-using-artificial-intelligence-in-healthcare-national-australian

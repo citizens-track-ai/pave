@@ -25,10 +25,18 @@ headline-findings: "\"The Online Safety Act should explicitly cover AI harm impa
   \ testimony, Black African content creator\n\"AI is heavily regulated in the health\
   \ sector but not in others \u2014 a reactive approach is being taken elsewhere.\"\
   \ \u2014 Group 4\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: https://blackaifutures.org/
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'A community intelligence session bringing
   together women from Black and Global Majority communities to document lived experiences
@@ -65,6 +73,10 @@ why-is-this-project-important-to-include-in-the: 'This project engaged a communi
   processes on their own terms rather than as consultees.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Current issues
 # Photos and images
 photos-and-images:
 # Id
@@ -162,6 +174,10 @@ additional-acknowledgements: Viv Ahmun, Co-Founder- Black AI Futures, Giulia Rem
 describe-the-subject-matter-in-your-own-words-one: How AI harms disproportionately
   affect women from Black and Global Majority communities, and the gaps this exposes
   in the Online Safety Act.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
 # Inclusion efforts
 inclusion-efforts: 'Partnership with Blacq Space, a Black-led community organisation
   also ensured authentic community reach rather than institutional recruitment. The
@@ -179,35 +195,13 @@ what-limitations-to-the-project-should-be-noted: 'Single event, single London lo
   '
 # Curation decision
 curation-decision: Full Case
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
 # Theme
 theme:
 - Safety
 - Public Services
 - Artificial Intelligence
-# Involved organisations
-involved-organisations:
-- black-men-4-change
-# Lead organisations
-lead-organisations:
-- black-ai-futures
+# Level of engagement
+level-of-engagement: Community
 # Messages
 messages:
 - the-impact-of-ai-misuse-falls-disproportionately-on-women-from-underrepresented-and-marginalised-com
@@ -216,6 +210,12 @@ messages:
 - black-communities-do-not-contribute-proportionately-to-ai-training-data-this-creates-disproportionat
 - marginalised-communities-must-be-involved-from-the-beginning-of-ai-design-and-development
 - ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el
+# Involved organisations
+involved-organisations:
+- black-men-4-change
+# Lead organisations
+lead-organisations:
+- black-ai-futures
 # Participants
 participants:
 - women-in-ai-community-intelligence-session-women-from-black-and-global-majority-communities

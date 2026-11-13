@@ -20,6 +20,9 @@ headline-findings: 'The project concluded that effective AI governance requires 
 participation-locations: Ecole normale superieure (ENS) in Paris
 # Project URL
 project-url: https://fondation.ens.psl.eu/en/ai-in-the-city-ens-at-the-heart-of-debates-on-ai-for-the-common-good/
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Student Assembly on AI hosted by\
   \ \xC9cole Normale Sup\xE9rieure (ENS) as part of an AI in the City project alongside\
@@ -35,6 +38,11 @@ why-is-this-project-important-to-include-in-the: 'This was the launch event of t
   Coalition for an Inclusive AI, and tool place alongside the Paris AI Action Summit
   with involvement of the government chairs. It would be important to show how events
   in Switzerland in 2027 build on this. '
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
+- Future issues
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Exploring how artificial intelligence
   can be governed ethically, democratically, and inclusively to support the public
@@ -57,20 +65,12 @@ what-limitations-to-the-project-should-be-noted: 'The initiative was centred on 
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-- Future issues
 # Theme
 theme:
 - Education
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: National
 # Lead organisations
 lead-organisations:
 - ecole-normale-superieure

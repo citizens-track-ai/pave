@@ -15,10 +15,18 @@ project-title: 'Disobedience by Design: Exposing Ideology and Acceleration in Au
 headline-findings: '
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://www.researchgate.net/publication/403912200_Disobedience_by_Design_-_Exposing_Ideology_and_Acceleration_in_Automated_Language_Generation?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCJ9fQ
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Disobedience by Design: Exposing Ideology\
   \ and Acceleration in Automated Language Generation is a practice-based doctoral\
@@ -130,6 +138,9 @@ why-is-this-project-important-to-include-in-the: ' This project is important to 
   of public engagement with AI.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Additional acknowledgements
 additional-acknowledgements: Antonella De Angeli; Max Dorfmann; Paolo Grigis
 # Describe the subject matter in your own words (one line)
@@ -145,26 +156,11 @@ what-limitations-to-the-project-should-be-noted: '
   '
 # Curation decision
 curation-decision: Mapping Entry
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
 # Theme
 theme:
 - Language
-# Funding Organisations
-funding-organisations:
-- european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005
-- sineglossa
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - smart-it
@@ -175,6 +171,10 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation
+# Funding Organisations
+funding-organisations:
+- european-union-next-generation-eu-mission-4-component-1-cup-i52b22000890005
+- sineglossa
 # Participants
 participants:
 - disobedience-by-design-exposing-ideology-and-acceleration-in-automated-language-generation-artists

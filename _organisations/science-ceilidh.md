@@ -7,12 +7,12 @@ slug: science-ceilidh
 name: Science Ceilidh
 # Website address
 website-address: https://www.scienceceilidh.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: "Supporting a Scotland where everyone\u2019s creativity, curiosity\
-  \ and wellbeing are valued."
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: "Supporting a Scotland where everyone\u2019s creativity, curiosity\
+  \ and wellbeing are valued."
 # Main Location
 main-location:
 - edinburgh-scotland-united-kingdom

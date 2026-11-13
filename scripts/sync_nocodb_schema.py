@@ -240,9 +240,9 @@ def main():
     default_sync_bool = (args.default_sync == "on")
     reset_all_bool = (args.reset_all == "on") if args.reset_all else None
 
-    # Load existing schema map from all candidate files to preserve slugs and sync flags
+    # Load existing schema map to preserve slugs and sync flags
     existing_schema = {}
-    for candidate_path in [Path("_data/schema_map_nocodb.yml"), output_path, DEFAULT_SCHEMA_PATH]:
+    for candidate_path in [output_path, DEFAULT_SCHEMA_PATH]:
         if candidate_path.exists():
             try:
                 with open(candidate_path, "r", encoding="utf-8") as f:

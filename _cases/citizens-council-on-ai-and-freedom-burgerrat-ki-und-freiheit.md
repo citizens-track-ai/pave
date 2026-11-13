@@ -40,10 +40,18 @@ headline-findings: '1. AI research should be communicated more transparently in 
 
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://www.volkswagenstiftung.de/en/news/interview/finally-having-say-ai-insights-citizens-assembly-ai-and-freedom
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "[From RHET AI website] The Citizens'\
   \ Council combines science communication with deliberative citizen participation\
@@ -62,37 +70,25 @@ provide-a-brief-description-of-the-project: "[From RHET AI website] The Citizens
   \ communication research. \n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: To incorporate the diverse perspectives
   of citizens, alongside scientific viewpoints, into debates and political decisions
   surrounding publicly funded AI research
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Curation decision
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Research
-# Funding Organisations
-funding-organisations:
-- volkswagen-stiftung
-- university-of-tubingen
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - university-of-tubingen
@@ -108,6 +104,10 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - httpsrhetaiwp-contentuploads202504digital-policy-paper-rhet-einzelseitenpdf
+# Funding Organisations
+funding-organisations:
+- volkswagen-stiftung
+- university-of-tubingen
 # Participants
 participants:
 - citizens-council-on-ai-and-freedom-burgerrat-ki-und-freiheit-baden-wurttemberg-residents

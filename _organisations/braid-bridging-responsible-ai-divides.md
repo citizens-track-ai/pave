@@ -7,12 +7,12 @@ slug: braid-bridging-responsible-ai-divides
 name: BRAID (Bridging Responsible AI Divides)
 # Website address
 website-address: https://braiduk.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To integrate arts and humanities research into the responsible
-  development and governance of AI. (Source: https://braiduk.org/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To integrate arts and humanities research into the responsible
+  development and governance of AI. (Source: https://braiduk.org/)'
 # Main Location
 main-location:
 - united-kingdom

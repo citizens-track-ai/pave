@@ -22,10 +22,26 @@ headline-findings: 'Policies developed through PolicyCraft received stronger sup
   or disagreed with each other.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
 # Project URL
 project-url: https://doi.org/10.1145/3706598.3713865
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Audit: Review design or implementation of AI tools'
+- 'Empowerment: Build community power with respect to AI'
+- 'Evaluate: Check the quality of evidence or engagement processes'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "To address the top-down nature of AI\
   \ policy design, researchers at Carnegie Mellon University developed and tested\
@@ -65,6 +81,9 @@ why-is-this-project-important-to-include-in-the: "This project should be include
   \ approaches to AI governance and to the broader field of public policy design."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: Tzu-Sheng Kuo, Quan Ze Chen, Amy X. Zhang, Jane Hsieh,
   Haiyi Zhu, Kenneth Holstein
@@ -72,6 +91,9 @@ additional-acknowledgements: Tzu-Sheng Kuo, Quan Ze Chen, Amy X. Zhang, Jane Hsi
 describe-the-subject-matter-in-your-own-words-one: The project introduces PolicyCraft,
   a system that enables collaborative and participatory design of AI governance policy
   through case-grounded deliberation.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'The system is accessible online anytime and anywhere, allowing
   participants to collaborate on policy design asynchronously from locations of their
@@ -107,50 +129,28 @@ what-limitations-to-the-project-should-be-noted: "The field study is currently b
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Audit: Review design or implementation of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-- 'Evaluate: Check the quality of evidence or engagement processes'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
 - Education
-# Funding Organisations
-funding-organisations:
-- ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence
-- cmus-block-center-for-technology-and-society
-- metagovs-grant-for-interoperable-deliberative-tools
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- policies-developed-through-policycraft-received-stronger-support
+- policies-developed-through-policycraft-achieved-greater-consensus-during-voting
+- participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with
 # Lead organisations
 lead-organisations:
 - carnegie-mellon-university
 # Supporting resources
 supporting-resources:
 - policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat
-# Messages
-messages:
-- policies-developed-through-policycraft-received-stronger-support
-- policies-developed-through-policycraft-achieved-greater-consensus-during-voting
-- participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with
+# Funding Organisations
+funding-organisations:
+- ul-research-institutes-through-the-center-for-advancing-safety-of-machine-intelligence
+- cmus-block-center-for-technology-and-society
+- metagovs-grant-for-interoperable-deliberative-tools
 # Participants
 participants:
 - policycraft-supporting-collaborative-and-participatory-policy-design-through-case-grounded-deliberat

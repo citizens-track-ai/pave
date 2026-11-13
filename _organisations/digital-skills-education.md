@@ -7,12 +7,12 @@ slug: digital-skills-education
 name: Digital Skills Education
 # Website address
 website-address: https://digitalskillseducation.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To deliver engaging and accessible digital skills training that
-  empowers people and businesses to succeed in a digital world. (Source: https://digitalskillseducation.com/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To deliver engaging and accessible digital skills training that
+  empowers people and businesses to succeed in a digital world. (Source: https://digitalskillseducation.com/)'
 # Main Location
 main-location:
 - edinburgh-scotland-united-kingdom

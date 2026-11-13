@@ -7,13 +7,13 @@ slug: the-dialogue-on-technology-project
 name: The Dialogue on Technology Project
 # Website address
 website-address: https://www.sfu.ca/dialogue/what-we-do/initiatives/dot.html
+# Organisation type
+organisation-type:
+- Research
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'To foster constructive, inclusive, and multi-stakeholder dialogue
   on the societal and ethical implications of emerging digital technologies. (Source:
   https://www.sfu.ca/dialogue/what-we-do/initiatives/dot.html)'
-# Organisation type
-organisation-type:
-- Research
 # Main Location
 main-location:
 - vancouver-canada

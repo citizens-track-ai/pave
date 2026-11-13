@@ -1,12 +1,15 @@
 ---
 layout: generic
-title: Youth dialogue on generative AI  - Stakeholder workshop
+title: Youth dialogue on generative AI - Stakeholder workshop
 airtable_id: 1065c339e9683989
 slug: youth-dialogue-on-generative-ai-stakeholder-workshop
 # How many people took part?
 how-many-people-took-part: 14
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 6
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Stakeholder workshop
 # Recruitment method
@@ -18,9 +21,6 @@ recruitment-description: Recruited trhough school network developed when establi
 was-there-a-specific-target-population: Students, teachers and schools leaders
 # Where were participants from?
 where-were-participants-from: Denmark
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Co-creation workshops

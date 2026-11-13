@@ -9,10 +9,16 @@ description: Case study on Meta Community Forum on AI Wearables, exploring publi
   voice and participatory engagement in AI governance.
 # Project Title
 project-title: Meta Community Forum on AI Wearables
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://fsi.stanford.edu/publication/ai-wearables-meta-community-forum-comprehensive-reports
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
 # Curation decision
@@ -21,21 +27,15 @@ curation-decision: Mapping Entry
 project-status: Complete
 # Level of engagement
 level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-# Funding Organisations
-funding-organisations:
-- meta
 # Involved organisations
 involved-organisations:
 - meta
 # Lead organisations
 lead-organisations:
 - stanford-deliberative-democracy-lab
+# Funding Organisations
+funding-organisations:
+- meta
 # Participants
 participants:
 - meta-community-forum-on-ai-wearables-us-and-india

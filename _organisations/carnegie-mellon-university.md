@@ -7,12 +7,12 @@ slug: carnegie-mellon-university
 name: Carnegie Mellon University
 # Website address
 website-address: https://www.cmu.edu/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To challenge the curious and passionate to imagine and deliver
-  work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To challenge the curious and passionate to imagine and deliver
+  work that matters, leading in tech and innovation. (Source: https://www.cmu.edu/)'
 # Main Location
 main-location:
 - pittsburgh-pennsylvania-usa

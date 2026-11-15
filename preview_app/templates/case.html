@@ -223,18 +223,17 @@
             <div class="msg-carousel" id="msg-carousel">
               <div class="msg-carousel-track" id="msg-track">
                 {% for msg in all_messages %}
-                <div class="msg-slide">
+                {% set msg_type_class = (msg.type or '') | lower %}
+                <div class="msg-slide msg-type-{{ msg_type_class }}">
                   <div class="msg-slide-left">
                     <div class="msg-open-quote">&ldquo;</div>
-                    <div class="msg-type-label">{{ msg.type }}</div>
-                    <div class="msg-body">{{ msg.title }}</div>
+                    <div class="msg-type-label">{{ msg.title or msg.type }}</div>
+                    <div class="msg-body">{{ msg.message }}</div>
                     <div class="msg-close-quote">&rdquo;</div>
+                    {% if msg['additional-credit-line'] %}
+                    <div class="msg-credit">{{ msg['additional-credit-line'] }}</div>
+                    {% endif %}
                   </div>
-                  {% if msg['additional-credit-line'] %}
-                  <div class="msg-slide-right">
-                    <span class="msg-credit">{{ msg['additional-credit-line'] }}</span>
-                  </div>
-                  {% endif %}
                 </div>
                 {% endfor %}
               </div>
@@ -634,8 +633,8 @@
               {% if (recs | length) > 0 %}
                 {% for item in recs %}
                 <div class="recommendation-card outcome-recommendation" {% if loop.first %}id="recommendations-start"{% endif %}>
-                  <span class="rec-badge badge-recommendation">{{ item.type }}</span>
-                  <p class="rec-text">{{ item.title }}</p>
+                  <span class="rec-badge badge-recommendation">{{ item.title or item.type }}</span>
+                  <p class="rec-text">{{ item.message }}</p>
                   {% if item['additional-credit-line'] %}
                   <div class="rec-credit">{{ item['additional-credit-line'] }}</div>
                   {% endif %}
@@ -646,8 +645,8 @@
               {% if (quotes | length) > 0 %}
                 {% for item in quotes %}
                 <div class="recommendation-card outcome-quote" {% if loop.first %}id="quotes-start"{% endif %}>
-                  <span class="rec-badge badge-quote">{{ item.type }}</span>
-                  <p class="rec-text">&ldquo;{{ item.title }}&rdquo;</p>
+                  <span class="rec-badge badge-quote">{{ item.title or item.type }}</span>
+                  <p class="rec-text">&ldquo;{{ item.message }}&rdquo;</p>
                   {% if item['additional-credit-line'] %}
                   <div class="rec-credit">{{ item['additional-credit-line'] }}</div>
                   {% endif %}
@@ -658,8 +657,8 @@
               {% if (issues | length) > 0 %}
                 {% for item in issues %}
                 <div class="recommendation-card outcome-issue" {% if loop.first %}id="issues-start"{% endif %}>
-                  <span class="rec-badge badge-issue">{{ item.type }}</span>
-                  <p class="rec-text">{{ item.title }}</p>
+                  <span class="rec-badge badge-issue">{{ item.title or item.type }}</span>
+                  <p class="rec-text">{{ item.message }}</p>
                   {% if item['additional-credit-line'] %}
                   <div class="rec-credit">{{ item['additional-credit-line'] }}</div>
                   {% endif %}
@@ -944,9 +943,13 @@
       <h2 class="print-section-title">Key Messages</h2>
       <ul class="print-messages-list" contenteditable="true">
         {% for msg in all_messages[:7] %}
-        <li class="print-message-item">
-          <strong class="print-message-type">[{{ msg.type }}]</strong>
-          <span class="print-message-text">&ldquo;{{ msg.title }}&rdquo;</span>
+        {% set msg_type_class = (msg.type or '') | lower %}
+        <li class="print-message-item print-message-{{ msg_type_class }}">
+          <strong class="print-message-type">[{{ msg.title or msg.type }}]</strong>
+          <span class="print-message-text">&ldquo;{{ msg.message }}&rdquo;</span>
+          {% if msg['additional-credit-line'] %}
+          <div class="print-message-credit">{{ msg['additional-credit-line'] }}</div>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>

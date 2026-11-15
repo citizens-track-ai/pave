@@ -7,6 +7,9 @@ slug: the-peoples-panel-on-ai-peoples-panel
 how-many-people-took-part: 11
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 24
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: People's Panel
 # Recruitment method
@@ -19,9 +22,6 @@ recruitment-description: A pre-recruited sortition sample were asked to express 
 was-there-a-specific-target-population: Demographically descriptive sample of UK population
 # Where were participants from?
 where-were-participants-from: England
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Citizens' Jury

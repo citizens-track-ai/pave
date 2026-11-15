@@ -19,10 +19,19 @@ headline-findings: 'The Indigenous Peoples'' Mandatory Representation described 
   in adapting the Digital Arang process and ordinance model for their own contexts.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: https://www.nyupeace.education/peaceai
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'Beginning in 2026, the NYU Peace Research
   and Education Program (PREP) and Kalinga State University worked with community
@@ -66,6 +75,12 @@ why-is-this-project-important-to-include-in-the: Most participatory AI work in t
   own deliberative form rather than imported from a citizens-assembly template. It
   engages a community almost entirely absent from global AI governance and shows that
   the right to refuse is itself a governable principle.
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Generative AI
+- Current issues
+- Future issues
 # Photos and images
 photos-and-images:
 # Id
@@ -128,6 +143,10 @@ additional-acknowledgements: Twinkle Bautista, Katerina Siira, Marilou Alngag, a
 describe-the-subject-matter-in-your-own-words-one: Whether and how AI and data systems
   may engage Indigenous knowledge, and the community's right to set or refuse those
   terms.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A research poster
 # Inclusion efforts
 inclusion-efforts: "The project used the community's own deliberative form, rather\
   \ than imposing an external workshop template, so that authority and pacing stayed\
@@ -146,33 +165,15 @@ what-limitations-to-the-project-should-be-noted: 'Candidates: the engagement cen
 curation-decision: Featured Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Generative AI
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A research poster
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- future-of-life-institute-1
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t
+- the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi
 # Lead organisations
 lead-organisations:
 - nyu-peace-research-and-education-program-prep
@@ -180,10 +181,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - linkedin-post-1
-# Messages
-messages:
-- indigenous-communities-in-neighbouring-areas-of-the-cordillera-have-expressed-interest-in-adapting-t
-- the-indigenous-peoples-mandatory-representation-described-the-ordinance-as-essential-and-game-changi
+# Funding Organisations
+funding-organisations:
+- future-of-life-institute-1
 # Participants
 participants:
 - kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along

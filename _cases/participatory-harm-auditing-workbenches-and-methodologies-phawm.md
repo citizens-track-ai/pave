@@ -20,10 +20,16 @@ headline-findings: "Participatory auditing empowers end-users: \u201CTo make dec
   It's like, I have value in my opinion.\u201D  \n \nParticipatory auditing uncovers\
   \ blind spots in in technically led audits: \u201CHow do we know if something is\
   \ right or wrong unless you're an expert.\u201D \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://phawm.org/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Through the novel concept of participatory\
   \ AI auditing, PHAWM empowers a diverse set of stakeholders without a background\
@@ -84,6 +90,9 @@ why-is-this-project-important-to-include-in-the: "PHAWM is leading innovative re
   s website. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2028
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -135,6 +144,11 @@ additional-acknowledgements: Mark Wong
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Enable a diverse set of stakeholders
   and publics to undertake participatory audits of AI impacts.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Co-design workshops were used as part of stakeholder research\
   \ in the development of the workbench and methodology. Making language comprehensible\
@@ -154,28 +168,11 @@ what-limitations-to-the-project-should-be-noted: "Working with organisations in 
 curation-decision: Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- responsible-ai-uk
+# Level of engagement
+level-of-engagement: National
 # Involved organisations
 involved-organisations:
 - west-dunbartonshire-health-social-care-partnership
@@ -216,6 +213,9 @@ supporting-resources:
 - what-should-an-auditing-system-for-predictive-ai-look-like
 - empowering-stakeholders-with-participatory-auditing-of-predictive-ai-perspectives-from-end-users-and
 - creating-an-effective-methodology-for-end-user-engagement-in-ai-auditing
+# Funding Organisations
+funding-organisations:
+- responsible-ai-uk
 # Participants
 participants:
 - participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users

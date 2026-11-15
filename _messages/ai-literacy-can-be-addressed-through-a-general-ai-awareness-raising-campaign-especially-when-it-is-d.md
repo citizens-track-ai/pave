@@ -1,11 +1,10 @@
 ---
 layout: generic
-title: AI literacy can be addressed through a general AI awareness-raising campaign,
-  especially when it is designed to promote discussion through story-telling.
+title: Issue 1
 airtable_id: 4b3bc052782940f8
 slug: ai-literacy-can-be-addressed-through-a-general-ai-awareness-raising-campaign-especially-when-it-is-d
-# Name
-name: AI literacy can be addressed through a general AI awareness-raising campaign,
+# Message
+message: AI literacy can be addressed through a general AI awareness-raising campaign,
   especially when it is designed to promote discussion through story-telling.
 # Type
 type: Issue

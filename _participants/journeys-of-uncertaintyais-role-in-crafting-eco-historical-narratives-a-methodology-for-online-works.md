@@ -10,6 +10,9 @@ slug: journeys-of-uncertaintyais-role-in-crafting-eco-historical-narratives-a-me
 how-many-people-took-part: 15
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 4
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Interdisciplinary workshop participants and workbook users engaging
   with generative AI through creative prompts, eco-historical storytelling, AI-generated
@@ -27,6 +30,19 @@ was-there-a-specific-target-population: Non-expert and semi-expert publics in ed
 # Where were participants from?
 where-were-participants-from: Online / international; Austria; Germany,  Lithuania;
   Brazil; wider academic, cultural and civic innovation networks
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Participatory futures workshop
+- Co-creation workshops
+- Participatory Arts
+- Capacity Building Workshop
+- Action Research
+- Scenario Workshop
+# Do any of the following apply?
+do-any-of-the-following-apply:
+- There were trained facilitators involved
+- There was a learning phase for participants
+- Materials from the learning phase have been published
 # Additional notes
 additional-notes: 'Additional notes
 
@@ -52,22 +68,6 @@ additional-notes: 'Additional notes
   and responsible AI futures.
 
   '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Participatory futures workshop
-- Co-creation workshops
-- Participatory Arts
-- Capacity Building Workshop
-- Action Research
-- Scenario Workshop
-# Do any of the following apply?
-do-any-of-the-following-apply:
-- There were trained facilitators involved
-- There was a learning phase for participants
-- Materials from the learning phase have been published
 # Locations
 locations:
 - austria

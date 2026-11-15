@@ -30,10 +30,18 @@ headline-findings: "Participant #12: \"I was able to explain my rationale on [Wi
   \ label to help better reflect community consensus. I find the warning helpful as\
   \ it reminds users that even when being bold, your changes should reflect community\
   \ consensus, not your personal opinions.\"\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
 # Project URL
 project-url: https://doi.org/10.1145/3613904.3642278
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2023 at team at Carnegie Mellon University\
   \ piloted a new tool that that engaged approximately 17 people in collaborative\
@@ -81,12 +89,19 @@ why-is-this-project-important-to-include-in-the: 'This project should be include
   approach to AI data curation, rather than leaving it to outsiders.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Predictive AI
 # Additional acknowledgements
 additional-acknowledgements: Tzu-Sheng Kuo, Aaron Halfaker, Zirui Cheng, Jiwoo Kim,
   Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Wikibench enables communities to
   collaboratively curate and discuss AI datasets
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'We collaborate with experienced Wikipedians from the community
   throughout the project. We also actively reach out to other active Wikipedians and
@@ -103,26 +118,11 @@ what-limitations-to-the-project-should-be-noted: 'The project is currently focus
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Professional
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Predictive AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: Professional
 # Lead organisations
 lead-organisations:
 - carnegie-mellon-university

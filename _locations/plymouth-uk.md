@@ -10,7 +10,7 @@ latitude: 50.376289
 # Longitude
 longitude: -4.143841
 # Country Code
-country-code: UK
+country-code: GB
 # Participants
 participants:
 - lets-talk-ai-a-people-centred-approach-to-ai-literacy-100-people-were-consulted

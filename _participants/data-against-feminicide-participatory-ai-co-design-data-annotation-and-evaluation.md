@@ -7,6 +7,9 @@ slug: data-against-feminicide-participatory-ai-co-design-data-annotation-and-eva
 how-many-people-took-part: 20
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 30
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Participatory AI co-design, data annotation and evaluation
 # Recruitment method
@@ -28,13 +31,6 @@ was-there-a-specific-target-population: Civil society groups and activists produ
   data on feminicide
 # Where were participants from?
 where-were-participants-from: Argentina; Uruguay; Brazil; Kenya; United States
-# Additional notes
-additional-notes: There 20 were 20 participants from 13 civil society groups across
-  4 different participatory AI processes involving technology co-design, collaborative
-  data annotation for model training, and participatory evaluation.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Co-creation workshops
@@ -45,6 +41,10 @@ which-of-the-following-methods-were-used-to:
 do-any-of-the-following-apply:
 - There were trained facilitators involved
 - There was a learning phase for participants
+# Additional notes
+additional-notes: There 20 were 20 participants from 13 civil society groups across
+  4 different participatory AI processes involving technology co-design, collaborative
+  data annotation for model training, and participatory evaluation.
 # Cases
 cases:
 - data-against-feminicide

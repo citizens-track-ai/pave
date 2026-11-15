@@ -38,10 +38,25 @@ headline-findings: "Participant N1: \"Most times people that do the kind of outr
   \ the waiting room.\"\n\nParticipant P3: \"It\u2019s weird that you got to prove\
   \ that you\u2019re homeless [to get housing]. Most people aren\u2019t in the mental\
   \ state to be able to prove anything in my experience.\"\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
 # Project URL
 project-url: https://dl.acm.org/doi/10.1145/3544548.3580882
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Audit: Review design or implementation of AI tools'
+- 'Empowerment: Build community power with respect to AI'
+- 'Evaluate: Check the quality of evidence or engagement processes'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2022, Carnegie Mellon University co-created\
   \ a process that used community-based participatory research and AI lifecycle comicboarding\
@@ -80,6 +95,9 @@ why-is-this-project-important-to-include-in-the: "This project should be include
   \ feedback and critique when appropriately empowered to do so."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2022
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Additional acknowledgements
 additional-acknowledgements: Tzu-Sheng Kuo, Hong Shen, Jisoo Geum, Nev Jones, Jason
   I. Hong, Haiyi Zhu, Kenneth Holstein
@@ -87,6 +105,9 @@ additional-acknowledgements: Tzu-Sheng Kuo, Hong Shen, Jisoo Geum, Nev Jones, Ja
 describe-the-subject-matter-in-your-own-words-one: The project introduces AI Lifecycle
   Comicboarding and uses it to gather stakeholder feedback on an AI-based decision-support
   system for allocating homeless services.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "Throughout the project, we collaborated with professionals who\
   \ are experts in social work and have experience working with individuals with lived\
@@ -136,45 +157,24 @@ what-limitations-to-the-project-should-be-noted: "From the Authors' reflections 
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Audit: Review design or implementation of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-- 'Evaluate: Check the quality of evidence or engagement processes'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Public Services
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- most-times-people-that-do-the-kind-of-outreach-work-where-theyre-face-to-face-with-community-members
+- mental-health-inpatient-and-all-of-these-things-have-significant-financial-tags-associated-with-them
+- my-supervisor-always-says-the-model-developers-tell-him-dont-ask-whats-in-the-sausage
+- theres-just-no-way-for-a-computer-to-accurately-predict-somebodys-future-based-on-that-limited-data
+- what-does-it-mean-when-something-performs-better-whose-version-of-better-is-that
 # Lead organisations
 lead-organisations:
 - carnegie-mellon-university
 # Supporting resources
 supporting-resources:
 - understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service
-# Messages
-messages:
-- participant-n1
-- participant-n5
-- participant-w1
-- participant-p2
-- participant-w3
 # Participants
 participants:
 - understanding-frontline-workers-and-unhoused-individuals-perspectives-on-ai-used-in-homeless-service

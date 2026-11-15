@@ -25,11 +25,23 @@ headline-findings: "Citizens worldwide said AI is \"a powerful tool that needs c
   \ citizens strongly backed multistakeholder, global, science-based governance \u2014\
   \ and saw citizen deliberation itself as a crucial instrument.\nViews converged\
   \ remarkably across regions: participants from North and South, East and West reached\
-  \ very similar positions, suggesting a shared global public vision.\n"
+  \ very similar positions, suggesting a shared global public vision."
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
 # Project URL
-project-url: 'https://missionspubliques.org/pf/we-the-internet-global-citizens-dialogue-on-the-future-of-internet/?lang=en '
+project-url: https://missionspubliques.org/pf/we-the-internet-global-citizens-dialogue-on-the-future-of-internet/?lang=en
 # What year did the project start?
 what-year-did-the-project-start: 2017
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Empowerment: Build community power with respect to AI'
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**We, the Internet was the first deliberative\
   \ citizens' dialogue on internet governance and AI held at a global scale. In its\
@@ -42,7 +54,7 @@ provide-a-brief-description-of-the-project: "**We, the Internet was the first de
   \ The dedicated AI session was designed to surface how ordinary people \u2014 not\
   \ experts \u2014 want AI to be governed. Results were synthesised into key messages\
   \ and channelled to decision-makers, feeding into the UN Secretary-General's Roadmap\
-  \ on Digital Cooperation, and later the Global Digital Compact.\n"
+  \ on Digital Cooperation, and later the Global Digital Compact."
 # Submitted by
 submitted-by: Antoine Vergne
 # Why is this project important to include in the case book?
@@ -58,9 +70,19 @@ why-is-this-project-important-to-include-in-the: "It is one of the earliest and 
   \ AI governance methods."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2021
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Future issues
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: "How ordinary citizens worldwide\
   \ want artificial intelligence \u2014 and the wider internet \u2014 to be governed"
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- An independent evaluation
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Recruitment criteria explicitly included \"connectedness,\" so\
   \ partners reached non-connected and low-connectivity citizens, not only habitual\
@@ -70,52 +92,30 @@ inclusion-efforts: "Recruitment criteria explicitly included \"connectedness,\" 
   \ anyone could form an informed view, and trained facilitators ensured every person\
   \ in a group spoke. Materials were produced in multiple languages, dialogues ran\
   \ both face-to-face and online, and food and refreshments were provided free to\
-  \ in-person participants.\n"
+  \ in-person participants."
 # What limitations to the project should be noted?
 what-limitations-to-the-project-should-be-noted: "COVID-19 disrupted delivery \u2014\
   \ many planned in-person dialogues moved online, and some partners and would-be\
-  \ participants could not take part in time, affecting country coverage. \n"
+  \ participants could not take part in time, affecting country coverage."
 # Curation decision
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- An independent evaluation
-- A method guide or toolkit
 # Theme
 theme:
 - Internet governance
 - Artificial Intelligence
 - Social media
-# Funding Organisations
-funding-organisations:
-- european-commission
-- german-government
-- facebook
-- google
-- swiss-government
-- isoc
+# Level of engagement
+level-of-engagement: Global
+# Messages
+messages:
+- citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naive-en
+- citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh
+- citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg
+- on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c
+- on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum
+- across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw
 # Involved organisations
 involved-organisations:
 - mozilla-foundation
@@ -129,14 +129,14 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - global-citizens-dialogue-we-the-internet
-# Messages
-messages:
-- citizens-worldwide-said-ai-is-a-powerful-tool-that-needs-careful-stewardship-rejecting-both-naive-en
-- citizens-set-two-clear-priorities-for-ai-it-should-be-used-for-the-common-good-and-its-governance-sh
-- citizens-said-their-own-understanding-of-ai-was-not-high-enough-for-a-fully-informed-debate-and-judg
-- on-disinformation-citizens-ranked-education-as-the-most-urgent-and-effective-remedy-ahead-of-human-c
-- on-data-citizens-said-a-data-driven-society-could-be-positive-only-under-conditions-data-tied-to-hum
-- across-all-themes-citizens-strongly-backed-multistakeholder-global-science-based-governance-and-saw
+# Funding Organisations
+funding-organisations:
+- european-commission
+- german-government
+- facebook
+- google
+- swiss-government
+- isoc
 # Participants
 participants:
 - we-the-internet-citizens

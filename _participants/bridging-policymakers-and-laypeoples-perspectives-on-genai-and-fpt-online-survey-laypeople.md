@@ -8,6 +8,9 @@ slug: bridging-policymakers-and-laypeoples-perspectives-on-genai-and-fpt-online-
 how-many-people-took-part: 1070
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.2
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Online survey laypeople
 # Recruitment method
@@ -23,9 +26,6 @@ recruitment-description: We recruited participants through Prolific.  The select
 # Where were participants from?
 where-were-participants-from: Nigeria; South Africa; India; Japan; South Korea; Germany;
   UK; USA; Canada; Chile; Mexico; Brazil
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

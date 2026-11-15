@@ -1,10 +1,10 @@
 ---
 layout: generic
-title: Policies developed through PolicyCraft received stronger support.
+title: Issue 1
 airtable_id: dd94cd96eda75d9e
 slug: policies-developed-through-policycraft-received-stronger-support
-# Name
-name: Policies developed through PolicyCraft received stronger support.
+# Message
+message: Policies developed through PolicyCraft received stronger support.
 # Type
 type: Issue
 # Cases

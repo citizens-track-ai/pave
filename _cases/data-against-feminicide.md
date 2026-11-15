@@ -14,10 +14,19 @@ headline-findings: "\"The sharing of experiences and the digital tools that were
   \ well as to optimise the time we invest in deepening and consolidating the work\
   \ we do\" -- Quote from participant, Laborat\xF3rio de Estudos de Feminic\xEDdios\
   \ - LESFEM, Brazil. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: https://datoscontrafeminicidio.net/en/home/
 # What year did the project start?
 what-year-did-the-project-start: 2019
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Data Against Feminicide (DCF) is a South-North\
   \ participatory action research and design project that supports the work of activists\
@@ -83,6 +92,9 @@ why-is-this-project-important-to-include-in-the: 'DCF offers a distinctive examp
   be made more accountable to the communities it is meant to serve.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2030
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
 # Photos and images
 photos-and-images:
 # Id
@@ -112,6 +124,9 @@ additional-acknowledgements: "Project co-leads Catherine D'Ignazio, Silvana Fume
   \ Helena Su\xE1rez Val."
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Machine Learning Classifier
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "Recruitment varied across the different phases of tool development.\
   \ For the initial English and Spanish models, we organized an open online event\
@@ -174,32 +189,14 @@ what-limitations-to-the-project-should-be-noted: "News media coverage of feminic
 curation-decision: Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Justice
-# Funding Organisations
-funding-organisations:
-- national-science-foundation-us
-- massachusetts-institute-of-technology
-- queen-mary-university-of-london
-- international-development-research-centre-idrc-canada
+# Level of engagement
+level-of-engagement: Global
+# Messages
+messages:
+- the-sharing-of-experiences-and-the-digital-tools-that-were-developed-have-helped-to-expand-the-horiz
 # Involved organisations
 involved-organisations:
 - media-cloud
@@ -217,9 +214,12 @@ supporting-resources:
 - data-activism-against-feminicide
 - data-activism-against-feminicide-co-designing-digital-tools-to-monitor-gender-related-violence-acros
 - data-against-feminicide-website
-# Messages
-messages:
-- participant-laboratorio-de-estudos-de-feminicidios-lesfem-brazil
+# Funding Organisations
+funding-organisations:
+- national-science-foundation-us
+- massachusetts-institute-of-technology
+- queen-mary-university-of-london
+- international-development-research-centre-idrc-canada
 # Participants
 participants:
 - data-against-feminicide-participatory-ai-co-design-data-annotation-and-evaluation

@@ -8,6 +8,9 @@ slug: liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-reg
 how-many-people-took-part: 59
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 27
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Liverpool City Region Residents
 # Recruitment method
@@ -18,9 +21,6 @@ recruitment-description: Sortition recruitment by post
 was-there-a-specific-target-population: Residents over the age of 18
 # Where were participants from?
 where-were-participants-from: Liverpool City Region
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - "Citizens\u2019 Assembly"

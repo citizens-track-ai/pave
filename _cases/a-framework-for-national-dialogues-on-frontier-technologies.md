@@ -46,12 +46,19 @@ headline-findings: "Key findings from consultations in Morocco include:\n\n\u202
   \ datasets, an important component of building AI models. Given that Guarani is\
   \ more prominent among the less digitally connected people, the prominence of language\
   \ skills intersects to create the potential for compounding dysconnectivity.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Participation locations
 participation-locations: Morocco, Paraguay
 # Project URL
 project-url: https://www.undp.org/acceleratorlabs/publications/framework-frontier-tech
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**The UNDP Accelerator Labs worked with\
   \ Columbia University\u2019s School of International and Public Affairs (SIPA) to\
@@ -97,6 +104,9 @@ why-is-this-project-important-to-include-in-the: "Our Consultation Framework pro
   \ conversations on these technologies."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: Ahmed Al Qutaini, Akmaral Bekbossynova, Gloria Gerhardt,
   Medhavi Hassija, Josephine Hebling, Sharif Kazemi, Zhengzhou (Steve) Li, Liv Newkirk,
@@ -104,6 +114,10 @@ additional-acknowledgements: Ahmed Al Qutaini, Akmaral Bekbossynova, Gloria Gerh
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Frontier technologies, such as
   Artificial Intelligence (AI), blockchain, the metaverse, 3D printing or brain-computer-interfaces.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "We conducted consultations with women and men from diverse socio-economic\
   \ and cultural backgrounds with varying degrees of technical knowledge: \n\nIn Morocco\
@@ -260,30 +274,17 @@ what-limitations-to-the-project-should-be-noted: "**Diversity of methods was pri
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Artificial Intelligence
 - Public Services
-# Funding Organisations
-funding-organisations:
-- qatar-fund-for-development-qffd
-- german-federal-ministry-of-economic-cooperation-and-development-bmz
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va
+- strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the
+- people-consulted-in-the-corporate-zone-of-asuncion-presumably-a-more-affluent-demographic-were-gener
 # Involved organisations
 involved-organisations:
 - undp-paraguay
@@ -296,11 +297,10 @@ lead-organisations:
 supporting-resources:
 - a-framework-for-national-dialogues-on-frontier-technologies-understanding-global-south-perspectives
 - a-framework-for-national-dialogues-on-frontier-technologies-background-report
-# Messages
-messages:
-- maintaining-values-and-integrity-one-consistent-theme-was-a-strong-desire-to-ensure-that-moroccan-va
-- strong-desire-for-ai-training-another-theme-was-the-importance-of-access-to-training-on-ai-while-the
-- people-consulted-in-the-corporate-zone-of-asuncion-presumably-a-more-affluent-demographic-were-gener
+# Funding Organisations
+funding-organisations:
+- qatar-fund-for-development-qffd
+- german-federal-ministry-of-economic-cooperation-and-development-bmz
 # Participants
 participants:
 - a-framework-for-national-dialogues-on-frontier-technologies-association-positive-students-activists

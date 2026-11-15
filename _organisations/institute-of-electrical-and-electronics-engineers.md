@@ -7,12 +7,12 @@ slug: institute-of-electrical-and-electronics-engineers
 name: Institute of Electrical and Electronics Engineers
 # Website address
 website-address: https://www.ieee.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To foster technological innovation and excellence for the benefit
-  of humanity. (Source: https://www.ieee.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To foster technological innovation and excellence for the benefit
+  of humanity. (Source: https://www.ieee.org/)'
 # Main Location
 main-location:
 - new-york-new-york-usa

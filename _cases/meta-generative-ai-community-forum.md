@@ -59,6 +59,9 @@ headline-findings: "The report provides the following key takeaways:\n\n\"CF par
   \ strongly opposes users leveraging AI chatbots to facilitate or guide romantic\
   \ relationships with other humans without the other person's knowledge. It is only\
   \ deemed acceptable if the other human is aware AI assistance is involved.  \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Participation locations
 participation-locations: Brazil (https://www.notion.so/Brazil-351260e24e1a80ca811bd0be30165f94?pvs=21),
   Germany (https://www.notion.so/Germany-351260e24e1a80eab85cdc2c7982fbb0?pvs=21),
@@ -68,6 +71,9 @@ participation-locations: Brazil (https://www.notion.so/Brazil-351260e24e1a80ca81
 project-url: https://about.fb.com/news/2023/06/generative-ai-community-forum/
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Deliberative poll-style deliberative\
   \ event that was based on having \u201Crepresentative groups\u201D reflect on Meta\u2019\
@@ -105,9 +111,15 @@ why-is-this-project-important-to-include-in-the: 'Meta have hosted a number of l
   opinions.  '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: "What principles should guide generative\
   \ AI\u2019s engagement with users?"
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "Weighted samples were used to reflect the demographics of the\
   \ target country populations. \n"
@@ -123,27 +135,12 @@ what-limitations-to-the-project-should-be-noted: "The reporting of a large-scale
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
 - Social media
-# Funding Organisations
-funding-organisations:
-- meta
+# Level of engagement
+level-of-engagement: Global
 # Involved organisations
 involved-organisations:
 - behavioural-insights-team
@@ -155,6 +152,9 @@ supporting-resources:
 - meta-community-forum-results-analysis-april-2024
 - metas-community-forum-on-ai-bringing-the-public-into-online-governance
 - meta-blog-post-about-the-community-forum
+# Funding Organisations
+funding-organisations:
+- meta
 # Participants
 participants:
 - meta-generative-ai-community-forum-community-forum

@@ -8,6 +8,9 @@ slug: going-places-participatory-localized-red-teaming-for-text-to-image-safety-
 how-many-people-took-part: 524
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 15
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: 'Red-teaming challenge participants '
 # Recruitment method
@@ -37,9 +40,6 @@ where-were-participants-from: ' St. Joseph Engineering College (SJEC) in Mangalo
   Karnataka (India), Lovely Professional University (LPU) in Phagwara, Punjab (India),
   Bayero University Kano (BUK) in Kano, Nigeria, and, University of Cape Coast (UCC)
   in Cape Coast, Ghana.'
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Focus Group

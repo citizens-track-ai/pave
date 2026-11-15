@@ -38,10 +38,19 @@ headline-findings: "Participants reached a set of expectations for AI and Public
   \ people simply because it is cheaper\n- be transparent and accountable\n- be subject\
   \ to democratic oversight\n- be deployed proportionately\n- recognise situations\
   \ where AI should not be used at all\n\n\n\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
+- Academic research
 # Project URL
 project-url: https://www.adalovelaceinstitute.org/report/ai-public-good/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Led by the Ada Lovelace Institute,\
   \ this project employed six community researchers in Belfast, Brixton, and Southampton\
@@ -83,10 +92,16 @@ why-is-this-project-important-to-include-in-the: "Making Good demonstrates a dis
   \ more legitimate, inclusive and context-sensitive approaches to AI governance.\n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Making Good explores how diverse
   UK communities think about and make sense of AI and 'the public good', both as separate
   concepts or dimensions in their lives and in relationship.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "The project adopted a community-led research model, investing\
   \ in six paid community researchers based in Belfast, Brixton and Southampton. Community\
@@ -135,46 +150,31 @@ what-limitations-to-the-project-should-be-noted: "The project was intentionally 
 curation-decision: Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Artificial Intelligence
 # Level of engagement
 level-of-engagement: National
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-# Theme
-theme:
-- Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- ukri
-# Lead organisations
-lead-organisations:
-- ada-lovelace-institute
-# Supporting resources
-supporting-resources:
-- making-good-insights-on-ai-and-public-good-from-diverse-uk-communities
 # Messages
 messages:
 - responsibly-deployed-ai-should-be-used-considerately-and-only-where-necessary-and-effective
 - future-focused-and-ambitious-ai-should-advance-humanitys-needs-recognising-children-and-future-gener
 - relational-and-ethical-ai-should-care-for-human-and-community-needs
 - pro-social-and-equitable-ai-should-be-public-and-person-centred-and-supportive-of-individual-needs-t
-- participant
-- participant-1
-- participant-2
+- can-ai-fix-any-issue-if-profit-is-at-the-heart-of-it
+- public-good-is-a-community-that-is-together-that-you-can-support-and-rely-on
+- the-benefits-of-ai-hold-so-much-potential
+# Lead organisations
+lead-organisations:
+- ada-lovelace-institute
+# Supporting resources
+supporting-resources:
+- making-good-insights-on-ai-and-public-good-from-diverse-uk-communities
+# Funding Organisations
+funding-organisations:
+- ukri
 # Participants
 participants:
 - making-good-insights-on-ai-and-public-good-from-diverse-uk-communities-community-participants-recrui

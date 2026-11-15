@@ -10,6 +10,9 @@ airtable_id: 72f69b9175656281
 slug: kalinga-iksp-and-ai-policy-ordinance-kalinga-community-elders-and-indigenous-knowledge-holders-along
 # How many people took part?
 how-many-people-took-part: 200
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Kalinga community elders and Indigenous knowledge holders, alongside
   KSU faculty and students, recruited through the IPMR and NCIP structures and through
@@ -25,9 +28,6 @@ recruitment-description: Recruitment ran through Indigenous representative struc
   rather than being asked to react cold.
 # Where were participants from?
 where-were-participants-from: Kalinga, Philippines
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Do any of the following apply?
 do-any-of-the-following-apply:
 - There was a learning phase for participants

@@ -7,6 +7,9 @@ slug: we-the-internet-stakeholders
 how-many-people-took-part: 340
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 8
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Stakeholders
 # Recruitment method
@@ -16,10 +19,7 @@ recruitment-description: Snowball
 # Was there a specific target population?
 was-there-a-specific-target-population: Snowball of Internet Governance activists
 # Where were participants from?
-where-were-participants-from: '80 countries '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
+where-were-participants-from: 80 countries
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Co-creation workshops

@@ -30,10 +30,17 @@ headline-findings: 'Accuracy: Midjourney manages to convey binary gender present
   critical engagement.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://www.fesimeoni.it/projects/2025/nonbainary/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Audit: Review design or implementation of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2025, the Free University of Bozen-Bolzano\
   \ and Eurac Research initiated a process that involved approximately 60 people in\
@@ -63,12 +70,19 @@ why-is-this-project-important-to-include-in-the: "\"NonbAInary\" proposes a nonb
   \ human\u2013AI scenarios."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Current issues
 # Additional acknowledgements
 additional-acknowledgements: "Mar\xEDa Men\xE9ndez-Blanco, Katta Spiel, Antonella\
   \ De Angeli"
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Participatory nonbinary approach
   to gender bias auditing
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A research poster
 # Inclusion efforts
 inclusion-efforts: 'One of the three sessions in Vienna was also open to deaf people.
 
@@ -81,28 +95,11 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Audit: Review design or implementation of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A research poster
 # Theme
 theme:
 - Identity
-# Funding Organisations
-funding-organisations:
-- italian-nrrp-funded-by-the-european-union-nextgenerationeu
+# Level of engagement
+level-of-engagement: Community
 # Lead organisations
 lead-organisations:
 - free-university-of-bozen-bolzano
@@ -110,6 +107,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - nonbainary-how-does-ai-depict-gender
+# Funding Organisations
+funding-organisations:
+- italian-nrrp-funded-by-the-european-union-nextgenerationeu
 # Participants
 participants:
 - nonbainary-how-does-ai-depict-gender-workshop

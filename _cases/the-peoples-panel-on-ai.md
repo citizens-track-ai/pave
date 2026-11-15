@@ -30,10 +30,18 @@ headline-findings: "On 3rd November 2023, the People\u2019s Panel on AI made sev
   \ times. An example of this might include a \u2018black box flight recorder\u2019\
   \ approach to AI models: protecting intellectual property but shared when things\
   \ go wrong.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://connectedbydata.org/projects/2023-peoples-panel-on-ai
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The People\u2019s Panel on AI brought\
   \ together representative members of the public to attend, observe and discuss key\
@@ -66,6 +74,9 @@ why-is-this-project-important-to-include-in-the: "It explored the application of
   \ from intrusion early in the process, made it hard to secure media coverage.\""
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2023
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -185,27 +196,20 @@ what-limitations-to-the-project-should-be-noted: "The People\u2019s Panel on AI 
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- mozilla-foundation
-- kavli-center-for-the-ethics-science-and-the-public
-- accelerate-programme-for-scientific-discovery
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr
+- a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing
+- awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c
+- a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one
+- a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l
+- focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance
+- stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig
 # Involved organisations
 involved-organisations:
 - sortition-foundation
@@ -219,15 +223,11 @@ supporting-resources:
 - peoples-panel-video
 - independent-evaluation
 - detailed-findings-report
-# Messages
-messages:
-- a-global-governing-body-for-ai-to-bring-together-citizens-impartial-experts-and-governments-from-acr
-- a-system-of-governance-for-ai-in-the-uk-that-places-citizens-at-the-heart-of-decision-making-drawing
-- awareness-raising-about-ai-across-society-from-the-classroom-to-the-home-from-the-workplace-to-the-c
-- a-safe-transition-with-training-to-support-people-into-a-world-of-work-alongside-ai-ensuring-no-one
-- a-continued-national-conversation-on-ai-including-retaining-the-peoples-panel-to-keep-public-voice-l
-- focus-on-inclusive-collaboration-to-set-out-a-vision-of-life-where-ai-is-used-to-enhance-and-balance
-- stakeholders-acting-with-transparency-at-all-times-an-example-of-this-might-include-a-black-box-flig
+# Funding Organisations
+funding-organisations:
+- mozilla-foundation
+- kavli-center-for-the-ethics-science-and-the-public
+- accelerate-programme-for-scientific-discovery
 # Participants
 participants:
 - the-peoples-panel-on-ai-peoples-panel

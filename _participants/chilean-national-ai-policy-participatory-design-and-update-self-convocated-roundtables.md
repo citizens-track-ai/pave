@@ -8,6 +8,11 @@ slug: chilean-national-ai-policy-participatory-design-and-update-self-convocated
 how-many-people-took-part: 1300
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
+- Hybrid
 # Group description
 group-description: Self-convocated roundtables
 # Recruitment method
@@ -20,6 +25,9 @@ was-there-a-specific-target-population: 'There were no restrictions, all people 
   participate. '
 # Where were participants from?
 where-were-participants-from: Chile
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Roundtable Discussion
 # Additional notes
 additional-notes: 'The self-organized roundtables involved approximately 1,300 participants
   across 70 roundtables. These were organized by actors from academia, industry, civil
@@ -37,14 +45,6 @@ additional-notes: 'The self-organized roundtables involved approximately 1,300 p
   the webinars made AI more accessible to broader publics, increased visibility of
   the policy process, and encouraged organizations and individuals to host or join
   self-organized roundtables. In total, 15 webinars reached more than 6,600 people.'
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
-- Hybrid
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Roundtable Discussion
 # Cases
 cases:
 - chilean-national-ai-policy-participatory-design-and-update

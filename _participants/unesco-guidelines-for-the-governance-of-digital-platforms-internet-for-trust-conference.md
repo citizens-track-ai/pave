@@ -6,6 +6,9 @@ airtable_id: da1ac1bfbdc5c717
 slug: unesco-guidelines-for-the-governance-of-digital-platforms-internet-for-trust-conference
 # How many people took part?
 how-many-people-took-part: 4000
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Internet for Trust Conference
 # Recruitment method
@@ -13,9 +16,6 @@ recruitment-method: Self selected / volunteered
 # Recruitment description
 recruitment-description: Participants registered to take part in the Internet for
   Trust conference online or in-person
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

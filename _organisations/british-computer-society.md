@@ -7,12 +7,12 @@ slug: british-computer-society
 name: British Computer Society
 # Website address
 website-address: https://www.bcs.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To promote and share good practice, support computer professionals,
-  and make IT good for society. (Source: https://www.bcs.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To promote and share good practice, support computer professionals,
+  and make IT good for society. (Source: https://www.bcs.org/)'
 # Main Location
 main-location:
 - united-kingdom

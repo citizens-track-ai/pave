@@ -7,13 +7,13 @@ slug: cambridge-school-of-creative-industries-anglia-ruskin-university
 name: Cambridge School of Creative Industries, Anglia Ruskin University
 # Website address
 website-address: https://www.aru.ac.uk/creative-industries
+# Organisation type
+organisation-type:
+- Research
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'To deliver industry-aligned education, research, and collaborative
   practice that fosters creative innovation and professional excellence. (Source:
   https://www.aru.ac.uk/creative-industries)'
-# Organisation type
-organisation-type:
-- Research
 # Main Location
 main-location:
 - england-united-kingdom

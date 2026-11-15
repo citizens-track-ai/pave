@@ -7,12 +7,12 @@ slug: involve-uk
 name: Involve UK
 # Website address
 website-address: https://involve.org.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To put people at the heart of decision-making, advocating for
-  and designing public participation and deliberative processes. (Source: https://involve.org.uk/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To put people at the heart of decision-making, advocating for
+  and designing public participation and deliberative processes. (Source: https://involve.org.uk/)'
 # Main Location
 main-location:
 - london-united-kingdom

@@ -7,12 +7,12 @@ slug: uc-berkeley-ai-policy-hub
 name: UC Berkeley AI Policy Hub
 # Website address
 website-address: https://aipolicyhub.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To train the next generation of AI policy multidisciplinary experts
-  and produce research to guide the governance of AI. (Source: https://aipolicyhub.org/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To train the next generation of AI policy multidisciplinary experts
+  and produce research to guide the governance of AI. (Source: https://aipolicyhub.org/)'
 # Main Location
 main-location:
 - berkeley-california-usa

@@ -9,6 +9,11 @@ slug: dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-government-depar
 how-many-people-took-part: 6
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 3
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
+- Hybrid
 # Group description
 group-description: Government departments, public institutions, and state agencies
   contributing multilingual public datasets and co-developing AI-ready data ecosystems.
@@ -25,19 +30,14 @@ was-there-a-specific-target-population: State government departments, public ins
 # Where were participants from?
 where-were-participants-from: Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu;
   Karnataka; Delhi
-# Additional notes
-additional-notes: Government institutions participated as long-term ecosystem partners
-  rather than one-time data providers, contributing to discussions on data governance,
-  AI readiness, and sustainable multilingual public data infrastructure.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Capacity Building Workshop
 - Co-creation workshops
+# Additional notes
+additional-notes: Government institutions participated as long-term ecosystem partners
+  rather than one-time data providers, contributing to discussions on data governance,
+  AI readiness, and sustainable multilingual public data infrastructure.
 # Cases
 cases:
 - dataset-onboarding-support-team-dost-for-bhashini-ai-kosh

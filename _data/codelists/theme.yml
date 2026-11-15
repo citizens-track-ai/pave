@@ -1,0 +1,58 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Theme
+type: string
+oneOf:
+  - const: "Education"
+    title:
+      en: "Education"
+  - const: "Healthcare"
+    title:
+      en: "Healthcare"
+  - const: "Environment"
+    title:
+      en: "Environment"
+  - const: "Social media"
+    title:
+      en: "Social media"
+  - const: "Safety"
+    title:
+      en: "Safety"
+  - const: "Work"
+    title:
+      en: "Work"
+  - const: "Youth"
+    title:
+      en: "Youth"
+  - const: "Artificial Intelligence"
+    title:
+      en: "Artificial Intelligence"
+  - const: "Infrastructure"
+    title:
+      en: "Infrastructure"
+  - const: "Language"
+    title:
+      en: "Language"
+  - const: "Identity"
+    title:
+      en: "Identity"
+  - const: "Research"
+    title:
+      en: "Research"
+  - const: "Public Services"
+    title:
+      en: "Public Services"
+  - const: "Justice"
+    title:
+      en: "Justice"
+  - const: "Privacy"
+    title:
+      en: "Privacy"
+  - const: "Culture"
+    title:
+      en: "Culture"
+  - const: "Cities"
+    title:
+      en: "Cities"
+  - const: "Internet governance"
+    title:
+      en: "Internet governance"

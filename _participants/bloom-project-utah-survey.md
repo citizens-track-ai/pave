@@ -7,6 +7,9 @@ slug: bloom-project-utah-survey
 how-many-people-took-part: 400
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Utah Survey
 # Recruitment method
@@ -15,9 +18,6 @@ recruitment-method: Self selected / volunteered
 was-there-a-specific-target-population: Utah Residents
 # Where were participants from?
 where-were-participants-from: Utah, USA
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

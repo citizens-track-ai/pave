@@ -34,10 +34,25 @@ headline-findings: "- A 27-year-old survivor from Sri Lanka described it as givi
   \ accuracy does not show the entire picture. A system is failing if it works statistically\
   \ but cannot understand the language of the people it has been made to regulate.\
   \ \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
 # Project URL
 project-url: 'https://www.voicevalor.dignityindifference.org/  '
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Audit: Review design or implementation of AI tools'
+- 'Empowerment: Build community power with respect to AI'
+- 'Evaluate: Check the quality of evidence or engagement processes'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Through the VoiceValor platform, Dignity\
   \ in Difference engaged survivors of technology-facilitated gender-based violence\
@@ -95,6 +110,12 @@ why-is-this-project-important-to-include-in-the: "As a case study serving underr
   \ that shape AI behavior. It expands civic participation for women and gender minorities\
   \ who are currently driven out of digital spaces by unaddressed harassment. It provides\
   \ a more accurate, more representative information environment where harm is visible. "
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
+- AI in general
+- Current issues
+- Future issues
 # Photos and images
 photos-and-images:
 # Id
@@ -125,6 +146,11 @@ additional-acknowledgements: Himanshu Panday, Hameeda Syed, Dridhata Silwal, Saa
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'Failure of commercially available
   AI Toxicity classifiers in social media platforms '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Do the people closest to online harm have the most knowledge to\
   \ shape how those systems are created and designed? We believe so. VoiceValor invited\
@@ -157,44 +183,12 @@ what-limitations-to-the-project-should-be-noted: "Key challenges included user i
 curation-decision: Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Audit: Review design or implementation of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-- 'Evaluate: Check the quality of evidence or engagement processes'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-- AI in general
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A method guide or toolkit
 # Theme
 theme:
 - Safety
 - Social media
-# Funding Organisations
-funding-organisations:
-- unesco-liiv-center
-- women-of-the-south-speak-out
-- feminist-batti-jalao-by-point-of-view
-- eu-global-youth-mobilization-grant
+# Level of engagement
+level-of-engagement: National
 # Involved organisations
 involved-organisations:
 - trust-and-safety-professionals-association
@@ -212,6 +206,12 @@ supporting-resources:
 - voicevalor-toxicity-classifier-screenshots
 - pitch-asia-safety-showcase
 - citation
+# Funding Organisations
+funding-organisations:
+- unesco-liiv-center
+- women-of-the-south-speak-out
+- feminist-batti-jalao-by-point-of-view
+- eu-global-youth-mobilization-grant
 # Participants
 participants:
 - learning-from-thick-big-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-d

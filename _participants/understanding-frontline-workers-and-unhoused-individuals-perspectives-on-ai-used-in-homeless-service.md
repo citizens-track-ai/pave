@@ -8,6 +8,9 @@ slug: understanding-frontline-workers-and-unhoused-individuals-perspectives-on-a
 how-many-people-took-part: 12
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1.5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Unhoused Individuals
 # Recruitment method
@@ -18,9 +21,6 @@ recruitment-description: Participants were recruited through local shelters.
 was-there-a-specific-target-population: People with lived experiences of homelessness
 # Where were participants from?
 where-were-participants-from: Pittsburgh
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-Based Participatory Research

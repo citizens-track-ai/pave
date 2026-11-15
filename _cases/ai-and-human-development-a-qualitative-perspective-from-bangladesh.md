@@ -25,10 +25,16 @@ headline-findings: "- Information integrity and the burden of responsibility for
   \ tech-aware individuals expressing anxiety over AI\u2019s pervasive tracking capabilities,\
   \ and older, low tech-literate participants remaining unaware of risks or their\
   \ digital rights. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Other
 # Project URL
 project-url: https://www.undp.org/acceleratorlabs/publications/ai-and-human-development-qualitative-perspective-bangladesh
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "This report presents the results of a\
   \ series of consultations conducted across Bangladesh to understand how different\
@@ -65,6 +71,11 @@ why-is-this-project-important-to-include-in-the: "The report uncovers several pr
   \ France. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
+- Future issues
 # Additional acknowledgements
 additional-acknowledgements: Iffat Anjum, Zulkarin Jahangir, Pratyasha Saha, Ramiz
   Uddin, Rumana Sharmin, Manik Mahmud, Md. Afzal Hossain Sarwar, Shanjida Khan Shorna,
@@ -72,6 +83,9 @@ additional-acknowledgements: Iffat Anjum, Zulkarin Jahangir, Pratyasha Saha, Ram
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: How different people perceive and
   experience AI technologies
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'We centered our discussions on specific, widely used applications
   (such as Facebook, YouTube, TikTok, bKash) familiar to the participants as accessible
@@ -93,28 +107,11 @@ what-limitations-to-the-project-should-be-noted: 'The overall approach here rema
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Other
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- undp-accelerator-labs
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - undp-bangladesh
@@ -124,6 +121,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - ai-and-human-development-a-qualitative-perspective-from-bangladesh
+# Funding Organisations
+funding-organisations:
+- undp-accelerator-labs
 # Participants
 participants:
 - ai-and-human-development-a-qualitative-perspective-from-bangladesh-focus-group

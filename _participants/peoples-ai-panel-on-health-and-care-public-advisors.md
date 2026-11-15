@@ -7,6 +7,9 @@ slug: peoples-ai-panel-on-health-and-care-public-advisors
 how-many-people-took-part: 16
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 8
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Public Advisors
 # Where were participants from?
@@ -15,9 +18,6 @@ where-were-participants-from: The process was facilitated by Deciding Matters, a
   were recruited to reflect a mix of ages, backgrounds, and experiences from across
   Scotland. This cohort met in a series of online pre-sessions and then came together
   for a weekend event in Glasgow.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Do any of the following apply?
 do-any-of-the-following-apply:
 - There were trained facilitators involved

@@ -7,12 +7,12 @@ slug: house-of-the-people
 name: House of the People
 # Website address
 website-address: http://www.casadelpopolo.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To serve as a community hub that supports local arts, music, and
-  social activism. (Source: http://www.casadelpopolo.org/)'
 # Organisation type
 organisation-type:
 - Non-profit
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To serve as a community hub that supports local arts, music, and
+  social activism. (Source: http://www.casadelpopolo.org/)'
 # Main Location
 main-location:
 - montreal-canada

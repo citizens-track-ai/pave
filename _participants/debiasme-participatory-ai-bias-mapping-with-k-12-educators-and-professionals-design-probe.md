@@ -8,6 +8,9 @@ slug: debiasme-participatory-ai-bias-mapping-with-k-12-educators-and-professiona
 how-many-people-took-part: 10
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 2
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Design probe
 # Recruitment method
@@ -19,9 +22,6 @@ recruitment-description: 'Advertised for volunteers during Learningspark''s AI s
 was-there-a-specific-target-population: K-12 teachers
 # Where were participants from?
 where-were-participants-from: 'Seoul, South Korea '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-Based Participatory Research

@@ -7,6 +7,9 @@ slug: peoples-ai-stewardship-summits-summits-stakeholder-participants
 how-many-people-took-part: 90
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 6
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Summits Stakeholder Participants
 # Recruitment method
@@ -18,9 +21,6 @@ was-there-a-specific-target-population: AI Innovators, entrepreneurs, academic r
   policymakers, civil society practitioners
 # Where were participants from?
 where-were-participants-from: Belfast; Glasgow; Liverpool; Swansea, London
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Public Dialogue

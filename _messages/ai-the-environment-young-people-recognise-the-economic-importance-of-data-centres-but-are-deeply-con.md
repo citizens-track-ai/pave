@@ -1,14 +1,11 @@
 ---
 layout: generic
-title: 'AI & the Environment (Young people recognise the economic importance of data
-  centres but are deeply concerned about their environmental impact.)
-
-  '
+title: Recommendation 1
 airtable_id: 529218477e4f13bc
 slug: ai-the-environment-young-people-recognise-the-economic-importance-of-data-centres-but-are-deeply-con
-# Name
-name: 'AI & the Environment (Young people recognise the economic importance of data
-  centres but are deeply concerned about their environmental impact.)
+# Message
+message: 'AI & the Environment (Young people recognise the economic importance of
+  data centres but are deeply concerned about their environmental impact.)
 
   '
 # Type

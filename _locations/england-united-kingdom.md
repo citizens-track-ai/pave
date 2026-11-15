@@ -13,6 +13,7 @@ longitude: -1.1743
 country-code: GB
 # Organisations
 organisations:
+- engineering-and-physical-sciences-research-council-ukri
 - the-university-of-sheffield
 - accelerate-programme-for-scientific-discovery
 - cambridge-digital-humanities

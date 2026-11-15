@@ -1,0 +1,91 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Participation Method
+type: string
+oneOf:
+  - const: "Action Research"
+    title:
+      en: "Action Research"
+  - const: "Capacity Building Workshop"
+    title:
+      en: "Capacity Building Workshop"
+  - const: "Citizens’ Assembly"
+    title:
+      en: "Citizens’ Assembly"
+  - const: "Citizens' Jury"
+    title:
+      en: "Citizens' Jury"
+  - const: "Co-creation workshops"
+    title:
+      en: "Co-creation workshops"
+  - const: "Community Advisory Group"
+    title:
+      en: "Community Advisory Group"
+  - const: "Community-led Audit"
+    title:
+      en: "Community-led Audit"
+  - const: "Community-Based Participatory Research"
+    title:
+      en: "Community-Based Participatory Research"
+  - const: "Collective Intelligence Process"
+    title:
+      en: "Collective Intelligence Process"
+  - const: "Crowdsourcing"
+    title:
+      en: "Crowdsourcing"
+  - const: "Deliberation"
+    title:
+      en: "Deliberation"
+  - const: "Deliberative Polling®"
+    title:
+      en: "Deliberative Polling®"
+  - const: "Distributed dialogue"
+    title:
+      en: "Distributed dialogue"
+  - const: "Focus Group"
+    title:
+      en: "Focus Group"
+  - const: "Forum Theatre"
+    title:
+      en: "Forum Theatre"
+  - const: "Future Workshop"
+    title:
+      en: "Future Workshop"
+  - const: "Interviews"
+    title:
+      en: "Interviews"
+  - const: "Notice and Request for Public Comment"
+    title:
+      en: "Notice and Request for Public Comment"
+  - const: "Opinion Polling"
+    title:
+      en: "Opinion Polling"
+  - const: "Participatory Arts"
+    title:
+      en: "Participatory Arts"
+  - const: "Participatory futures workshop"
+    title:
+      en: "Participatory futures workshop"
+  - const: "Peer-Research"
+    title:
+      en: "Peer-Research"
+  - const: "Prototyping"
+    title:
+      en: "Prototyping"
+  - const: "Public Dialogue"
+    title:
+      en: "Public Dialogue"
+  - const: "Public Hearing"
+    title:
+      en: "Public Hearing"
+  - const: "Roundtable Discussion"
+    title:
+      en: "Roundtable Discussion"
+  - const: "Scenario Workshop"
+    title:
+      en: "Scenario Workshop"
+  - const: "Survey"
+    title:
+      en: "Survey"
+  - const: "Workers' Council"
+    title:
+      en: "Workers' Council"

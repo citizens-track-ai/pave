@@ -6,6 +6,11 @@ airtable_id: dba19668d6f38799
 slug: participatory-harm-auditing-workbenches-and-methodologies-phawm-stakeholders-and-end-users
 # How many people took part?
 how-many-people-took-part: 150
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
+- Hybrid
 # Group description
 group-description: Stakeholders and end-users
 # Recruitment method
@@ -17,11 +22,6 @@ recruitment-description: snowballing, through partner organisations, advertising
 was-there-a-specific-target-population: 'No'
 # Where were participants from?
 where-were-participants-from: UK
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
-- Hybrid
 # Cases
 cases:
 - participatory-harm-auditing-workbenches-and-methodologies-phawm

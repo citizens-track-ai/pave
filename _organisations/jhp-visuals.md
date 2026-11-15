@@ -7,12 +7,12 @@ slug: jhp-visuals
 name: JHP Visuals
 # Website address
 website-address: https://www.jhpvisuals.co.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To provide professional visual media production, videography,
-  and photography services. (Source: https://www.jhpvisuals.co.uk/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To provide professional visual media production, videography,
+  and photography services. (Source: https://www.jhpvisuals.co.uk/)'
 # Main Location
 main-location:
 - united-kingdom

@@ -63,6 +63,9 @@ why-is-this-project-important-to-include-in-the: 'This project offers a unique e
   participation in technology governance.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -77,9 +80,6 @@ curation-decision: Mapping Entry
 project-status: In Progress
 # Level of engagement
 level-of-engagement: Community
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Supporting resources
 supporting-resources:
 - building-worker-owned-technologies-in-latin-america-shared-learning-intersectionality-and-collective

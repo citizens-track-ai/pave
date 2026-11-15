@@ -36,10 +36,18 @@ headline-findings: "The Citizens Assembly component resulted in five issues, and
   \ good practices for users and providers and create instruments (national labeling\
   \ body, legislation, etc.) to implement and assess these good practices.  \n\nObjective\
   \ 2: Fight cybercrime. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://ai.epfl.ch/innovation/citizens-assembly-on-ai/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The 2025 Citizen's Assembly on AI in\
   \ French Speaking Switzerland was organized in November 2025 by the EPFL AI Center\
@@ -58,9 +66,16 @@ why-is-this-project-important-to-include-in-the: 'The project reflects an academ
   influencing public debate on AI governance. '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: "Artificial intelligence is transforming\
   \ our society \u2014 but what role do we want it to play?"
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "The project ensured accessibility and inclusion by using a weighted\
   \ random lottery (sortition) to select the final 40 participants from a volunteer\
@@ -91,30 +106,37 @@ what-limitations-to-the-project-should-be-noted: "The project report notes a num
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- stiftung-mercator-schweiz
-- epfl-ai-center
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- implement-the-strategies-defined-by-political-bodies-by-putting-in-place-collaborations-between-poli
+- strengthen-national-and-international-research-in-the-field-of-al-notably-on-technological-social-an
+- create-a-new-federal-office-for-al-and-new-technologies-to-define-and-implement-a-political-strategy
+- ensure-sustainable-funding-dedicated-to-the-needs-of-al-research-and-development-for-example-epfl-et
+- encourage-and-support-associations-media-outlets-media-libraries-schools-adult-education-institution
+- createpromoteinform-people-about-specific-local-events-for-a-broad-public-festivals-open-days-intera
+- create-and-support-organizations-pools-of-experts-that-can-serve-as-reference-points-for-trainingawa
+- increase-funding-for-social-cultural-sporting-and-artistic-activities-local-sports-clubs-scouts-thea
+- develop-and-adopt-protective-measures-and-adapt-training-to-anticipate-the-evolution-of-the-world-of
+- dedicate-a-share-of-the-funds-provided-by-swiss-umbrella-organizations-and-other-professional-unions
+- tax-or-levy-providers-that-generate-lasting-job-losses-because-of-al
+- encourage-and-rethink-career-transitions-notably-toward-new-al-related-professions-for-example-by-ad
+- create-a-label-that-guarantees-the-origin-of-outputs-example-swiss-valid-r-proving-human-creation-th
+- allow-the-author-to-refuse-the-use-and-modification-of-their-work-by-al
+- federal-recognition-of-the-label-awareness-raising-and-support-financial-guidance-etc-for-its-dissem
+- adapt-and-strengthen-copyright-protection-within-a-basic-national-and-international-legal-framework
+- put-in-place-educational-tools-and-awareness-courses-on-data-protection-scam-prevention-the-dangers
+- put-in-place-legislation-and-a-specific-independent-audit-body-that-verifies-ethical-compliance-and
+- create-a-federal-task-force-composed-of-members-of-government-police-and-independent-experts-to-stre
+- issue-1-determine-the-degree-of-state-involvement-and-responsibility-in-ai-in-its-development-and-im
+- issue-2-democratize-access-to-ai-and-promote-equality-encourage-healthy-responsible-and-ethical-use
+- issue-3-prepare-the-world-of-work-for-the-ai-transition-with-regard-to-social-and-financial-protecti
+- issue-4-guarantee-the-origin-and-traceability-of-outputs-and-distinguish-what-comes-from-humans-from
+- issue-5-define-responsible-and-ethical-practices-for-ai-users-legal-entities-and-natural-persons-tha
 # Involved organisations
 involved-organisations:
 - research-hub-on-democratic-innovations-at-the-university-of-geneva
@@ -126,32 +148,10 @@ lead-organisations:
 supporting-resources:
 - citizens-assembly-on-artificial-intelligence-french-speaking-switzerland
 - ai-good-servant-bad-master
-# Messages
-messages:
-- citizen-assembly-recommendation-for-society-on-issue-1-determine-the-degree-of-state-involvement-and
-- citizen-assembly-recommendation-for-society-on-issue-1-determine-the-degree-of-state-involvement-and-1
-- citizen-assembly-recommendation-for-policymakers-on-issue-1-determine-the-degree-of-state-involvemen
-- citizen-assembly-recommendation-for-policymakers-on-issue-1-determine-the-degree-of-state-involvemen-1
-- citizen-assembly-recommendation-for-society-on-issue-2-democratize-access-to-al-and-promote-equality
-- citizen-assembly-recommendation-for-society-on-issue-2-democratize-access-to-al-and-promote-equality-1
-- citizen-assembly-recommendation-for-policymakers-on-issue-2-democratize-access-to-al-and-promote-equ
-- citizen-assembly-recommendation-for-policymakers-on-issue-2-democratize-access-to-al-and-promote-equ-1
-- citizen-assembly-recommendation-for-society-on-issue-3-prepare-the-world-of-work-for-the-al-transiti
-- citizen-assembly-recommendation-for-society-on-issue-3-prepare-the-world-of-work-for-the-al-transiti-1
-- citizen-assembly-recommendation-for-policymakers-on-issue-3-prepare-the-world-of-work-for-the-al-tra
-- citizen-assembly-recommendation-for-policymakers-on-issue-3-prepare-the-world-of-work-for-the-al-tra-1
-- citizen-assembly-recommendation-for-society-on-issue-4-guarantee-the-origin-and-traceability-of-outp
-- citizen-assembly-recommendation-for-society-on-issue-4-guarantee-the-origin-and-traceability-of-outp-1
-- citizen-assembly-recommendation-for-policymakers-on-issue-4-guarantee-the-origin-and-traceability-of
-- citizen-assembly-recommendation-for-policymakers-on-issue-4-guarantee-the-origin-and-traceability-of-1
-- citizen-assembly-recommendation-for-society-on-issue-5-define-responsible-and-ethical-practices-for
-- citizen-assembly-recommendation-for-policymakers-on-issue-5-define-responsible-and-ethical-practices
-- citizen-assembly-recommendation-for-policymakers-on-issue-5-define-responsible-and-ethical-practices-1
-- issues-identified-by-the-citizen-assembly-translated-from-original-french
-- issues-identified-by-the-citizen-assembly-translated-from-original-french-1
-- issues-identified-by-the-citizen-assembly-translated-from-original-french-2
-- issues-identified-by-the-citizen-assembly-translated-from-original-french-3
-- issues-identified-by-the-citizen-assembly-translated-from-original-french-4
+# Funding Organisations
+funding-organisations:
+- stiftung-mercator-schweiz
+- epfl-ai-center
 # Participants
 participants:
 - citizens-assembly-on-ai-french-speaking-switzerland-online-survey

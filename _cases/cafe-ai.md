@@ -30,10 +30,18 @@ headline-findings: 'No final report as project is ongoing, but the team identify
   (elections...).
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: www.cafeia.org
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Caf\xE9 AI is a public movement which\
   \ aims to promote a shared, accessible, and democratic culture around artificial\
@@ -83,6 +91,9 @@ why-is-this-project-important-to-include-in-the: "Following your email expressin
   \ site, including those in the past. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2027
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -264,6 +275,9 @@ photos-and-images:
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Public debate around AI in general
   - the place of AI in citizens' lives.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "Work with civil society groups and existing digital mediation\
   \ professionals to ensure that as wide a range of citizens as possible are included.\
@@ -298,29 +312,17 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Full Case
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A method guide or toolkit
 # Theme
 theme:
 - Artificial Intelligence
 - Public Services
-# Funding Organisations
-funding-organisations:
-- french-national-digital-council-conseil-national-du-numerique
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- popular-fear-around-ai-not-just-from-elderly-participants-but-also-including-the-very-young-often-li
+- distrust-of-being-marketedforced-to-use-ai-solutions
+- policies-which-are-perceived-to-be-lacking-in-environmental-protection-such-as-the-construction-of-d
 # Involved organisations
 involved-organisations:
 - ministry-of-the-economy-and-finance-ministere-de-leconomie-et-des-finances
@@ -332,11 +334,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - cafe-ai-resources
-# Messages
-messages:
-- popular-fear-around-ai-not-just-from-elderly-participants-but-also-including-the-very-young-often-li
-- distrust-of-being-marketedforced-to-use-ai-solutions
-- policies-which-are-perceived-to-be-lacking-in-environmental-protection-such-as-the-construction-of-d
+# Funding Organisations
+funding-organisations:
+- french-national-digital-council-conseil-national-du-numerique
 # Participants
 participants:
 - cafe-ai-french-citizens

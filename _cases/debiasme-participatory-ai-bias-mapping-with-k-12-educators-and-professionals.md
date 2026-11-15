@@ -15,10 +15,24 @@ headline-findings: "From \"flaw to detect\" to \"responsibility to share.\" Non-
   \ technical background could identify where bias enters (input / data / model /\
   \ interpretation) and assign who should act on it. Participants reframed AI bias\
   \ as a shared responsibility to regulate. \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Academic research
 # Project URL
 project-url: https://debiasme.grwebsite.com/
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Audit: Review design or implementation of AI tools'
+- 'Empowerment: Build community power with respect to AI'
+- 'Evaluate: Check the quality of evidence or engagement processes'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'DeBiasMe is a community-engaged AI literacy
   initiative that turns AI bias into learning contents publics can explore and act
@@ -50,10 +64,22 @@ why-is-this-project-important-to-include-in-the: "DeBiasMe brings into the caseb
   \ and deliberative learning object. \n4. It builds power, not just data. The aim\
   \ is to leave participants more able to question and shape AI in their own settings,\
   \ and to connect that capacity to a global policy instrument (UNESCO AI CFS)."
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Predictive AI
+- Current issues
+- Future issues
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: How AI and human bias emerges across
   AI life cycle, and how educators, learners, and professionals can collectively recognize
   and regulate it.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A research poster
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: 'The card/cube artifact requires no coding or technical background;
   it lets non-specialists locate and discuss bias through physical arrangement and
@@ -69,37 +95,11 @@ what-limitations-to-the-project-should-be-noted: "1\\. Convenience recruitment v
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Academic research
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Audit: Review design or implementation of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-- 'Evaluate: Check the quality of evidence or engagement processes'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Predictive AI
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A research poster
-- A method guide or toolkit
 # Theme
 theme:
 - Education
+# Level of engagement
+level-of-engagement: Community
 # Involved organisations
 involved-organisations:
 - learningspark

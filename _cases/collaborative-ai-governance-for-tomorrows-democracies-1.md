@@ -44,11 +44,21 @@ headline-findings: "The current AI governance landscape is dominated by a narrow
   \ coalitions to boost credibility and reach; shift from critique to offering practical\
   \ alternatives and proven methods; stronger, aligned messaging grounded in lived\
   \ experience; and early engagement in policy cycles with concrete recommendations.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
 # Project URL
 project-url: 'https://futureproof.clevertogether.com/post/a-new-inclusive-model-for-technology-governance-an-issue-association;
   https://www.powertoshapeai.com '
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "AI governance for democracy demands a\
   \ multistakeholder, well-networked framework. This was the finding of our Collaborative\
@@ -120,6 +130,9 @@ why-is-this-project-important-to-include-in-the: "Questions around the human-cen
   \ of these valuable insights and framework for systemic change."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -204,6 +217,9 @@ additional-acknowledgements: Lidia Velkova, Anna Colom, Marta Poblet, Tim Davies
 describe-the-subject-matter-in-your-own-words-one: "Defining and operationalizing\
   \ a viable model for AI governance for tomorrow\u2019s democracies that fosters\
   \ meaningful citizen participation"
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'Efforts were made to ensure the recruitment and engagement process
   was accessible and inclusive. We designed a flexible process that respected participants''
@@ -244,29 +260,13 @@ what-limitations-to-the-project-should-be-noted: 'The project constitutes a fram
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
+# Theme
+theme:
+- Artificial Intelligence
 # Level of engagement
 level-of-engagement: Global
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-# Theme
-theme:
-- Artificial Intelligence
 # Involved organisations
 involved-organisations:
 - connected-by-data

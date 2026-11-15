@@ -28,12 +28,18 @@ headline-findings: '1. PUBLIC NEED & BURDEN: Only use AI when it clearly serves 
   8. ENVIRONMENTALISM & COMMUNITY IMPACT
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Participation locations
 participation-locations: Snohomish County, Wahington, USA
 # Project URL
 project-url: https://ourcivicgenius.org/wp-content/uploads/2026/06/FINAL-SNOCO-CIVIC-ASSEMBLY-REPORT.pdf
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Over the course of three weekends the\
   \ group followed the process presented by the Civic Genius to address AI usage by\
@@ -47,9 +53,15 @@ why-is-this-project-important-to-include-in-the: This event was meant to allow r
   has to its residents in using AI
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Civic assembly to inform Snohomish
   County government's AI use and policy.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'Random selection
 
@@ -62,18 +74,6 @@ project-status: Complete
 level-of-engagement: Community
 # Method image caption
 method-image-caption: 'Source: '
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Involved organisations
 involved-organisations:
 - national-civic-league

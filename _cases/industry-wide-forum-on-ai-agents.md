@@ -13,6 +13,9 @@ project-title: Industry Wide Forum on AI Agents
 project-url: https://fsi.stanford.edu/news/people-shaping-ai-groundbreaking-industry-wide-forum-invites-public-input-future-ai-agents
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "\"In November 2025, leading technology\
   \ companies\u2014Meta, Oracle, DoorDash, PayPal, Cohere, and Microsoft\u2014in partnership\
@@ -41,27 +44,34 @@ why-is-this-project-important-to-include-in-the: This is the first cross-industr
   sponsored deliberative poll.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: The future of AI agents in personal,
   financial, medical and work use cases
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Curation decision
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
 # Level of engagement
 level-of-engagement: Global
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-# Funding Organisations
-funding-organisations:
-- meta
+# Messages
+messages:
+- when-making-purchases-ai-agents-should-prioritize-getting-user-consent-every-time-even-if-it-means-i
+- i-think-ai-agents-should-be-able-to-pay-on-my-behalf-only-when-i-explicitly-ask
+- ai-agents-should-tailor-their-responses-to-different-cultures-or-regions
+- when-users-first-engage-with-ai-agents-agents-should-ask-users-about-their-cultural-norms-preference
+- an-ai-agent-should-be-able-to-use-information-about-my-working-and-writing-style-in-order-to-be-a-go
+- i-think-ai-agents-should-be-able-to-pay-on-my-behalf-for-the-kinds-of-tasks-that-i-specify
+- ai-agents-should-automatically-tailor-their-responses-to-the-users-culture-based-on-information-such
+- i-want-to-use-an-ai-agent-at-work-if-it-helped-me-automate-repetitive-tasks-even-if-i-had-to-double
+- low-risk-photos-i-would-trust-an-ai-agent-to-act-on-my-behalf-even-if-it-explained-to-me-how-it-was
+- i-want-to-use-an-ai-agent-if-it-would-help-me-make-plans-even-if-it-meant-i-personally-considered-fe
+- an-ai-agent-should-be-able-to-use-my-shopping-history-in-order-to-be-a-good-personal-shopper
 # Lead organisations
 lead-organisations:
 - stanford-deliberative-democracy-lab
@@ -73,19 +83,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - summary-report-of-findings
-# Messages
-messages:
-- most-supported-statements-after-deliberation-us-821-and-india-777
-- most-supported-statements-after-deliberation-us-63
-- most-supported-statements-after-deliberation-us-592-and-india-75
-- most-supported-statements-after-deliberation-us-59-and-india-732
-- most-supported-statements-after-deliberation-us-534-and-india-759
-- most-supported-statements-after-deliberation-us-532
-- most-supported-statements-after-deliberation-us-527
-- most-supported-statements-after-deliberation-us-519-and-india-741
-- most-supported-statements-after-deliberation-india-737
-- most-supported-statements-after-deliberation-india-723
-- most-supported-statements-after-deliberation-india-71
+# Funding Organisations
+funding-organisations:
+- meta
 # Participants
 participants:
 - industry-wide-forum-on-ai-agents

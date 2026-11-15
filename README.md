@@ -207,4 +207,3 @@ bundle exec jekyll build
 
 - **Generated Collections**: Jekyll collection directories (`_cases/`, `_organisations/`, `_locations/`, `_participants/`, `_resources/`, `_messages/`) are generated dynamically by `scripts/sync_nocodb.py`.
 - **Local Excludes**: Check `.git/info/exclude` and `.gitignore` if specific generated files or directories are hidden from Git tracking in your local environment.
-- **Legacy Airtable Scripts**: `scripts/sync_data.py` and `scripts/sync_schema.py` are preserved for historical reference from the original Airtable implementation.

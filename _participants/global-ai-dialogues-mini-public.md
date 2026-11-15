@@ -7,6 +7,9 @@ slug: global-ai-dialogues-mini-public
 how-many-people-took-part: 284
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 8
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Offline
 # Group description
 group-description: Mini public
 # Recruitment method
@@ -32,9 +35,6 @@ was-there-a-specific-target-population: general public
 # Where were participants from?
 where-were-participants-from: Germany (Munich), Japan (Tokyo), Nigeria (Lagos), India
   (Delhi), Mexico (Puebla), Bolivia (Santa Cruz de la Sierra)
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Offline
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Survey

@@ -9,6 +9,9 @@ slug: learning-from-thick-big-data-on-algorithmic-failures-a-case-study-of-survi
 how-many-people-took-part: 10000
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 0.5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Survivors of Tech-Facilitated Gender-Based Violence (TFGBV)
 # Recruitment method
@@ -32,15 +35,6 @@ was-there-a-specific-target-population: 'Women and Gender-diverse digital users,
 # Where were participants from?
 where-were-participants-from: We received entries from Nepal, India, Sri Lanka, and
   Bangladesh.
-# Additional notes
-additional-notes: "More than 10,000 survivors and marginalized users have engaged\
-  \ with VoiceValor. Its design has been shaped by 700+ survivors, technologists,\
-  \ creators, and community stakeholders. \n\nDepending on the number of comments\
-  \ they were correcting, each session of VoiceValor where the survivor-user is auditing\
-  \ the content\u2019s toxicity classifier could take between 10 to 30 mins. "
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Action Research
@@ -52,6 +46,12 @@ which-of-the-following-methods-were-used-to:
 do-any-of-the-following-apply:
 - There were trained facilitators involved
 - There was a learning phase for participants
+# Additional notes
+additional-notes: "More than 10,000 survivors and marginalized users have engaged\
+  \ with VoiceValor. Its design has been shaped by 700+ survivors, technologists,\
+  \ creators, and community stakeholders. \n\nDepending on the number of comments\
+  \ they were correcting, each session of VoiceValor where the survivor-user is auditing\
+  \ the content\u2019s toxicity classifier could take between 10 to 30 mins. "
 # Cases
 cases:
 - learning-from-thick-big-data-on-algorithmic-failures-a-case-study-of-survivor-led-participatory-ai-d

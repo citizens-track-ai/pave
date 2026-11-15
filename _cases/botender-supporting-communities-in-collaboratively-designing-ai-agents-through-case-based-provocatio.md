@@ -18,10 +18,18 @@ headline-findings: "With Botender, participants designed a variety of tasks for 
   \ design.\n\nParticipants emphasized that Botender\u2019s overall work-flow and\
   \ integration with their community platform were helpful in fostering community\
   \ participation.\n\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Community Led
+- Co-created
+- Academic research
 # Project URL
 project-url: https://doi.org/10.1145/3772318.3790500
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'AI Development: Shape the development of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In 2025 at team at Carnegie Mellon University\
   \ initiated a process using an online form of community-based participatory research\
@@ -58,6 +66,9 @@ why-is-this-project-important-to-include-in-the: "This project should be include
   \ spark reflection and discussion about desirable bot behavior."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Additional acknowledgements
 additional-acknowledgements: Tzu-Sheng Kuo, Sophia Liu, Quan Ze Chen, Joseph Seering,
   Amy X. Zhang, Haiyi Zhu, Kenneth Holstein
@@ -65,6 +76,9 @@ additional-acknowledgements: Tzu-Sheng Kuo, Sophia Liu, Quan Ze Chen, Joseph See
 describe-the-subject-matter-in-your-own-words-one: This project presents Botender,
   a system that enables online communities to collaboratively design LLM-powered bots
   without coding.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: 'We recruited participants through both paper and digital flyers.
   To accommodate participants from the same Discord server who may not be available
@@ -83,25 +97,11 @@ what-limitations-to-the-project-should-be-noted: 'Currently, Discord groups inte
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Professional
-# How was the project initiated?
-how-was-the-project-initiated:
-- Community Led
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'AI Development: Shape the development of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: Professional
 # Lead organisations
 lead-organisations:
 - carnegie-mellon-university

@@ -7,12 +7,12 @@ slug: eurac-research
 name: Eurac Research
 # Website address
 website-address: https://www.eurac.edu/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To address the complex challenges of the future through interdisciplinary
-  research that improves people''s lives and environment. (Source: https://www.eurac.edu/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To address the complex challenges of the future through interdisciplinary
+  research that improves people''s lives and environment. (Source: https://www.eurac.edu/)'
 # Main Location
 main-location:
 - bozen-bolzano-italy

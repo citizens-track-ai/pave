@@ -29,6 +29,7 @@ cases:
 - building-platform-worker-power-with-participatory-data-science
 # Participants
 participants:
+- edinburgh-data-ai-exchange-stakeholders
 - exploring-childrens-rights-and-ai-classroom-workshops
 - exploring-childrens-rights-and-ai-survey
 - exploring-childrens-rights-and-ai-cross-school-group

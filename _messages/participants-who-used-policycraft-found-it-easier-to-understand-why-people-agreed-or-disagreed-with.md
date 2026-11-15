@@ -1,12 +1,11 @@
 ---
 layout: generic
-title: Participants who used PolicyCraft found it easier to understand why people
-  agreed or disagreed with each other.
+title: Issue 3
 airtable_id: cf322481aaef21c1
 slug: participants-who-used-policycraft-found-it-easier-to-understand-why-people-agreed-or-disagreed-with
-# Name
-name: Participants who used PolicyCraft found it easier to understand why people agreed
-  or disagreed with each other.
+# Message
+message: Participants who used PolicyCraft found it easier to understand why people
+  agreed or disagreed with each other.
 # Type
 type: Issue
 # Cases

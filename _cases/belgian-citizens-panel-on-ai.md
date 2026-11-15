@@ -10,10 +10,17 @@ description: The Belgian Citizens Panel was composed of 60 randomly selected cit
   part...
 # Project Title
 project-title: Belgian Citizens Panel on AI
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://missionspubliques.org/pf/citizen-panel-on-artificial-intelligence-belgian-presidency-of-the-council-of-the-eu/?lang=en
 # What year did the project start?
 what-year-did-the-project-start: 2023
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The Belgian Citizens Panel was composed\
   \ of 60 randomly selected citizens invited to take part in three weekends of learning\
@@ -40,6 +47,10 @@ why-is-this-project-important-to-include-in-the: "This is the first example of a
   \ AI tools, and experiments with AI transcription. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Current issues
+- AI in general
 # Photos and images
 photos-and-images:
 # Id
@@ -130,6 +141,10 @@ photos-and-images:
       url: https://cdn.pavecasebook.org/attachments/f868a16fde8e3612_photos-and-images_at4q3upxm5pre6be_card_cover.png
       width: null
       height: null
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project video
+- A project report
 # Inclusion efforts
 inclusion-efforts: "The project report notes a number of inclusion measures.\n\n\"\
   To eliminate as many barriers as possible, the following\nmeasures were taken:\n\
@@ -193,6 +208,9 @@ what-limitations-to-the-project-should-be-noted: "From Chapter 3 of the Final Re
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Artificial Intelligence
 # Level of engagement
 level-of-engagement: National
 # Method Image
@@ -221,27 +239,30 @@ method-image:
       height: null
 # Method image caption
 method-image-caption: 'Process image. Source: Chapter 3 of project report'
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Current issues
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project video
-- A project report
-# Theme
-theme:
-- Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- fps-foreign-affairs-belgium
+# Messages
+messages:
+- everyone-must-take-responsibility-for-adapting-individuals-employers-and-trade-unions-alike-ai-must
+- we-need-to-understand-how-ai-works-to-understand-what-we-are-dealing-with-and-how-ai-is-applicable-t
+- it-is-important-not-to-lose-our-human-soft-skills-the-focus-needs-to-be-on-young-people-who-are-alre
+- the-eu-must-be-prepared-to-cope-with-profound-economic-changes-and-allow-a-fresh-perspective-of-the
+- the-eu-and-its-member-states-must-ensure-that-they-can-generate-sufficient-revenue-from-the-developm
+- in-the-development-of-al-monopolies-are-not-sustainable-in-the-long-run-monopoly-puts-too-much-power
+- if-the-eu-and-its-member-states-invest-in-developing-a-european-al-and-bringing-it-to-market-to-elim
+- the-preference-of-this-citizen-panel-is-to-allow-multiple-european-companies-to-grow-we-propose-orga
+- use-ai-systems-in-scientific-research-to-get-results-faster
+- encourage-research-for-the-development-of-ai
+- the-ecological-footprint-also-needs-to-be-taken-into-account-in-the-development-of-ai-systems-this-i
+- in-the-public-debate-and-on-the-political-agenda-about-the-development-of-al-systems-the-possible-so
+- we-believe-that-deepfakes-and-fake-news-generated-by-al-are-untrustworthy-sources-of-information-and
+- the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl
+- the-vision-of-this-citizen-panel-is-that-the-eu-should-build-and-strengthen-its-position-in-the-worl-1
+- we-believe-that-a-number-of-global-agreements-on-the-development-and-application-of-al-are-called-fo
+- the-eu-and-its-member-states-must-set-an-example-and-be-ambitious-in-order-to-have-as-much-influence
+- al-should-serve-to-help-humans-not-replace-them-we-believe-that-people-should-not-only-have-the-last
+- invest-in-communication-about-ai
+- take-action-now-and-build-trust
+- leave-no-one-behind
+- ensure-that-this-citizen-panel-is-followed-up
 # Involved organisations
 involved-organisations:
 - mission-publiques
@@ -257,30 +278,9 @@ supporting-resources:
 - citizen-panel-weekend-2
 - citizen-panel-weekend-3
 - citizen-panel-closing-ceremony
-# Messages
-messages:
-- messages-on-work-help-people-without-replacing-them
-- messages-on-learning-to-handle-ai-invest-in-current-and-future-generations
-- messages-on-learning-to-handle-ai-invest-in-current-and-future-generations-1
-- messages-on-economic-system-and-power-relations
-- messages-on-economic-system-and-power-relations-1
-- messages-on-economic-system-and-power-relations-2
-- messages-on-economic-system-and-power-relations-3
-- messages-on-economic-system-and-power-relations-4
-- messages-on-scientific-research-and-innovation
-- messages-on-scientific-research-and-innovation-1
-- messages-on-al-the-environment
-- messages-on-al-the-environment-1
-- messages-on-deepfakes-unreliable-information
-- messages-on-the-position-of-the-european-union-in-the-world
-- messages-on-the-position-of-the-european-union-in-the-world-1
-- messages-on-global-agreements
-- messages-on-global-agreements-1
-- messages-on-human-in-the-loop-and-human-contact
-- recommendations-key-messages
-- recommendations-key-messages-1
-- recommendations-key-messages-2
-- recommendations-key-messages-3
+# Funding Organisations
+funding-organisations:
+- fps-foreign-affairs-belgium
 # Participants
 participants:
 - belgian-citizens-panel-on-ai-citizen-panel

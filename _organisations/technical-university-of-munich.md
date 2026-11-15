@@ -7,12 +7,12 @@ slug: technical-university-of-munich
 name: Technical University of Munich
 # Website address
 website-address: https://www.tum.de/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To serve society through excellent research and education in science,
-  engineering, and medicine. (Source: https://www.tum.de/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To serve society through excellent research and education in science,
+  engineering, and medicine. (Source: https://www.tum.de/)'
 # Main Location
 main-location:
 - munich-germany

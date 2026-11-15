@@ -7,12 +7,12 @@ slug: the-alan-turing-institute
 name: The Alan Turing Institute
 # Website address
 website-address: https://www.turing.ac.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To make great leaps in data science and AI research in order to
-  change the world for the better. (Source: https://www.turing.ac.uk/)'
 # Organisation type
 organisation-type:
 - Research
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To make great leaps in data science and AI research in order to
+  change the world for the better. (Source: https://www.turing.ac.uk/)'
 # Main Location
 main-location:
 - london-united-kingdom

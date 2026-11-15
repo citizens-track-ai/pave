@@ -7,12 +7,12 @@ slug: freelance-artists-zeo-fawcett-eye-suriyanon-jono-sandilands-katy-beveridge
 name: Freelance artists  - Zeo Fawcett, Eye Suriyanon, Jono Sandilands, Katy Beveridge
 # Website address
 website-address: https://jonosandilands.com/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: To create visual art, interactive installations, and designs that
-  communicate complex societal issues and engage the public.
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: To create visual art, interactive installations, and designs that
+  communicate complex societal issues and engage the public.
 # Main Location
 main-location:
 - united-kingdom

@@ -7,12 +7,12 @@ slug: free-university-of-bozen-bolzano
 name: Free University of Bozen-Bolzano
 # Website address
 website-address: https://www.unibz.it/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To offer multilingual, practice-oriented education and conduct
-  research that addresses regional and international challenges. (Source: https://www.unibz.it/)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To offer multilingual, practice-oriented education and conduct
+  research that addresses regional and international challenges. (Source: https://www.unibz.it/)'
 # Main Location
 main-location:
 - bozen-bolzano-italy

@@ -9,10 +9,16 @@ description: How should AI agents interact with users to provide proactive, pers
   experiences?
 # Project Title
 project-title: Meta Community Forum on Proactive Agents
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://fsi.stanford.edu/publication/meta-community-forum-results-analysis-april-2025
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The project report describes the Community\
   \ Forum format used for this, the third Meta Community Forum: \n\n\"The design for\
@@ -46,33 +52,24 @@ provide-a-brief-description-of-the-project: "The project report describes the Co
   \ social contract for how people engage with AI agents.\"\n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: How should AI agents interact with
   users to provide proactive, personalized experiences?
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Curation decision
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Global
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- meta
+# Level of engagement
+level-of-engagement: Global
 # Involved organisations
 involved-organisations:
 - stanford-deliberative-democracy-lab
@@ -83,6 +80,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - meta-community-forum-results-analysis
+# Funding Organisations
+funding-organisations:
+- meta
 # Participants
 participants:
 - meta-community-forum-on-proactive-agents-community-forum-participants

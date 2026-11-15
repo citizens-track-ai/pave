@@ -748,8 +748,26 @@
     font-weight: 600;
     color: #496a40;
     line-height: 1.45;
-    text-align: right;
+    margin-top: 0.35rem;
     display: block;
+  }
+
+  .msg-slide.msg-type-issue {
+    .msg-open-quote,
+    .msg-close-quote,
+    .msg-type-label,
+    .msg-credit {
+      color: #bc5a45;
+    }
+  }
+
+  .msg-slide.msg-type-quote {
+    .msg-open-quote,
+    .msg-close-quote,
+    .msg-type-label,
+    .msg-credit {
+      color: #4a7c8a;
+    }
   }
 
   .msg-carousel-nav {
@@ -1088,6 +1106,21 @@
   .print-message-text {
     font-style: italic;
     color: #1e293b;
+  }
+
+  .print-message-credit {
+    font-size: 0.85em;
+    color: #556c50;
+    margin-top: 0.15rem;
+    font-weight: 500;
+  }
+
+  .print-message-item.print-message-issue .print-message-type {
+    color: #bc5a45;
+  }
+
+  .print-message-item.print-message-quote .print-message-type {
+    color: #4a7c8a;
   }
 
   /* Page 2 Supporting Resources Mini Cards */

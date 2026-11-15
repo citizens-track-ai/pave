@@ -52,10 +52,16 @@ headline-findings: "Regional participants said AI should respond to territorial 
   \ property, culture and heritage, cybersecurity, disinformation, digital violence\
   \ and safe digital ecosystems as issues needing stronger treatment in the updated\
   \ policy.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/
 # What year did the project start?
 what-year-did-the-project-start: 2020
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Chile\u2019s National Artificial Intelligence\
   \ Policy is a ten-year strategy to guide the responsible development, adoption and\
@@ -95,9 +101,18 @@ why-is-this-project-important-to-include-in-the: "This project is important beca
   \ evolve into a policy of State."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
+- Future issues
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Design and then update of the National
   AI Policy.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- An independent evaluation
 # Inclusion efforts
 inclusion-efforts: "The process made inclusion a central design principle across both\
   \ phases: the original 2019-2020 policy process and the 2023-2024 update. In the\
@@ -159,26 +174,23 @@ what-limitations-to-the-project-should-be-noted: "Several limitations should be 
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-- Future issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- An independent evaluation
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p
+- participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu
+- participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants
+- participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions
+- participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon
+- ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks
+- ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo
+- 2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm
+- 2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender
+- 2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children
 # Involved organisations
 involved-organisations:
 - unesco
@@ -192,18 +204,6 @@ supporting-resources:
 - chile-artificial-intelligence-readiness-assessment-report
 - informe-de-resultados-2024
 - webinars-ia
-# Messages
-messages:
-- regional-participants-said-ai-should-respond-to-territorial-needs-in-the-aysen-regional-roundtable-p
-- participants-said-privacy-consent-and-data-governance-must-be-central-regional-participants-asked-qu
-- participants-said-ai-policy-requires-public-literacy-not-only-expert-capacity-regional-participants
-- participants-said-ai-should-improve-work-rather-than-simply-replace-workers-in-regional-discussions
-- participants-said-chile-should-build-human-capabilities-alongside-infrastructure-consultation-respon
-- ram-participants-saw-ai-as-an-opportunity-for-better-public-policy-but-warned-about-democratic-risks
-- ram-participants-said-ai-in-health-and-education-should-complement-human-roles-participants-saw-oppo
-- 2024-consultation-respondents-asked-for-stronger-governance-regulation-and-accountability-their-comm
-- 2024-consultation-respondents-said-inclusion-should-go-beyond-gender-alone-comments-supported-gender
-- 2024-consultation-respondents-raised-new-concerns-linked-to-generative-ai-they-highlighted-children
 # Participants
 participants:
 - chilean-national-ai-policy-participatory-design-and-update-self-convocated-roundtables

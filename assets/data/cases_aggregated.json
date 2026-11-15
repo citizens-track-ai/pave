@@ -240,7 +240,7 @@
       {
         "title": "Collective Intelligence Project Global Dialogues - November 2024",
         "count": 1253,
-        "locations_list": "Antigua & Deps, United Arab Emirates, Armenia, Angola, Trinidad & Tobago, Argentina, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Colombia, Costa Rica, Czech Republic, Germany, Denmark, Algeria, Egypt, Eritrea, Spain, Finland, Fiji, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Iceland, Italy, Japan, Kenya, Korea South, Kazakhstan, Morocco, Mongolia, Malawi, Mexico, Malaysia, Nigeria, Netherlands, Norway, Nepal, New Zealand, Panama, Peru, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sweden, Singapore, Slovakia, Tunisia, Turkey, Tanzania, Ukraine, United States, Georgia, Uzbekistan, Venezuela, Vietnam, South Africa",
+        "locations_list": "Antigua & Deps, United Arab Emirates, Armenia, Angola, Argentina, Trinidad & Tobago, Austria, Australia, Bangladesh, Belgium, Brazil, Canada, Switzerland, Chile, China, Colombia, Costa Rica, Czech Republic, Germany, Denmark, Algeria, Egypt, Eritrea, Spain, Finland, Fiji, France, United Kingdom, Ghana, Greece, Croatia, Hungary, Indonesia, Ireland {Republic}, Israel, India, Iceland, Italy, Japan, Kenya, Korea South, Kazakhstan, Morocco, Mongolia, Malawi, Mexico, Malaysia, Nigeria, Netherlands, Norway, Nepal, New Zealand, Panama, Peru, Philippines, Pakistan, Poland, Palestine, Portugal, Romania, Russian Federation, Saudi Arabia, Sweden, Singapore, Slovakia, Tunisia, Turkey, Tanzania, Ukraine, Georgia, United States, Uzbekistan, Venezuela, Vietnam, South Africa",
         "locations": [
           {
             "lat": 24.0002488,
@@ -258,14 +258,14 @@
             "location_name": "Angola"
           },
           {
-            "lat": -39.036242,
-            "lng": -67.5499163,
-            "location_name": "Trinidad & Tobago"
-          },
-          {
             "lat": -34.9964963,
             "lng": -64.9672817,
             "location_name": "Argentina"
+          },
+          {
+            "lat": -39.036242,
+            "lng": -67.5499163,
+            "location_name": "Trinidad & Tobago"
           },
           {
             "lat": 47.59397,
@@ -373,8 +373,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -583,14 +583,14 @@
             "location_name": "Ukraine"
           },
           {
-            "lat": 39.7837304,
-            "lng": -100.445882,
-            "location_name": "United States"
-          },
-          {
             "lat": 32.3293809,
             "lng": -83.1137366,
             "location_name": "Georgia"
+          },
+          {
+            "lat": 39.7837304,
+            "lng": -100.445882,
+            "location_name": "United States"
           },
           {
             "lat": 41.32373,
@@ -730,8 +730,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -1047,8 +1047,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -1379,8 +1379,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -1731,8 +1731,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -2068,8 +2068,8 @@
             "location_name": "France"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -2635,8 +2635,8 @@
         "url": "/organisations/connected-by-data/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -2705,6 +2705,59 @@
       }
     ],
     "organisations": []
+  },
+  {
+    "title": "Edinburgh Data & AI Exchange",
+    "slug": "edinburgh-data-ai-exchange",
+    "url": "/cases/edinburgh-data-ai-exchange.html",
+    "curation_decision": "Mapping Entry",
+    "themes": [],
+    "level_of_engagement": "",
+    "modalities": [
+      "Offline"
+    ],
+    "methods": [
+      "Deliberation"
+    ],
+    "total_participants": 99,
+    "average_hours": 7.0,
+    "message_count": 23,
+    "countries": [
+      "GB"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "method_categories": [
+      "deliberation"
+    ],
+    "participants": [
+      {
+        "title": "Edinburgh Data & AI Exchange - Stakeholders",
+        "count": 99,
+        "locations_list": "Edinburgh, Scotland, United Kingdom",
+        "locations": [
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
+          }
+        ]
+      }
+    ],
+    "organisations": [
+      {
+        "title": "University of Edinburgh",
+        "url": "/organisations/university-of-edinburgh/",
+        "locations": [
+          {
+            "lat": 55.9533,
+            "lng": -3.1883,
+            "location_name": "Edinburgh, Scotland, United Kingdom"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "SheAI",
@@ -2833,13 +2886,8 @@
       {
         "title": "Leverhulme Trust Funded StudentXGenAI Project (Student Experiences of GenAI Project ) - University students ",
         "count": 7000,
-        "locations_list": "England, United Kingdom, Doune, Scotland, United Kingdom, Belfast, Northern Ireland, United Kingdom",
+        "locations_list": "Doune, Scotland, United Kingdom, Belfast, Northern Ireland, United Kingdom, England, United Kingdom",
         "locations": [
-          {
-            "lat": 52.3555,
-            "lng": -1.1743,
-            "location_name": "England, United Kingdom"
-          },
           {
             "lat": 56.1896,
             "lng": -4.0532,
@@ -2849,6 +2897,11 @@
             "lat": 54.596391,
             "lng": -5.9301829,
             "location_name": "Belfast, Northern Ireland, United Kingdom"
+          },
+          {
+            "lat": 52.3555,
+            "lng": -1.1743,
+            "location_name": "England, United Kingdom"
           }
         ]
       }
@@ -3208,8 +3261,7 @@
       "Citizens’ Assembly",
       "Co-creation workshops",
       "Collective Intelligence Process",
-      "Deliberation",
-      "Distributed dialogue"
+      "Deliberation"
     ],
     "total_participants": 5940,
     "average_hours": 8.0,
@@ -3547,8 +3599,7 @@
     "average_hours": 6.0,
     "message_count": 2,
     "countries": [
-      "GB",
-      "UK"
+      "GB"
     ],
     "continents": [
       "Europe"
@@ -3558,15 +3609,10 @@
     ],
     "participants": [
       {
-        "title": "Let's Talk AI: a people-centred approach to AI literacy - 100 people were consulted ",
+        "title": "Let's Talk AI: a people-centred approach to AI literacy - 100 people were consulted",
         "count": 100,
-        "locations_list": "United Kingdom, Morecambe Bay, UK, Lancaster, UK, Sheffield, UK, Plymouth, UK",
+        "locations_list": "Morecambe Bay, UK, Lancaster, UK, Sheffield, UK, Plymouth, UK, United Kingdom",
         "locations": [
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
           {
             "lat": 54.1044697,
             "lng": -2.9712714,
@@ -3586,6 +3632,11 @@
             "lat": 50.376289,
             "lng": -4.143841,
             "location_name": "Plymouth, UK"
+          },
+          {
+            "lat": 54.7023545,
+            "lng": -3.2765753,
+            "location_name": "United Kingdom"
           }
         ]
       }
@@ -3637,17 +3688,41 @@
       {
         "title": "Engaged California: Impact of AI on Work - GoVocal Online Engagement",
         "count": 2702,
-        "locations_list": "Stanford, California, USA",
+        "locations_list": "California, USA",
         "locations": [
           {
-            "lat": 37.4277,
-            "lng": -122.1697,
-            "location_name": "Stanford, California, USA"
+            "lat": 36.7014631,
+            "lng": -118.755997,
+            "location_name": "California, USA"
+          }
+        ]
+      },
+      {
+        "title": "Engaged California: Impact of AI on Work - Online discussion participants",
+        "count": 103,
+        "locations_list": "California, USA",
+        "locations": [
+          {
+            "lat": 36.7014631,
+            "lng": -118.755997,
+            "location_name": "California, USA"
           }
         ]
       }
     ],
-    "organisations": []
+    "organisations": [
+      {
+        "title": "Office of the Governor in California",
+        "url": "/organisations/office-of-the-governor-in-california/",
+        "locations": [
+          {
+            "lat": 38.5810606,
+            "lng": -121.493895,
+            "location_name": "Sacramento, CA"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Co-designing animated videos to explain large language models and their use in healthcare and research",
@@ -3927,8 +4002,8 @@
         "url": "/organisations/connected-by-data/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -4271,8 +4346,8 @@
             "location_name": "Germany"
           },
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           },
           {
@@ -4414,8 +4489,8 @@
         "locations_list": "United Kingdom",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5090,8 +5165,8 @@
         "locations_list": "United Kingdom",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5558,8 +5633,8 @@
         "locations_list": "United Kingdom",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5582,8 +5657,8 @@
         "url": "/organisations/university-of-stirling/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5604,8 +5679,8 @@
         "url": "/organisations/university-of-york/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5615,8 +5690,8 @@
         "url": "/organisations/university-of-york-1/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -5646,7 +5721,7 @@
     ]
   },
   {
-    "title": "Youth dialogue on generative AI ",
+    "title": "Youth dialogue on generative AI",
     "slug": "youth-dialogue-on-generative-ai",
     "url": "/cases/youth-dialogue-on-generative-ai.html",
     "curation_decision": "Full Case",
@@ -5682,7 +5757,7 @@
     ],
     "participants": [
       {
-        "title": "Youth dialogue on generative AI  - EuropeSay method - youth dialogue ",
+        "title": "Youth dialogue on generative AI - EuropeSay method - youth dialogue",
         "count": 361,
         "locations_list": "Jylland, Denmark, Sjælland, Denmark",
         "locations": [
@@ -5699,7 +5774,7 @@
         ]
       },
       {
-        "title": "Youth dialogue on generative AI  - Stakeholder workshop",
+        "title": "Youth dialogue on generative AI - Stakeholder workshop",
         "count": 14,
         "locations_list": "Denmark",
         "locations": [
@@ -6491,13 +6566,8 @@
       {
         "title": "Making Good:  Insights on AI and public good from diverse UK communities  - Community participants recruited through place-based, community-led engagement across three UK locations.",
         "count": 47,
-        "locations_list": "United Kingdom, Belfast, Northern Ireland, United Kingdom, London, United Kingdom, Southampton",
+        "locations_list": "Belfast, Northern Ireland, United Kingdom, London, United Kingdom, United Kingdom, Southampton",
         "locations": [
-          {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "location_name": "United Kingdom"
-          },
           {
             "lat": 54.596391,
             "lng": -5.9301829,
@@ -6507,6 +6577,11 @@
             "lat": 51.5074,
             "lng": -0.1278,
             "location_name": "London, United Kingdom"
+          },
+          {
+            "lat": 54.7023545,
+            "lng": -3.2765753,
+            "location_name": "United Kingdom"
           },
           {
             "lat": 50.909698,
@@ -6619,8 +6694,8 @@
         "url": "/organisations/cheshire-merseyside-icb/",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]
@@ -6675,8 +6750,8 @@
         "locations_list": "United Kingdom",
         "locations": [
           {
-            "lat": 55.3781,
-            "lng": -3.436,
+            "lat": 54.7023545,
+            "lng": -3.2765753,
             "location_name": "United Kingdom"
           }
         ]

@@ -1,0 +1,13 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Project Status
+type: string
+oneOf:
+  - const: "Planned"
+    title:
+      en: "Planned"
+  - const: "In progress"
+    title:
+      en: "In progress"
+  - const: "Complete"
+    title:
+      en: "Complete"

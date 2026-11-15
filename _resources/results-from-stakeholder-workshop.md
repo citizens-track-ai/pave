@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: 'Results from stakeholder workshop '
+title: Results from stakeholder workshop
 airtable_id: fdb78981d13c6c12
 slug: results-from-stakeholder-workshop
 # Attachments
@@ -17,7 +17,7 @@ select: Project report
 # License
 license: published under an open license with reference
 # Short description
-short-description: 'Presentation of results from the stakeholder workshop '
+short-description: Presentation of results from the stakeholder workshop
 # Featured Video / Resource
 featured-video-resource: false
 # Cases

@@ -7,6 +7,9 @@ slug: data-in-society-lab-disco-lab-brown-university
 name: Data in Society Lab (DISCO Lab), Brown University
 # Website address
 website-address: https://discolab.cs.brown.edu/
+# Organisation type
+organisation-type:
+- Research
 # Mission statement (DATA CLEANING NEEDED)
 mission-statement: 'The Data in Society Lab (DISCO Lab) at Brown University focuses
   on the social, cultural, and political dimensions of data, AI, and digital infrastructures,
@@ -14,9 +17,6 @@ mission-statement: 'The Data in Society Lab (DISCO Lab) at Brown University focu
 
 
   (Source: https://discolab.cs.brown.edu/)'
-# Organisation type
-organisation-type:
-- Research
 # Main Location
 main-location:
 - providence-rhode-island-usa

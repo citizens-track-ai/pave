@@ -7,12 +7,12 @@ slug: behavioural-insights-team
 name: Behavioural Insights Team
 # Website address
 website-address: https://www.bi.team/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To generate and apply behavioural insights to inform public policy,
-  improve public services, and deliver positive social impact. (Source: https://www.bi.team/)'
 # Organisation type
 organisation-type:
 - Private sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To generate and apply behavioural insights to inform public policy,
+  improve public services, and deliver positive social impact. (Source: https://www.bi.team/)'
 # Main Location
 main-location:
 - london-united-kingdom

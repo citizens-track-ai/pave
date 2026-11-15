@@ -8,6 +8,9 @@ slug: wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia-wi
 how-many-people-took-part: 17
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 12
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Wikipedians
 # Recruitment method
@@ -23,11 +26,6 @@ where-were-participants-from: The project is open to anyone on the English Wikip
   The actual participants come from around the world, including the United States,
   Indonesia, Singapore, Germany, Italy, Hungary, Australia, Ireland, and the United
   Kingdom.
-# Additional notes
-additional-notes: https://meta.wikimedia.org/wiki/Research:Community-centered_Evaluation_of_AI_Models_on_Wikipedia/Study_Recruitment
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-led Audit
@@ -35,6 +33,8 @@ which-of-the-following-methods-were-used-to:
 do-any-of-the-following-apply:
 - There was a learning phase for participants
 - Materials from the learning phase have been published
+# Additional notes
+additional-notes: https://meta.wikimedia.org/wiki/Research:Community-centered_Evaluation_of_AI_Models_on_Wikipedia/Study_Recruitment
 # Cases
 cases:
 - wikibench-community-driven-data-curation-for-ai-evaluation-on-wikipedia

@@ -42,10 +42,20 @@ headline-findings: '1. Persons with disabilities in Nigeria are already actively
   to build infrastructure for AI inclusion and develop disability-responsive AI policy.
 
   '
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Project URL
 project-url: https://cdinclusionafrica.org/2026/03/05/ai-must-hear-every-voice-key-lessons-from-disability-ai-dialogue-in-lagos/
 # What year did the project start?
 what-year-did-the-project-start: 2026
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'This public engagement project explored
   how persons with disabilities in Nigeria currently experience AI systems, the barriers
@@ -87,6 +97,11 @@ why-is-this-project-important-to-include-in-the: 'This project merits inclusion 
   processes have adequately addressed.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- AI in general
+- Specific AI system(s)
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: How AI systems include or exclude
   persons with disabilities in Nigeria, and what changes developers, researchers,
@@ -126,28 +141,13 @@ what-limitations-to-the-project-should-be-noted: 'The engagement was a single ei
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- AI in general
-- Specific AI system(s)
+# Lead organisations
+lead-organisations:
+- nigeria-ai-research-lab-formerly-eduai-hub
 # Funding Organisations
 funding-organisations:
 - international-development-research-centre-idrc-canada
 - uk-fcdo-china-networks-open-societies-oda-fund
-# Lead organisations
-lead-organisations:
-- nigeria-ai-research-lab-formerly-eduai-hub
 # Participants
 participants:
 - ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-multi-stakeholder-focus-group

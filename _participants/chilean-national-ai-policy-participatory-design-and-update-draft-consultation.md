@@ -7,6 +7,9 @@ slug: chilean-national-ai-policy-participatory-design-and-update-draft-consultat
 how-many-people-took-part: 209
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 1
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Draft Consultation
 # Recruitment method
@@ -17,6 +20,9 @@ recruitment-description: Advertising in social media and invitations to stakehol
 was-there-a-specific-target-population: No target population.
 # Where were participants from?
 where-were-participants-from: Chile
+# Which of the following methods were used to engage participants?
+which-of-the-following-methods-were-used-to:
+- Survey
 # Additional notes
 additional-notes: The public consultation involved 209 respondents and was open online
   from 15 December 2020 to 27 January 2021. It invited individuals and organizations
@@ -29,12 +35,6 @@ additional-notes: The public consultation involved 209 respondents and was open 
   led to changes in the final policy, including stronger emphasis on talent development,
   data protection, inclusive AI, territorial deliberation, labor impacts, cybersecurity,
   gender equity and responsible public-sector adoption.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-# Which of the following methods were used to engage participants?
-which-of-the-following-methods-were-used-to:
-- Survey
 # Cases
 cases:
 - chilean-national-ai-policy-participatory-design-and-update

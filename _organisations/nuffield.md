@@ -7,12 +7,12 @@ slug: nuffield
 name: Nuffield
 # Website address
 website-address: https://www.nuffieldfoundation.org/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To improve social well-being by funding research, analysis, and
-  student opportunity in education, welfare, and justice. (Source: https://www.nuffieldfoundation.org/)'
 # Organisation type
 organisation-type:
 - Funder
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To improve social well-being by funding research, analysis, and
+  student opportunity in education, welfare, and justice. (Source: https://www.nuffieldfoundation.org/)'
 # Main Location
 main-location:
 - london-united-kingdom

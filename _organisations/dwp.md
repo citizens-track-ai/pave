@@ -7,12 +7,12 @@ slug: dwp
 name: DWP
 # Website address
 website-address: https://www.gov.uk/government/organisations/department-for-work-pensions
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To support people into work, secure their retirement, and provide
-  a safety net for those in need. (Source: https://www.gov.uk/government/organisations/department-for-work-pensions)'
 # Organisation type
 organisation-type:
 - Public sector
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To support people into work, secure their retirement, and provide
+  a safety net for those in need. (Source: https://www.gov.uk/government/organisations/department-for-work-pensions)'
 # Main Location
 main-location:
 - united-kingdom

@@ -17,6 +17,10 @@ headline-findings: '
 project-url: https://cdf.exeter.ac.uk/v8media/facultysites/hass/communicationsdramaandfilm/communications/Report_Favel_IA.pdf
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "The name Favel IA is a reference to the\
   \ favelas (slums or shantytowns) themselves as forms of intelligence and to intelig\xEA\
@@ -50,6 +54,12 @@ why-is-this-project-important-to-include-in-the: "Favel IA is one of the first p
   \ techno-solutionist and instrumentalist in nature. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: '
 
@@ -62,21 +72,11 @@ what-limitations-to-the-project-should-be-noted: '
 curation-decision: Mapping Entry
 # Project status
 project-status: In Progress
-# Level of engagement
-level-of-engagement: Community
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Artificial Intelligence
+# Level of engagement
+level-of-engagement: Community
 # Supporting resources
 supporting-resources:
 - favel-ia-conceptual-notes-for-policy-makers-and-regulators

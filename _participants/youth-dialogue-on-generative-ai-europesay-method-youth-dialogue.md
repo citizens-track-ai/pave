@@ -1,14 +1,17 @@
 ---
 layout: generic
-title: 'Youth dialogue on generative AI  - EuropeSay method - youth dialogue '
+title: Youth dialogue on generative AI - EuropeSay method - youth dialogue
 airtable_id: c22d692f4dae1aab
 slug: youth-dialogue-on-generative-ai-europesay-method-youth-dialogue
 # How many people took part?
 how-many-people-took-part: 361
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 2
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
-group-description: 'EuropeSay method - youth dialogue '
+group-description: EuropeSay method - youth dialogue
 # Recruitment method
 recruitment-method: Other
 # Recruitment description
@@ -20,9 +23,6 @@ was-there-a-specific-target-population: Youth aged 16-25 (few students were a bi
 # Where were participants from?
 where-were-participants-from: "8 from northern Jylland, 26 from central Jylland, 222\
   \ from southern, 78 from the capital area and 25 from Sj\xE6lland"
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Roundtable Discussion

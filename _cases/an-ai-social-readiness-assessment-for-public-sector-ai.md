@@ -9,10 +9,17 @@ description: Piloted a novel process for AI assurance - involving the public in 
   the social acceptability of the risks posed by specific AI tools.
 # Project Title
 project-title: An AI Social Readiness Assessment for Public Sector AI
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
+- Commissioned
 # Project URL
 project-url: https://www.nesta.org.uk/project/public-ai-assurance/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "**Between 2025 and 2026, Nesta commissioned\
   \ a process that used deliberative polling and workshops to involve approximately\
@@ -62,6 +69,10 @@ provide-a-brief-description-of-the-project: "**Between 2025 and 2026, Nesta comm
   \ to build trust between institutions and the public.\n"
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Specific AI system(s)
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'Piloted a novel process for AI
   assurance - involving the public in assessing the social acceptability of the risks
@@ -70,25 +81,11 @@ describe-the-subject-matter-in-your-own-words-one: 'Piloted a novel process for 
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Specific AI system(s)
 # Theme
 theme:
 - Public Services
-# Funding Organisations
-funding-organisations:
-- future-of-life-institute
+# Level of engagement
+level-of-engagement: National
 # Lead organisations
 lead-organisations:
 - nesta
@@ -96,6 +93,9 @@ lead-organisations:
 supporting-resources:
 - blog
 - abstract
+# Funding Organisations
+funding-organisations:
+- future-of-life-institute
 # Participants
 participants:
 - an-ai-social-readiness-assessment-for-public-sector-ai-workshop-and-survey-participants

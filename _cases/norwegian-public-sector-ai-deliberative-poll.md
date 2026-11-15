@@ -27,12 +27,19 @@ headline-findings: "\_A key finding was that after having acquired more knowledg
   \ human performance. If algorithms perform well enough compared to humans, then\
   \ we can replace more and more tasks with algorithms, indicating that the benchmark\
   \ for AI adoption should be current human-level performance\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Academic research
 # Participation locations
 participation-locations: Norway
 # Project URL
 project-url: https://link.springer.com/article/10.1007/s00146-024-02104-w
 # What year did the project start?
 what-year-did-the-project-start: 2022
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "We are on the verge of a revolution in\
   \ public sector decision-making processes, where computers will take over many of\
@@ -57,12 +64,19 @@ why-is-this-project-important-to-include-in-the: Academic case study evidencing 
   opinions changes seeing deliberation as an intervention.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2022
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Specific AI system(s)
+- AI in general
 # Additional acknowledgements
 additional-acknowledgements: 'Sveinung Arnesen, Troy Saghaug Broderstad, James S.
   Fishkin, Mikael Poul Johannesson & Alice Siu '
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Artificial intelligence in the
   public sector
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
 # Inclusion efforts
 inclusion-efforts: "We recruited participants into two parallel sessions where participants\
   \ were asked to discuss different topics: one related to capturing and storing CO2\
@@ -149,33 +163,19 @@ what-limitations-to-the-project-should-be-noted: "One of the limitations of the 
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Academic research
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Specific AI system(s)
-- AI in general
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
 # Theme
 theme:
 - Public Services
-# Funding Organisations
-funding-organisations:
-- norce-norwegian-research-centre
+# Level of engagement
+level-of-engagement: National
 # Involved organisations
 involved-organisations:
 - stanford-deliberative-democracy-lab
 - norce-norwegian-research-centre
 # Lead organisations
 lead-organisations:
+- norce-norwegian-research-centre
+# Funding Organisations
+funding-organisations:
 - norce-norwegian-research-centre
 ---

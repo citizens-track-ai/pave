@@ -8,6 +8,9 @@ slug: botender-supporting-communities-in-collaboratively-designing-ai-agents-thr
 how-many-people-took-part: 31
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 120
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Discord users
 # Recruitment method
@@ -21,9 +24,6 @@ was-there-a-specific-target-population: Users from the same Discord server were 
   server.
 # Where were participants from?
 where-were-participants-from: Discord servers
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Community-Based Participatory Research

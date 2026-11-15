@@ -17,4 +17,5 @@ main-location:
 lead-organisation-for:
 - kristian-ronn
 - science-ceilidh
+- bhutan-ai-society
 ---

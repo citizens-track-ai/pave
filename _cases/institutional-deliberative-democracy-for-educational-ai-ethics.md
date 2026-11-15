@@ -39,6 +39,11 @@ participation-locations: Sydney, Australia
 project-url: https://cic.uts.edu.au/wp-content/uploads/2022/02/UTS_EdTechEthics_DelibDemocracy_Jan2022.pdf
 # What year did the project start?
 what-year-did-the-project-start: 2021
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "A deliberative process was held the the\
   \ University of Technology, Sydney, with students, academics and tutors to answer\
@@ -58,10 +63,17 @@ why-is-this-project-important-to-include-in-the: Deliberative Democracy [...] wo
   Learning Analytics and Artificial Intelligence into teaching and learning.
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2021
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: UTS community was brought together
   to deliberate on the University's obligations and principles regarding AI in the
   education space.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
 # Inclusion efforts
 inclusion-efforts: "The initiative was advertised within UTS via a public website\
   \ email lists and social media channels targeting Academics, Tutors and Students.\
@@ -80,23 +92,11 @@ inclusion-efforts: "The initiative was advertised within UTS via a public websit
 curation-decision: Mapping Entry
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
 # Theme
 theme:
 - Education
+# Level of engagement
+level-of-engagement: Community
 # Lead organisations
 lead-organisations:
 - university-of-technology-sydney

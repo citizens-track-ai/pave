@@ -78,10 +78,19 @@ headline-findings: "**Students expressed detailed, nuanced and critical views on
   \ towards AI and its future use. Support students to learn about the pros and cons\
   \ of particular uses of AI, and to make informed individual and collective choices\
   \ about when and how they engage with it.\n\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://connectedbydata.org/ai-in-education/
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Policy: Inform a policy-making process'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Empowerment: Build community power with respect to AI'
+- 'Methods: Create re-usable participation tools & methods'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In September 2025 the UK Department for\
   \ Education commissioned a distributed dialogue to capture student views on Generative\
@@ -107,6 +116,9 @@ why-is-this-project-important-to-include-in-the: "The project demonstrated the p
   \ in-depth input from schools across the country over a short time window. "
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Photos and images
 photos-and-images:
 # Id
@@ -221,6 +233,12 @@ photos-and-images:
       height: null
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: The use of Generative AI in Education
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- An independent evaluation
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "School sign-ups were matched against the national database of\
   \ schools (EduBase) to monitor the location, type (primary, secondary, special education)\
@@ -260,6 +278,10 @@ what-limitations-to-the-project-should-be-noted: "The distributed dialogue appro
 curation-decision: Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Education
+- Youth
 # Level of engagement
 level-of-engagement: National
 # Method Image
@@ -288,40 +310,6 @@ method-image:
       height: null
 # Method image caption
 method-image-caption: Summary of participants and workshop resources
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Policy: Inform a policy-making process'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Empowerment: Build community power with respect to AI'
-- 'Methods: Create re-usable participation tools & methods'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- An independent evaluation
-- A method guide or toolkit
-# Theme
-theme:
-- Education
-- Youth
-# Funding Organisations
-funding-organisations:
-- uk-department-for-education
-# Lead organisations
-lead-organisations:
-- connected-by-data
-# Supporting resources
-supporting-resources:
-- generative-ai-in-education-have-your-say-report
-- generative-ai-in-education-student-video
-- workshop-in-a-box-evaluation-report
-- generative-ai-in-education-workshop-in-a-box-toolkit
 # Messages
 messages:
 - students-want-ai-tools-to-be-checked-for-safety-accuracy-and-fairness-before-they-are-used-in-the-cl
@@ -331,6 +319,18 @@ messages:
 - take-the-time-to-get-generative-ai-in-education-right-students-want-assurance-that-ai-is-accurate-an
 - embed-a-role-for-students-in-decision-making-on-ai-ai-for-education-should-be-co-designed-with-stude
 - build-student-agency-in-a-world-of-ai-young-people-hold-a-diversity-of-attitudes-towards-ai-and-its
+# Lead organisations
+lead-organisations:
+- connected-by-data
+# Supporting resources
+supporting-resources:
+- generative-ai-in-education-have-your-say-report
+- generative-ai-in-education-student-video
+- workshop-in-a-box-evaluation-report
+- generative-ai-in-education-workshop-in-a-box-toolkit
+# Funding Organisations
+funding-organisations:
+- uk-department-for-education
 # Participants
 participants:
 - generative-ai-in-education-have-your-say-school-students

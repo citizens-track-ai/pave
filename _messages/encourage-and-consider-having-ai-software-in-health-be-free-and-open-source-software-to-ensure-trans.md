@@ -1,12 +1,10 @@
 ---
 layout: generic
-title: Encourage and consider having AI software in health be free and open source
-  software to ensure transparency, public ownership, financial integrity, collaboration,
-  security, privacy and trust.
+title: Recommendation 4
 airtable_id: eb4beb7fe1cf4e00
 slug: encourage-and-consider-having-ai-software-in-health-be-free-and-open-source-software-to-ensure-trans
-# Name
-name: Encourage and consider having AI software in health be free and open source
+# Message
+message: Encourage and consider having AI software in health be free and open source
   software to ensure transparency, public ownership, financial integrity, collaboration,
   security, privacy and trust.
 # Type

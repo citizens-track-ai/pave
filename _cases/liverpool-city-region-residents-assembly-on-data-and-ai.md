@@ -25,10 +25,21 @@ headline-findings: "Residents expressed a strong hope that human dignity and int
   \ of life.\n\u2013 Assembly Participant, Table 2 Day 3\n\n\nMy fear is the downside\
   \ \u2013 AI will just be used really to make money rather than benefiting the people\
   \ or the majority.\n\u2013 Assembly Participant, Table 2, Day 3\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Co-created
+- Academic research
 # Project URL
 project-url: https://civicdatacooperative.com/residents-assembly/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'Policy: Inform a policy-making process'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "In March 2025, The Liverpool City Region\
   \ Combined Authority brought together 59 Liverpool City Region residents to debate\
@@ -68,6 +79,10 @@ why-is-this-project-important-to-include-in-the: 'Building on a rich history of 
   -Podcast development with residents on current AI uses in the region'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- AI in general
+- Current issues
 # Photos and images
 photos-and-images:
 # Id
@@ -188,6 +203,11 @@ additional-acknowledgements: Erin McCloskey, Gary Leeming, Iain Buchan, Chantell
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Data and AI developed/used in local
   contexts by civic actors.
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- An independent evaluation
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "We approached inclusion in three phases: building participation\
   \ before the Assembly, representation at the Assembly itself, and additional follow-up\
@@ -275,6 +295,9 @@ what-limitations-to-the-project-should-be-noted: "Our Assembly method draws on a
 curation-decision: Featured Full Case
 # Project status
 project-status: Complete
+# Theme
+theme:
+- Artificial Intelligence
 # Level of engagement
 level-of-engagement: Community
 # Method Image
@@ -325,32 +348,22 @@ method-image:
       height: null
 # Method image caption
 method-image-caption: 'Source: Project report'
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'Policy: Inform a policy-making process'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- AI in general
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- An independent evaluation
-- A method guide or toolkit
-# Theme
-theme:
-- Artificial Intelligence
-# Funding Organisations
-funding-organisations:
-- liverpool-city-region-combined-authority
+# Messages
+messages:
+- use-data-and-ai-for-the-good-and-benefit-of-the-community-and-the-liverpool-city-region-lcr-where-po
+- ensure-that-the-five-safes-safe-data-projects-people-settings-and-outputs-and-the-uk-general-data-pr
+- ensure-accountability-at-all-levels-including-a-declaration-of-responsibility-for-each-data-and-ai-p
+- inspire-trust-between-organisations-and-residents-by-being-honest-in-how-data-is-collected-used-and
+- promote-fairness-universal-access-and-equity-in-the-development-of-data-and-ai-innovation-ensure-div
+- protect-the-dignity-identities-and-privacy-of-lcr-residents
+- keep-up-to-date-on-legislation-and-policy-changes-on-data-and-ai-always-abide-by-and-adhere-to-the-r
+- communicate-on-outcomes-through-a-public-register-of-data-and-ai-projects-flag-projects-which-use-ai
+- ensure-that-actions-have-consequences-projects-and-people-must-recognise-that-innovation-with-data-a
+- use-data-and-ai-to-drive-innovation-in-the-lcr-but-counteract-negative-impacts-on-the-environment-an
+- an-independent-review-takes-place-at-minimum-every-two-years-on-partners-use-of-the-charter-changes
+- my-hope-is-that-if-used-with-the-best-interests-with-the-public-in-mind-the-use-of-data-and-ai-can-d
+- im-just-hopeful-that-we-can-be-a-voice-for-the-people-in-the-region-like-because-its-such-a-diverse
+- my-fear-is-the-downside-ai-will-just-be-used-really-to-make-money-rather-than-benefiting-the-people
 # Lead organisations
 lead-organisations:
 - liverpool-city-region-combined-authority
@@ -363,22 +376,9 @@ supporting-resources:
 - independent-evaluation-1
 - how-to-guide
 - facilitator-guides-and-workshop-resources
-# Messages
-messages:
-- principle-1-beneficial
-- principle-2-security
-- principle-3-accountability
-- principle-4-transparency
-- principle-5-inclusivity
-- principle-6-privacy
-- principle-7-legality
-- principle-8-trustworthy
-- principle-9-governance
-- principle-10-balanced-innovation
-- principle-11-oversight
-- assembly-participant-table-6-day-4
-- assembly-participant-table-2-day-3
-- assembly-participant-table-2-day-3-1
+# Funding Organisations
+funding-organisations:
+- liverpool-city-region-combined-authority
 # Participants
 participants:
 - liverpool-city-region-residents-assembly-on-data-and-ai-liverpool-city-region-residents

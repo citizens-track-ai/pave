@@ -1,0 +1,19 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+title: Output Type
+type: string
+oneOf:
+  - const: "Question"
+    title:
+      en: "Question"
+  - const: "Message"
+    title:
+      en: "Message"
+  - const: "Recommendation"
+    title:
+      en: "Recommendation"
+  - const: "Issue"
+    title:
+      en: "Issue"
+  - const: "Quote"
+    title:
+      en: "Quote"

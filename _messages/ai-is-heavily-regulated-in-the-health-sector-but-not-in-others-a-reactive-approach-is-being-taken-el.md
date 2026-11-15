@@ -1,12 +1,11 @@
 ---
 layout: generic
-title: "AI is heavily regulated in the health sector but not in others \u2014 a reactive\
-  \ approach is being taken elsewhere."
+title: Quote 6
 airtable_id: 9959aa8b1a7fa5de
 slug: ai-is-heavily-regulated-in-the-health-sector-but-not-in-others-a-reactive-approach-is-being-taken-el
-# Name
-name: "AI is heavily regulated in the health sector but not in others \u2014 a reactive\
-  \ approach is being taken elsewhere."
+# Message
+message: "AI is heavily regulated in the health sector but not in others \u2014 a\
+  \ reactive approach is being taken elsewhere."
 # Type
 type: Quote
 # Cases

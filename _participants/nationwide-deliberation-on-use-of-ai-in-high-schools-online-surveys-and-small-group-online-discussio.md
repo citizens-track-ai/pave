@@ -8,6 +8,9 @@ slug: nationwide-deliberation-on-use-of-ai-in-high-schools-online-surveys-and-sm
 how-many-people-took-part: 200
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
 # Group description
 group-description: Online surveys and small-group, online discussions
 # Recruitment method
@@ -20,9 +23,6 @@ was-there-a-specific-target-population: High school students (aged 14-18), High 
   teachers, High school administrators
 # Where were participants from?
 where-were-participants-from: 'The project was open to anyone in the United States. '
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - "Deliberative Polling\xAE"

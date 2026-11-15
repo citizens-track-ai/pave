@@ -7,12 +7,12 @@ slug: waltons-trust
 name: Walton's Trust
 # Website address
 website-address: https://www.waltonstrust.org.uk/
-# Mission statement (DATA CLEANING NEEDED)
-mission-statement: 'To fund initiatives that promote community development, social
-  inclusion, and educational opportunities. (Source: https://www.waltonstrust.org.uk/)'
 # Organisation type
 organisation-type:
 - Funder
+# Mission statement (DATA CLEANING NEEDED)
+mission-statement: 'To fund initiatives that promote community development, social
+  inclusion, and educational opportunities. (Source: https://www.waltonstrust.org.uk/)'
 # Main Location
 main-location:
 - united-kingdom

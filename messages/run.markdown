@@ -573,6 +573,19 @@ qrcode: true
     border-top-color: rgba(20, 32, 17, 0.95);
   }
 
+  /* Edge navigation zones start below the top header banner */
+  .slideshow-container .edge-nav-zone {
+    top: var(--banner-height);
+    height: calc(100vh - var(--banner-height));
+  }
+
+  @media (max-width: 1024px) {
+    .slideshow-container .edge-nav-zone {
+      top: auto;
+      height: auto;
+    }
+  }
+
   /* Responsive Styling */
   @media (max-width: 1200px) {
     .bottom-left-panel {
@@ -1077,13 +1090,13 @@ qrcode: true
                  {% if bg_url %}data-bg-image="{{ bg_url | relative_url }}"{% endif %}>
 
               <!-- Center: Quote / Recommendation Body -->
-              <div class="slide-quote-content">
+              <div class="slide-quote-content slide-type-{{ message.type | downcase }}">
                 <div class="quote-header">
                   <span class="quote-icon-open">“</span>
-                  <span class="quote-type">{{ message.type }}</span>
+                  <span class="quote-type">{{ message.title | default: message.type }}</span>
                 </div>
                 <div class="quote-body">
-                  {{ message.title }}
+                  {{ message.message }}
                 </div>
                 {% if message.additional-credit-line %}
                   <div class="quote-footer">

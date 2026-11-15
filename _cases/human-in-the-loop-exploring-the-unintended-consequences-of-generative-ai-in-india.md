@@ -56,10 +56,17 @@ headline-findings: "1. 'Human in the Loop' demonstrates that both experts (fores
   \ and convenience that Gen AI will make possible, and perhaps relinquishing the\
   \ hold it has on us to slow the toll that developing, deploying, and running AI\
   \ is taking on our planet.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
 # Project URL
 project-url: https://loop.digitalfutureslab.in/
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
+- 'AI Development: Shape the development of AI tools'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "'Human in the Loop' is a participatory\
   \ foresight and storytelling public engagement project examining the near-future\
@@ -177,6 +184,11 @@ why-is-this-project-important-to-include-in-the: '''Human in the Loop'' is an im
   wish to pursue.'
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2024
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Future issues
+- Current issues
 # Photos and images
 photos-and-images:
 # Id
@@ -295,21 +307,6 @@ curation-decision: Mapping Entry
 project-status: Complete
 # Level of engagement
 level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-# Project goals
-project-goals:
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-- 'AI Development: Shape the development of AI tools'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Future issues
-- Current issues
-# Funding Organisations
-funding-organisations:
-- rohini-nilekani-philanthropies
 # Involved organisations
 involved-organisations:
 - quicksand-design-studio
@@ -319,6 +316,9 @@ lead-organisations:
 # Supporting resources
 supporting-resources:
 - human-in-the-loop-digital-anthology
+# Funding Organisations
+funding-organisations:
+- rohini-nilekani-philanthropies
 # Participants
 participants:
 - human-in-the-loop-exploring-the-unintended-consequences-of-generative-ai-in-india-foresight-workshop

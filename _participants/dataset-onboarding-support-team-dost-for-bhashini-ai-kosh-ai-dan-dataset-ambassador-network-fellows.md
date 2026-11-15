@@ -9,6 +9,11 @@ slug: dataset-onboarding-support-team-dost-for-bhashini-ai-kosh-ai-dan-dataset-a
 how-many-people-took-part: 10
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 5
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Online
+- Offline
+- Hybrid
 # Group description
 group-description: AI-DAN (Dataset Ambassador Network) Fellows and ecosystem facilitators
   supporting stakeholder engagement, capacity building, and multilingual dataset onboarding.
@@ -26,15 +31,6 @@ was-there-a-specific-target-population: AI-DAN Fellows, CivicDataLab project sta
 # Where were participants from?
 where-were-participants-from: Assam; Odisha; Himachal Pradesh; Kerala; Tamil Nadu;
   Karnataka; Delhi; India
-# Additional notes
-additional-notes: Fellows served as intermediaries between contributors, public institutions,
-  technical teams, and the broader AI ecosystem, ensuring that participation remained
-  locally grounded while aligning datasets with national AI infrastructure.
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Online
-- Offline
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Capacity Building Workshop
@@ -44,6 +40,10 @@ which-of-the-following-methods-were-used-to:
 do-any-of-the-following-apply:
 - There was a learning phase for participants
 - Materials from the learning phase have been published
+# Additional notes
+additional-notes: Fellows served as intermediaries between contributors, public institutions,
+  technical teams, and the broader AI ecosystem, ensuring that participation remained
+  locally grounded while aligning datasets with national AI infrastructure.
 # Cases
 cases:
 - dataset-onboarding-support-team-dost-for-bhashini-ai-kosh

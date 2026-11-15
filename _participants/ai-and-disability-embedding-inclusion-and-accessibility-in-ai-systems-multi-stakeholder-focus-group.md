@@ -8,6 +8,9 @@ slug: ai-and-disability-embedding-inclusion-and-accessibility-in-ai-systems-mult
 how-many-people-took-part: 20
 # On average, how many hours did each participant engage for?
 on-average-how-many-hours-did-each-participant: 8
+# Where did engagement take place?
+where-did-engagement-take-place:
+- Hybrid
 # Group description
 group-description: Multi-stakeholder focus group discussion
 # Recruitment method
@@ -30,9 +33,6 @@ was-there-a-specific-target-population: Persons with disabilities across seven d
   disability advocates, students, educators, and business owners
 # Where were participants from?
 where-were-participants-from: Lagos, Nigeria
-# Where did engagement take place?
-where-did-engagement-take-place:
-- Hybrid
 # Which of the following methods were used to engage participants?
 which-of-the-following-methods-were-used-to:
 - Focus Group

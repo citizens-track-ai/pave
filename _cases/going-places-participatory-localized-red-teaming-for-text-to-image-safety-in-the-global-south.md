@@ -14,10 +14,19 @@ project-title: 'Going PLACES: Participatory Localized Red Teaming for Text-to-Im
 headline-findings: "Can be sourced from the data, but would need some work, contact\
   \ me and I will be happy to work with you to provide. Main findings are shared in\
   \ the paper (arxiv link shared in this submission form) \n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Commissioned
+- Other
 # Project URL
 project-url: https://arxiv.org/abs/2605.19190
 # What year did the project start?
 what-year-did-the-project-start: 2024
+# Project goals
+project-goals:
+- 'Methods: Create re-usable participation tools & methods'
+- 'Quantitative: Generate statistical evidence on public attitudes to AI'
+- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: "Between 2024 and 2025, Google initiated\
   \ a process that used community-based participatory research, community-led audits,\
@@ -79,6 +88,10 @@ why-is-this-project-important-to-include-in-the: "We present PLACES (openly avai
   \ novel normative harms in the Global South."
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2025
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
+- Current issues
 # Additional acknowledgements
 additional-acknowledgements: Mukul Bhutani, Minsuk Kahng, Shamsuddeen Hassan Muhammad,
   Evgeniia Razumovskaia, Priyanka Suresh, Ibrahim Said Ahmad, Charu Kalia, Yaaseen
@@ -87,6 +100,10 @@ additional-acknowledgements: Mukul Bhutani, Minsuk Kahng, Shamsuddeen Hassan Muh
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: 'Harms perpetrated by generative
   text-to-image models '
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A method guide or toolkit
 # Inclusion efforts
 inclusion-efforts: "\\*Workshops and onboarding\\* Drawing on participation workshop\
   \ design and based on discussions with challenge supervisors, we conducted virtual\
@@ -149,37 +166,20 @@ what-limitations-to-the-project-should-be-noted: 'We acknowledge several limitat
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: National
-# How was the project initiated?
-how-was-the-project-initiated:
-- Commissioned
-- Other
-# Project goals
-project-goals:
-- 'Methods: Create re-usable participation tools & methods'
-- 'Quantitative: Generate statistical evidence on public attitudes to AI'
-- 'Qualitative: Capture qualitative evidence on public attitudes to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-- Current issues
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A method guide or toolkit
 # Theme
 theme:
 - Safety
-# Funding Organisations
-funding-organisations:
-- google
+# Level of engagement
+level-of-engagement: National
+# Messages
+messages:
+- we-observe-unique-adversarial-patterns-enabled-by-local-cultural-and-linguistic-nuances-and-distinct
 # Lead organisations
 lead-organisations:
 - google
-# Messages
-messages:
-- authors-quote-from-academic-article
+# Funding Organisations
+funding-organisations:
+- google
 # Participants
 participants:
 - going-places-participatory-localized-red-teaming-for-text-to-image-safety-in-the-global-south-red-te

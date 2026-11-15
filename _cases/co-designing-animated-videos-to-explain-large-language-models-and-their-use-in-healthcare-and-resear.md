@@ -19,10 +19,19 @@ headline-findings: "The co-design process allowed us to prioritise diverse PPIE 
   \ my everyday life, my health and bring this forward to other projects\u201D. We\
   \ hope these animations will support PPIE contributors to have a say in how LLMs\
   \ are used in healthcare and research.\n"
+# How was the project initiated?
+how-was-the-project-initiated:
+- Co-created
+- Academic research
 # Project URL
 project-url: https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1758463/full
 # What year did the project start?
 what-year-did-the-project-start: 2025
+# Project goals
+project-goals:
+- 'Capacity: Build participant capacity to engage with AI'
+- 'AI Development: Shape the development of AI tools'
+- 'Empowerment: Build community power with respect to AI'
 # Provide a brief description of the project
 provide-a-brief-description-of-the-project: 'Between 2025 and 2026, Queen Mary University
   of London used co-creation workshops to involve approximately 10 people in collaborative
@@ -39,6 +48,9 @@ why-is-this-project-important-to-include-in-the: 'The PPIE contributor group wer
   from communities seldom heard in AI research. '
 # What year did the project conclude?
 what-year-did-the-project-conclude: 2026
+# What form of AI is the project about?
+what-form-of-ai-is-the-project-about:
+- Generative AI
 # Photos and images
 photos-and-images:
 # Id
@@ -106,6 +118,11 @@ photos-and-images:
 # Describe the subject matter in your own words (one line)
 describe-the-subject-matter-in-your-own-words-one: Co-designed animations to explain
   LLMs
+# Which of the following resources are available for this project?
+which-of-the-following-resources-are-available:
+- A project report
+- A project video
+- A research poster
 # Inclusion efforts
 inclusion-efforts: "**From the authors' academic article:**\n\n**Recruitment**\n\n\
   Six PPIE contributors from Tower Hamlets were invited to participate in this project.\
@@ -184,35 +201,16 @@ what-limitations-to-the-project-should-be-noted: '**From the authors'' academic 
 curation-decision: Full Case
 # Project status
 project-status: Complete
-# Level of engagement
-level-of-engagement: Community
-# How was the project initiated?
-how-was-the-project-initiated:
-- Co-created
-- Academic research
-# Project goals
-project-goals:
-- 'Capacity: Build participant capacity to engage with AI'
-- 'AI Development: Shape the development of AI tools'
-- 'Empowerment: Build community power with respect to AI'
-# What form of AI is the project about?
-what-form-of-ai-is-the-project-about:
-- Generative AI
-# Which of the following resources are available for this project?
-which-of-the-following-resources-are-available:
-- A project report
-- A project video
-- A research poster
 # Theme
 theme:
 - Healthcare
-# Funding Organisations
-funding-organisations:
-- wellcome-trust
-- kings-college-london
-- national-institute-of-health-and-care-research
-- queen-mary-university-of-london-1
-- maudsley-charity
+# Level of engagement
+level-of-engagement: Community
+# Messages
+messages:
+- i-dont-come-from-a-very-educated-background-i-was-nervous-at-first-but-with-the-support-of-everyone
+- the-journey-is-combined-we-are-all-part-of-the-process-we-all-develop-together-and-learn-from-each-o
+- working-as-a-group-was-also-seen-as-beneficial-by-the-ppie-contributors-who-also-said-that-they-woul
 # Involved organisations
 involved-organisations:
 - social-action-for-health
@@ -224,11 +222,13 @@ supporting-resources:
 - project-output-what-are-llms-video
 - project-output-how-are-large-language-models-llms-used-in-healthcare-and-research
 - co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear
-# Messages
-messages:
-- participant-reflection
-- participant-reflection-1
-- researcher-analysis
+# Funding Organisations
+funding-organisations:
+- wellcome-trust
+- kings-college-london
+- national-institute-of-health-and-care-research
+- queen-mary-university-of-london-1
+- maudsley-charity
 # Participants
 participants:
 - co-designing-animated-videos-to-explain-large-language-models-and-their-use-in-healthcare-and-resear
